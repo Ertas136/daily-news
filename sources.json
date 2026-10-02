@@ -1,0 +1,183 @@
+{
+  "sources": [
+    {
+      "name": "Schwäbische Zeitung",
+      "url": "https://www.schwaebische.de/rss",
+      "regions": ["local", "regional"],
+      "topics": ["politik", "wirtschaft", "sport", "gesellschaft"]
+    },
+    {
+      "name": "DASDING",
+      "url": "https://www.dasding.de/rss",
+      "regions": ["local", "regional"],
+      "topics": ["gesellschaft", "sport", "technologie"]
+    },
+
+    {
+      "name": "BILD",
+      "url": "https://www.bild.de/rssfeeds/rss3-20745882,d2c1e9d1.bild.xml",
+      "regions": ["germany"],
+      "topics": ["politik", "wirtschaft", "sport", "gesellschaft"]
+    },
+    {
+      "name": "FAZ",
+      "url": "https://www.faz.net/rss/aktuell/",
+      "regions": ["germany"],
+      "topics": ["politik", "wirtschaft", "gesellschaft", "wissenschaft"]
+    },
+    {
+      "name": "FOCUS",
+      "url": "https://rss.focus.de/fol/XML/rss_folnews.xml",
+      "regions": ["germany"],
+      "topics": ["politik", "wirtschaft", "gesellschaft", "wissenschaft"]
+    },
+    {
+      "name": "ZDF",
+      "url": "https://www.zdf.de/rss/zdf/nachrichten",
+      "regions": ["germany"],
+      "topics": ["politik", "wirtschaft", "gesellschaft", "wissenschaft"]
+    },
+    {
+      "name": "Tagesschau",
+      "url": "https://www.tagesschau.de/allemeldungen-100~rss2.xml",
+      "regions": ["germany"],
+      "topics": ["politik", "wirtschaft", "gesellschaft", "wissenschaft"]
+    },
+    {
+      "name": "Tagesschau Wirtschaft",
+      "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+      "regions": ["germany"],
+      "topics": ["wirtschaft", "technologie"]
+    },
+    {
+      "name": "Tagesschau Sport",
+      "url": "https://www.tagesschau.de/sport/index~rss2.xml",
+      "regions": ["germany"],
+      "topics": ["sport"]
+    },
+    {
+      "name": "Tagesschau Wissen",
+      "url": "https://www.tagesschau.de/wissen/index~rss2.xml",
+      "regions": ["germany", "international"],
+      "topics": ["wissenschaft", "technologie"]
+    },
+    {
+      "name": "Tagesschau Ausland",
+      "url": "https://www.tagesschau.de/ausland/index~rss2.xml",
+      "regions": ["international"],
+      "topics": ["politik", "wirtschaft", "gesellschaft"]
+    },
+
+    {
+      "name": "Ensonhaber",
+      "url": "https://www.ensonhaber.com/rss",
+      "regions": ["turkey"],
+      "topics": ["politik", "wirtschaft", "sport", "gesellschaft", "technologie"]
+    },
+    {
+      "name": "Ensonhaber Politik",
+      "url": "https://www.ensonhaber.com/rss/politika",
+      "regions": ["turkey"],
+      "topics": ["politik"]
+    },
+    {
+      "name": "Ensonhaber Wirtschaft",
+      "url": "https://www.ensonhaber.com/rss/ekonomi",
+      "regions": ["turkey"],
+      "topics": ["wirtschaft"]
+    },
+    {
+      "name": "Ensonhaber Sport",
+      "url": "https://www.ensonhaber.com/rss/spor",
+      "regions": ["turkey"],
+      "topics": ["sport"]
+    },
+    {
+      "name": "Ensonhaber Technologie",
+      "url": "https://www.ensonhaber.com/rss/teknoloji",
+      "regions": ["turkey"],
+      "topics": ["technologie"]
+    },
+
+    {
+      "name": "TRT Haber Türkei",
+      "url": "https://www.trthaber.com/turkiye_articles.rss",
+      "regions": ["turkey"],
+      "topics": ["politik", "gesellschaft"]
+    },
+    {
+      "name": "TRT Haber Welt",
+      "url": "https://www.trthaber.com/dunya_articles.rss",
+      "regions": ["international"],
+      "topics": ["politik", "gesellschaft"]
+    },
+    {
+      "name": "TRT Haber Wirtschaft",
+      "url": "https://www.trthaber.com/ekonomi_articles.rss",
+      "regions": ["turkey"],
+      "topics": ["wirtschaft"]
+    },
+    {
+      "name": "TRT Haber Sport",
+      "url": "https://www.trthaber.com/spor_articles.rss",
+      "regions": ["turkey"],
+      "topics": ["sport"]
+    },
+    {
+      "name": "TRT Haber Technologie",
+      "url": "https://www.trthaber.com/bilim_teknoloji_articles.rss",
+      "regions": ["turkey"],
+      "topics": ["technologie", "wissenschaft"]
+    },
+
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "regions": ["international"],
+      "topics": ["politik", "gesellschaft"]
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "regions": ["international"],
+      "topics": ["wirtschaft"]
+    },
+    {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "regions": ["international"],
+      "topics": ["technologie"]
+    },
+    {
+      "name": "BBC Sport",
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "regions": ["international"],
+      "topics": ["sport"]
+    },
+
+    {
+      "name": "Google News – Reuters",
+      "url": "https://news.google.com/rss/search?q=Reuters&hl=en-US&gl=US&ceid=US:en",
+      "regions": ["international"],
+      "topics": ["politik", "wirtschaft", "gesellschaft", "technologie"]
+    },
+    {
+      "name": "Google News – International Business",
+      "url": "https://news.google.com/rss/search?q=international+business&hl=en-US&gl=US&ceid=US:en",
+      "regions": ["international"],
+      "topics": ["wirtschaft"]
+    },
+    {
+      "name": "Google News – International Technology",
+      "url": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en",
+      "regions": ["international"],
+      "topics": ["technologie"]
+    },
+    {
+      "name": "Google News – International Sport",
+      "url": "https://news.google.com/rss/search?q=international+sport&hl=en-US&gl=US&ceid=US:en",
+      "regions": ["international"],
+      "topics": ["sport"]
+    }
+  ]
+}
