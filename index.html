@@ -2,8 +2,11 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+>
 
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -12,14 +15,15 @@
 <title>Daily News</title>
 
 <style>
+
 :root {
     --bg: #f4f5f7;
     --card: #ffffff;
     --text: #17181a;
-    --muted: #70757d;
-    --border: #e2e4e8;
-    --accent: #111827;
-    --active: #111827;
+    --muted: #73777f;
+    --border: #e1e4e8;
+    --dark: #111827;
+    --accent: #2563eb;
 }
 
 * {
@@ -28,206 +32,207 @@
 
 body {
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-                 Roboto, Helvetica, Arial, sans-serif;
     background: var(--bg);
     color: var(--text);
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif;
 }
 
 header {
-    background: var(--card);
-    border-bottom: 1px solid var(--border);
-    padding: 18px 16px 14px;
     position: sticky;
     top: 0;
-    z-index: 20;
+    z-index: 100;
+    background: rgba(255,255,255,.96);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 16px;
 }
 
-.header-top {
+.header-row {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
 }
 
 .logo {
     font-size: 25px;
     font-weight: 800;
-    letter-spacing: -0.5px;
+    letter-spacing: -.7px;
 }
 
-.date {
+.updated {
+    font-size: 11px;
     color: var(--muted);
-    font-size: 13px;
+    text-align: right;
 }
 
-.region-filter {
+.region-filter,
+.topic-filter {
     display: flex;
     gap: 8px;
     overflow-x: auto;
-    padding-top: 15px;
     scrollbar-width: none;
 }
 
-.region-filter::-webkit-scrollbar {
+.region-filter::-webkit-scrollbar,
+.topic-filter::-webkit-scrollbar {
     display: none;
 }
 
-.region-btn,
-.topic-btn {
+.region-filter {
+    margin-top: 14px;
+}
+
+.topic-filter {
+    margin-top: 10px;
+}
+
+.filter-btn {
+    flex: 0 0 auto;
     border: 1px solid var(--border);
-    background: #fff;
+    background: white;
     color: var(--text);
     border-radius: 20px;
     padding: 8px 13px;
-    white-space: nowrap;
-    font-size: 14px;
+    font-size: 13px;
     cursor: pointer;
 }
 
-.region-btn.active,
-.topic-btn.active {
-    background: var(--active);
-    color: #fff;
-    border-color: var(--active);
+.filter-btn.active {
+    background: var(--dark);
+    color: white;
+    border-color: var(--dark);
 }
 
 main {
-    max-width: 900px;
+    max-width: 950px;
     margin: 0 auto;
-    padding: 20px 14px 50px;
+    padding: 20px 14px 60px;
 }
 
-.section-title {
+.section-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin: 5px 2px 12px;
 }
 
-.section-title h2 {
+.section-header h2 {
     margin: 0;
     font-size: 21px;
 }
 
-.section-title span {
+.section-header span {
     color: var(--muted);
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .top-news {
     display: grid;
     gap: 12px;
-    margin-bottom: 28px;
+    margin-bottom: 30px;
 }
 
-.top-card {
+.news-grid {
+    display: grid;
+    gap: 11px;
+}
+
+.card {
     background: var(--card);
-    border-radius: 16px;
-    padding: 17px;
     border: 1px solid var(--border);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    border-radius: 16px;
+    padding: 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.035);
 }
 
-.top-card .badge {
-    display: inline-block;
-    font-size: 12px;
+.card.top {
+    border-left: 4px solid var(--dark);
+}
+
+.badge {
+    color: var(--muted);
+    font-size: 11px;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 7px;
 }
 
-.top-card h3 {
+.card h3 {
     margin: 0 0 8px;
-    font-size: 19px;
-    line-height: 1.25;
+    font-size: 17px;
+    line-height: 1.3;
 }
 
-.top-card p {
-    margin: 0 0 12px;
-    color: #4f545b;
+.card.top h3 {
+    font-size: 19px;
+}
+
+.card p {
+    margin: 0 0 13px;
+    color: #555b63;
     font-size: 14px;
     line-height: 1.45;
 }
 
 .meta {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     gap: 10px;
     color: var(--muted);
-    font-size: 12px;
-}
-
-.news-controls {
-    margin-bottom: 16px;
-}
-
-.topic-filter {
-    display: flex;
-    gap: 7px;
-    overflow-x: auto;
-    scrollbar-width: none;
-}
-
-.topic-filter::-webkit-scrollbar {
-    display: none;
-}
-
-.news-list {
-    display: grid;
-    gap: 10px;
-}
-
-.news-card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 15px;
-}
-
-.news-card h3 {
-    margin: 6px 0 7px;
-    font-size: 17px;
-    line-height: 1.3;
-}
-
-.news-card p {
-    margin: 0 0 11px;
-    color: #555b63;
-    font-size: 14px;
-    line-height: 1.45;
-}
-
-.news-card .badge {
     font-size: 11px;
-    font-weight: 700;
-    color: var(--muted);
 }
 
 .source {
-    font-weight: 600;
+    font-weight: 700;
 }
 
-.empty {
-    background: var(--card);
-    border: 1px dashed var(--border);
-    border-radius: 14px;
+.read-more {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.status {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 16px;
     padding: 25px;
     text-align: center;
     color: var(--muted);
 }
 
+.loading {
+    font-size: 14px;
+}
+
+.error {
+    color: #b42318;
+}
+
 footer {
     text-align: center;
-    color: var(--muted);
-    font-size: 12px;
     padding: 20px;
+    color: var(--muted);
+    font-size: 11px;
 }
 
 @media (min-width: 700px) {
+
     .top-news {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .news-list {
+    .news-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 
@@ -235,46 +240,90 @@ footer {
         padding-top: 28px;
     }
 }
+
 </style>
 </head>
 
+
 <body>
+
 
 <header>
 
-    <div class="header-top">
-        <div class="logo">Daily News</div>
-        <div class="date" id="currentDate"></div>
+    <div class="header-row">
+
+        <div class="logo">
+            Daily News
+        </div>
+
+        <div class="updated" id="updated">
+            Lade Nachrichten …
+        </div>
+
     </div>
+
 
     <div class="region-filter">
 
-        <button class="region-btn active" data-region="all">
+        <button class="filter-btn active" data-region="all">
             Alle
         </button>
 
-        <button class="region-btn" data-region="top">
+        <button class="filter-btn" data-region="top">
             ⭐ Top News
         </button>
 
-        <button class="region-btn" data-region="local">
+        <button class="filter-btn" data-region="local">
             📍 Ravensburg
         </button>
 
-        <button class="region-btn" data-region="regional">
+        <button class="filter-btn" data-region="regional">
             🏞️ Region
         </button>
 
-        <button class="region-btn" data-region="germany">
+        <button class="filter-btn" data-region="germany">
             🇩🇪 Deutschland
         </button>
 
-        <button class="region-btn" data-region="turkey">
+        <button class="filter-btn" data-region="turkey">
             🇹🇷 Türkei
         </button>
 
-        <button class="region-btn" data-region="international">
+        <button class="filter-btn" data-region="international">
             🌍 International
+        </button>
+
+    </div>
+
+
+    <div class="topic-filter">
+
+        <button class="filter-btn active" data-topic="all">
+            Alle Themen
+        </button>
+
+        <button class="filter-btn" data-topic="politik">
+            🏛️ Politik
+        </button>
+
+        <button class="filter-btn" data-topic="wirtschaft">
+            💶 Wirtschaft
+        </button>
+
+        <button class="filter-btn" data-topic="sport">
+            ⚽ Sport
+        </button>
+
+        <button class="filter-btn" data-topic="technologie">
+            💻 Technologie
+        </button>
+
+        <button class="filter-btn" data-topic="gesellschaft">
+            🌍 Gesellschaft
+        </button>
+
+        <button class="filter-btn" data-topic="wissenschaft">
+            🔬 Wissenschaft
         </button>
 
     </div>
@@ -284,346 +333,596 @@ footer {
 
 <main>
 
+
     <section id="topSection">
 
-        <div class="section-title">
+        <div class="section-header">
+
             <h2>⭐ Top News</h2>
-            <span>Aktuell</span>
+
+            <span id="topCount"></span>
+
         </div>
 
-        <div class="top-news" id="topNews"></div>
+        <div class="top-news" id="topNews">
+
+            <div class="status loading">
+                Lade aktuelle Nachrichten …
+            </div>
+
+        </div>
 
     </section>
 
 
     <section>
 
-        <div class="section-title">
+        <div class="section-header">
+
             <h2>Nachrichten</h2>
+
             <span id="resultCount"></span>
+
         </div>
 
-        <div class="news-controls">
 
-            <div class="topic-filter">
+        <div class="news-grid" id="newsList">
 
-                <button class="topic-btn active" data-topic="all">
-                    Alle
-                </button>
-
-                <button class="topic-btn" data-topic="politik">
-                    🏛️ Politik
-                </button>
-
-                <button class="topic-btn" data-topic="wirtschaft">
-                    💶 Wirtschaft
-                </button>
-
-                <button class="topic-btn" data-topic="sport">
-                    ⚽ Sport
-                </button>
-
-                <button class="topic-btn" data-topic="technologie">
-                    💻 Technologie
-                </button>
-
-                <button class="topic-btn" data-topic="gesellschaft">
-                    🌍 Gesellschaft
-                </button>
-
-                <button class="topic-btn" data-topic="wissenschaft">
-                    🔬 Wissenschaft
-                </button>
-
+            <div class="status loading">
+                Lade aktuelle Nachrichten …
             </div>
 
         </div>
 
-        <div class="news-list" id="newsList"></div>
-
     </section>
+
 
 </main>
 
 
 <footer>
-    Daily News · persönliche Nachrichtenübersicht
+    Daily News · automatisch aktualisiert
 </footer>
 
 
 <script>
 
-const news = [
-
-    {
-        region: "local",
-        topic: "gesellschaft",
-        title: "Neue Entwicklungen in Ravensburg",
-        summary: "Hier erscheint später automatisch eine aktuelle lokale Nachricht aus Ravensburg und dem Landkreis.",
-        source: "Lokale Quelle",
-        time: "vor 25 Min."
-    },
-
-    {
-        region: "regional",
-        topic: "wirtschaft",
-        title: "Wirtschaft in Oberschwaben im Fokus",
-        summary: "Aktuelle Entwicklungen aus Bodensee-Oberschwaben werden hier zusammengefasst.",
-        source: "Regionale Quelle",
-        time: "vor 40 Min."
-    },
-
-    {
-        region: "germany",
-        topic: "politik",
-        title: "Aktuelle politische Entwicklungen in Deutschland",
-        summary: "Hier werden später aktuelle Nachrichten aus Deutschland angezeigt.",
-        source: "Deutsche Quelle",
-        time: "vor 1 Std."
-    },
-
-    {
-        region: "germany",
-        topic: "wirtschaft",
-        title: "Neue Entwicklungen in der deutschen Wirtschaft",
-        summary: "Wichtige Wirtschaftsnews aus Deutschland erscheinen hier mit einer kurzen Zusammenfassung.",
-        source: "Wirtschaftsquelle",
-        time: "vor 1 Std."
-    },
-
-    {
-        region: "turkey",
-        topic: "politik",
-        title: "Aktuelle Entwicklungen in der Türkei",
-        summary: "Hier erscheinen später aktuelle Nachrichten aus der Türkei.",
-        source: "Türkische Quelle",
-        time: "vor 2 Std."
-    },
-
-    {
-        region: "international",
-        topic: "technologie",
-        title: "Neue Entwicklungen in der Technologie",
-        summary: "Internationale Technologie-News werden hier automatisch zusammengefasst.",
-        source: "Tech Quelle",
-        time: "vor 2 Std."
-    },
-
-    {
-        region: "international",
-        topic: "wissenschaft",
-        title: "Neue internationale Forschungsergebnisse",
-        summary: "Wissenschaftliche Entwicklungen aus aller Welt erscheinen in diesem Bereich.",
-        source: "Wissenschaftsquelle",
-        time: "vor 3 Std."
-    },
-
-    {
-        region: "germany",
-        topic: "sport",
-        title: "Aktuelle Sportnachrichten",
-        summary: "Hier werden später aktuelle Sportmeldungen aus Deutschland angezeigt.",
-        source: "Sportquelle",
-        time: "vor 3 Std."
-    }
-
-];
-
-
-const topNews = [
-
-    news[2],
-    news[3],
-    news[5],
-    news[4]
-
-];
-
+let allNews = [];
 
 let selectedRegion = "all";
 let selectedTopic = "all";
 
 
-function renderTopNews() {
+const regionNames = {
 
-    const container = document.getElementById("topNews");
+    local: "📍 Ravensburg",
+    regional: "🏞️ Region",
+    germany: "🇩🇪 Deutschland",
+    turkey: "🇹🇷 Türkei",
+    international: "🌍 International"
 
-    container.innerHTML = topNews.map(item => `
+};
 
-        <article class="top-card">
 
-            <div class="badge">
-                ${regionName(item.region)} · ${topicName(item.topic)}
-            </div>
+const topicNames = {
 
-            <h3>${item.title}</h3>
+    politik: "🏛️ Politik",
+    wirtschaft: "💶 Wirtschaft",
+    sport: "⚽ Sport",
+    technologie: "💻 Technologie",
+    gesellschaft: "🌍 Gesellschaft",
+    wissenschaft: "🔬 Wissenschaft"
 
-            <p>${item.summary}</p>
+};
 
-            <div class="meta">
-                <span class="source">${item.source}</span>
-                <span>${item.time}</span>
-            </div>
 
-        </article>
+function cleanText(text) {
 
-    `).join("");
+    if (!text) {
+        return "";
+    }
+
+    const div = document.createElement("div");
+
+    div.innerHTML = text;
+
+    return div.textContent || div.innerText || "";
 
 }
 
 
-function renderNews() {
+function shorten(text, maxLength = 240) {
 
-    const container = document.getElementById("newsList");
+    text = cleanText(text);
 
-    let filtered = news.filter(item => {
+    if (text.length <= maxLength) {
+        return text;
+    }
 
-        const regionMatch =
-            selectedRegion === "all" ||
-            item.region === selectedRegion;
+    return text.substring(0, maxLength).trim() + "…";
 
-        const topicMatch =
-            selectedTopic === "all" ||
-            item.topic === selectedTopic;
-
-        return regionMatch && topicMatch;
-
-    });
+}
 
 
-    document.getElementById("resultCount").textContent =
-        filtered.length + " Meldungen";
+function formatTime(dateString) {
+
+    if (!dateString) {
+        return "";
+    }
+
+    const date = new Date(dateString);
+
+    if (isNaN(date.getTime())) {
+        return dateString;
+    }
+
+    const now = new Date();
+
+    const diffMinutes =
+        Math.floor((now - date) / 60000);
 
 
-    if (filtered.length === 0) {
+    if (diffMinutes < 1) {
+        return "gerade eben";
+    }
+
+    if (diffMinutes < 60) {
+        return `vor ${diffMinutes} Min.`;
+    }
+
+
+    const diffHours =
+        Math.floor(diffMinutes / 60);
+
+
+    if (diffHours < 24) {
+        return `vor ${diffHours} Std.`;
+    }
+
+
+    const diffDays =
+        Math.floor(diffHours / 24);
+
+
+    if (diffDays === 1) {
+        return "gestern";
+    }
+
+    if (diffDays < 7) {
+        return `vor ${diffDays} Tagen`;
+    }
+
+
+    return date.toLocaleDateString(
+        "de-DE",
+        {
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric"
+        }
+    );
+
+}
+
+
+function getSourceName(article) {
+
+    if (article.sourceName) {
+        return article.sourceName;
+    }
+
+    if (article.source) {
+
+        try {
+
+            const url =
+                new URL(article.source);
+
+            return url.hostname
+                .replace("www.", "");
+
+        } catch {
+
+            return article.source;
+
+        }
+
+    }
+
+    return "Quelle";
+
+}
+
+
+function regionLabel(region) {
+
+    return regionNames[region] || region || "";
+
+}
+
+
+function topicLabel(topic) {
+
+    if (topicNames[topic]) {
+        return topicNames[topic];
+    }
+
+    return "Nachricht";
+
+}
+
+
+function createCard(article, top = false) {
+
+    const title =
+        cleanText(article.title) ||
+        "Ohne Titel";
+
+
+    const summary =
+        shorten(article.summary);
+
+
+    const source =
+        getSourceName(article);
+
+
+    const time =
+        formatTime(article.time);
+
+
+    const region =
+        regionLabel(article.region);
+
+
+    const topic =
+        topicLabel(article.topic);
+
+
+    const link =
+        article.link || "#";
+
+
+    return `
+
+        <article class="card ${top ? "top" : ""}">
+
+            <div class="badge">
+                ${region} · ${topic}
+            </div>
+
+            <h3>
+                ${title}
+            </h3>
+
+            ${
+                summary
+                ? `<p>${summary}</p>`
+                : ""
+            }
+
+            <div class="meta">
+
+                <span class="source">
+                    ${source}
+                </span>
+
+                <span>
+                    ${time}
+                </span>
+
+            </div>
+
+            ${
+                link !== "#"
+                ? `
+                    <a
+                        class="read-more"
+                        href="${link}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Artikel lesen →
+                    </a>
+                `
+                : ""
+            }
+
+        </article>
+
+    `;
+
+}
+
+
+function renderTopNews() {
+
+    const container =
+        document.getElementById("topNews");
+
+
+    /*
+      Zunächst verwenden wir die neuesten Meldungen
+      als Top News.
+
+      Später können wir hier eine echte
+      Relevanzbewertung einbauen.
+    */
+
+    const top =
+        [...allNews]
+            .sort(
+                (a,b) =>
+                    new Date(b.time) -
+                    new Date(a.time)
+            )
+            .slice(0, 8);
+
+
+    document.getElementById("topCount")
+        .textContent =
+        `${top.length} Meldungen`;
+
+
+    if (!top.length) {
 
         container.innerHTML = `
-            <div class="empty">
-                Keine Nachrichten für diese Auswahl.
+
+            <div class="status">
+                Keine Top News verfügbar.
             </div>
+
         `;
 
         return;
     }
 
 
-    container.innerHTML = filtered.map(item => `
+    container.innerHTML =
+        top.map(article =>
+            createCard(article, true)
+        ).join("");
 
-        <article class="news-card">
+}
 
-            <div class="badge">
-                ${regionName(item.region)} · ${topicName(item.topic)}
+
+function renderNews() {
+
+    const container =
+        document.getElementById("newsList");
+
+
+    let filtered =
+        [...allNews];
+
+
+    if (selectedRegion !== "all") {
+
+        filtered =
+            filtered.filter(
+                article =>
+                    article.region === selectedRegion
+            );
+
+    }
+
+
+    if (selectedTopic !== "all") {
+
+        filtered =
+            filtered.filter(
+                article =>
+                    article.topic === selectedTopic
+            );
+
+    }
+
+
+    filtered.sort(
+        (a,b) =>
+            new Date(b.time) -
+            new Date(a.time)
+    );
+
+
+    document.getElementById("resultCount")
+        .textContent =
+        `${filtered.length} Meldungen`;
+
+
+    if (!filtered.length) {
+
+        container.innerHTML = `
+
+            <div class="status">
+                Keine Nachrichten für diese Auswahl.
             </div>
 
-            <h3>${item.title}</h3>
+        `;
 
-            <p>${item.summary}</p>
-
-            <div class="meta">
-                <span class="source">${item.source}</span>
-                <span>${item.time}</span>
-            </div>
-
-        </article>
-
-    `).join("");
-
-}
+        return;
+    }
 
 
-function regionName(region) {
-
-    const names = {
-
-        local: "📍 Ravensburg",
-        regional: "🏞️ Region",
-        germany: "🇩🇪 Deutschland",
-        turkey: "🇹🇷 Türkei",
-        international: "🌍 International"
-
-    };
-
-    return names[region] || "";
+    container.innerHTML =
+        filtered
+            .map(article =>
+                createCard(article)
+            )
+            .join("");
 
 }
 
 
-function topicName(topic) {
+async function loadNews() {
 
-    const names = {
+    try {
 
-        politik: "🏛️ Politik",
-        wirtschaft: "💶 Wirtschaft",
-        sport: "⚽ Sport",
-        technologie: "💻 Technologie",
-        gesellschaft: "🌍 Gesellschaft",
-        wissenschaft: "🔬 Wissenschaft"
-
-    };
-
-    return names[topic] || "";
-
-}
+        const response =
+            await fetch(
+                "news.json?cache=" +
+                Date.now()
+            );
 
 
-document.querySelectorAll(".region-btn").forEach(button => {
+        if (!response.ok) {
 
-    button.addEventListener("click", () => {
+            throw new Error(
+                "news.json konnte nicht geladen werden."
+            );
 
-        document
-            .querySelectorAll(".region-btn")
-            .forEach(btn => btn.classList.remove("active"));
-
-        button.classList.add("active");
-
-        selectedRegion = button.dataset.region;
-
-        if (selectedRegion === "top") {
-
-            document.getElementById("topSection").scrollIntoView({
-                behavior: "smooth"
-            });
-
-            return;
         }
 
+
+        const data =
+            await response.json();
+
+
+        allNews =
+            Array.isArray(data.articles)
+            ? data.articles
+            : [];
+
+
+        document.getElementById("updated")
+            .textContent =
+            data.updated
+            ? "Update: " +
+              formatTime(data.updated)
+            : "Aktuell";
+
+
+        renderTopNews();
+
         renderNews();
 
+
+    } catch (error) {
+
+        console.error(error);
+
+
+        document.getElementById("topNews")
+            .innerHTML = `
+
+                <div class="status error">
+
+                    Nachrichten konnten nicht
+                    geladen werden.
+
+                </div>
+
+            `;
+
+
+        document.getElementById("newsList")
+            .innerHTML = `
+
+                <div class="status error">
+
+                    Bitte später erneut versuchen.
+
+                </div>
+
+            `;
+
+    }
+
+}
+
+
+document
+    .querySelectorAll(
+        ".region-filter .filter-btn"
+    )
+    .forEach(button => {
+
+        button.addEventListener(
+            "click",
+            () => {
+
+                document
+                    .querySelectorAll(
+                        ".region-filter .filter-btn"
+                    )
+                    .forEach(
+                        btn =>
+                            btn.classList
+                               .remove("active")
+                    );
+
+
+                button.classList
+                    .add("active");
+
+
+                selectedRegion =
+                    button.dataset.region;
+
+
+                if (
+                    selectedRegion === "top"
+                ) {
+
+                    document
+                        .getElementById(
+                            "topSection"
+                        )
+                        .scrollIntoView({
+                            behavior: "smooth"
+                        });
+
+                    return;
+
+                }
+
+
+                renderNews();
+
+            }
+        );
+
     });
 
-});
+
+document
+    .querySelectorAll(
+        ".topic-filter .filter-btn"
+    )
+    .forEach(button => {
+
+        button.addEventListener(
+            "click",
+            () => {
+
+                document
+                    .querySelectorAll(
+                        ".topic-filter .filter-btn"
+                    )
+                    .forEach(
+                        btn =>
+                            btn.classList
+                               .remove("active")
+                    );
 
 
-document.querySelectorAll(".topic-btn").forEach(button => {
+                button.classList
+                    .add("active");
 
-    button.addEventListener("click", () => {
 
-        document
-            .querySelectorAll(".topic-btn")
-            .forEach(btn => btn.classList.remove("active"));
+                selectedTopic =
+                    button.dataset.topic;
 
-        button.classList.add("active");
 
-        selectedTopic = button.dataset.topic;
+                renderNews();
 
-        renderNews();
+            }
+        );
 
     });
 
-});
 
-
-document.getElementById("currentDate").textContent =
-    new Date().toLocaleDateString("de-DE", {
-        weekday: "short",
-        day: "2-digit",
-        month: "2-digit",
-        year: "numeric"
-    });
-
-
-renderTopNews();
-renderNews();
+loadNews();
 
 </script>
 
