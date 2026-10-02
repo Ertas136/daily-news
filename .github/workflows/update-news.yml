@@ -3,172 +3,706 @@ name: Update News
 on:
   schedule:
     - cron: "*/30 * * * *"
+
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
+
   update-news:
-    runs-on: ubuntu-latest
+
+    runs-on: ubuntu-24.04
 
     steps:
 
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch news
+
+      - name: Fetch and process news
+
         run: |
+
           python3 <<'PY'
-          import urllib.request
-          import xml.etree.ElementTree as ET
+
           import json
+          import urllib.request
+          import urllib.parse
+          import xml.etree.ElementTree as ET
           import html
+          import re
+          import hashlib
+
           from datetime import datetime, timezone
+          from difflib import SequenceMatcher
 
-          feeds = [
 
-              # 🇩🇪 Deutschland
-              {
-                  "url": "https://www.tagesschau.de/allemeldungen-100~rss2.xml",
-                  "region": "germany"
-              },
+          # --------------------------------------------------
+          # CONFIG
+          # --------------------------------------------------
 
-              {
-                  "url": "https://www.tagesschau.de/inland/index~rss2.xml",
-                  "region": "germany"
-              },
+          with open("sources.json", "r", encoding="utf-8") as f:
+              config = json.load(f)
 
-              # 💶 Wirtschaft
-              {
-                  "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
-                  "region": "germany"
-              },
+          sources = config["sources"]
 
-              # 🔬 Wissenschaft / Technologie
-              {
-                  "url": "https://www.tagesschau.de/wissen/index~rss2.xml",
-                  "region": "international"
-              },
 
-              # 🌍 International
-              {
-                  "url": "https://www.tagesschau.de/ausland/index~rss2.xml",
-                  "region": "international"
-              },
+          # --------------------------------------------------
+          # CATEGORY KEYWORDS
+          # --------------------------------------------------
 
-              # 🇹🇷 Türkei
-              {
-                  "url": "https://www.trthaber.com/turkiye_articles.rss",
-                  "region": "turkey"
-              },
+          categories = {
 
-              {
-                  "url": "https://www.trthaber.com/dunya_articles.rss",
-                  "region": "international"
-              },
+              "politik": [
+                  "politik",
+                  "regierung",
+                  "bundestag",
+                  "bundesrat",
+                  "minister",
+                  "kanzler",
+                  "wahl",
+                  "partei",
+                  "gesetz",
+                  "koalition",
+                  "präsident",
+                  "parlament",
+                  "election",
+                  "government",
+                  "president",
+                  "prime minister"
+              ],
 
-              {
-                  "url": "https://www.trthaber.com/ekonomi_articles.rss",
-                  "region": "turkey"
-              },
+              "wirtschaft": [
+                  "wirtschaft",
+                  "unternehmen",
+                  "konzern",
+                  "aktie",
+                  "börse",
+                  "inflation",
+                  "zinsen",
+                  "ezb",
+                  "bank",
+                  "arbeitsmarkt",
+                  "jobs",
+                  "gehalt",
+                  "industrie",
+                  "wirtschaftswachstum",
+                  "business",
+                  "economy",
+                  "company",
+                  "market",
+                  "stocks",
+                  "inflation"
+              ],
 
-              {
-                  "url": "https://www.trthaber.com/spor_articles.rss",
-                  "region": "turkey"
-              },
+              "sport": [
+                  "sport",
+                  "fußball",
+                  "fussball",
+                  "bundesliga",
+                  "champions league",
+                  "tennis",
+                  "basketball",
+                  "handball",
+                  "olympia",
+                  "formel 1",
+                  "formula 1",
+                  "football",
+                  "soccer",
+                  "nba",
+                  "nfl"
+              ],
 
-              {
-                  "url": "https://www.trthaber.com/bilim_teknoloji_articles.rss",
-                  "region": "turkey"
+              "technologie": [
+                  "technologie",
+                  "technik",
+                  "ki ",
+                  "künstliche intelligenz",
+                  "ai ",
+                  "artificial intelligence",
+                  "smartphone",
+                  "iphone",
+                  "android",
+                  "computer",
+                  "software",
+                  "chip",
+                  "digital",
+                  "internet",
+                  "google",
+                  "microsoft",
+                  "apple",
+                  "openai",
+                  "technology",
+                  "tech"
+              ],
+
+              "wissenschaft": [
+                  "wissenschaft",
+                  "forschung",
+                  "forscher",
+                  "studie",
+                  "medizin",
+                  "astronomie",
+                  "weltraum",
+                  "klima",
+                  "physik",
+                  "biologie",
+                  "labor",
+                  "science",
+                  "research",
+                  "study",
+                  "space"
+              ],
+
+              "gesellschaft": [
+                  "gesellschaft",
+                  "schule",
+                  "bildung",
+                  "familie",
+                  "gesundheit",
+                  "verkehr",
+                  "wohnen",
+                  "kirche",
+                  "kultur",
+                  "menschen",
+                  "demografie",
+                  "society",
+                  "education",
+                  "health"
+              ]
+          }
+
+
+          # --------------------------------------------------
+          # CLEAN TEXT
+          # --------------------------------------------------
+
+          def clean_text(value):
+
+              if not value:
+                  return ""
+
+              value = html.unescape(value)
+
+              value = re.sub(
+                  r"<[^>]+>",
+                  " ",
+                  value
+              )
+
+              value = re.sub(
+                  r"\s+",
+                  " ",
+                  value
+              )
+
+              return value.strip()
+
+
+          # --------------------------------------------------
+          # SHORT SUMMARY
+          # --------------------------------------------------
+
+          def make_summary(text):
+
+              text = clean_text(text)
+
+              if not text:
+                  return ""
+
+              sentences = re.split(
+                  r"(?<=[.!?])\s+",
+                  text
+              )
+
+              sentences = [
+                  s.strip()
+                  for s in sentences
+                  if s.strip()
+              ]
+
+              summary = " ".join(
+                  sentences[:2]
+              )
+
+              words = summary.split()
+
+              if len(words) > 55:
+
+                  summary = " ".join(
+                      words[:55]
+                  )
+
+                  summary += "…"
+
+              return summary
+
+
+          # --------------------------------------------------
+          # CLASSIFY
+          # --------------------------------------------------
+
+          def classify(title, description, source_topics):
+
+              text = (
+                  title + " " + description
+              ).lower()
+
+              scores = {}
+
+              for category, words in categories.items():
+
+                  scores[category] = sum(
+                      1
+                      for word in words
+                      if word in text
+                  )
+
+              best = max(
+                  scores,
+                  key=scores.get
+              )
+
+              if scores[best] == 0:
+
+                  if source_topics:
+                      return source_topics[0]
+
+                  return "gesellschaft"
+
+              return best
+
+
+          # --------------------------------------------------
+          # NORMALIZE TITLE
+          # --------------------------------------------------
+
+          def normalize_title(title):
+
+              text = title.lower()
+
+              text = re.sub(
+                  r"[^a-z0-9äöüß ]",
+                  " ",
+                  text
+              )
+
+              text = re.sub(
+                  r"\s+",
+                  " ",
+                  text
+              )
+
+              stopwords = {
+                  "der",
+                  "die",
+                  "das",
+                  "den",
+                  "dem",
+                  "des",
+                  "ein",
+                  "eine",
+                  "einer",
+                  "und",
+                  "oder",
+                  "the",
+                  "a",
+                  "an",
+                  "and",
+                  "of",
+                  "to",
+                  "in"
               }
 
-          ]
+              words = [
+                  word
+                  for word in text.split()
+                  if word not in stopwords
+                  and len(word) > 2
+              ]
+
+              return " ".join(words)
+
+
+          # --------------------------------------------------
+          # SIMILARITY
+          # --------------------------------------------------
+
+          def similar_titles(a, b):
+
+              a = normalize_title(a)
+              b = normalize_title(b)
+
+              if not a or not b:
+                  return False
+
+              ratio = SequenceMatcher(
+                  None,
+                  a,
+                  b
+              ).ratio()
+
+              a_words = set(a.split())
+              b_words = set(b.split())
+
+              if not a_words or not b_words:
+                  return False
+
+              overlap = len(
+                  a_words & b_words
+              ) / max(
+                  len(a_words | b_words),
+                  1
+              )
+
+              return (
+                  ratio >= 0.62
+                  or overlap >= 0.45
+              )
+
+
+          # --------------------------------------------------
+          # FETCH RSS
+          # --------------------------------------------------
 
           articles = []
 
-          for feed in feeds:
+
+          for source in sources:
+
+              url = source["url"]
+
+              print(
+                  "Fetching:",
+                  source["name"]
+              )
 
               try:
 
                   request = urllib.request.Request(
-                      feed["url"],
+                      url,
                       headers={
-                          "User-Agent": "Mozilla/5.0"
+                          "User-Agent":
+                          "Mozilla/5.0 DailyNews"
                       }
                   )
 
-                  with urllib.request.urlopen(request, timeout=20) as response:
+                  with urllib.request.urlopen(
+                      request,
+                      timeout=20
+                  ) as response:
+
                       data = response.read()
+
 
                   root = ET.fromstring(data)
 
-                  for item in root.findall(".//item")[:20]:
 
-                      title = item.findtext("title", "").strip()
-                      link = item.findtext("link", "").strip()
-                      description = item.findtext("description", "").strip()
-                      pub_date = item.findtext("pubDate", "").strip()
+                  items = root.findall(
+                      ".//item"
+                  )
 
-                      title = html.unescape(title)
-                      description = html.unescape(description)
 
-                      articles.append({
-                          "title": title,
-                          "summary": description,
-                          "link": link,
-                          "source": feed["url"],
-                          "region": feed["region"],
-                          "topic": "all",
-                          "time": pub_date
-                      })
+                  if not items:
+
+                      items = root.findall(
+                          ".//{*}item"
+                      )
+
+
+                  for item in items[:30]:
+
+                      title = item.findtext(
+                          "title",
+                          ""
+                      )
+
+                      link = item.findtext(
+                          "link",
+                          ""
+                      )
+
+                      description = item.findtext(
+                          "description",
+                          ""
+                      )
+
+                      pub_date = item.findtext(
+                          "pubDate",
+                          ""
+                      )
+
+                      title = clean_text(
+                          title
+                      )
+
+                      description = clean_text(
+                          description
+                      )
+
+                      link = link.strip()
+
+                      if not title or not link:
+                          continue
+
+
+                      topic = classify(
+                          title,
+                          description,
+                          source.get(
+                              "topics",
+                              []
+                          )
+                      )
+
+
+                      regions = source.get(
+                          "regions",
+                          []
+                      )
+
+
+                      for region in regions:
+
+                          articles.append({
+
+                              "id": hashlib.sha1(
+                                  link.encode(
+                                      "utf-8"
+                                  )
+                              ).hexdigest()[:12],
+
+                              "title": title,
+
+                              "summary": make_summary(
+                                  description
+                              ),
+
+                              "link": link,
+
+                              "sourceName":
+                                  source["name"],
+
+                              "region":
+                                  region,
+
+                              "topic":
+                                  topic,
+
+                              "time":
+                                  pub_date
+
+                          })
+
 
               except Exception as error:
 
-                  print("Feed error:", feed["url"])
+                  print(
+                      "ERROR:",
+                      source["name"]
+                  )
+
                   print(error)
 
 
-          # Duplikate entfernen
+          # --------------------------------------------------
+          # REMOVE DUPLICATES BY LINK
+          # --------------------------------------------------
+
           unique = {}
 
           for article in articles:
 
-              key = article["link"]
+              if article["link"] not in unique:
 
-              if key and key not in unique:
-                  unique[key] = article
+                  unique[
+                      article["link"]
+                  ] = article
 
 
-          articles = list(unique.values())
+          articles = list(
+              unique.values()
+          )
 
-          result = {
-              "updated": datetime.now(timezone.utc).isoformat(),
-              "articles": articles[:200]
+
+          # --------------------------------------------------
+          # GROUP SIMILAR NEWS
+          # --------------------------------------------------
+
+          groups = []
+
+          for article in articles:
+
+              found_group = None
+
+              for group in groups:
+
+                  representative = group[0]
+
+                  if similar_titles(
+                      article["title"],
+                      representative["title"]
+                  ):
+
+                      found_group = group
+                      break
+
+
+              if found_group:
+
+                  found_group.append(
+                      article
+                  )
+
+              else:
+
+                  groups.append(
+                      [article]
+                  )
+
+
+          # --------------------------------------------------
+          # CREATE FINAL NEWS
+          # --------------------------------------------------
+
+          final_articles = []
+
+
+          region_priority = {
+
+              "local": 0,
+              "regional": 1,
+              "germany": 2,
+              "turkey": 3,
+              "international": 4
           }
 
 
-          with open("news.json", "w", encoding="utf-8") as file:
+          for group in groups:
+
+              group.sort(
+                  key=lambda x:
+                  region_priority.get(
+                      x["region"],
+                      9
+                  )
+              )
+
+
+              main = group[0]
+
+
+              coverage = []
+
+              for article in group:
+
+                  coverage.append({
+
+                      "sourceName":
+                          article[
+                              "sourceName"
+                          ],
+
+                      "link":
+                          article[
+                              "link"
+                          ],
+
+                      "summary":
+                          article[
+                              "summary"
+                          ]
+
+                  })
+
+
+              main["coverage"] = coverage
+
+              main["sourcesCount"] = len(
+                  coverage
+              )
+
+              final_articles.append(
+                  main
+              )
+
+
+          # --------------------------------------------------
+          # SORT
+          # --------------------------------------------------
+
+          final_articles.sort(
+              key=lambda x:
+              region_priority.get(
+                  x["region"],
+                  9
+              )
+          )
+
+
+          # --------------------------------------------------
+          # LIMIT
+          # --------------------------------------------------
+
+          final_articles = final_articles[:300]
+
+
+          # --------------------------------------------------
+          # OUTPUT
+          # --------------------------------------------------
+
+          result = {
+
+              "updated":
+                  datetime.now(
+                      timezone.utc
+                  ).isoformat(),
+
+              "articles":
+                  final_articles
+
+          }
+
+
+          with open(
+              "news.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+
               json.dump(
                   result,
-                  file,
+                  f,
                   ensure_ascii=False,
                   indent=2
               )
 
-          print("News updated:", len(articles))
+
+          print(
+              "FINAL ARTICLES:",
+              len(final_articles)
+          )
+
 
           PY
 
-      - name: Commit updated news
+
+      - name: Commit news
+
         run: |
 
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name \
+            "github-actions"
+
+          git config user.email \
+            "github-actions@github.com"
 
           git add news.json
 
           git diff --cached --quiet || \
-            git commit -m "Update news"
+            git commit \
+            -m "Update news"
 
           git push
