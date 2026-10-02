@@ -29,7 +29,6 @@ jobs:
 
           import json
           import urllib.request
-          import urllib.parse
           import xml.etree.ElementTree as ET
           import html
           import re
@@ -50,7 +49,7 @@ jobs:
 
 
           # --------------------------------------------------
-          # CATEGORY KEYWORDS
+          # TOPIC KEYWORDS
           # --------------------------------------------------
 
           categories = {
@@ -61,13 +60,17 @@ jobs:
                   "bundestag",
                   "bundesrat",
                   "minister",
+                  "ministerin",
                   "kanzler",
+                  "kanzlerin",
                   "wahl",
                   "partei",
                   "gesetz",
                   "koalition",
                   "präsident",
+                  "präsidentin",
                   "parlament",
+                  "regierungspolitik",
                   "election",
                   "government",
                   "president",
@@ -79,9 +82,11 @@ jobs:
                   "unternehmen",
                   "konzern",
                   "aktie",
+                  "aktien",
                   "börse",
                   "inflation",
                   "zinsen",
+                  "zins",
                   "ezb",
                   "bank",
                   "arbeitsmarkt",
@@ -89,12 +94,15 @@ jobs:
                   "gehalt",
                   "industrie",
                   "wirtschaftswachstum",
+                  "konjunktur",
+                  "finanzen",
                   "business",
                   "economy",
                   "company",
                   "market",
+                  "markets",
                   "stocks",
-                  "inflation"
+                  "finance"
               ],
 
               "sport": [
@@ -103,46 +111,56 @@ jobs:
                   "fussball",
                   "bundesliga",
                   "champions league",
+                  "europa league",
                   "tennis",
                   "basketball",
                   "handball",
                   "olympia",
+                  "olympics",
                   "formel 1",
                   "formula 1",
                   "football",
                   "soccer",
                   "nba",
-                  "nfl"
+                  "nfl",
+                  "motorsport"
               ],
 
               "technologie": [
                   "technologie",
                   "technik",
-                  "ki ",
+                  "ki",
                   "künstliche intelligenz",
-                  "ai ",
                   "artificial intelligence",
+                  "ai",
                   "smartphone",
                   "iphone",
                   "android",
                   "computer",
                   "software",
                   "chip",
+                  "chips",
                   "digital",
                   "internet",
                   "google",
                   "microsoft",
                   "apple",
                   "openai",
+                  "meta",
                   "technology",
-                  "tech"
+                  "tech",
+                  "cyber",
+                  "robot",
+                  "roboter"
               ],
 
               "wissenschaft": [
                   "wissenschaft",
                   "forschung",
                   "forscher",
+                  "forscherinnen",
                   "studie",
+                  "studien",
                   "medizin",
                   "astronomie",
                   "weltraum",
@@ -170,9 +188,167 @@ jobs:
                   "demografie",
                   "society",
                   "education",
-                  "health"
+                  "health",
+                  "social"
               ]
           }
+
+
+          # --------------------------------------------------
+          # REGION KEYWORDS
+          # --------------------------------------------------
+
+          local_keywords = [
+              "ravensburg",
+              "weingarten",
+              "baienfurt",
+              "baindt",
+              "berg",
+              "wolpertswende",
+              "schlier",
+              "bodnegg",
+              "grünkraut",
+              "gruenkraut",
+              "meckenbeuren",
+              "tettnang",
+              "wangen",
+              "leutkirch",
+              "bad waldsee",
+              "bad waldsee",
+              "bad saulgau"
+          ]
+
+
+          regional_keywords = [
+              "baden-württemberg",
+              "baden-wuerttemberg",
+              "baden württemberg",
+              "oberschwaben",
+              "bodensee",
+              "allgäu",
+              "allgaeu",
+              "friedrichshafen",
+              "lindau",
+              "konstanz",
+              "biberach",
+              "sigmaringen",
+              "tübingen",
+              "tuebingen",
+              "ulm",
+              "stuttgart"
+          ]
+
+
+          germany_keywords = [
+              "deutschland",
+              "deutschlands",
+              "bundestag",
+              "bundesrat",
+              "bundesregierung",
+              "bundeskanzler",
+              "bundeskanzlerin",
+              "bundespräsident",
+              "bundespräsidentin",
+              "berlin",
+              "münchen",
+              "muenchen",
+              "hamburg",
+              "köln",
+              "koeln",
+              "frankfurt",
+              "düsseldorf",
+              "duesseldorf",
+              "dresden",
+              "leipzig",
+              "nürnberg",
+              "nuernberg",
+              "hannover",
+              "bremen",
+              "deutsche",
+              "deutscher",
+              "deutsches",
+              "deutschen",
+              "german",
+              "germany"
+          ]
+
+
+          turkey_keywords = [
+              "türkei",
+              "türkiye",
+              "turkey",
+              "turkish",
+              "istanbul",
+              "ankara",
+              "izmir",
+              "erdogan",
+              "erdoğan",
+              "chp",
+              "akp",
+              "tbmm"
+          ]
+
+
+          international_keywords = [
+              "frankreich",
+              "france",
+              "paris",
+              "spanien",
+              "spain",
+              "madrid",
+              "italien",
+              "italy",
+              "rome",
+              "rom",
+              "großbritannien",
+              "grossbritannien",
+              "united kingdom",
+              "uk",
+              "london",
+              "england",
+              "schottland",
+              "scotland",
+              "usa",
+              "us",
+              "united states",
+              "amerika",
+              "america",
+              "washington",
+              "new york",
+              "china",
+              "chinese",
+              "peking",
+              "beijing",
+              "japan",
+              "tokio",
+              "tokyo",
+              "indien",
+              "india",
+              "russland",
+              "russia",
+              "ukraine",
+              "ukrain",
+              "polen",
+              "poland",
+              "warschau",
+              "warsaw",
+              "europa",
+              "europe",
+              "brüssel",
+              "bruessel",
+              "brussels",
+              "israel",
+              "gaza",
+              "iran",
+              "irak",
+              "iraq",
+              "nahost",
+              "middle east",
+              "welt",
+              "world",
+              "international",
+              "global"
+          ]
 
 
           # --------------------------------------------------
@@ -241,10 +417,10 @@ jobs:
 
 
           # --------------------------------------------------
-          # CLASSIFY
+          # TOPIC CLASSIFICATION
           # --------------------------------------------------
 
-          def classify(title, description, source_topics):
+          def classify_topic(title, description, source_topics):
 
               text = (
                   title + " " + description
@@ -254,25 +430,174 @@ jobs:
 
               for category, words in categories.items():
 
-                  scores[category] = sum(
-                      1
-                      for word in words
-                      if word in text
-                  )
+                  score = 0
+
+                  for word in words:
+
+                      if word.lower() in text:
+                          score += 1
+
+                  scores[category] = score
+
 
               best = max(
                   scores,
                   key=scores.get
               )
 
-              if scores[best] == 0:
 
-                  if source_topics:
-                      return source_topics[0]
+              if scores[best] > 0:
+                  return best
 
-                  return "gesellschaft"
 
-              return best
+              if source_topics:
+                  return source_topics[0]
+
+
+              return "gesellschaft"
+
+
+          # --------------------------------------------------
+          # SOURCE DEFAULT REGION
+          # --------------------------------------------------
+
+          def source_default_region(source):
+
+              name = source.get(
+                  "name",
+                  ""
+              ).lower()
+
+              regions = source.get(
+                  "regions",
+                  []
+              )
+
+
+              # Turkey sources
+              if (
+                  "trt" in name
+                  or "ensonhaber" in name
+              ):
+                  return "turkey"
+
+
+              # International sources
+              if (
+                  "bbc" in name
+                  or "reuters" in name
+                  or "international" in name
+              ):
+                  return "international"
+
+
+              # Local / regional sources
+              if "dasding" in name:
+                  return "regional"
+
+
+              if "schwäbische" in name:
+                  return "regional"
+
+
+              # Otherwise use configured source region
+              if regions:
+
+                  return regions[0]
+
+
+              return "international"
+
+
+          # --------------------------------------------------
+          # REGION CLASSIFICATION
+          # --------------------------------------------------
+
+          def classify_region(
+              title,
+              description,
+              source
+          ):
+
+              text = (
+                  title + " " + description
+              ).lower()
+
+
+              default_region = source_default_region(
+                  source
+              )
+
+
+              # ------------------------------------------
+              # 1. VERY LOCAL
+              # ------------------------------------------
+
+              if any(
+                  keyword in text
+                  for keyword in local_keywords
+              ):
+
+                  return "local"
+
+
+              # ------------------------------------------
+              # 2. REGIONAL
+              # ------------------------------------------
+
+              if any(
+                  keyword in text
+                  for keyword in regional_keywords
+              ):
+
+                  return "regional"
+
+
+              # ------------------------------------------
+              # 3. TURKEY
+              # ------------------------------------------
+
+              if any(
+                  keyword in text
+                  for keyword in turkey_keywords
+              ):
+
+                  return "turkey"
+
+
+              # ------------------------------------------
+              # 4. INTERNATIONAL
+              #
+              # Important:
+              # foreign country references override
+              # German source origin.
+              # ------------------------------------------
+
+              if any(
+                  keyword in text
+                  for keyword in international_keywords
+              ):
+
+                  return "international"
+
+
+              # ------------------------------------------
+              # 5. GERMANY
+              # ------------------------------------------
+
+              if any(
+                  keyword in text
+                  for keyword in germany_keywords
+              ):
+
+                  return "germany"
+
+
+              # ------------------------------------------
+              # 6. FALLBACK
+              # ------------------------------------------
+
+              return default_region
 
 
           # --------------------------------------------------
@@ -305,6 +630,8 @@ jobs:
                   "ein",
                   "eine",
                   "einer",
+                  "einem",
+                  "einen",
                   "und",
                   "oder",
                   "the",
@@ -313,7 +640,9 @@ jobs:
                   "and",
                   "of",
                   "to",
-                  "in"
+                  "in",
+                  "on",
+                  "for"
               }
 
               words = [
@@ -338,17 +667,26 @@ jobs:
               if not a or not b:
                   return False
 
+
               ratio = SequenceMatcher(
                   None,
                   a,
                   b
               ).ratio()
 
-              a_words = set(a.split())
-              b_words = set(b.split())
+
+              a_words = set(
+                  a.split()
+              )
+
+              b_words = set(
+                  b.split()
+              )
+
 
               if not a_words or not b_words:
                   return False
+
 
               overlap = len(
                   a_words & b_words
@@ -356,6 +694,7 @@ jobs:
                   len(a_words | b_words),
                   1
               )
+
 
               return (
                   ratio >= 0.62
@@ -379,6 +718,7 @@ jobs:
                   source["name"]
               )
 
+
               try:
 
                   request = urllib.request.Request(
@@ -389,6 +729,7 @@ jobs:
                       }
                   )
 
+
                   with urllib.request.urlopen(
                       request,
                       timeout=20
@@ -397,7 +738,9 @@ jobs:
                       data = response.read()
 
 
-                  root = ET.fromstring(data)
+                  root = ET.fromstring(
+                      data
+                  )
 
 
                   items = root.findall(
@@ -434,6 +777,7 @@ jobs:
                           ""
                       )
 
+
                       title = clean_text(
                           title
                       )
@@ -444,11 +788,16 @@ jobs:
 
                       link = link.strip()
 
+
                       if not title or not link:
                           continue
 
 
-                      topic = classify(
+                      # --------------------------------
+                      # CLASSIFY TOPIC
+                      # --------------------------------
+
+                      topic = classify_topic(
                           title,
                           description,
                           source.get(
@@ -458,43 +807,50 @@ jobs:
                       )
 
 
-                      regions = source.get(
-                          "regions",
-                          []
+                      # --------------------------------
+                      # CLASSIFY REGION
+                      # --------------------------------
+
+                      region = classify_region(
+                          title,
+                          description,
+                          source
                       )
 
 
-                      for region in regions:
+                      article = {
 
-                          articles.append({
+                          "id": hashlib.sha1(
+                              link.encode(
+                                  "utf-8"
+                              )
+                          ).hexdigest()[:12],
 
-                              "id": hashlib.sha1(
-                                  link.encode(
-                                      "utf-8"
-                                  )
-                              ).hexdigest()[:12],
+                          "title": title,
 
-                              "title": title,
+                          "summary": make_summary(
+                              description
+                          ),
 
-                              "summary": make_summary(
-                                  description
-                              ),
+                          "link": link,
 
-                              "link": link,
+                          "sourceName":
+                              source["name"],
 
-                              "sourceName":
-                                  source["name"],
+                          "region":
+                              region,
 
-                              "region":
-                                  region,
+                          "topic":
+                              topic,
 
-                              "topic":
-                                  topic,
+                          "time":
+                              pub_date
+                      }
 
-                              "time":
-                                  pub_date
 
-                          })
+                      articles.append(
+                          article
+                      )
 
 
               except Exception as error:
@@ -512,6 +868,7 @@ jobs:
           # --------------------------------------------------
 
           unique = {}
+
 
           for article in articles:
 
@@ -533,13 +890,16 @@ jobs:
 
           groups = []
 
+
           for article in articles:
 
               found_group = None
 
+
               for group in groups:
 
                   representative = group[0]
+
 
                   if similar_titles(
                       article["title"],
@@ -582,51 +942,82 @@ jobs:
 
           for group in groups:
 
-              group.sort(
-                  key=lambda x:
-                  region_priority.get(
-                      x["region"],
-                      9
-                  )
-              )
+              # ------------------------------------------------
+              # IMPORTANT:
+              # Only group articles that belong to the same
+              # region AND same topic.
+              # ------------------------------------------------
 
+              subgroups = {}
 
-              main = group[0]
-
-
-              coverage = []
 
               for article in group:
 
-                  coverage.append({
-
-                      "sourceName":
-                          article[
-                              "sourceName"
-                          ],
-
-                      "link":
-                          article[
-                              "link"
-                          ],
-
-                      "summary":
-                          article[
-                              "summary"
-                          ]
-
-                  })
+                  key = (
+                      article["region"],
+                      article["topic"]
+                  )
 
 
-              main["coverage"] = coverage
+                  if key not in subgroups:
 
-              main["sourcesCount"] = len(
-                  coverage
-              )
+                      subgroups[key] = []
 
-              final_articles.append(
-                  main
-              )
+
+                  subgroups[key].append(
+                      article
+                  )
+
+
+              for subgroup in subgroups.values():
+
+                  subgroup.sort(
+                      key=lambda x:
+                      region_priority.get(
+                          x["region"],
+                          9
+                      )
+                  )
+
+
+                  main = subgroup[0]
+
+
+                  coverage = []
+
+
+                  for article in subgroup:
+
+                      coverage.append({
+
+                          "sourceName":
+                              article[
+                                  "sourceName"
+                              ],
+
+                          "link":
+                              article[
+                                  "link"
+                              ],
+
+                          "summary":
+                              article[
+                                  "summary"
+                              ]
+
+                      })
+
+
+                  main["coverage"] = coverage
+
+                  main["sourcesCount"] = len(
+                      coverage
+                  )
+
+
+                  final_articles.append(
+                      main
+                  )
 
 
           # --------------------------------------------------
@@ -634,11 +1025,30 @@ jobs:
           # --------------------------------------------------
 
           final_articles.sort(
+              key=lambda x: (
+                  region_priority.get(
+                      x["region"],
+                      9
+                  ),
+                  x.get(
+                      "time",
+                      ""
+                  )
+              ),
+              reverse=False
+          )
+
+
+          # Newest articles should appear first
+          # within the complete result.
+
+          final_articles.sort(
               key=lambda x:
-              region_priority.get(
-                  x["region"],
-                  9
-              )
+              x.get(
+                  "time",
+                  ""
+              ),
+              reverse=True
           )
 
 
@@ -680,9 +1090,48 @@ jobs:
               )
 
 
+          # --------------------------------------------------
+          # DEBUG INFORMATION
+          # --------------------------------------------------
+
+          region_counts = {}
+
+          topic_counts = {}
+
+
+          for article in final_articles:
+
+              region = article["region"]
+              topic = article["topic"]
+
+
+              region_counts[region] = \
+                  region_counts.get(
+                      region,
+                      0
+                  ) + 1
+
+
+              topic_counts[topic] = \
+                  topic_counts.get(
+                      topic,
+                      0
+                  ) + 1
+
+
           print(
               "FINAL ARTICLES:",
               len(final_articles)
+          )
+
+          print(
+              "REGIONS:",
+              region_counts
+          )
+
+          print(
+              "TOPICS:",
+              topic_counts
           )
 
 
