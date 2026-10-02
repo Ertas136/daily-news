@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:03:40.572691+00:00",
+  "updated": "2026-10-02T13:07:46.403214+00:00",
   "articles": [
     {
       "id": "ed953c8d8f96",
@@ -4538,6 +4538,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "19a8478c420c",
+      "title": "Was es mit Melonis Schul-Dekret auf sich hat",
+      "summary": "Ausländerquote und Burkaverbot: Italiens Regierung verschärft per Dekret die Regeln an Schulen. Doch in der Praxis greifen die Maßnahmen kaum.",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-schuldekret-meloni-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Fri, 02 Oct 2026 15:04:52 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/italien-schuldekret-meloni-100.html",
+          "summary": "Ausländerquote und Burkaverbot: Italiens Regierung verschärft per Dekret die Regeln an Schulen. Doch in der Praxis greifen die Maßnahmen kaum."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "85354bf18afa",
       "title": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
       "summary": "Nach den Protesten aufgrund der Zwangsräumung der Wohnung einer Rentnerin in Madrid stimmt nun das Parlament ab - doch eine Mehrheit für stärkeren Mieterschutz ist alles andere als sicher. Von Hans-Günter Kellner.",
@@ -4700,24 +4718,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a5df137b6349",
-      "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
-      "summary": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen.",
-      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 29 Sep 2026 20:25:01 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
-          "summary": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d19b04b980b1",
       "title": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
       "summary": "Der Fall einer Mörderin, die ihre versuchte Hinrichtung überlebte, hat die Debatte über die Todesstrafe in den USA wieder angeheizt. Die Frau ist offenbar weiter in kritischem Zustand.",
@@ -4818,19 +4818,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "945a8d97d622",
-      "title": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
-      "summary": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht.",
-      "link": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
+      "id": "a5df137b6349",
+      "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
+      "summary": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen.",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
       "sourceName": "Tagesschau Ausland",
       "region": "international",
-      "topic": "gesellschaft",
-      "time": "Tue, 29 Sep 2026 17:50:53 +0200",
+      "topic": "politik",
+      "time": "Tue, 29 Sep 2026 20:25:01 +0200",
       "coverage": [
         {
           "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
-          "summary": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht."
+          "link": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
+          "summary": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen."
         }
       ],
       "sourcesCount": 1
