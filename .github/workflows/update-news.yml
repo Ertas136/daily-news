@@ -1,0 +1,174 @@
+name: Update News
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch news
+        run: |
+          python3 <<'PY'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import json
+          import html
+          from datetime import datetime, timezone
+
+          feeds = [
+
+              # 🇩🇪 Deutschland
+              {
+                  "url": "https://www.tagesschau.de/allemeldungen-100~rss2.xml",
+                  "region": "germany"
+              },
+
+              {
+                  "url": "https://www.tagesschau.de/inland/index~rss2.xml",
+                  "region": "germany"
+              },
+
+              # 💶 Wirtschaft
+              {
+                  "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+                  "region": "germany"
+              },
+
+              # 🔬 Wissenschaft / Technologie
+              {
+                  "url": "https://www.tagesschau.de/wissen/index~rss2.xml",
+                  "region": "international"
+              },
+
+              # 🌍 International
+              {
+                  "url": "https://www.tagesschau.de/ausland/index~rss2.xml",
+                  "region": "international"
+              },
+
+              # 🇹🇷 Türkei
+              {
+                  "url": "https://www.trthaber.com/turkiye_articles.rss",
+                  "region": "turkey"
+              },
+
+              {
+                  "url": "https://www.trthaber.com/dunya_articles.rss",
+                  "region": "international"
+              },
+
+              {
+                  "url": "https://www.trthaber.com/ekonomi_articles.rss",
+                  "region": "turkey"
+              },
+
+              {
+                  "url": "https://www.trthaber.com/spor_articles.rss",
+                  "region": "turkey"
+              },
+
+              {
+                  "url": "https://www.trthaber.com/bilim_teknoloji_articles.rss",
+                  "region": "turkey"
+              }
+
+          ]
+
+          articles = []
+
+          for feed in feeds:
+
+              try:
+
+                  request = urllib.request.Request(
+                      feed["url"],
+                      headers={
+                          "User-Agent": "Mozilla/5.0"
+                      }
+                  )
+
+                  with urllib.request.urlopen(request, timeout=20) as response:
+                      data = response.read()
+
+                  root = ET.fromstring(data)
+
+                  for item in root.findall(".//item")[:20]:
+
+                      title = item.findtext("title", "").strip()
+                      link = item.findtext("link", "").strip()
+                      description = item.findtext("description", "").strip()
+                      pub_date = item.findtext("pubDate", "").strip()
+
+                      title = html.unescape(title)
+                      description = html.unescape(description)
+
+                      articles.append({
+                          "title": title,
+                          "summary": description,
+                          "link": link,
+                          "source": feed["url"],
+                          "region": feed["region"],
+                          "topic": "all",
+                          "time": pub_date
+                      })
+
+              except Exception as error:
+
+                  print("Feed error:", feed["url"])
+                  print(error)
+
+
+          # Duplikate entfernen
+          unique = {}
+
+          for article in articles:
+
+              key = article["link"]
+
+              if key and key not in unique:
+                  unique[key] = article
+
+
+          articles = list(unique.values())
+
+          result = {
+              "updated": datetime.now(timezone.utc).isoformat(),
+              "articles": articles[:200]
+          }
+
+
+          with open("news.json", "w", encoding="utf-8") as file:
+              json.dump(
+                  result,
+                  file,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          print("News updated:", len(articles))
+
+          PY
+
+      - name: Commit updated news
+        run: |
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add news.json
+
+          git diff --cached --quiet || \
+            git commit -m "Update news"
+
+          git push
