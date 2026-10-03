@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:44:33.233660+00:00",
+  "updated": "2026-10-03T01:06:08.790387+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -2445,7 +2445,7 @@
     },
     {
       "id": "edbbdea3aca7",
-      "title": "A director award brings Andrew N. Liveris’s IBM (IBM) fee-share holdings to 45,262. - stocktitan.net",
+      "title": "A director award brings Andrew N. Liveris’s IBM (IBM) fee-share holdings to 45,262. - Stock Titan",
       "summary": "A director award brings Andrew N. Liveris’s IBM (IBM) fee-share holdings to 45,262.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVppVk50eFpfUmJfWHhLZTdFUWFlMjFOM0ZGazZqSVNzSUZNTkoydEZ2T01tX3BTQzNDUC1EZmU4TElvZU5memx3Vzhvb0ZJcnNJc2RpUGk3VlBZMlA5cjZSaE1faUtqeHBMVTl3ZjdlVkFYUG1oMktsZ2JiZG40ZWxRYko5TG1ON0E0ZW9tUjllRFhWQm92OFJfdlRTM1F5ZVMwN3VhaVZ1UmFaM3AtNllGR21VN0Y1UVFvTl9LQzRmSnFZSzl3Sw?oc=5",
       "sourceName": "Google News – International Business",
@@ -4094,39 +4094,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e539f4b46bb3",
-      "title": "Tech Now",
-      "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 26 Sep 2026 01:00:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
-          "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online."
-        },
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
-          "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse."
-        },
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
-          "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation."
-        },
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
-          "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world."
-        }
-      ],
-      "sourcesCount": 4
-    },
-    {
       "id": "76f38acf347a",
       "title": "Geschichten aus New York: Geschmuggelter Cognac bei den US Open",
       "summary": "Skandal im Sperrbezirk: In ganz Amerika ist der Alkohol verboten, doch die beste Tennisspielerin der Welt besteht auf ihren Fusel. Das endet nicht gut.",
@@ -4202,6 +4169,39 @@
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "391288e2fc2b",
+      "title": "Tech Now",
+      "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 03 Oct 2026 01:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+          "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco."
+        },
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+          "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online."
+        },
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+          "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse."
+        },
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+          "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation."
+        }
+      ],
+      "sourcesCount": 4
     },
     {
       "id": "bbafdc154c21",
@@ -5348,24 +5348,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "bd6e5563fa86",
-      "title": "How did the beltway take Trump’s AI accord? - The Hill",
-      "summary": "How did the beltway take Trump’s AI accord? The Hill",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXJaMHN1d3lUSVdMN3F4QUtBQzFkNzNIWURHdGJlUVpqZGMzdWJvSld5RHcwT2UxNS1EaTRMUnlsYnRaUXFFMDlzYnlFdnk5dlFlR3B5TXItSWhjQjVUQ2ZacGtXczZaMGpkMkR1Ym81SHFsNGdUMV9MOEZXaExMQUdFQWNwemc1aXhuSzZWRktDZEtncHJyLXZCSkF0QQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Fri, 02 Oct 2026 22:45:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXJaMHN1d3lUSVdMN3F4QUtBQzFkNzNIWURHdGJlUVpqZGMzdWJvSld5RHcwT2UxNS1EaTRMUnlsYnRaUXFFMDlzYnlFdnk5dlFlR3B5TXItSWhjQjVUQ2ZacGtXczZaMGpkMkR1Ym81SHFsNGdUMV9MOEZXaExMQUdFQWNwemc1aXhuSzZWRktDZEtncHJyLXZCSkF0QQ?oc=5",
-          "summary": "How did the beltway take Trump’s AI accord? The Hill"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f858825a2f74",
       "title": "Equities close higher as softer jobs data quiets rate-hike expectations - Reuters",
       "summary": "Equities close higher as softer jobs data quiets rate-hike expectations Reuters",
@@ -5487,6 +5469,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/bm-raportoru-albaneseden-italyaya-antisemitizm-tasarisi-tepkisi-958962.html",
           "summary": "BM Filistin Özel Raportörü Albanese, İtalya'daki antisemitizm yasa tasarısına tepki gösterdi"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1a10ec5678fe",
+      "title": "TÜBATEKNOFEST Doktora Bilim Ödülleri'nin sahipleri belli oldu",
+      "summary": "TEKNOFEST kapsamında düzenlenen Türkiye Bilimler Akademisi (TÜBA)-TEKNOFEST Doktora Bilim Ödülleri, 4 farklı alanda çalışmalar yürüten 15 bilim insanına Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır tarafından verildi.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/tuba-teknofest-doktora-bilim-odullerinin-sahipleri-belli-oldu-958963.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Fri, 02 Oct 2026 22:18:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/tuba-teknofest-doktora-bilim-odullerinin-sahipleri-belli-oldu-958963.html",
+          "summary": "TEKNOFEST kapsamında düzenlenen Türkiye Bilimler Akademisi (TÜBA)-TEKNOFEST Doktora Bilim Ödülleri, 4 farklı alanda çalışmalar yürüten 15 bilim insanına Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır tarafından verildi."
         }
       ],
       "sourcesCount": 1
