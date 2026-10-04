@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T21:04:07.422256+00:00",
+  "updated": "2026-10-04T21:47:08.323254+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -686,10 +686,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "490754c33ab0",
+      "id": "f4912db232d7",
       "title": "Tech Life",
       "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
@@ -697,7 +697,7 @@
       "coverage": [
         {
           "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
           "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice."
         },
         {
@@ -732,24 +732,6 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
           "summary": "The wearable technology company had been expected to list its shares in the US."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c75e6ea2391c",
-      "title": "U.S. forces leave Iraq after first arriving in 2003 - CBC",
-      "summary": "U.S. forces leave Iraq after first arriving in 2003 CBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xX1R0bGhXaEp4VTJ0YlgyaHhMQlJHakRkS2toaHJTb2lpQVFzSEh5QUpZSVlORXVGMG5BNGdzMEJjaldBZmdVc1d0cXcxSERxVzJkWFlZdDZtbjcwWnRad1A4dmkteVZwWl82N0NiQ2RXZlpr?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 29 Sep 2026 16:35:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xX1R0bGhXaEp4VTJ0YlgyaHhMQlJHakRkS2toaHJTb2lpQVFzSEh5QUpZSVlORXVGMG5BNGdzMEJjaldBZmdVc1d0cXcxSERxVzJkWFlZdDZtbjcwWnRad1A4dmkteVZwWl82N0NiQ2RXZlpr?oc=5",
-          "summary": "U.S. forces leave Iraq after first arriving in 2003 CBC"
         }
       ],
       "sourcesCount": 1
@@ -1724,24 +1706,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ed05d5205ae1",
-      "title": "Bakan Şimşek'ten fon soruşturması açıklaması: Sistematik bir problem yok",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasalarındaki gelişmelere hızlı müdahale ettiklerini belirterek, sorunlu şirketlerin karantinaya alındığını ve sistemik bir problem bulunmadığını açıkladı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsekten-fon-sorusturmasi-aciklamasi-sistematik-bir-problem-yok-958816.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Thu, 01 Oct 2026 19:02:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsekten-fon-sorusturmasi-aciklamasi-sistematik-bir-problem-yok-958816.html",
-          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasalarındaki gelişmelere hızlı müdahale ettiklerini belirterek, sorunlu şirketlerin karantinaya alındığını ve sistemik bir problem bulunmadığını açıkladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d9d7d85a0340",
       "title": "California issues investigative subpoena to OpenAI over rogue agents’ hacking - The Guardian",
       "summary": "California issues investigative subpoena to OpenAI over rogue agents’ hacking The Guardian",
@@ -1956,8 +1920,8 @@
     },
     {
       "id": "f80797809759",
-      "title": "Thomson Reuters and KKR complete joint venture for Global Print Business - Thomson Reuters",
-      "summary": "Thomson Reuters and KKR complete joint venture for Global Print Business Thomson Reuters",
+      "title": "Thomson Reuters and KKR complete joint venture for Global Print Business - thomsonreuters.com",
+      "summary": "Thomson Reuters and KKR complete joint venture for Global Print Business thomsonreuters.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2NFSnVjYjBfTkZwZS1jRk8zWkJJNVlnVTZoYmE5REdhQ0MyQmxXUXBWVzNlNXZPcDY4YUo5aU5Sa2RLaGJwRVVPaF81dnpyalo5YnZXUXFPdV8wLXFVX2xES082dnN0bzBIMHNFTkF4dFF5Z0JMZEEzWE93aU1hdllFYW01NmhKYWpXakNSZWxhSG5nX2l1UHUzNlRORjVNa2kzOTdkUHFKRF9QYVlPOF9kRWJGQlRwWWt6dkQ5RW1UaVRvQnJsbTN3LWpraW56NVE?oc=5",
       "sourceName": "Google News – Reuters",
       "region": "international",
@@ -1967,7 +1931,7 @@
         {
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2NFSnVjYjBfTkZwZS1jRk8zWkJJNVlnVTZoYmE5REdhQ0MyQmxXUXBWVzNlNXZPcDY4YUo5aU5Sa2RLaGJwRVVPaF81dnpyalo5YnZXUXFPdV8wLXFVX2xES082dnN0bzBIMHNFTkF4dFF5Z0JMZEEzWE93aU1hdllFYW01NmhKYWpXakNSZWxhSG5nX2l1UHUzNlRORjVNa2kzOTdkUHFKRF9QYVlPOF9kRWJGQlRwWWt6dkQ5RW1UaVRvQnJsbTN3LWpraW56NVE?oc=5",
-          "summary": "Thomson Reuters and KKR complete joint venture for Global Print Business Thomson Reuters"
+          "summary": "Thomson Reuters and KKR complete joint venture for Global Print Business thomsonreuters.com"
         }
       ],
       "sourcesCount": 1
@@ -2082,8 +2046,8 @@
     },
     {
       "id": "6b43a754d2dd",
-      "title": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport - AOL.com",
-      "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport AOL.com",
+      "title": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport - aol.com",
+      "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport aol.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGpSXzR2UTN6WGlEN3RCczc0V0tXVlJzR2RxcUpSMnRMZjFlVHpEekxYb0tieXR2WDlLODRsRXJfUVhZVGZ6eFhHMkJWMC1fNEJXWUQzaENTTWxBa28tOHlROEQybkFsNVdUWDA5ejM4RUhTZ3lrc2VyV0VNT3p2RlM5ZW42c3dWbWozVjB2QzcyUQ?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -2093,7 +2057,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGpSXzR2UTN6WGlEN3RCczc0V0tXVlJzR2RxcUpSMnRMZjFlVHpEekxYb0tieXR2WDlLODRsRXJfUVhZVGZ6eFhHMkJWMC1fNEJXWUQzaENTTWxBa28tOHlROEQybkFsNVdUWDA5ejM4RUhTZ3lrc2VyV0VNT3p2RlM5ZW42c3dWbWozVjB2QzcyUQ?oc=5",
-          "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport AOL.com"
+          "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport aol.com"
         }
       ],
       "sourcesCount": 1
@@ -2405,6 +2369,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Sun, 4 Oct 2026 23:04:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8d77194b30e1",
       "title": "Deutschland findet keine Lücke im griechischen Abwehrriegel",
       "summary": "Deutschland hat auch das zweite Nations-League-Spiel gegen Griechenland nicht gewonnen. In Thessaloniki fehlte auch etwas das Glück im Abschluss.",
@@ -2616,24 +2598,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/unwetter-griechenland-urlaubsinsel-kreta-touristen-evakuiert-100.html",
           "summary": "Ein Sturm und starke Regenfälle halten Kreta und viele Inseln der Ägäis in Atem. Die Bewohner kämpfen mit Überschwemmungen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sun, 4 Oct 2026 14:56:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -2891,6 +2855,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "fcbcc736ae13",
+      "title": "Remis gegen Griechenland: Deutschland glänzt nur eine Halbzeit",
+      "summary": "Der Gruppensieg in der Nations League ist für Deutschland nach einem Remis in Griechenland fast schon außer Reichweite. Das DFB-Team glänzte nur eine Halbzeit lang.",
+      "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-glaenzt-nur-eine-halbzeit-in-griechenland,spielbericht-nl-griechenland-deutschland-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sun, 04 Oct 2026 23:14:30 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-glaenzt-nur-eine-halbzeit-in-griechenland,spielbericht-nl-griechenland-deutschland-100.html",
+          "summary": "Der Gruppensieg in der Nations League ist für Deutschland nach einem Remis in Griechenland fast schon außer Reichweite. Das DFB-Team glänzte nur eine Halbzeit lang."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "15f9c4b0f542",
+      "title": "Niederlande schlägt Serbien und springt auf Platz eins",
+      "summary": "DIe Niederlande siegen gegen Serbien und schieben sich an Griechenland vorbei auf Platz eins in der deutschen Gruppe in der Nations League.",
+      "link": "https://www.sportschau.de/fussball/nationsleague/niederlande-schlaegt-serbien-und-springt-auf-platz-eins,spielbericht-nl-ned-srb-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sun, 04 Oct 2026 23:09:26 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/nationsleague/niederlande-schlaegt-serbien-und-springt-auf-platz-eins,spielbericht-nl-ned-srb-100.html",
+          "summary": "DIe Niederlande siegen gegen Serbien und schieben sich an Griechenland vorbei auf Platz eins in der deutschen Gruppe in der Nations League."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "68d283dc4de3",
       "title": "AFAD, Adana'daki depreme ilişkin ön değerlendirme raporunu yayımladı",
       "summary": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Adana'nın Saimbeyli ilçesinde meydana gelen depremin ardından bölgeye ilişkin ön değerlendirme raporunu yayımladı.",
@@ -2922,24 +2922,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/nationalmannschaft/scherhant-wirbelt-pavlovic-macht-kimmich-sachen,einzelkritik-nl-griechenland-deutschland-100.html",
           "summary": "Deutschland hatte gegen Griechenland seinen besten Mann vorne links, vorne rechts hakte es dagegen. Die DFB-Elf in der Einzelkritik."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fcbcc736ae13",
-      "title": "Remis gegen Griechenland: Deutschland glänzt nur eine Halbzeit",
-      "summary": "Der Gruppensieg in der Nations League ist für Deutschland nach einem Remis in Griechenland fast schon außer Reichweite. Das DFB-Team glänzte nur eine Halbzeit lang.",
-      "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-glaenzt-nur-eine-halbzeit-in-griechenland,spielbericht-nl-griechenland-deutschland-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Sun, 04 Oct 2026 22:39:16 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutschland-glaenzt-nur-eine-halbzeit-in-griechenland,spielbericht-nl-griechenland-deutschland-100.html",
-          "summary": "Der Gruppensieg in der Nations League ist für Deutschland nach einem Remis in Griechenland fast schon außer Reichweite. Das DFB-Team glänzte nur eine Halbzeit lang."
         }
       ],
       "sourcesCount": 1
@@ -2981,6 +2963,132 @@
       "sourcesCount": 1
     },
     {
+      "id": "6922a1f62c72",
+      "title": "Humphries wins Grand Prix to end barren spell",
+      "summary": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 04 Oct 2026 21:39:14 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
+          "summary": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8b957edd41cd",
+      "title": "Nations League: Portugal siegt ohne Ronaldo – Kein Sieger zwischen Irland und Israel",
+      "summary": "Auch ohne Cristiano Ronaldo bleibt Portugal in der Nations League makellos und steht bereits im Viertelfinale. Die Niederlande profitieren vom Unentschieden Deutschlands.",
+      "link": "https://www.faz.net/aktuell/sport/fussball/nations-league-portugal-siegt-ohne-ronaldo-kein-sieger-zwischen-irland-und-israel-201287870.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 04 Oct 2026 21:20:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/fussball/nations-league-portugal-siegt-ohne-ronaldo-kein-sieger-zwischen-irland-und-israel-201287870.html",
+          "summary": "Auch ohne Cristiano Ronaldo bleibt Portugal in der Nations League makellos und steht bereits im Viertelfinale. Die Niederlande profitieren vom Unentschieden Deutschlands."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b435a4a78af8",
+      "title": "Man City fight back to beat struggling Arsenal",
+      "summary": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 04 Oct 2026 21:20:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f711976a1861",
+      "title": "Meet the Swarm Chasers Sleuthing Out Rogue AI | Technology for Oct. 4 - WSJ",
+      "summary": "Meet the Swarm Chasers Sleuthing Out Rogue AI | Technology for Oct. 4 WSJ",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBna29xU3ZCTW5lS3Vka212VGRUejA1SFI4SWM1TjhXblNqUDdERUd1eTVEOWttTGl5TThuUXNCdF9DeXJUc1ZrY0dJcFl4SzlKS0tQSWlkMno1Z1RCazROMjNueEtPcjVDT1hZ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 04 Oct 2026 21:15:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBna29xU3ZCTW5lS3Vka212VGRUejA1SFI4SWM1TjhXblNqUDdERUd1eTVEOWttTGl5TThuUXNCdF9DeXJUc1ZrY0dJcFl4SzlKS0tQSWlkMno1Z1RCazROMjNueEtPcjVDT1hZ?oc=5",
+          "summary": "Meet the Swarm Chasers Sleuthing Out Rogue AI | Technology for Oct. 4 WSJ"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "85ac007f42df",
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 04 Oct 2026 21:11:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+          "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "65433dabf2b6",
+      "title": "Reclaiming workers’ ownership over artificial intelligence and technologies - mronline.org",
+      "summary": "Reclaiming workers’ ownership over artificial intelligence and technologies mronline.org",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlpY0JyYWRtMU5zLVhqa2ItaWZMV0ZMLW1QUmxxVmd1RVdQWVlJX2NSOEhlWW5zV2tha1dMSFoyUThyWFZhYjZRVEF0d0o5cDZxVnRIZkNRVlZtcTI4WERvMTBucl9ORUgtWmVVYmMtdm1pZmtHbnBvZHpSMHJQZk5sbkJCQTBITS1Xd2dIbjhzYXhPYVJVUndZUklIakJiUEpIUnJ1N3JXeXc?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 04 Oct 2026 21:11:15 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlpY0JyYWRtMU5zLVhqa2ItaWZMV0ZMLW1QUmxxVmd1RVdQWVlJX2NSOEhlWW5zV2tha1dMSFoyUThyWFZhYjZRVEF0d0o5cDZxVnRIZkNRVlZtcTI4WERvMTBucl9ORUgtWmVVYmMtdm1pZmtHbnBvZHpSMHJQZk5sbkJCQTBITS1Xd2dIbjhzYXhPYVJVUndZUklIakJiUEpIUnJ1N3JXeXc?oc=5",
+          "summary": "Reclaiming workers’ ownership over artificial intelligence and technologies mronline.org"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6b243c495924",
+      "title": "0:0 in Griechenland: Viel Klopp-Fußball, aber kein Tor",
+      "summary": "Das DFB-Team verpasst in der Nations League den zweiten Sieg in Serie. Der Auftritt seines zweiten Kaders dürfte dem Bundestrainer aber auch diesmal gefallen haben.",
+      "link": "https://www.faz.net/aktuell/sport/fussball/dfb-team-verpasst-zweiten-sieg-unter-juergen-klopp-in-der-nations-league-201203977.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sun, 04 Oct 2026 21:10:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/fussball/dfb-team-verpasst-zweiten-sieg-unter-juergen-klopp-in-der-nations-league-201203977.html",
+          "summary": "Das DFB-Team verpasst in der Nations League den zweiten Sieg in Serie. Der Auftritt seines zweiten Kaders dürfte dem Bundestrainer aber auch diesmal gefallen haben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "22437c849cdf",
       "title": "BVB-Frauen auch in Norwegen erfolgreich",
       "summary": "Dortmunds Handballerinnen kommen in der Königsklasse immer besser ins Rollen. In Norwegen gab es den zweiten Sieg in Folge.",
@@ -3012,24 +3120,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/rbb/rbb-basketball-bundesliga-alba-frauen-verlieren-zum-saisonauftakt-gegen-marburg-100.html",
           "summary": "Die Frauen von Alba Berlin haben zum Start in die neue Saison in der Basketball-Bundesliga eine Niederlage kassiert."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6b243c495924",
-      "title": "0:0 in Griechenland: DFB-Team verpasst zweiten Sieg unter Klopp",
-      "summary": "Deutschland zeigt gegen Griechenland eine starke erste Halbzeit, nur ein Tor fehlt. Danach fehlt es an Durchschlagskraft.",
-      "link": "https://www.faz.net/aktuell/sport/fussball/dfb-team-verpasst-zweiten-sieg-unter-juergen-klopp-in-der-nations-league-201203977.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sun, 04 Oct 2026 20:41:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/fussball/dfb-team-verpasst-zweiten-sieg-unter-juergen-klopp-in-der-nations-league-201203977.html",
-          "summary": "Deutschland zeigt gegen Griechenland eine starke erste Halbzeit, nur ein Tor fehlt. Danach fehlt es an Durchschlagskraft."
         }
       ],
       "sourcesCount": 1
@@ -3144,8 +3234,8 @@
     },
     {
       "id": "51512a80d6df",
-      "title": "Type 1 diabetes update: Immune therapy, screening, and new technology - Contemporary Pediatrics",
-      "summary": "Type 1 diabetes update: Immune therapy, screening, and new technology Contemporary Pediatrics",
+      "title": "Type 1 diabetes update: Immune therapy, screening, and new technology - contemporarypediatrics.com",
+      "summary": "Type 1 diabetes update: Immune therapy, screening, and new technology contemporarypediatrics.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHJ2Q2dmV2lsQnByU0p2V2JBV2RLUUxkSDEwbnBJM1EzcXNDek00NzJLRzVtQnhNUmJiVUxpZjFUdXp2MEFTMzFDVzRHZEdMNkx2cHh0QlFNYklRbW10US1DQlZpSUN4cDZFUzduZTkwcC1mS1BiYTFZdU5XZWtrUUNCSFNuMWFmdmh4eGo3QlRQa244d09IczNpMnV0RTBNa0JEazR3eW9vWjlMbWlB?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -3155,15 +3245,15 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHJ2Q2dmV2lsQnByU0p2V2JBV2RLUUxkSDEwbnBJM1EzcXNDek00NzJLRzVtQnhNUmJiVUxpZjFUdXp2MEFTMzFDVzRHZEdMNkx2cHh0QlFNYklRbW10US1DQlZpSUN4cDZFUzduZTkwcC1mS1BiYTFZdU5XZWtrUUNCSFNuMWFmdmh4eGo3QlRQa244d09IczNpMnV0RTBNa0JEazR3eW9vWjlMbWlB?oc=5",
-          "summary": "Type 1 diabetes update: Immune therapy, screening, and new technology Contemporary Pediatrics"
+          "summary": "Type 1 diabetes update: Immune therapy, screening, and new technology contemporarypediatrics.com"
         }
       ],
       "sourcesCount": 1
     },
     {
       "id": "c3869bd9375b",
-      "title": "Illinois Department of Innovation & Technology (DoIT) accepts national award at NASCIO Annual Conference - The Troy Times Tribune",
-      "summary": "Illinois Department of Innovation & Technology (DoIT) accepts national award at NASCIO Annual Conference The Troy Times Tribune",
+      "title": "Illinois Department of Innovation & Technology (DoIT) accepts national award at NASCIO Annual Conference - timestribunenews.com",
+      "summary": "Illinois Department of Innovation & Technology (DoIT) accepts national award at NASCIO Annual Conference timestribunenews.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRkpMUU9DQ3BwY213amhBOFR4SFBLSEJsYXBxaDlPSngxLXdkam9qby1yT0h5eDRoc3YyTzR6aGdlTW9LdEVDbENDUi1WZVpoSXlOT2ZtUXl0NWRFU1o4cHdXM2VnX1VGNW5XWFNvbEhwaDhhNzNGRlgydk1ta0diZFJ4dWtWN09SOGwtZ3A4NkpXbW1OS0ZBUzdnV3QzLVNzQVBMU0dORFF2cjRJS2VMNEI2cG9jUTdVNzhXM2IwV05TN2EzNXBvSlpKdmZ1MHVaM2JmMWVrNWdQRjBCalE?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -3173,7 +3263,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRkpMUU9DQ3BwY213amhBOFR4SFBLSEJsYXBxaDlPSngxLXdkam9qby1yT0h5eDRoc3YyTzR6aGdlTW9LdEVDbENDUi1WZVpoSXlOT2ZtUXl0NWRFU1o4cHdXM2VnX1VGNW5XWFNvbEhwaDhhNzNGRlgydk1ta0diZFJ4dWtWN09SOGwtZ3A4NkpXbW1OS0ZBUzdnV3QzLVNzQVBMU0dORFF2cjRJS2VMNEI2cG9jUTdVNzhXM2IwV05TN2EzNXBvSlpKdmZ1MHVaM2JmMWVrNWdQRjBCalE?oc=5",
-          "summary": "Illinois Department of Innovation & Technology (DoIT) accepts national award at NASCIO Annual Conference The Troy Times Tribune"
+          "summary": "Illinois Department of Innovation & Technology (DoIT) accepts national award at NASCIO Annual Conference timestribunenews.com"
         }
       ],
       "sourcesCount": 1
@@ -3215,24 +3305,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f711976a1861",
-      "title": "Meet the Swarm Chasers Sleuthing Out Rogue AI | Technology for Oct. 4 - WSJ",
-      "summary": "Meet the Swarm Chasers Sleuthing Out Rogue AI | Technology for Oct. 4 WSJ",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBna29xU3ZCTW5lS3Vka212VGRUejA1SFI4SWM1TjhXblNqUDdERUd1eTVEOWttTGl5TThuUXNCdF9DeXJUc1ZrY0dJcFl4SzlKS0tQSWlkMno1Z1RCazROMjNueEtPcjVDT1hZ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 04 Oct 2026 19:42:07 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBna29xU3ZCTW5lS3Vka212VGRUejA1SFI4SWM1TjhXblNqUDdERUd1eTVEOWttTGl5TThuUXNCdF9DeXJUc1ZrY0dJcFl4SzlKS0tQSWlkMno1Z1RCazROMjNueEtPcjVDT1hZ?oc=5",
-          "summary": "Meet the Swarm Chasers Sleuthing Out Rogue AI | Technology for Oct. 4 WSJ"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "98a7838b5f8f",
       "title": "\"Mentale Gesundheit gefährdet\": Golla erklärt Wechselwunsch",
       "summary": "Sportlich läuft es bei der MT Melsungen, dennoch herrscht beim Handball-Erstligisten große Aufregung. Grund: Starspieler Johannes Golla will weg.",
@@ -3264,24 +3336,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/wdr/wdr-alle-stark-gespielt-furiose-haie-stuermen-in-ingolstadt-zum-sieg-100.html",
           "summary": "Offensiv top, defensiv weiter anfällig: Die Kölner Haie haben gegen den ERC Ingolstadt einen befreienden Sieg gefeiert."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b51200917dab",
-      "title": "Automatic Data Processing vs. Lumentum: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
-      "summary": "Automatic Data Processing vs. Lumentum: Which Technology Stock Is a Better Buy in 2026?",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3hTbFU1cmRhR1duS2hOVDJyTnNpbV95MjQ2MW1Say1yNDRGRlRvNmN4NzNhZmYwRnk3STVsWnhPb19melBpbml4U2FPeUVJcXdCUGluMldUNWpodHI0ZElyVUU5b1FYZTN5aUxEdENDem1PWHFJNWpaRXNia18yY3pqX3ZwY09UMUdXMklCQjU5OGRGbXo3U1VIV0RPLUEwSC1CTEVsVHNEd2dZZjlYRHNPUWJJcWJLYmxjdFUwNDEwSUEwZjFhTERpUTlyWFNEZ3V3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 04 Oct 2026 19:28:47 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3hTbFU1cmRhR1duS2hOVDJyTnNpbV95MjQ2MW1Say1yNDRGRlRvNmN4NzNhZmYwRnk3STVsWnhPb19melBpbml4U2FPeUVJcXdCUGluMldUNWpodHI0ZElyVUU5b1FYZTN5aUxEdENDem1PWHFJNWpaRXNia18yY3pqX3ZwY09UMUdXMklCQjU5OGRGbXo3U1VIV0RPLUEwSC1CTEVsVHNEd2dZZjlYRHNPUWJJcWJLYmxjdFUwNDEwSUEwZjFhTERpUTlyWFNEZ3V3?oc=5",
-          "summary": "Automatic Data Processing vs. Lumentum: Which Technology Stock Is a Better Buy in 2026?"
         }
       ],
       "sourcesCount": 1
@@ -3755,6 +3809,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e0584f43e263",
+      "title": "Accenture vs. Microsoft: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+      "summary": "Accenture vs. Microsoft: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFVGaEFFUkFjUnQxcDEta2QxSkZlSHlsRzljUUdLRHB2U2hhOGFWYjlUTmJyN1ZDTW1RT2VuYmpMc2dGZDhNMHkyWFIxZUZqSENmWXNCOU5BN1YxZ0c2aGRyWE4zZ2N5eHRvR29QMElTTHlmNW9INWN4aVF3Qi1JdTJNUTY2T1pzN0hsTHhrMXpZSG1KN0hKemljcXVMWFZERlRCVl9OU0Jxa2hheHpGZ2x2dUYwWlM1V05veFFZcw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 04 Oct 2026 16:38:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFVGaEFFUkFjUnQxcDEta2QxSkZlSHlsRzljUUdLRHB2U2hhOGFWYjlUTmJyN1ZDTW1RT2VuYmpMc2dGZDhNMHkyWFIxZUZqSENmWXNCOU5BN1YxZ0c2aGRyWE4zZ2N5eHRvR29QMElTTHlmNW9INWN4aVF3Qi1JdTJNUTY2T1pzN0hsTHhrMXpZSG1KN0hKemljcXVMWFZERlRCVl9OU0Jxa2hheHpGZ2x2dUYwWlM1V05veFFZcw?oc=5",
+          "summary": "Accenture vs. Microsoft: Which Technology Stock Is a Better Buy in 2026?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "90fa24bd6221",
       "title": "Buchmesse 2026: Wenn israelische Autoren boykottiert werden",
       "summary": "Der dritte Jahrestag des Terrorangriffs der Hamas auf Israel fällt in die Zeit der Frankfurter Buchmesse. Literatur aus dem Hebräischen hat derzeit international einen schweren Stand.",
@@ -3864,8 +3936,8 @@
     },
     {
       "id": "71b09d3ed315",
-      "title": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology - nypost.com",
-      "summary": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology nypost.com",
+      "title": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology - New York Post",
+      "summary": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology New York Post",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNam5LYi1CUjVwaU5ENFRKNE1aQkNhUkVId18wUFdYVjNWSTYwUUs4RHA4Sm9iVFAyWEl6dF80SlRYTDF6RDVVRjlGVzZQamlBcnBrOXV6aVd1UFMxWld5cmM4T1k2YVRVd3dvVU1oMVZQSFZaU3dNY2FiclVoSWZDMVo3bndnb1I4V2s0T2ZBRExoNTNVdFh2YTBqVDdTLUFNSTRDRjlhdm5KYk5NMTd1NEZhY1liLWh3RmkydTRYTWladw?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -3875,7 +3947,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNam5LYi1CUjVwaU5ENFRKNE1aQkNhUkVId18wUFdYVjNWSTYwUUs4RHA4Sm9iVFAyWEl6dF80SlRYTDF6RDVVRjlGVzZQamlBcnBrOXV6aVd1UFMxWld5cmM4T1k2YVRVd3dvVU1oMVZQSFZaU3dNY2FiclVoSWZDMVo3bndnb1I4V2s0T2ZBRExoNTNVdFh2YTBqVDdTLUFNSTRDRjlhdm5KYk5NMTd1NEZhY1liLWh3RmkydTRYTWladw?oc=5",
-          "summary": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology nypost.com"
+          "summary": "Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology New York Post"
         }
       ],
       "sourcesCount": 1
@@ -4026,8 +4098,8 @@
     },
     {
       "id": "e5dbf1c93eb6",
-      "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology - foxbusiness.com",
-      "summary": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology foxbusiness.com",
+      "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology - Fox Business",
+      "summary": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology Fox Business",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnN5eW5kNW1la3RKMkY0ak1LQlB3dWZ0a1d0YloyOXFnLU1Id1dSRjdjVGhoU1pQOTVsXzB6VFhFejAzT1dEcE1odkFWVElFTEV3LVZseHNuLWlYOUZITGR4WlFSTXFqejFlMXVXTXFLNjJZMjZOT3lVQjJ4UVVtNXdRWUxFWTB1X0pUUjF3TUpvdnhDNng3b0NEV3BlbE9EaWUwUkQ2Mnp0SkVP0gGyAUFVX3lxTE9iS2lFdUJQVFBKTS12dUN0bzhNcWZwQmdxUHBuOWRTNVQzRjNyOURNRTI0RGZ4RFV2Y1k0ZE9hRXRBMTUxSWswRDBlYVlSRGFxR25TbURzQm1BSXlqaW15bnpRcVVibXJxa2NMeEUwSlNTZHBjMUt3Qk5aQnk3TWJ4aDM2VXVKNVdXOXdwaGlDSUhxODRBVlYzRnVNazBQZkxLelVNV1V2anh2VjRYWXFwcnc?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -4037,7 +4109,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnN5eW5kNW1la3RKMkY0ak1LQlB3dWZ0a1d0YloyOXFnLU1Id1dSRjdjVGhoU1pQOTVsXzB6VFhFejAzT1dEcE1odkFWVElFTEV3LVZseHNuLWlYOUZITGR4WlFSTXFqejFlMXVXTXFLNjJZMjZOT3lVQjJ4UVVtNXdRWUxFWTB1X0pUUjF3TUpvdnhDNng3b0NEV3BlbE9EaWUwUkQ2Mnp0SkVP0gGyAUFVX3lxTE9iS2lFdUJQVFBKTS12dUN0bzhNcWZwQmdxUHBuOWRTNVQzRjNyOURNRTI0RGZ4RFV2Y1k0ZE9hRXRBMTUxSWswRDBlYVlSRGFxR25TbURzQm1BSXlqaW15bnpRcVVibXJxa2NMeEUwSlNTZHBjMUt3Qk5aQnk3TWJ4aDM2VXVKNVdXOXdwaGlDSUhxODRBVlYzRnVNazBQZkxLelVNV1V2anh2VjRYWXFwcnc?oc=5",
-          "summary": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology foxbusiness.com"
+          "summary": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology Fox Business"
         }
       ],
       "sourcesCount": 1
@@ -4146,24 +4218,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRU13M2lrLWxPLW1IS1I3ZVlxQ1UxMndqV2ZFaDVBQTFvTnZoSFhscXd3OFVxR2V2b0lDN3lRekxVRnpIODNkaTZZSnFnMU91M05kZElaS2d1a2pfQk10ejJhYUFsRWRSU1B2RGFaUl8ybW9RRXNNWHBXMjl0VVB3VzIxdDg5T0hnODdGMXZ4X29nZXpmbjNkM1Z2eURNWU04RUg0aDIxeDZ6RmdxWmc?oc=5",
           "summary": "Nicaragua announces withdrawal from Central American Parliament Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "65433dabf2b6",
-      "title": "Reclaiming workers’ ownership over artificial intelligence and technologies - mronline.org",
-      "summary": "Reclaiming workers’ ownership over artificial intelligence and technologies mronline.org",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlpY0JyYWRtMU5zLVhqa2ItaWZMV0ZMLW1QUmxxVmd1RVdQWVlJX2NSOEhlWW5zV2tha1dMSFoyUThyWFZhYjZRVEF0d0o5cDZxVnRIZkNRVlZtcTI4WERvMTBucl9ORUgtWmVVYmMtdm1pZmtHbnBvZHpSMHJQZk5sbkJCQTBITS1Xd2dIbjhzYXhPYVJVUndZUklIakJiUEpIUnJ1N3JXeXc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 04 Oct 2026 15:21:37 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzlpY0JyYWRtMU5zLVhqa2ItaWZMV0ZMLW1QUmxxVmd1RVdQWVlJX2NSOEhlWW5zV2tha1dMSFoyUThyWFZhYjZRVEF0d0o5cDZxVnRIZkNRVlZtcTI4WERvMTBucl9ORUgtWmVVYmMtdm1pZmtHbnBvZHpSMHJQZk5sbkJCQTBITS1Xd2dIbjhzYXhPYVJVUndZUklIakJiUEpIUnJ1N3JXeXc?oc=5",
-          "summary": "Reclaiming workers’ ownership over artificial intelligence and technologies mronline.org"
         }
       ],
       "sourcesCount": 1
@@ -5200,24 +5254,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "4caaf433abf5",
-      "title": "Eklat nach Frage: Pressekonferenz vor Irland-Spiel gegen Israel wird abgebrochen",
-      "summary": "Eine Medienrunde vor dem Nations-League-Spiel der Iren gegen Israel eskaliert nach der Frage eines Journalisten. Das erhöht die ohnehin schon hohe Brisanz der Partie weiter.",
-      "link": "https://www.faz.net/aktuell/sport/fussball/vor-irland-gegen-israel-pressekonferenz-endet-mit-eklat-accg-201286499.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 04 Oct 2026 09:20:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/fussball/vor-irland-gegen-israel-pressekonferenz-endet-mit-eklat-accg-201286499.html",
-          "summary": "Eine Medienrunde vor dem Nations-League-Spiel der Iren gegen Israel eskaliert nach der Frage eines Journalisten. Das erhöht die ohnehin schon hohe Brisanz der Partie weiter."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "edf09766676f",
       "title": "Merz und die Ukraine: Wo Putin auf Granit beißen muss",
       "summary": "Moskau will mit hybridem Krieg und Atomdrohungen Europa bewegen, die Unterstützung der Ukraine aufzugeben. Das leichteste Spiel meint Putin mit den Deutschen zu haben.",
@@ -5411,42 +5447,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQQk5uWVcxY05fd2ZkV3R2T3J1SFJTS3dEcXduaGxSZFUwWHdjbURoVUxFQW1qU3RFTGpIZnlnNk50VGhVRlBPOENlYUxSSWhELXRlRlNWRWFpWU80clhGQTR4YU9rSURqTEVFRG9rdWUxZlo4bmlHMkZ4eHE5TnNZSG9OSDgxckZNWnYtT1M5TjUtanluV1FKSnpkTjlEcG95S3JRZmNRZEhTM3l1NUVoUTdGaWhXbnI5LUplMUxnLTlnRkhrbloyNzZ2UE9DUW43RnBmWmVBUjJvV0NHVHpqS1czenpwV1ZaTm1hS05XS0w2MDh4bnNNWU0zT1lFWDY3NVRjMm1FZzdBRW5wS21VNVA2UDI3S0dXTk1rdGdEYTJPeHZGTzV6bmJXX3VHX3hQVjdPcFV6YlNLNW1tWGExQUdhYThDbEg4enZIZnQxaE9HYVE0aGx5YXBxM3hnZ9IB4wJBVV95cUxPTXNUMjBzekdlcENnSzFCLUgxNnhFT2g4Y0ZWUDRNdThHeU1MbmVuWUFYU2ZhdzlheHhHZDFpYTBRb081aTVIRzhTelVMb1ZkNnFYUTRzdUJEc0YyTTUyVWk2Y1dnNHJoZjY2dWpJN0lsMlVSR0V1OG5mZUk5QWh1aDVVaGphYmkxUjZwLXo2cFZvcmQyVDJuZzBMa3RzcjhLMmlSRy1tZF9GU1pDRHVHYnFubk10YkZMa1QxY09kYTc1UjdjUTdlU1NHSFl3ckdOWVFZb2s0eHVCZThwalhFU25VWWhnZ2RqM2Q4UlFITlBmLXRyZlRIaThROWRZYm5LYXFPN0s4bzJqLWt3QkM0LUw1ZWFJU2x2Zk9mUkk3LVZLNVBzcGx5TDhzQmpfYmEwWGNZeUxRTTdWU2p0bXJZeEZyZDJlckpZS0JNYm9zME80dnM1dDlwVk0xNnlMZ2JiLWJN?oc=5",
           "summary": "Microsoft co-founder Bill Gates says technology has truly stunned him only three times in his life, and t The Times of India"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "186485a41c44",
-      "title": "Ostseebad: Das ewige Versprechen von Heiligendamm",
-      "summary": "Heiligendamm ist Deutschlands ältestes und ungewöhnlichstes Seebad. Vermögen gingen hier verloren.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/was-wurde-aus-heiligendamm-das-ein-investor-zum-zweiten-sylt-machen-wollte-accg-201270030.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sun, 04 Oct 2026 06:04:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/was-wurde-aus-heiligendamm-das-ein-investor-zum-zweiten-sylt-machen-wollte-accg-201270030.html",
-          "summary": "Heiligendamm ist Deutschlands ältestes und ungewöhnlichstes Seebad. Vermögen gingen hier verloren."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ad30f21b646a",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw20v0prjn66o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 04 Oct 2026 05:40:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw20v0prjn66o?at_medium=RSS&at_campaign=rss",
-          "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
         }
       ],
       "sourcesCount": 1
