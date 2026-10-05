@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:06:47.979383+00:00",
+  "updated": "2026-10-05T11:42:46.334581+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -110,24 +110,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e55d75ae5c04",
-      "title": "Selçuk Bayraktar: TEKNOFEST, 'biz yapamayız' diyen anlayışa başkaldırıdır",
-      "summary": "T3) Vakfı Mütevelli Heyeti Başkanı ve TEKNOFEST Yönetim Kurulu Başkanı Selçuk Bayraktar, \"TEKNOFEST, bir öz güven devrimidir. 'Biz yapamayız' diyen anlayışa başkaldırıdır.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/selcuk-bayraktar-teknofest-biz-yapamayiz-diyen-anlayisa-baskaldiridir-958668.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 30 Sep 2026 16:41:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/selcuk-bayraktar-teknofest-biz-yapamayiz-diyen-anlayisa-baskaldiridir-958668.html",
-          "summary": "T3) Vakfı Mütevelli Heyeti Başkanı ve TEKNOFEST Yönetim Kurulu Başkanı Selçuk Bayraktar, \"TEKNOFEST, bir öz güven devrimidir. 'Biz yapamayız' diyen anlayışa başkaldırıdır."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "905968209be4",
       "title": "Regulating AI 'not the right place to start' says Bailey",
       "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
@@ -231,6 +213,24 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
           "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1b4cc4490429",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 23 Sep 2026 23:12:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
         }
       ],
       "sourcesCount": 1
@@ -393,6 +393,42 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/messi-milli-takima-veda-edecek-956960.html",
           "summary": "Milli takım kariyerini noktaladığını açıklayan Lionel Messi, Arjantin'in gelecek ay Benin ile yapacağı hazırlık maçında son kez sahaya çıkacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9e830aea74b0",
+      "title": "Press kit: Alaska Airlines unveils its international Business Class Suites experience - Alaska Airlines",
+      "summary": "Press kit: Alaska Airlines unveils its international Business Class Suites experience Alaska Airlines",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHMtR2dFU2ZmVmdNRHhwdmM1cnJqbzhJMllyVk1oVjVYOUVGTXgxMmdvNzhZcEhROEpWTHhNdG5SYWF1MDV0X2NHVjNDRnpXV3pWcEdWNU9QNGhhc05GTnlpb0lHd19DUFRBNkVtSXBCblhNdXpOMlNYYTBpV3FVQ0VTUHZHODBEd29JeEM1UEx0MWZRS0UzalRsLTlWZ25qMHYzdV95RnhVWmY0bnJrVHBidE1TR3piYjBRMHhUd2t3OFlR?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 16 Sep 2026 04:06:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHMtR2dFU2ZmVmdNRHhwdmM1cnJqbzhJMllyVk1oVjVYOUVGTXgxMmdvNzhZcEhROEpWTHhNdG5SYWF1MDV0X2NHVjNDRnpXV3pWcEdWNU9QNGhhc05GTnlpb0lHd19DUFRBNkVtSXBCblhNdXpOMlNYYTBpV3FVQ0VTUHZHODBEd29JeEM1UEx0MWZRS0UzalRsLTlWZ25qMHYzdV95RnhVWmY0bnJrVHBidE1TR3piYjBRMHhUd2t3OFlR?oc=5",
+          "summary": "Press kit: Alaska Airlines unveils its international Business Class Suites experience Alaska Airlines"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "62e7337278e5",
+      "title": "Top study abroad scholarships for business master’s students - Graduate Management Admission Council",
+      "summary": "Top study abroad scholarships for business master’s students Graduate Management Admission Council",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLU1PVXFxMUhPdGJmUnZnNnlEU0ozckM3bW5ZYWRxdjhpWEdsVVpOSEpSMEhVU1FjUldPdDZHUzFQWHVMS1B4SXpBRGswR0JfWmZ2Q0ZyUTJCZEZiTVJmR3hDaDZVQ3Y1cUFhRUQ2aXMwZXB3SGlZTUFiQ2pHdmJWSld3RmZYVU1RQl9aVGdXU1pwWFRzbU1wOHNtN2xqTjFYWUxPY2RUVWE?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLU1PVXFxMUhPdGJmUnZnNnlEU0ozckM3bW5ZYWRxdjhpWEdsVVpOSEpSMEhVU1FjUldPdDZHUzFQWHVMS1B4SXpBRGswR0JfWmZ2Q0ZyUTJCZEZiTVJmR3hDaDZVQ3Y1cUFhRUQ2aXMwZXB3SGlZTUFiQ2pHdmJWSld3RmZYVU1RQl9aVGdXU1pwWFRzbU1wOHNtN2xqTjFYWUxPY2RUVWE?oc=5",
+          "summary": "Top study abroad scholarships for business master’s students Graduate Management Admission Council"
         }
       ],
       "sourcesCount": 1
@@ -711,6 +747,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "567246dad595",
+      "title": "Spain battles climate change on several fronts",
+      "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 22 Sep 2026 09:11:48 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0313b19e120a",
       "title": "Am Ende wieder am Anfang",
       "summary": "Das Bundeskartellamt hat die 50+1-Regel im deutschen Fußball im August für rechtens erklärt, aber die einheitliche Anwendung gefordert. Am Ende des Verfahrens steht damit alles wieder auf Anfang.",
@@ -778,6 +832,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/forschung/preis-immunforscher-100.html",
           "summary": "Der australische Immunologe Goodnow erhält den Paul Ehrlich- und Ludwig Darmstaedter-Preis 2027. Er zeigte, dass potenziell schädliche Immunzellen nicht zerstört, sondern als Reserve in eine Art Tiefschlaf versetzt werden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1230ea112708",
+      "title": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” - FISU",
+      "summary": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” FISU",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVllNNk9SZ2lScGpveUFFeFFudGFSelRPSGc0LVFkZWNRcDVKM0NwSnlleVJVTUFMWERoVDdlUVdQUjZpbUZGNm1HY2tIQnBxZmxIa2tZVWg1OGd3VDlSZlFCUTZwSGNRb3p5MFVHeWRzX2hJT2Z5cnJiWkJFTXZZWWpOZjc4T29nTWd0Mm1EdzZld3R3bXhGU1c4dVlPanA5cHA0VHlLcWNRWXZ3bXI5cmtSNnB2anhFaWFKWFZwaUVVWTdBYm9pbWVoaWJqeTNMTlBjeTdDNFBMX1VNb1hHRDJab3dLc3F3YjA2V3oxbThQbnl2RnRj?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVllNNk9SZ2lScGpveUFFeFFudGFSelRPSGc0LVFkZWNRcDVKM0NwSnlleVJVTUFMWERoVDdlUVdQUjZpbUZGNm1HY2tIQnBxZmxIa2tZVWg1OGd3VDlSZlFCUTZwSGNRb3p5MFVHeWRzX2hJT2Z5cnJiWkJFTXZZWWpOZjc4T29nTWd0Mm1EdzZld3R3bXhGU1c4dVlPanA5cHA0VHlLcWNRWXZ3bXI5cmtSNnB2anhFaWFKWFZwaUVVWTdBYm9pbWVoaWJqeTNMTlBjeTdDNFBMX1VNb1hHRDJab3dLc3F3YjA2V3oxbThQbnl2RnRj?oc=5",
+          "summary": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” FISU"
         }
       ],
       "sourcesCount": 1
@@ -1485,24 +1557,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "33b9b505ebc9",
-      "title": "Travelodge failed sex assault victim 'at every stage'",
-      "summary": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
-      "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 01 Oct 2026 16:40:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-          "summary": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3f1c232b2396",
       "title": "Dağlıoğlu: TEKNOFEST, bir şeyler üretmek için birçok insana ilham kaynağı oluyor",
       "summary": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi Başkanı Ahmet Burak Dağlıoğlu, TEKNOFEST'in, insanlığa faydalı teknoloji alanında üretimde bulunmak isteyen birçok kişiye ilham kaynağı olduğunu belirtti.",
@@ -1606,14 +1660,9 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb04tMWtYWVNKenF5WEtQRm1Ub1VLTnpKQ0s3anI5a1BOTEVfQnAyVHdYXzVhRU1obTNtZWNwcEgyYXYtSkNvR1ppcUhUNmcxUTlPWklMQXh4dUdPdXFfX2NESTVhMXU0VVYxTkcxRG9iSFUtN0JmZFBoRDZ3N2pMazQ1TF9ENVFaNWJ6dTlHazlRVGEtbHRRenRVWUFjWWRVZ2xSdXR2a3lIVVdob1djVzgwS0dEOEhuYUhrYVJB?oc=5",
           "summary": "Why is International Business Machines stock rallying today? Investing.com"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3NDcEQxeWVva3d0WXliU3d0LTFCRXlNd2V5eTZISG1paU9ySXgtNGxlU1RFQVlDVEIxXy1idTl3R24wMWlqYXhxQlJOeXFKYmd4UTAwblpQVlhZcFkyZ3lkRXNYYVJrbTRhOGdRV0xGLXZMZkNnRThNZTRneDk1cWJLZy1xay1nVWc?oc=5",
-          "summary": "International Business Machines Corp Stock (IBM) Opened Up by 4.68% on Oct 1: Key Drivers Unveiled TradingKey"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "5c835b43ba74",
@@ -1706,42 +1755,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "72d697f95165",
-      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-      "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 01 Oct 2026 07:08:22 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "29650e16283b",
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
-      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 01 Oct 2026 07:07:08 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-          "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "08f003d9de7c",
       "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
       "summary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
@@ -1755,6 +1768,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
           "summary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3bc0bf5e659a",
+      "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports By Reuters - Investing.com",
+      "summary": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVm1aREZ4MTY4VkgtYkRCQnVJUS01cDRJSlNhVDJxNzRDUVVUWWMtamlSWnFmZktLYkhDazhJY2oxTG04MkJjV3FtZjZUcGxnVG1Jc3ZfSGNVM2VXU0pWckpfc1owc0ZIemgyTnl3ZmJrMzJqVllyT1VsMlVPR1htcWdoQTJiUWxnM18yX1llLTBpSmw4WHQxRDJtdkdMZmkwYVVVbmJ4WWhUS0hpV05KMEgzbjIzUUlSam1WUDVPSzhTUzZaU1R2d0JUODNDYzlPY0xHTDFaSVFoRTJP?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 27 Sep 2026 15:34:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVm1aREZ4MTY4VkgtYkRCQnVJUS01cDRJSlNhVDJxNzRDUVVUWWMtamlSWnFmZktLYkhDazhJY2oxTG04MkJjV3FtZjZUcGxnVG1Jc3ZfSGNVM2VXU0pWckpfc1owc0ZIemgyTnl3ZmJrMzJqVllyT1VsMlVPR1htcWdoQTJiUWxnM18yX1llLTBpSmw4WHQxRDJtdkdMZmkwYVVVbmJ4WWhUS0hpV05KMEgzbjIzUUlSam1WUDVPSzhTUzZaU1R2d0JUODNDYzlPY0xHTDFaSVFoRTJP?oc=5",
+          "summary": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -2133,24 +2164,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
           "summary": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3abe999a75b3",
-      "title": "US removes bombers from UK base at centre of suspected Iranian plot - Reuters",
-      "summary": "US removes bombers from UK base at centre of suspected Iranian plot Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFOOXowMVhwM2NXbHA2Z01IbUNKSGJIcnJHaEUybUdKZ2xCNHV0SU5sb183a1dZU3RJS0hEa2djdnZNU1hUcEhucW9HOEUxZDZoWS1UVUhrVjVtTnlEUmt2VERkMVFET3cxaUdkZjBKUUxBdVFJS3BPNndHQnVJUXloNjBQMnp0SjhqeEI4Zk1kb3QzVG5Zam5zYWdJcEk?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 04 Oct 2026 21:22:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFOOXowMVhwM2NXbHA2Z01IbUNKSGJIcnJHaEUybUdKZ2xCNHV0SU5sb183a1dZU3RJS0hEa2djdnZNU1hUcEhucW9HOEUxZDZoWS1UVUhrVjVtTnlEUmt2VERkMVFET3cxaUdkZjBKUUxBdVFJS3BPNndHQnVJUXloNjBQMnp0SjhqeEI4Zk1kb3QzVG5Zam5zYWdJcEk?oc=5",
-          "summary": "US removes bombers from UK base at centre of suspected Iranian plot Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2715,8 +2728,8 @@
     },
     {
       "id": "71f4a237e76b",
-      "title": "New technology advances understanding of eye pressure and glaucoma - Medical Xpress",
-      "summary": "New technology advances understanding of eye pressure and glaucoma Medical Xpress",
+      "title": "New technology advances understanding of eye pressure and glaucoma - medicalxpress.com",
+      "summary": "New technology advances understanding of eye pressure and glaucoma medicalxpress.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2726,7 +2739,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5",
-          "summary": "New technology advances understanding of eye pressure and glaucoma Medical Xpress"
+          "summary": "New technology advances understanding of eye pressure and glaucoma medicalxpress.com"
         }
       ],
       "sourcesCount": 1
@@ -3398,24 +3411,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
           "summary": "Das Angebot war zunächst nur auf den Sommer begrenzt - jetzt soll es dauerhaft eingeführt werden: das Familienticket der Deutschen Bahn. Denn laut Bahn-Chefin Palla war der Pauschalpreis ein Erfolg."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "aaa19731c9ad",
-      "title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ",
-      "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 04 Oct 2026 02:14:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
-          "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ"
         }
       ],
       "sourcesCount": 1
@@ -4824,6 +4819,24 @@
       "sourcesCount": 2
     },
     {
+      "id": "5ec306e8bc1c",
+      "title": "GÖKBAĞI projesinin ilk uydusunu TRT Haber görüntüledi",
+      "summary": "ASELSAN Genel Müdürü Ahmet Akyol, Antalya 77. Uluslararası Uzay Kongresi'nde TRT Haber'in soruları yanıtladı.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/gokbagi-projesinin-ilk-uydusunu-trt-haber-goruntuledi-959170.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 05 Oct 2026 13:47:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/gokbagi-projesinin-ilk-uydusunu-trt-haber-goruntuledi-959170.html",
+          "summary": "ASELSAN Genel Müdürü Ahmet Akyol, Antalya 77. Uluslararası Uzay Kongresi'nde TRT Haber'in soruları yanıtladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "cc3a41e60129",
       "title": "Norveç Mülteci Konseyi: Gazze'de 1,65 milyon kişi yaklaşan kış nedeniyle barınma sorunu yaşıyor",
       "summary": "Norveç Mülteci Konseyi (NRC), İsrail'in soykırım suçu işlediği Gazze'de 1,65 milyon kişinin kış öncesi barınma sorunu yaşadığını bildirdi.",
@@ -4837,6 +4850,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/norvec-multeci-konseyi-gazzede-165-milyon-kisi-yaklasan-kis-nedeniyle-barinma-sorunu-yasiyor-959168.html",
           "summary": "Norveç Mülteci Konseyi (NRC), İsrail'in soykırım suçu işlediği Gazze'de 1,65 milyon kişinin kış öncesi barınma sorunu yaşadığını bildirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f12aa6ccdb55",
+      "title": "Klopps Casting-Bilanz: Sieben Spieler ohne Einsatz, Treu dreimal in der Startelf",
+      "summary": "Philipp Treu spielt drei Partien über die gesamte Distanz, Finn Dahmen kommt auf keine Minute, obwohl er für beide Kader gesetzt war. Die Einsatz-Bilanz aller Fußball-Nationalspieler nach vier Partien in der Nations League.",
+      "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopps-casting-bilanz-wer-bekam-wie-viel-einsatzzeit,einsaetze-nations-league-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 13:26:51 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopps-casting-bilanz-wer-bekam-wie-viel-einsatzzeit,einsaetze-nations-league-100.html",
+          "summary": "Philipp Treu spielt drei Partien über die gesamte Distanz, Finn Dahmen kommt auf keine Minute, obwohl er für beide Kader gesetzt war. Die Einsatz-Bilanz aller Fußball-Nationalspieler nach vier Partien in der Nations League."
         }
       ],
       "sourcesCount": 1
@@ -5171,6 +5202,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a4365ceebda6",
+      "title": "Clara Lösel: Wenn Gedichte viral gehen",
+      "summary": "Lyrik gilt im Buchhandel eigentlich als Ladenhüter. In den Sozialen Medien erreicht Clara Lösel damit ein Millionenpublikum.",
+      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/frankfurter-buchmesse-2026-warum-clara-loesel-s-gedichte-so-erfolgreich-sind-accg-201195390.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 11:37:25 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/frankfurter-buchmesse-2026-warum-clara-loesel-s-gedichte-so-erfolgreich-sind-accg-201195390.html",
+          "summary": "Lyrik gilt im Buchhandel eigentlich als Ladenhüter. In den Sozialen Medien erreicht Clara Lösel damit ein Millionenpublikum."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "81939f086d2c",
       "title": "Güney Kore, Askerden Arındırılmış Bölge'deki patlama nedeniyle Kuzey Kore'nin özür dilemesini istedi",
       "summary": "Güney Kore, 21 Eylül'de ülkeyi Kuzey Kore ile ayıran Askerden Arındırılmış Bölge'de (DMZ) yapılan arama çalışması sırasında 3 subayının yaralanmasına neden olan patlamanın ardından Kuzey Kore'nin özür dilemesini talep etti.",
@@ -5207,6 +5256,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "006456de624a",
+      "title": "Influential Women Showcases Natalie D. Romano: Transforming Global Sales Readiness Through Technology And Leadership - EIN News",
+      "summary": "Influential Women Showcases Natalie D. Romano: Transforming Global Sales Readiness Through Technology And Leadership EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUEotcmx6Qkg3d0ZKT3dscVM5RU03Wmh5bHRQZ3huVXA1c3NybjVlX3hKQ0NvdVU2YjIwODhVTlktRk1ZMmVMLXAyNmRPSElNWFlicU8xYzJDUGxoQWR5bkpTOGN3MXNHMmlKUUpyNEFhX3Vxa1hyeEJkempkQU10eHZHQXRZU0NoY3Y2ZHVUcWg2NDY2NHN2TXpIeEJHNzdJTDJEUjRLVEtvYzJxUDZPaHpHbVV2Q0w5cXpKdmg0SXZLQ005UmpNdTdSbkNVWkhMSlljeFM0RWdSMWMxdHBTZENGSlE3UG0zMWRvVWxB?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 05 Oct 2026 11:29:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUEotcmx6Qkg3d0ZKT3dscVM5RU03Wmh5bHRQZ3huVXA1c3NybjVlX3hKQ0NvdVU2YjIwODhVTlktRk1ZMmVMLXAyNmRPSElNWFlicU8xYzJDUGxoQWR5bkpTOGN3MXNHMmlKUUpyNEFhX3Vxa1hyeEJkempkQU10eHZHQXRZU0NoY3Y2ZHVUcWg2NDY2NHN2TXpIeEJHNzdJTDJEUjRLVEtvYzJxUDZPaHpHbVV2Q0w5cXpKdmg0SXZLQ005UmpNdTdSbkNVWkhMSlljeFM0RWdSMWMxdHBTZENGSlE3UG0zMWRvVWxB?oc=5",
+          "summary": "Influential Women Showcases Natalie D. Romano: Transforming Global Sales Readiness Through Technology And Leadership EIN News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5157ab0e3426",
       "title": "Alltag in Iran zwischen Wirtschaftskrise und Angst vor Krieg",
       "summary": "Im Krieg der USA gegen Iran ist keine Lösung in Sicht. Gekämpft wird zwar nicht, Gespräche haben aber keine Fortschritte gebracht.",
@@ -5225,6 +5292,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "becaa5c3ffe7",
+      "title": "Türsteher bei der Buchmesse: In ist, wer drin ist",
+      "summary": "Er ist auf der Buchmesse seit Jahren an vielen Orten für die Sicherheit zuständig, im Literaturhaus oder früher bei der Rowohlt-Party. Wer hineinwill, muss an ihm vorbei: Türsteher Axel Eisenbeis, genannt „Der Schulz“.",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/als-tuersteher-auf-der-frankfurter-buchmesse-2026-accg-201256068.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 11:21:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/als-tuersteher-auf-der-frankfurter-buchmesse-2026-accg-201256068.html",
+          "summary": "Er ist auf der Buchmesse seit Jahren an vielen Orten für die Sicherheit zuständig, im Literaturhaus oder früher bei der Rowohlt-Party. Wer hineinwill, muss an ihm vorbei: Türsteher Axel Eisenbeis, genannt „Der Schulz“."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "957c8033f8e1",
       "title": "Bakan Şimşek: Göstergeler kira enflasyonundaki düşüşün süreceğine işaret ediyor",
       "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Geçen yılın aynı ayına göre 27,8 puan gerileyen yıllık kira enflasyonu yüzde 41,3’e indi. Öncü göstergeler, kira enflasyonundaki düşüşün süreceğine işaret ediyor.\" dedi.",
@@ -5238,6 +5323,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-gostergeler-kira-enflasyonundaki-dususun-surecegine-isaret-ediyor-959145.html",
           "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Geçen yılın aynı ayına göre 27,8 puan gerileyen yıllık kira enflasyonu yüzde 41,3’e indi. Öncü göstergeler, kira enflasyonundaki düşüşün süreceğine işaret ediyor.\" dedi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a79a881e6839",
+      "title": "FC Bayern bestätigt: DFB-Kapitänin Gwinn fällt wochenlang aus",
+      "summary": "Giulia Gwinn muss einen herben Rückschlag einstecken. Die Führungsspielerin des FC Bayern fällt mit einem Außenbandriss abermals wochenlang aus.",
+      "link": "https://www.faz.net/aktuell/sport/fussball/giulia-gwinn-aussenbandriss-bei-dfb-kapitaenin-accg-201289647.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Mon, 05 Oct 2026 11:19:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/fussball/giulia-gwinn-aussenbandriss-bei-dfb-kapitaenin-accg-201289647.html",
+          "summary": "Giulia Gwinn muss einen herben Rückschlag einstecken. Die Führungsspielerin des FC Bayern fällt mit einem Außenbandriss abermals wochenlang aus."
         }
       ],
       "sourcesCount": 1
@@ -5274,6 +5377,42 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
           "summary": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "93dd2bad385e",
+      "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises - Reuters",
+      "summary": "US Army tests counter-drone tech at Mexican border as cartel drone use rises Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 05 Oct 2026 11:14:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ?oc=5",
+          "summary": "US Army tests counter-drone tech at Mexican border as cartel drone use rises Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1e2c256062c2",
+      "title": "Ilona Hartmann im Interview: „Ich bin sensorisch überstimuliert, aber geistig unterfordert“",
+      "summary": "Ilona Hartmann hat ein Buch über „Junk“ geschrieben. Im Interview verrät sie, welche drei kuriosen Hobbys sie sich jetzt zugelegt hat, und erklärt, warum das Wegwerfen von Überflüssigem auch ein Privileg ist.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/ilona-hartmann-junk-buch-und-eigener-stil-im-algorithmus-accg-201254494.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 11:11:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/menschen/ilona-hartmann-junk-buch-und-eigener-stil-im-algorithmus-accg-201254494.html",
+          "summary": "Ilona Hartmann hat ein Buch über „Junk“ geschrieben. Im Interview verrät sie, welche drei kuriosen Hobbys sie sich jetzt zugelegt hat, und erklärt, warum das Wegwerfen von Überflüssigem auch ein Privileg ist."
         }
       ],
       "sourcesCount": 1
@@ -5328,150 +5467,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/turk-lirasiyla-dis-ticaret-hacmi-9-ayda-12-trilyon-lirayi-asti-959144.html",
           "summary": "Türk lirasıyla dış ticaret hacmi, ocak-eylül döneminde geçen yılın aynı dönemine kıyasla yüzde 13 artarak 1 trilyon 200 milyar 822 milyon liraya ulaştı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dc7779782bf4",
-      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
-      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 11:04:37 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-          "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5171af17d6bd",
-      "title": "IAF Başkanı Gabriella Arrigo, Uzay Kongresi'nde küresel uzay toplumunun bir araya geleceğini söyledi",
-      "summary": "Uluslararası Uzay Federasyonu (IAF) Başkanı Gabriella Arrigo, Uluslararası Uzay Kongresi'nde bilim insanları, mühendisler, uzay ajansı temsilcileri, sanayici ve politikacılar, öğrenciler, liderler ve gelecek neslin uzay öncüleri dahil küresel uzay toplumunun tüm kesimlerinin bir araya geleceğini söyledi.",
-      "link": "https://www.trthaber.com/haber/dunya/iaf-baskani-gabriella-arrigo-uzay-kongresinde-kuresel-uzay-toplumunun-bir-araya-gelecegini-soyledi-959141.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 11:04:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/iaf-baskani-gabriella-arrigo-uzay-kongresinde-kuresel-uzay-toplumunun-bir-araya-gelecegini-soyledi-959141.html",
-          "summary": "Uluslararası Uzay Federasyonu (IAF) Başkanı Gabriella Arrigo, Uluslararası Uzay Kongresi'nde bilim insanları, mühendisler, uzay ajansı temsilcileri, sanayici ve politikacılar, öğrenciler, liderler ve gelecek neslin uzay öncüleri dahil küresel uzay toplumunun tüm kesimlerinin bir araya geleceğini söyledi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9cb5ebdd74ff",
-      "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-      "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 10:44:51 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dd3a0195bee4",
-      "title": "Eylülde fiyatı en çok artan ve azalan ürünler belli oldu",
-      "summary": "Tüketici fiyatları bazında eylülde en yüksek fiyat artışı yüzde 25,79 ile yükseköğretim eğitiminde görülürken, en çok ucuzlayan ürün yüzde 24,41 ile turunçgiller oldu.",
-      "link": "https://www.trthaber.com/haber/ekonomi/eylulde-fiyati-en-cok-artan-ve-azalan-urunler-belli-oldu-959140.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "wirtschaft",
-      "time": "Mon, 05 Oct 2026 10:43:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/eylulde-fiyati-en-cok-artan-ve-azalan-urunler-belli-oldu-959140.html",
-          "summary": "Tüketici fiyatları bazında eylülde en yüksek fiyat artışı yüzde 25,79 ile yükseköğretim eğitiminde görülürken, en çok ucuzlayan ürün yüzde 24,41 ile turunçgiller oldu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2875218f1773",
-      "title": "Irwin could ride at Brands Hatch after hospital discharge",
-      "summary": "Northern Ireland's Glenn Irwin is discharged from hospital after crashing in Sunday's British Superbike round at Donington Park.",
-      "link": "https://www.bbc.co.uk/sport/motorsport/articles/c6d09zvvl9x3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 10:42:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/motorsport/articles/c6d09zvvl9x3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Northern Ireland's Glenn Irwin is discharged from hospital after crashing in Sunday's British Superbike round at Donington Park."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d53f7167aab1",
-      "title": "Biathletin Vanessa Voigt trainiert lieber allein",
-      "summary": "Deutschlands Top-Biathletin Vanessa Voigt hat mit dem DSV vereinbart, sich eigenverantwortlich auf die Weltcup-Saison vorzubereiten. Ein Schritt, der überrascht.",
-      "link": "https://www.sportschau.de/wintersport/biathlon/biathletin-vanessa-voigt-trainiert-lieber-allein,biathlon-voigt-118.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 10:41:08 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/wintersport/biathlon/biathletin-vanessa-voigt-trainiert-lieber-allein,biathlon-voigt-118.html",
-          "summary": "Deutschlands Top-Biathletin Vanessa Voigt hat mit dem DSV vereinbart, sich eigenverantwortlich auf die Weltcup-Saison vorzubereiten. Ein Schritt, der überrascht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "271561d9eddf",
-      "title": "US air force removes all bombers from British military base RAF Fairford",
-      "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 10:39:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-          "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5935215f6dde",
-      "title": "Yaşlı ve engelli aylıkları hesaplara yatırılmaya başlandı",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, ekim ayında 1 milyon 290 bin 486 vatandaşın hesabına toplam 9 milyar 470 milyon lira yaşlı ve engelli aylığı ödemesinin yatırılmaya başlandığını açıkladı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi-959138.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 10:36:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi-959138.html",
-          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, ekim ayında 1 milyon 290 bin 486 vatandaşın hesabına toplam 9 milyar 470 milyon lira yaşlı ve engelli aylığı ödemesinin yatırılmaya başlandığını açıkladı."
         }
       ],
       "sourcesCount": 1
