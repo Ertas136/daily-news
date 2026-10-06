@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:06:35.190513+00:00",
+  "updated": "2026-10-06T10:41:04.026140+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -363,21 +363,26 @@
     },
     {
       "id": "3d690992b82d",
-      "title": "Physik-Nobelpreis: Francis Halzen für Neutrinos geehrt",
-      "summary": "Historische Verkündung in Stockholm: Ellen Moons gibt bekannt, dass der Physik-Nobelpreis 2026 für die Entdeckung von Neutrinos an Francis Halzen geht.",
+      "title": "Physik-Nobelpreis 2026 geht an Astrophysiker Francis Halzen",
+      "summary": "Der Physik-Nobelpreis geht an Francis Halzen. Er wird für den Nachweis von Neutrinos - \"Geisterteilchen\" - mit dem riesigen \"IceCube\"-Detektor am Südpol geehrt.",
       "link": "https://www.zdfheute.de/wissen/physik-nobelpreis-2026-francis-halzen-neutrinos-astrophysik-100.html",
       "sourceName": "ZDF",
       "region": "germany",
       "topic": "wissenschaft",
-      "time": "Tue, 6 Oct 2026 11:50:00 +0200",
+      "time": "Tue, 6 Oct 2026 12:33:00 +0200",
       "coverage": [
         {
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/wissen/physik-nobelpreis-2026-francis-halzen-neutrinos-astrophysik-100.html",
-          "summary": "Historische Verkündung in Stockholm: Ellen Moons gibt bekannt, dass der Physik-Nobelpreis 2026 für die Entdeckung von Neutrinos an Francis Halzen geht."
+          "summary": "Der Physik-Nobelpreis geht an Francis Halzen. Er wird für den Nachweis von Neutrinos - \"Geisterteilchen\" - mit dem riesigen \"IceCube\"-Detektor am Südpol geehrt."
+        },
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/video/video-1661224.html",
+          "summary": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "b6c7b9d35679",
@@ -999,6 +1004,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "4c1424ae5444",
+      "title": "Belçika'da eğitim reformlarını protesto eden öğrenciler, Brüksel'de okulun girişini kapattı",
+      "summary": "Belçika’da eğitim reformlarına karşı çıkan öğrenciler, başkent Brüksel'de de bir ortaöğretim kurumunun girişini kapatarak hafta boyunca sürecek protesto başlattı.",
+      "link": "https://www.trthaber.com/haber/dunya/belcikada-egitim-reformlarini-protesto-eden-ogrenciler-brukselde-okulun-girisini-kapatti-959290.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 13:28:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/belcikada-egitim-reformlarini-protesto-eden-ogrenciler-brukselde-okulun-girisini-kapatti-959290.html",
+          "summary": "Belçika’da eğitim reformlarına karşı çıkan öğrenciler, başkent Brüksel'de de bir ortaöğretim kurumunun girişini kapatarak hafta boyunca sürecek protesto başlattı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5d51a8b1c6bd",
+      "title": "Fransız AP Üyesi Fourreau: Fransa çocuklarını sakatlıyor",
+      "summary": "Avrupa Parlamentosu'nun (AP) Fransız üyesi Emma Fourreau, günlerdir devam eden lise eylemlerinde Fransa'nın çocuklarını sakatladığını söyledi.",
+      "link": "https://www.trthaber.com/haber/dunya/fransiz-ap-uyesi-fourreau-fransa-cocuklarini-sakatliyor-959288.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 13:26:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/fransiz-ap-uyesi-fourreau-fransa-cocuklarini-sakatliyor-959288.html",
+          "summary": "Avrupa Parlamentosu'nun (AP) Fransız üyesi Emma Fourreau, günlerdir devam eden lise eylemlerinde Fransa'nın çocuklarını sakatladığını söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5480af7c2b5b",
       "title": "Nobel Fizik Ödülü'nün sahibi belli oldu",
       "summary": "İsveç Kraliyet Bilimler Akademisi, 2026 Nobel Fizik Ödülü'nün sahibini açıkladı. Buna göre ödül, IceCube Nötrino Gözlemevi'ne yaptığı belirleyici katkılar ve astrofiziksel kökenli yüksek enerjili nötrinoların keşfi nedeniyle bilim insanı Francis Halzen'e verildi.",
@@ -1035,10 +1076,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "12fba25f3eba",
-      "title": "Katil İsrail'in Gazze Şeridi'ndeki soykırımına en ağır bedel çocukların",
-      "summary": "İsrail'in Gazze'deki soykırım saldırılarında en ağır bedeli çocuklar ödedi",
-      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-soykirimina-en-agir-bedel-cocuklarin-959283.html",
+      "id": "d0c825a3495f",
+      "title": "Katil İsrail'in Gazze Şeridi'ndeki soykırımında en ağır bedeli çocuklar ödedi",
+      "summary": "İsrail'in soykırım yaptığı Gazze Şeridi'nde savaşın en ağır bedelini bebekler ve çocuklar öderken yaşanan kayıplar, savaşın acımasız yüzünü çarpıcı bir şekilde gözler önüne seriyor.",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-soykiriminda-en-agir-bedeli-cocuklar-odedi-959283.html",
       "sourceName": "TRT Haber Welt",
       "region": "international",
       "topic": "technologie",
@@ -1046,8 +1087,26 @@
       "coverage": [
         {
           "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-soykirimina-en-agir-bedel-cocuklarin-959283.html",
-          "summary": "İsrail'in Gazze'deki soykırım saldırılarında en ağır bedeli çocuklar ödedi"
+          "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-soykiriminda-en-agir-bedeli-cocuklar-odedi-959283.html",
+          "summary": "İsrail'in soykırım yaptığı Gazze Şeridi'nde savaşın en ağır bedelini bebekler ve çocuklar öderken yaşanan kayıplar, savaşın acımasız yüzünü çarpıcı bir şekilde gözler önüne seriyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "309aa3192de3",
+      "title": "Olise begeistert Trainer Zidane gegen Belgien",
+      "summary": "Frankreich startete mit einer B-Elf in die Nations-League-Partie gegen Belgien und lag lange in Rückstand. Dann wechselte Coach Zinédine Zidane den Sieg ein.",
+      "link": "https://www.sportschau.de/fussball/nationsleague/zidane-wechselt-gegen-belgien-sieg-ein,spielbericht-nations-league-frankreich-belgien-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 12:16:46 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/nationsleague/zidane-wechselt-gegen-belgien-sieg-ein,spielbericht-nations-league-frankreich-belgien-100.html",
+          "summary": "Frankreich startete mit einer B-Elf in die Nations-League-Partie gegen Belgien und lag lange in Rückstand. Dann wechselte Coach Zinédine Zidane den Sieg ein."
         }
       ],
       "sourcesCount": 1
@@ -1156,6 +1215,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
           "summary": "Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind gestorben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "dcf3e25c618a",
+      "title": "Samoa Başbakanı Schmidt, 19 yıl önceki Nazi selamı için özür diledi",
+      "summary": "Samoa Başbakanı La'auli Leuatea Schmidt, 19 yıl önce \"Heil Hitler (Hitler'e selam)\" ifadesini kullanarak Nazi selamı vermesi nedeniyle özür diledi.",
+      "link": "https://www.trthaber.com/haber/dunya/samoa-basbakani-schmidt-19-yil-onceki-nazi-selami-icin-ozur-diledi-959273.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 11:27:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/samoa-basbakani-schmidt-19-yil-onceki-nazi-selami-icin-ozur-diledi-959273.html",
+          "summary": "Samoa Başbakanı La'auli Leuatea Schmidt, 19 yıl önce \"Heil Hitler (Hitler'e selam)\" ifadesini kullanarak Nazi selamı vermesi nedeniyle özür diledi."
         }
       ],
       "sourcesCount": 1
@@ -1395,10 +1472,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "0c0e87d193ff",
-      "title": "Güney Kore'den Kuzey Kore'ye kararlı karşılık",
-      "summary": "Güney Kore: Askerden Arındırılmış Bölge'deki mayın temizleme operasyonu \"Kuzey'e kararlı bir karşılık\" olduğunu söyledi",
-      "link": "https://www.trthaber.com/haber/dunya/guney-koreden-kuzey-koreye-kararli-karsilik-959259.html",
+      "id": "fa09535890cb",
+      "title": "Güney Kore'den Kuzey Kore'ye mayın operasyonu",
+      "summary": "Güney Kore: Askerden Arındırılmış Bölge'deki mayın temizleme operasyonu \"Kuzey'e kararlı bir karşılık\" olduğunu söyledi.",
+      "link": "https://www.trthaber.com/haber/dunya/guney-koreden-kuzey-koreye-mayin-operasyonu-959259.html",
       "sourceName": "TRT Haber Welt",
       "region": "turkey",
       "topic": "technologie",
@@ -1406,8 +1483,62 @@
       "coverage": [
         {
           "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/guney-koreden-kuzey-koreye-kararli-karsilik-959259.html",
-          "summary": "Güney Kore: Askerden Arındırılmış Bölge'deki mayın temizleme operasyonu \"Kuzey'e kararlı bir karşılık\" olduğunu söyledi"
+          "link": "https://www.trthaber.com/haber/dunya/guney-koreden-kuzey-koreye-mayin-operasyonu-959259.html",
+          "summary": "Güney Kore: Askerden Arındırılmış Bölge'deki mayın temizleme operasyonu \"Kuzey'e kararlı bir karşılık\" olduğunu söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "cd3810fc08c5",
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 10:37:50 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+          "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b1567142454a",
+      "title": "Wegen Spionageverdachts: Ehemaliger BND-Präsident August Hanning festgenommen",
+      "summary": "Der frühere Geheimdienstchef soll unter anderem für einen fremden Nachrichtendienst eine Analyse erstellt haben. Es handelt sich nach F.A.Z.-Informationen nicht um einen russischen Dienst.",
+      "link": "https://www.faz.net/aktuell/politik/inland/spionageverdacht-ehemaliger-bnd-chef-august-hanning-festgenommen-accg-201292036.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:36:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/spionageverdacht-ehemaliger-bnd-chef-august-hanning-festgenommen-accg-201292036.html",
+          "summary": "Der frühere Geheimdienstchef soll unter anderem für einen fremden Nachrichtendienst eine Analyse erstellt haben. Es handelt sich nach F.A.Z.-Informationen nicht um einen russischen Dienst."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f2e9e9a16171",
+      "title": "USA unter Trump: Trump erlaubt allen Amerikanern Kauf von Agrardiesel",
+      "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-erlaubt-allen-amerikanern-kauf-von-agrardiesel-faz-19444916.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:29:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-erlaubt-allen-amerikanern-kauf-von-agrardiesel-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
         }
       ],
       "sourcesCount": 1
@@ -1426,6 +1557,42 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/gunes-ve-ruzgardan-elektrik-uretiminde-tarihi-rekor-959255.html",
           "summary": "Güneş ve rüzgar kaynaklı toplam elektrik üretiminde ağustosta 9,9 milyar kilovatsaat ile tüm zamanların en yüksek seviyesine çıkılarak tarihi rekor kırıldı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ca61885fb78b",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Tue, 06 Oct 2026 10:23:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+          "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "60cdda3b2395",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:22:05 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+          "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
         }
       ],
       "sourcesCount": 1
@@ -1485,6 +1652,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "3e444cf46240",
+      "title": "Schülerproteste: Bis zu 40.000 Protestierende in Paris erwartet",
+      "summary": "Abermals blockieren Schüler in Frankreich landesweit Schulen, auch Gewerkschaften und Eltern haben sich den Protesten angeschlossen. Derweil wächst die Kritik am Vorgehen der Einsatzkräfte.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-schueler-und-gewerkschaftsvertreter-blockieren-schulen-accg-201291935.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 10:18:23 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-schueler-und-gewerkschaftsvertreter-blockieren-schulen-accg-201291935.html",
+          "summary": "Abermals blockieren Schüler in Frankreich landesweit Schulen, auch Gewerkschaften und Eltern haben sich den Protesten angeschlossen. Derweil wächst die Kritik am Vorgehen der Einsatzkräfte."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "abaffe9166eb",
+      "title": "Verarbeitendes Gewerbe: Auftragseingang der Industrie bricht ein",
+      "summary": "Weniger Militäraufträge, so vermuten Bankvolkswirte, haben die Auftragseingänge im verarbeitenden Gewerbe im August förmlich einbrechen lassen. Die Ökonomen sind darüber nicht beunruhigt.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/auftragseingang-im-august-drastischer-rueckgang-ohne-dramatik-accg-201292243.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 10:14:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/auftragseingang-im-august-drastischer-rueckgang-ohne-dramatik-accg-201292243.html",
+          "summary": "Weniger Militäraufträge, so vermuten Bankvolkswirte, haben die Auftragseingänge im verarbeitenden Gewerbe im August förmlich einbrechen lassen. Die Ökonomen sind darüber nicht beunruhigt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "404e867382bc",
       "title": "İsrail'in soykırımcı Savunma Bakanı Katz, orduya Gazze'de hazırlıkları artırma talimatı verdi",
       "summary": "İşgalci İsrail'de 27 Ekimde yapılacak seçimler yaklaşırken Savunma Bakanı Yisrael Katz, orduya Gazze'de muhtemel tüm senaryolara karşı hazırlıkları artırma talimatı verdi.",
@@ -1498,6 +1701,42 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/israilin-soykirimci-savunma-bakani-katz-orduya-gazzede-hazirliklari-artirma-talimati-verdi-959252.html",
           "summary": "İşgalci İsrail'de 27 Ekimde yapılacak seçimler yaklaşırken Savunma Bakanı Yisrael Katz, orduya Gazze'de muhtemel tüm senaryolara karşı hazırlıkları artırma talimatı verdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "09cd3057e271",
+      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 10:13:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+          "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "54a86cca576e",
+      "title": "Saints thrashed as Falcons score six touchdowns",
+      "summary": "Bijan Robinson scores two rushing touchdowns and Brian Robinson scores three as Atlanta Falcons beat New Orleans Saints 45-24.",
+      "link": "https://www.bbc.co.uk/sport/american-football/videos/c6n8dg004dk1o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 10:12:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/american-football/videos/c6n8dg004dk1o?at_medium=RSS&at_campaign=rss",
+          "summary": "Bijan Robinson scores two rushing touchdowns and Brian Robinson scores three as Atlanta Falcons beat New Orleans Saints 45-24."
         }
       ],
       "sourcesCount": 1
@@ -1539,6 +1778,114 @@
       "sourcesCount": 1
     },
     {
+      "id": "87e60fb32214",
+      "title": "Solidion Technology (NASDAQ: STI) Sees no Basis to Increase Its Offer to Polar Power, Inc. (NASDAQ: POLA) in Response to Board Rejection of All-Cash Asset Acquisition Proposal | Corporate - eqs-news.com",
+      "summary": "Solidion Technology (NASDAQ: STI) Sees no Basis to Increase Its Offer to Polar Power, Inc. (NASDAQ: POLA) in Response to Board Rejection of All-Cash Asset Acquisition Proposal | Corporate eqs-news.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcVdJVmw5SU9HZ1FMaXZNekRWR2RnbkF0RzRGUnVYZ1d6ZFh3UGJya2xnR0locldad0pfdF8xcmh6MXF0d3RWRldMd3dWZDlzMWIxMHVLQXdWMmwxODRwbGF6QnZOU1JHUEdDbjF5M0c3eFJLeVNaZmlyTzZpQVpmTDRtYnJoRnl4X0t6dUpGSE5lNFRaVmpXcHgyVllJc1hLb25TSTdPZjczelUwQm5laXNqM2pOTEloR0thSUVFeFF6cDVjLTdGQXpVRS1GdHpjWlhTbDhXVWlQQU1jUHZBNFkxd1hkQ0NaaV9RdFBIaWdVOHAtUWxXck5LU3BiZlV2YVdHRW1waVhsUXdjRVFrRmVabnlYNnRmMmVtZTdoRy1ZR1owTFlGdnhwbC1ZNVV2N3NrUXpDTkxLRUNhYVp1TFQ3OS1TRUI5OXpmSVMxTjdxNDdVR2tKc0Z0QU9YX3M2bEtJNzhR?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 10:09:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcVdJVmw5SU9HZ1FMaXZNekRWR2RnbkF0RzRGUnVYZ1d6ZFh3UGJya2xnR0locldad0pfdF8xcmh6MXF0d3RWRldMd3dWZDlzMWIxMHVLQXdWMmwxODRwbGF6QnZOU1JHUEdDbjF5M0c3eFJLeVNaZmlyTzZpQVpmTDRtYnJoRnl4X0t6dUpGSE5lNFRaVmpXcHgyVllJc1hLb25TSTdPZjczelUwQm5laXNqM2pOTEloR0thSUVFeFF6cDVjLTdGQXpVRS1GdHpjWlhTbDhXVWlQQU1jUHZBNFkxd1hkQ0NaaV9RdFBIaWdVOHAtUWxXck5LU3BiZlV2YVdHRW1waVhsUXdjRVFrRmVabnlYNnRmMmVtZTdoRy1ZR1owTFlGdnhwbC1ZNVV2N3NrUXpDTkxLRUNhYVp1TFQ3OS1TRUI5OXpmSVMxTjdxNDdVR2tKc0Z0QU9YX3M2bEtJNzhR?oc=5",
+          "summary": "Solidion Technology (NASDAQ: STI) Sees no Basis to Increase Its Offer to Polar Power, Inc. (NASDAQ: POLA) in Response to Board Rejection of All-Cash Asset Acquisition Proposal | Corporate eqs-news.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "433dee525cf2",
+      "title": "Kenya confirms first Ebola case imported from Congo - reuters.com",
+      "summary": "Kenya confirms first Ebola case imported from Congo reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlJLbDdiRHg5YS1UZEJ1anM5UjA4S25hS0hNSnRWNHNvb2xnaGVxYkpBVWhSVC1Pdm9vZ3ltbzJsY2RwV0xYSjQ3TGRhT3hOSkxLTElLSUxqV3QxOHpzOVJPNlhyWFIwYzI4RnlkODBWU0hZR3BWMmhNdkpfZGxYVzN0Z05RcUhnYTFQdldFTFV4SzhYaTk3UDBYY1hkdHJLRHIta1JYc2g1NVhzbkxENU9SZ3RJaDVLWFh4cklWYXhLa1l1SmdtdUxCc2pKQlhz?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:08:25 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlJLbDdiRHg5YS1UZEJ1anM5UjA4S25hS0hNSnRWNHNvb2xnaGVxYkpBVWhSVC1Pdm9vZ3ltbzJsY2RwV0xYSjQ3TGRhT3hOSkxLTElLSUxqV3QxOHpzOVJPNlhyWFIwYzI4RnlkODBWU0hZR3BWMmhNdkpfZGxYVzN0Z05RcUhnYTFQdldFTFV4SzhYaTk3UDBYY1hkdHJLRHIta1JYc2g1NVhzbkxENU9SZ3RJaDVLWFh4cklWYXhLa1l1SmdtdUxCc2pKQlhz?oc=5",
+          "summary": "Kenya confirms first Ebola case imported from Congo reuters.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "588bef43b363",
+      "title": "Klage nach Germanwings-Absturz: „Es geht um sehr viel Grundsätzlicheres als eine Entschädigung“",
+      "summary": "Mehr als elf Jahre nach dem Flugzeugabsturz einer Germanwings-Maschine wurde in Braunschweig um zusätzliches Schmerzensgeld für Angehörige gestritten. Das Gericht hat die Klage abgewiesen.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schmerzensgeld-nach-germanwings-absturz-gericht-weist-klage-von-hinterbliebenen-ab-accg-201292075.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:08:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schmerzensgeld-nach-germanwings-absturz-gericht-weist-klage-von-hinterbliebenen-ab-accg-201292075.html",
+          "summary": "Mehr als elf Jahre nach dem Flugzeugabsturz einer Germanwings-Maschine wurde in Braunschweig um zusätzliches Schmerzensgeld für Angehörige gestritten. Das Gericht hat die Klage abgewiesen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "53a1ef74e2a4",
+      "title": "‘Pull the plug’: protesters resort to direct action against AI firms - The Guardian",
+      "summary": "‘Pull the plug’: protesters resort to direct action against AI firms The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ZUTndlU0xvQTEydXlpbmJPYW5IaDJ1UlVZRUY1Y3ZIQzVTVnJVYjc4Z0I2VVMxUEdEMDJHTHk1cWJBd3pvdlJLekUzMmxLTEpCSndBS2Z6dzk2NDdxWlBLWnpIYWRmc2JNaERfSHNZVWJrUEtZdU42MVFxNzFxaFQteG1vN2ROdlI4djMzMm45akxjendfaG5zMW9xU0lOUTdYaHo1NzFwMVY5SXQ1MEcxMERhLTg?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 10:07:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ZUTndlU0xvQTEydXlpbmJPYW5IaDJ1UlVZRUY1Y3ZIQzVTVnJVYjc4Z0I2VVMxUEdEMDJHTHk1cWJBd3pvdlJLekUzMmxLTEpCSndBS2Z6dzk2NDdxWlBLWnpIYWRmc2JNaERfSHNZVWJrUEtZdU42MVFxNzFxaFQteG1vN2ROdlI4djMzMm45akxjendfaG5zMW9xU0lOUTdYaHo1NzFwMVY5SXQ1MEcxMERhLTg?oc=5",
+          "summary": "‘Pull the plug’: protesters resort to direct action against AI firms The Guardian"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "349146704d27",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:05:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+          "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c31a6697518f",
+      "title": "Americans Deeply Skeptical of Taxpayer-Funded Election Ads, Reuters/Ipsos Poll Finds - U.S. News & World Report",
+      "summary": "Americans Deeply Skeptical of Taxpayer-Funded Election Ads, Reuters/Ipsos Poll Finds U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUHJDNHRlc1k2RFJzQ05OQ18yZVNEZzBJTzd2U1RIRnJheTFrZ3BkRVVwMjV2MWFudUdQVEdOd2dJTS1QMU5SN0d2cVE0WUVBSV9XeEdseGRMcnlqOUNyUnpiLTFvbFVLOEpLM1JOdDhGOTI5R3hkaG5uLTZPMm5MMDB2SXZSZjZaa2c5NmxnMGJkU3pRRnlBU0ZqeVVuSnFTLUlNM1h6VGRlWXB4SnhuamFLaHd4NjZvLW9JVmhJaXZScDAwTnlqUTdhUEk3b2g1dy1QTDRUSQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:04:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUHJDNHRlc1k2RFJzQ05OQ18yZVNEZzBJTzd2U1RIRnJheTFrZ3BkRVVwMjV2MWFudUdQVEdOd2dJTS1QMU5SN0d2cVE0WUVBSV9XeEdseGRMcnlqOUNyUnpiLTFvbFVLOEpLM1JOdDhGOTI5R3hkaG5uLTZPMm5MMDB2SXZSZjZaa2c5NmxnMGJkU3pRRnlBU0ZqeVVuSnFTLUlNM1h6VGRlWXB4SnhuamFLaHd4NjZvLW9JVmhJaXZScDAwTnlqUTdhUEk3b2g1dy1QTDRUSQ?oc=5",
+          "summary": "Americans Deeply Skeptical of Taxpayer-Funded Election Ads, Reuters/Ipsos Poll Finds U.S. News & World Report"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6eda8db27e30",
       "title": "What brokers should look for in changing benefits technology - InsuranceNewsNet",
       "summary": "What brokers should look for in changing benefits technology InsuranceNewsNet",
@@ -1552,24 +1899,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaDNZdGpCUU16ZjhvMFU3UWljQnFkVG5SNDE2eEZSRWJIbFBLNDMySjRWTU5pYWRYQVBZOGJ5NHNycmNpUktrUFBOYWN2TzRITzhTWVdGLV85TEVPb0tFOHZveTJSU1N6dE1LaFRNTVFxVWhPWmFlRno3THNVUnpxSnRjZFVERTdCQXBycFBYcHpjMkI4Y0tvU2hXdU0wS2xtN0E?oc=5",
           "summary": "What brokers should look for in changing benefits technology InsuranceNewsNet"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "12cb15ec6c06",
-      "title": "Crew missing after drone sinks ship in Bulgaria's Black Sea - reuters.com",
-      "summary": "Crew missing after drone sinks ship in Bulgaria's Black Sea reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 10:01:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
-          "summary": "Crew missing after drone sinks ship in Bulgaria's Black Sea reuters.com"
         }
       ],
       "sourcesCount": 1
@@ -1631,22 +1960,22 @@
     {
       "id": "d1af004cd00f",
       "title": "Bekanntgabe in Stockholm: Physik-Nobelpreis geht an Neutrinoforscher Francis Halzen",
-      "summary": "Der deutsche Physiker Wilhelm Conrad Röntgen zählte zu den allerersten Nobelpreisträgern. 125 Jahre später geht der Preis an einen Astrophysiker.",
+      "summary": "Der deutsche Physiker Wilhelm Conrad Röntgen zählte zu den allerersten Nobelpreisträgern. 125 Jahre später geht der Preis an einen Teilchenforscher aus den USA.",
       "link": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-nobelpreis-an-neutrinoforscher-francis-halzen-accg-201292227.html",
       "sourceName": "FAZ",
-      "region": "germany",
+      "region": "international",
       "topic": "wissenschaft",
       "time": "Tue, 06 Oct 2026 09:53:24 GMT",
       "coverage": [
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-nobelpreis-an-neutrinoforscher-francis-halzen-accg-201292227.html",
-          "summary": "Der deutsche Physiker Wilhelm Conrad Röntgen zählte zu den allerersten Nobelpreisträgern. 125 Jahre später geht der Preis an einen Astrophysiker."
+          "summary": "Der deutsche Physiker Wilhelm Conrad Röntgen zählte zu den allerersten Nobelpreisträgern. 125 Jahre später geht der Preis an einen Teilchenforscher aus den USA."
         },
         {
           "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1661224.html",
-          "summary": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher"
+          "link": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html",
+          "summary": "Der Nobelpreis für Physik geht an den belgisch-amerikanischen Neutrinoforscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos am Südpol, wie das Nobelkomitee mitteilte."
         }
       ],
       "sourcesCount": 2
@@ -1654,7 +1983,7 @@
     {
       "id": "29230c666253",
       "title": "Magdeburger Landtag: Von Angern zu Siegmund: „Das war kein guter Start“",
-      "summary": "Alterspräsidentin eröffnet konstituierende Sitzung des Landtags in Sachsen-Anhalt +++ Siegmund hofft bei Wahl des Landtagspräsidenten auf „jede Stimme mehr“ +++ alle Entwicklungen im Liveblog",
+      "summary": "Alterspräsidentin kritisiert Verhalten der AfD nach der Wahl +++ Fraktionen streiten über Wahl der Landtagsvizepräsidenten +++ Landtag in Sachsen-Anhalt konstituiert sich +++ alle Entwicklungen im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-sachsen-anhalt-von-angern-zu-siegmund-das-war-kein-guter-start-faz-110093143.html",
       "sourceName": "FAZ",
       "region": "germany",
@@ -1664,25 +1993,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-sachsen-anhalt-von-angern-zu-siegmund-das-war-kein-guter-start-faz-110093143.html",
-          "summary": "Alterspräsidentin eröffnet konstituierende Sitzung des Landtags in Sachsen-Anhalt +++ Siegmund hofft bei Wahl des Landtagspräsidenten auf „jede Stimme mehr“ +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "cd3810fc08c5",
-      "title": "ASOS app users receive notifications from hackers in apparent breach",
-      "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 09:49:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app."
+          "summary": "Alterspräsidentin kritisiert Verhalten der AfD nach der Wahl +++ Fraktionen streiten über Wahl der Landtagsvizepräsidenten +++ Landtag in Sachsen-Anhalt konstituiert sich +++ alle Entwicklungen im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -1701,6 +2012,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
           "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8b2e9ac5ec40",
+      "title": "400 Kreise untersucht: Bevölkerung in Deutschland wird laut Studie bis 2045 schrumpfen",
+      "summary": "81,8 Millionen Menschen leben 2045 in Deutschland – so prognostiziert es das Berlin-Institut für Bevölkerung und Entwicklung. Etwa zwei Drittel der untersuchten Kreise und kreisfreien Städte müssen mit einem Bevölkerungsrückgang rechnen.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/bevoelkerung-in-deutschland-schrumpft-laut-studie-bis-2045-accg-201292435.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "wissenschaft",
+      "time": "Tue, 06 Oct 2026 09:46:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/menschen/bevoelkerung-in-deutschland-schrumpft-laut-studie-bis-2045-accg-201292435.html",
+          "summary": "81,8 Millionen Menschen leben 2045 in Deutschland – so prognostiziert es das Berlin-Institut für Bevölkerung und Entwicklung. Etwa zwei Drittel der untersuchten Kreise und kreisfreien Städte müssen mit einem Bevölkerungsrückgang rechnen."
         }
       ],
       "sourcesCount": 1
@@ -1868,24 +2197,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "60cdda3b2395",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 09:26:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-          "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "5b9706b1589d",
       "title": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
       "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation.",
@@ -1899,24 +2210,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
           "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "96da4fd8ee78",
-      "title": "Prozess in Braunschweig: Schmerzensgeld nach Germanwings-Absturz: Gericht weist Klage von Hinterbliebenen ab",
-      "summary": "Mehr als elf Jahre nach dem Flugzeugabsturz wurde in Braunschweig um zusätzliches Schmerzensgeld für Angehörige gestritten. Das Gericht hat die Klage abgewiesen.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schmerzensgeld-nach-germanwings-absturz-gericht-weist-klage-von-hinterbliebenen-ab-accg-201292075.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 09:17:26 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schmerzensgeld-nach-germanwings-absturz-gericht-weist-klage-von-hinterbliebenen-ab-accg-201292075.html",
-          "summary": "Mehr als elf Jahre nach dem Flugzeugabsturz wurde in Braunschweig um zusätzliches Schmerzensgeld für Angehörige gestritten. Das Gericht hat die Klage abgewiesen."
         }
       ],
       "sourcesCount": 1
@@ -1953,24 +2246,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/tennis/articles/ck78p9jl2gl5o?at_medium=RSS&at_campaign=rss",
           "summary": "World number one Jannik Sinner will not play again in 2026 because of an ongoing right knee injury."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b1567142454a",
-      "title": "Wegen Spionageverdachts: Ehemaliger BND-Präsident August Hanning festgenommen",
-      "summary": "Der frühere Geheimdienstchef soll unter anderem für einen fremden Nachrichtendienst eine Analyse erstellt haben. Es handelt sich nach F.A.Z.-Informationen nicht um einen russischen Dienst.",
-      "link": "https://www.faz.net/aktuell/politik/inland/spionageverdacht-ehemaliger-bnd-chef-august-hanning-festgenommen-accg-201292036.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 09:06:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/spionageverdacht-ehemaliger-bnd-chef-august-hanning-festgenommen-accg-201292036.html",
-          "summary": "Der frühere Geheimdienstchef soll unter anderem für einen fremden Nachrichtendienst eine Analyse erstellt haben. Es handelt sich nach F.A.Z.-Informationen nicht um einen russischen Dienst."
         }
       ],
       "sourcesCount": 1
@@ -2017,24 +2292,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "09cd3057e271",
-      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 09:02:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-          "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "570ba73f57e4",
       "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
       "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
@@ -2071,24 +2328,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a3f274f829f6",
-      "title": "Air Asia: Wie sich Asiens Billigflieger gegen die Staatsrettung stemmt",
-      "summary": "Deutsche Urlauber kennen Air Asia von ihren 20-Euro-Flügen von Insel zu Insel. Nun treibt der hohe Ölpreis den Billigflieger in die Krise.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/air-asia-wie-sich-asiens-billigflieger-gegen-die-staatsrettung-stemmt-accg-201286102.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 08:54:38 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/air-asia-wie-sich-asiens-billigflieger-gegen-die-staatsrettung-stemmt-accg-201286102.html",
-          "summary": "Deutsche Urlauber kennen Air Asia von ihren 20-Euro-Flügen von Insel zu Insel. Nun treibt der hohe Ölpreis den Billigflieger in die Krise."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "39ceb65816ba",
       "title": "Tobias Rausch: Er soll der erste Landtagspräsident der AfD werden",
       "summary": "Sein Vater war der erste Landtagsvizepräsident der AfD, nun soll Tobias Rausch in Magdeburg zu ihrem ersten Landtagspräsidenten gewählt werden. Belastet ist er durch die Verwandtenaffäre.",
@@ -2102,24 +2341,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/tobias-rausch-soll-in-sachsen-anhalt-erster-afd-landtagspraesident-werde-accg-201289186.html",
           "summary": "Sein Vater war der erste Landtagsvizepräsident der AfD, nun soll Tobias Rausch in Magdeburg zu ihrem ersten Landtagspräsidenten gewählt werden. Belastet ist er durch die Verwandtenaffäre."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3b665454a8ac",
-      "title": "Geld für Exzellenzunis: „Kein Ersatz für Finanzierung durch das Land“",
-      "summary": "Frankfurt, Mainz und Darmstadt dürfen sich künftig Exzellenzuniversitäten nennen und erhalten 155 Millionen Euro. Die Darmstädter Unipräsidentin Tanja Brühl erklärt, wie das Geld eingesetzt werden soll.",
-      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/exzellenzunis-was-die-rhein-main-universitaeten-mit-dem-geld-vorhaben-accg-201289446.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 08:53:36 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/exzellenzunis-was-die-rhein-main-universitaeten-mit-dem-geld-vorhaben-accg-201289446.html",
-          "summary": "Frankfurt, Mainz und Darmstadt dürfen sich künftig Exzellenzuniversitäten nennen und erhalten 155 Millionen Euro. Die Darmstädter Unipräsidentin Tanja Brühl erklärt, wie das Geld eingesetzt werden soll."
         }
       ],
       "sourcesCount": 1
@@ -2285,13 +2506,13 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFdnYkRJQVpTUnJwQ2NpazcyYjBEQkloX1lzM29nMHZ5RDVWMy1qZ1NKbHhpUEhROUlLbVpLSllGSnNDRlFkdlVIa29WNElmTzNiLUlMV0VuT0xpM085ejk5QnRRc1BXZUJ2UFY3OVpZLVpsR1ppcGN6UFQzYmgtUlhJZ2pXYjJRUXZRM3JtNnF6Uzh4VjBReEVzUGRGTk1IcDUzY2dqV1hsMmd5OHFDN2FvekNjVEhydVhUWDFHb0VtTEpTMlAyWkxsTm9aTUllTmI2M200c2FUVVpuak5ObWxiMnY?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock Purchased by CapWealth Advisors LLC MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSV84dFB4bWhxeG5YQUVXRENLYzBpcmNqZllheE1nTEh5dkJnUzhDR1pENTcyczkxN1VlbDBfTmRJWnI2dlg1OXB4djIycEViOW5pbkhjTjB5UlZydm5jLXdPeUhCdmRBakdsbDdLbnVtVmdQNkpvbnVVN3ZWd21GMTVUUGQzVGgyclBDbFhrUm54TnRCNjFFR2dhel9hYS1iRjFMaXJEWHA5aWxsM3NsLVF2aG1CVkxPX1pZcmRhME9MX29ONG43a3ZZM0YtY1cwS2E0dEFadHg2RUNUdlZsbkloQThHV25vaWxjaw?oc=5",
+          "summary": "2,328 International Business Machines Corporation $IBM Shares Bought by Ridgewood Investments LLC MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSV84dFB4bWhxeG5YQUVXRENLYzBpcmNqZllheE1nTEh5dkJnUzhDR1pENTcyczkxN1VlbDBfTmRJWnI2dlg1OXB4djIycEViOW5pbkhjTjB5UlZydm5jLXdPeUhCdmRBakdsbDdLbnVtVmdQNkpvbnVVN3ZWd21GMTVUUGQzVGgyclBDbFhrUm54TnRCNjFFR2dhel9hYS1iRjFMaXJEWHA5aWxsM3NsLVF2aG1CVkxPX1pZcmRhME9MX29ONG43a3ZZM0YtY1cwS2E0dEFadHg2RUNUdlZsbkloQThHV25vaWxjaw?oc=5",
-          "summary": "2,328 International Business Machines Corporation $IBM Shares Bought by Ridgewood Investments LLC MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFdnYkRJQVpTUnJwQ2NpazcyYjBEQkloX1lzM29nMHZ5RDVWMy1qZ1NKbHhpUEhROUlLbVpLSllGSnNDRlFkdlVIa29WNElmTzNiLUlMV0VuT0xpM085ejk5QnRRc1BXZUJ2UFY3OVpZLVpsR1ppcGN6UFQzYmgtUlhJZ2pXYjJRUXZRM3JtNnF6Uzh4VjBReEVzUGRGTk1IcDUzY2dqV1hsMmd5OHFDN2FvekNjVEhydVhUWDFHb0VtTEpTMlAyWkxsTm9aTUllTmI2M200c2FUVVpuak5ObWxiMnY?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock Purchased by CapWealth Advisors LLC MarketBeat"
         }
       ],
       "sourcesCount": 3
@@ -2369,42 +2590,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c1ffb45017d2",
-      "title": "Bilim insanları daha önce hiç görülmemiş bir gezegen keşfetti",
-      "summary": "Gök bilimciler, daha önce görülen hiçbir şeye benzemeyen ve ölen bir yıldızın parçalarından oluşan yeni bir gezegen keşfettiklerine inanıyor. Uzmanlar, yörüngesinde döndüğü ölü yıldızın parçalarından oluşan bu tür bir \"ikinci nesil\" gezegenin ilk kez gözlemlendiğini belirtiyor.",
-      "link": "https://www.trthaber.com/haber/dunya/bilim-insanlari-daha-once-hic-gorulmemis-bir-gezegen-kesfetti-959233.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 08:25:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/bilim-insanlari-daha-once-hic-gorulmemis-bir-gezegen-kesfetti-959233.html",
-          "summary": "Gök bilimciler, daha önce görülen hiçbir şeye benzemeyen ve ölen bir yıldızın parçalarından oluşan yeni bir gezegen keşfettiklerine inanıyor. Uzmanlar, yörüngesinde döndüğü ölü yıldızın parçalarından oluşan bu tür bir \"ikinci nesil\" gezegenin ilk kez gözlemlendiğini belirtiyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ef2cca2cc5ca",
-      "title": "Fransa'daki protestolarda polisin attığı bombayla 15 yaşındaki öğrencinin eli koptu",
-      "summary": "Fransa genelinde iki haftadır devam eden ve ülke çapında yüzlerce okulun kapanmasına neden olan öğrenci protestolarında şiddetin dozu tehlikeli boyutlara ulaştı.",
-      "link": "https://www.trthaber.com/haber/dunya/fransadaki-protestolarda-polisin-attigi-bombayla-15-yasindaki-ogrencinin-eli-koptu-959232.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 08:23:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/fransadaki-protestolarda-polisin-attigi-bombayla-15-yasindaki-ogrencinin-eli-koptu-959232.html",
-          "summary": "Fransa genelinde iki haftadır devam eden ve ülke çapında yüzlerce okulun kapanmasına neden olan öğrenci protestolarında şiddetin dozu tehlikeli boyutlara ulaştı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7effef4f18b9",
       "title": "Buchmesse mit Wallraff: Ich musste hier weg – und dann kam ich mit den Obdachlosen vom Bahnhof zurück",
       "summary": "Als mein Verlag im Oktober 1973 im Hessischen Hof zur Buchmesse einen Empfang für mich ausrichtete, war dort niemand so fehl am Platz wie ich selbst. Also verließ ich die Party, kam aber zurück.",
@@ -2418,24 +2603,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/wen-guenter-wallraff-zur-buchmessenparty-mitbrachte-accg-201222559.html",
           "summary": "Als mein Verlag im Oktober 1973 im Hessischen Hof zur Buchmesse einen Empfang für mich ausrichtete, war dort niemand so fehl am Platz wie ich selbst. Also verließ ich die Party, kam aber zurück."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a50ce103b4e3",
-      "title": "Rusya'da veba araştırmacısının şüpheli ölümü ABD'yi alarma geçirdi",
-      "summary": "Rusya'nın Sibirya bölgesindeki İrkutsk kentinde bulunan bir veba araştırma merkezinde çalışan kadın laboratuvar teknisyeninin hayatını kaybetmesi uluslararası kamuoyunda geniş yankı uyandırdı. ABD Başkanı Donald Trump olayı son derece ciddi bir şekilde incelediklerini açıklarken, Dışişleri Bakanı Marco Rubio durumu anbean izlediklerini duyurdu.",
-      "link": "https://www.trthaber.com/haber/dunya/rusyada-veba-arastirmacisinin-supheli-olumu-abdyi-alarma-gecirdi-959231.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 08:18:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/rusyada-veba-arastirmacisinin-supheli-olumu-abdyi-alarma-gecirdi-959231.html",
-          "summary": "Rusya'nın Sibirya bölgesindeki İrkutsk kentinde bulunan bir veba araştırma merkezinde çalışan kadın laboratuvar teknisyeninin hayatını kaybetmesi uluslararası kamuoyunda geniş yankı uyandırdı. ABD Başkanı Donald Trump olayı son derece ciddi bir şekilde incelediklerini açıklarken, Dışişleri Bakanı Marco Rubio durumu anbean izlediklerini duyurdu."
         }
       ],
       "sourcesCount": 1
@@ -2472,6 +2639,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFBpRWVGbDBPVG1FWWpSMGg0dEw4U1VzQllYTlRKenR3VUVvcVo0OGhOckhEWV96ME51MFI5YWQ0OUVDZHdoeERjSml2T1l4Z1RCTFBENGNpSWRCMjNCTXlUdHFwQ3JSREJmVEFiMV9lTmhRRFJrLWVBSHFOTVRjZHdUUUtLVFZBR2lGMmlNV0F2UmR0OW9oaWR0dlpOaTZ4OHZmWlFISFM1QQ?oc=5",
           "summary": "Lithuania says it would pay the cost if US establishes military base reuters.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6a63f9801fd6",
+      "title": "France braces for day of school blockades and street protests - reuters.com",
+      "summary": "France braces for day of school blockades and street protests reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 08:08:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
+          "summary": "France braces for day of school blockades and street protests reuters.com"
         }
       ],
       "sourcesCount": 1
@@ -2693,6 +2878,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b27d15dbb13a",
+      "title": "AMD plans to substantially increase supply in 2027, CEO says - reuters.com",
+      "summary": "AMD plans to substantially increase supply in 2027, CEO says reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 07:21:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx?oc=5",
+          "summary": "AMD plans to substantially increase supply in 2027, CEO says reuters.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "70efd34beafd",
       "title": "Quins display one of worst I have ever seen - Monye",
       "summary": "Ugo Monye calls former club Harlequins' 48-0 defeat by Gloucester \"one of the worst performances I have ever seen\".",
@@ -2724,24 +2927,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjhzTXc3NlFGWlZvTVhoZFZ5YkNOU3VYOHRnYkd3SWFJUUVBY0JnOUFPR0cxMnIwVE05ZUM4bUp2WDVvSm1HbGNGLWpJbUJ6UGt4NjUzc1lmRXVSbEVCcXdyTWVSb1pwRmlQcHZUM0xfYjBUNzlUOGpVRDVOdkhfTXpKb216R2JwWW5YQzhnMS16OU9KX1Y5bDV2YXJDYkQ5NkRqU19iZHdFQlpua2VTbFA5NGgwMXM?oc=5",
           "summary": "Japan supports Cyprus as an International Business Hub in the Mediterranean アラブニュース"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "81b840c52df1",
-      "title": "Umwelthilfe: In vielen großen Städten fahren weiterhin Verbrennerbusse",
-      "summary": "In vielen Großstädten fahren weiterhin überwiegend Busse mit Dieselmotor. Das hat die Deutsche Umwelthilfe herausgefunden.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/in-vielen-grossen-staedten-fahren-weiterhin-verbrennerbusse-accg-201291594.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 07:10:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/in-vielen-grossen-staedten-fahren-weiterhin-verbrennerbusse-accg-201291594.html",
-          "summary": "In vielen Großstädten fahren weiterhin überwiegend Busse mit Dieselmotor. Das hat die Deutsche Umwelthilfe herausgefunden."
         }
       ],
       "sourcesCount": 1
@@ -2801,6 +2986,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "11cba7890e90",
+      "title": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential - businesswire.com",
+      "summary": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential businesswire.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYXRQX3lkZnViYUdHbV8yQTg5TmxJX0t5T201QlZNemtXSXYxbWVVMUlYcHhPSHVhSTZoVGlqbXJYNE9uNjhfd3V6VEdTSXRGNVBtdHJTYm1McVFuNVZPYzBtdmw0WG0tRkptNVpqNXBZVG1jeW1LSkY4UDZraWF2M21vSy1DOGYyN3l1LXhwdkFaZjh0cmhVSXNrZ3dsOWl6S1dsLUVCVXhDcXN1dTNabXU4SG9wS1o1amtOenRRbnBJSk96WGhBY3ZUdkxGbldZaVlwV21BSEZtQk5yVi1rTkp2dFdlMVBGOVgxb1BYYjZEUQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 07:01:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYXRQX3lkZnViYUdHbV8yQTg5TmxJX0t5T201QlZNemtXSXYxbWVVMUlYcHhPSHVhSTZoVGlqbXJYNE9uNjhfd3V6VEdTSXRGNVBtdHJTYm1McVFuNVZPYzBtdmw0WG0tRkptNVpqNXBZVG1jeW1LSkY4UDZraWF2M21vSy1DOGYyN3l1LXhwdkFaZjh0cmhVSXNrZ3dsOWl6S1dsLUVCVXhDcXN1dTNabXU4SG9wS1o1amtOenRRbnBJSk96WGhBY3ZUdkxGbldZaVlwV21BSEZtQk5yVi1rTkp2dFdlMVBGOVgxb1BYYjZEUQ?oc=5",
+          "summary": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential businesswire.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e770d3f31a3b",
       "title": "OpenAI admits response to Australian government hacks 'not good enough'",
       "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
@@ -2814,6 +3017,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
           "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "12cb15ec6c06",
+      "title": "Crew missing after drone sinks ship in Bulgaria's Black Sea - reuters.com",
+      "summary": "Crew missing after drone sinks ship in Bulgaria's Black Sea reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 06:48:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
+          "summary": "Crew missing after drone sinks ship in Bulgaria's Black Sea reuters.com"
         }
       ],
       "sourcesCount": 1
@@ -3017,42 +3238,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "dc4fd6f103b0",
-      "title": "USA unter Trump: Trump stimmt Hinrichtung von Amokläufer durch Erschießungskommando zu",
-      "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-praesident-stimmt-hinrichtung-von-amoklaeufer-durch-us-militaer-zu-faz-19444916.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 06:02:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-praesident-stimmt-hinrichtung-von-amoklaeufer-durch-us-militaer-zu-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "53a1ef74e2a4",
-      "title": "‘Pull the plug’: protesters resort to direct action against AI firms - The Guardian",
-      "summary": "‘Pull the plug’: protesters resort to direct action against AI firms The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ZUTndlU0xvQTEydXlpbmJPYW5IaDJ1UlVZRUY1Y3ZIQzVTVnJVYjc4Z0I2VVMxUEdEMDJHTHk1cWJBd3pvdlJLekUzMmxLTEpCSndBS2Z6dzk2NDdxWlBLWnpIYWRmc2JNaERfSHNZVWJrUEtZdU42MVFxNzFxaFQteG1vN2ROdlI4djMzMm45akxjendfaG5zMW9xU0lOUTdYaHo1NzFwMVY5SXQ1MEcxMERhLTg?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 06:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ZUTndlU0xvQTEydXlpbmJPYW5IaDJ1UlVZRUY1Y3ZIQzVTVnJVYjc4Z0I2VVMxUEdEMDJHTHk1cWJBd3pvdlJLekUzMmxLTEpCSndBS2Z6dzk2NDdxWlBLWnpIYWRmc2JNaERfSHNZVWJrUEtZdU42MVFxNzFxaFQteG1vN2ROdlI4djMzMm45akxjendfaG5zMW9xU0lOUTdYaHo1NzFwMVY5SXQ1MEcxMERhLTg?oc=5",
-          "summary": "‘Pull the plug’: protesters resort to direct action against AI firms The Guardian"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2c8e961989d5",
       "title": "Who am I? Guess Premier League star No 78",
       "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -3156,24 +3341,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHBRTFV0cktHSWJ5X2V6N3V4MGFBUkh2ajFaZ0tUekd6c2sxaUgwa3dfYXZ2Z2llc0E0MERmUXBOMUYzOV9SOGxCQno4Sk5tVm9KMEtGMGF3UXdEbHJ4Tjh6R1FUOUNCM2pON29rOE9CcW43VXdkSGs0emUtcURVejlwaWlxNm9RY1ctMWZuQUJlUFBkajBXeU9kcHUwOXlyRWk5Tm9JRS16MjhYRk9iVXBqcXBCdU9qTXhzcjZfTHVVeDRGTDV0a2hJckc3cDNpTkVTWjFwYWZDUFBNQy11ZVF6a2xfdW8wazBN?oc=5",
           "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote KTVB"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2f47273a0c40",
-      "title": "Spain's housing crisis bursts into the spotlight at snap election - reuters.com",
-      "summary": "Spain's housing crisis bursts into the spotlight at snap election reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHNzQWxGOVhmOTVkNXVHTjRZOXpHVWlGMVVrX08wZXEtS201YV95aC1rMVppNGJLREozSjRlNGtXWGJ5R1U3MjVLUGtGbnNxdVJOdDZkQmsxU1hUUWg0c0tnQW44M0pCcENfbzJGdmwtZVQ3Rm5jU1dKT1RaZkhPT0J2bUlfZ3hzenVVWF9pSV9ib1l0NnRjT1JxRGNVMUs1X094UnlhRmN4UQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 05:01:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHNzQWxGOVhmOTVkNXVHTjRZOXpHVWlGMVVrX08wZXEtS201YV95aC1rMVppNGJLREozSjRlNGtXWGJ5R1U3MjVLUGtGbnNxdVJOdDZkQmsxU1hUUWg0c0tnQW44M0pCcENfbzJGdmwtZVQ3Rm5jU1dKT1RaZkhPT0J2bUlfZ3hzenVVWF9pSV9ib1l0NnRjT1JxRGNVMUs1X094UnlhRmN4UQ?oc=5",
-          "summary": "Spain's housing crisis bursts into the spotlight at snap election reuters.com"
         }
       ],
       "sourcesCount": 1
@@ -3318,6 +3485,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVpnTGVScG5RZXAzRGU4NFFhemduVHJ2aWstelBUelZBQnVOc2t6YVpiY1pQYXVBM1kxeWF4a3loQnJ1Q2M4UEJwaURBUUgzM1Y3X19yNG9JaTlvMDR6UHZSMHZscHZxQl92X1FsVWFESFN6dHhGRm1URl9qMlNlV0VZLWVwcnZocUdQdzhyNUJEdHY4MjBF?oc=5",
           "summary": "Penn Carey Law announces gift advancing emerging technology, AI tools in legal field The Daily Pennsylvanian"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "01c680d3f7b4",
+      "title": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows - reuters.com",
+      "summary": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 03:03:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc?oc=5",
+          "summary": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows reuters.com"
         }
       ],
       "sourcesCount": 1
@@ -3557,6 +3742,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "edd956f3cb41",
+      "title": "Boston is embracing AI in its public schools, unlike NYC and LA - The Boston Globe",
+      "summary": "Boston is embracing AI in its public schools, unlike NYC and LA The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUzFmRy1vRGtEczA1b2gycUNOTGFKTkpydWNIcEhzcU02WlpKd2FzVWpzOUl5cjNfN3JRQWVrWkdpTzFMdjZ6cVNaLVBEa2JIN1FiYWNRRXVicmVXX3hLSVJXaUt1STA0M2RIRHQ4WTR4S0FCWldPbHlYcm9aS3M?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 00:01:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUzFmRy1vRGtEczA1b2gycUNOTGFKTkpydWNIcEhzcU02WlpKd2FzVWpzOUl5cjNfN3JRQWVrWkdpTzFMdjZ6cVNaLVBEa2JIN1FiYWNRRXVicmVXX3hLSVJXaUt1STA0M2RIRHQ4WTR4S0FCWldPbHlYcm9aS3M?oc=5",
+          "summary": "Boston is embracing AI in its public schools, unlike NYC and LA The Boston Globe"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6606b38edb40",
       "title": "İspanya'da işçi sendikaları, konut krizine karşı genel grev kararı aldı",
       "summary": "İspanya'nın en büyük iki sendikası İşçi Komisyonları (CCOO) ve Genel İşçiler Birliği (UGT), ülkedeki konut krizine karşı genel grev kararı aldı.",
@@ -3642,24 +3845,6 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/turkiye-19-yil-sonra-2-takimla-sampiyonlar-liginde-temsil-edilecek-955107.html",
           "summary": "UEFA Şampiyonlar Ligi'nde son olarak 2007-2008 sezonunda 2 takımla yer alan Türkiye, 19 yıl sonra UEFA Şampiyonlar Ligi'nde 2 takımla boy gösterecek."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "00cd1fd261c6",
-      "title": "Hype um Koffein-Shampoos - ist der Trend berechtigt?",
-      "summary": "Mehr Haarwachstum und weniger Haarausfall - das versprechen Koffein-Shampoos. Doch was ist dran an den Versprechen?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/shampoo-koffein-100.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "international",
-      "topic": "wissenschaft",
-      "time": "Thu, 27 Aug 2026 12:10:40 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/wissen/gesundheit/shampoo-koffein-100.html",
-          "summary": "Mehr Haarwachstum und weniger Haarausfall - das versprechen Koffein-Shampoos. Doch was ist dran an den Versprechen?"
         }
       ],
       "sourcesCount": 1
@@ -4007,24 +4192,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3dcdab6155a5",
-      "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters - Investing.com",
-      "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkFoM2N0SUlLMFNHN2o5TDVsQlRNWGgzTkZOSWFQNjFqSWRzTUY2cXdKX1NnX1FzOHYtS1hjNWlqZnM1eC0yZC1UR0poM19remVMb3JxUUtiYUdtMTI5YXZya0N0N1Z4X191Rk4wSURuX2dvOWxUSUxWeDNQNElETXE3Wmw2MUd3TWZNbVpZTFAxenYzc1gxSFRGSUpRVEQ0U1FwdTZjS0RSNWVvNDJfSjlRUEJLWF9QaUVOX3BJSUo5X2VnOE00?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 01 Oct 2026 23:47:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkFoM2N0SUlLMFNHN2o5TDVsQlRNWGgzTkZOSWFQNjFqSWRzTUY2cXdKX1NnX1FzOHYtS1hjNWlqZnM1eC0yZC1UR0poM19remVMb3JxUUtiYUdtMTI5YXZya0N0N1Z4X191Rk4wSURuX2dvOWxUSUxWeDNQNElETXE3Wmw2MUd3TWZNbVpZTFAxenYzc1gxSFRGSUpRVEQ0U1FwdTZjS0RSNWVvNDJfSjlRUEJLWF9QaUVOX3BJSUo5X2VnOE00?oc=5",
-          "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters Investing.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "57d5fed87067",
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
       "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
@@ -4134,8 +4301,8 @@
     },
     {
       "id": "6b43a754d2dd",
-      "title": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport - AOL.com",
-      "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport AOL.com",
+      "title": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport - aol.com",
+      "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport aol.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGpSXzR2UTN6WGlEN3RCczc0V0tXVlJzR2RxcUpSMnRMZjFlVHpEekxYb0tieXR2WDlLODRsRXJfUVhZVGZ6eFhHMkJWMC1fNEJXWUQzaENTTWxBa28tOHlROEQybkFsNVdUWDA5ejM4RUhTZ3lrc2VyV0VNT3p2RlM5ZW42c3dWbWozVjB2QzcyUQ?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -4145,7 +4312,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGpSXzR2UTN6WGlEN3RCczc0V0tXVlJzR2RxcUpSMnRMZjFlVHpEekxYb0tieXR2WDlLODRsRXJfUVhZVGZ6eFhHMkJWMC1fNEJXWUQzaENTTWxBa28tOHlROEQybkFsNVdUWDA5ejM4RUhTZ3lrc2VyV0VNT3p2RlM5ZW42c3dWbWozVjB2QzcyUQ?oc=5",
-          "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport AOL.com"
+          "summary": "ThinkSport and Canadian Tire Jumpstart Charities Launch Global Challenge to Strengthen Belonging in Sport aol.com"
         }
       ],
       "sourcesCount": 1
@@ -4506,24 +4673,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/serdal-adali-yeniden-baskan-959090.html",
           "summary": "Beşiktaş'ta düzenlenen Olağanüstü Seçimli Genel Kurul Toplantısı'nda mevcut başkan Serdal Adalı, 3 bin 815 geçerli oy alarak yeniden başkanlığa seçildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "39664f9e007d",
-      "title": "London City hit Tottenham for six to end unbeaten run",
-      "summary": "Alexia Putellas and Kadidiatou Diani both scored twice as London City Lionesses put six goals past Tottenham to end Spurs' unbeaten start to the Women's Super League.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwm2r4xn4ed1o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 04 Oct 2026 18:53:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cwm2r4xn4ed1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Alexia Putellas and Kadidiatou Diani both scored twice as London City Lionesses put six goals past Tottenham to end Spurs' unbeaten start to the Women's Super League."
         }
       ],
       "sourcesCount": 1
@@ -5303,150 +5452,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/ankarada-ruhsatsiz-tesise-operasyon-49-bin-314-bebek-urunu-ele-gecirildi-959037.html",
           "summary": "Ankara'nın Yenimahalle ilçesinde ruhsatsız faaliyet gösteren tesise düzenlenen operasyonda, bebek bezi, bebek maması ve ıslak mendilden oluşan toplam 49 bin 314 ürün ele geçirildi, 1 şüpheli yakalandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "27c6233f1c54",
-      "title": "Türk Yıldızları'ndan TEKNOFEST Güneydoğu'da nefes kesen gösteri uçuşu",
-      "summary": "Şanlıurfa'da TEKNOFEST Güneydoğu'ya katılan binlerce ziyaretçi, Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları'nın gösteri uçuşunu ilgiyle takip etti.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turk-yildizlarindan-teknofest-guneydoguda-nefes-kesen-gosteri-ucusu-959036.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 21:15:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/turk-yildizlarindan-teknofest-guneydoguda-nefes-kesen-gosteri-ucusu-959036.html",
-          "summary": "Şanlıurfa'da TEKNOFEST Güneydoğu'ya katılan binlerce ziyaretçi, Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları'nın gösteri uçuşunu ilgiyle takip etti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "25e879e173d0",
-      "title": "SPK, kredili işlemlerde öz kaynak oranına ilişkin uygulamanın süresini uzattı",
-      "summary": "Sermaye Piyasası Kurulu (SPK), kredili sermaye piyasası işlemlerinde öz kaynak oranının esnetilerek uygulanmasına ilişkin tedbirin 30 Ekim seans sonuna kadar devam etmesine karar verdi.",
-      "link": "https://www.trthaber.com/haber/ekonomi/spk-kredili-islemlerde-oz-kaynak-oranina-iliskin-uygulamanin-suresini-uzatti-959031.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 19:12:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/spk-kredili-islemlerde-oz-kaynak-oranina-iliskin-uygulamanin-suresini-uzatti-959031.html",
-          "summary": "Sermaye Piyasası Kurulu (SPK), kredili sermaye piyasası işlemlerinde öz kaynak oranının esnetilerek uygulanmasına ilişkin tedbirin 30 Ekim seans sonuna kadar devam etmesine karar verdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e9046720ee8c",
-      "title": "Denizli'de akaryakıt istasyonundaki tankerde yangın çıktı",
-      "summary": "Denizli'nin Pamukkale ilçesinde bir akaryakıt istasyonundaki tankerde çıkan yangın itfaiye ekiplerince söndürüldü.",
-      "link": "https://www.trthaber.com/haber/turkiye/denizlide-akaryakit-istasyonundaki-tankerde-yangin-cikti-959030.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 18:42:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/denizlide-akaryakit-istasyonundaki-tankerde-yangin-cikti-959030.html",
-          "summary": "Denizli'nin Pamukkale ilçesinde bir akaryakıt istasyonundaki tankerde çıkan yangın itfaiye ekiplerince söndürüldü."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "44b34a080f0b",
-      "title": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
-      "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden.",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 17:03:41 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-          "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "98deb61b0b42",
-      "title": "DMM'den azınlık vakıflarına ait okul binalarıyla ilgili iddialara yalanlama",
-      "summary": "Dezenformasyonla Mücadele Merkezi (DMM), \"azınlık vakıflarına ait okul binalarının rant ve inşaat amacıyla elden çıkarılmaya çalışıldığı ve bu doğrultuda okulların birleştirilmesinin talep edildiği\" iddialarının gerçeği yansıtmadığını bildirdi.",
-      "link": "https://www.trthaber.com/haber/turkiye/dmmden-azinlik-vakiflarina-ait-okul-binalariyla-ilgili-iddialara-yalanlama-959023.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 16:59:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/dmmden-azinlik-vakiflarina-ait-okul-binalariyla-ilgili-iddialara-yalanlama-959023.html",
-          "summary": "Dezenformasyonla Mücadele Merkezi (DMM), \"azınlık vakıflarına ait okul binalarının rant ve inşaat amacıyla elden çıkarılmaya çalışıldığı ve bu doğrultuda okulların birleştirilmesinin talep edildiği\" iddialarının gerçeği yansıtmadığını bildirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "182c810ed072",
-      "title": "Kuzey Ege'de feribot seferlerine fırtına engeli",
-      "summary": "Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle Kabatepe-Gökçeada hattında yarınki bazı feribot seferleri iptal edildi.",
-      "link": "https://www.trthaber.com/haber/turkiye/kuzey-egede-feribot-seferlerine-firtina-engeli-959022.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 16:21:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/kuzey-egede-feribot-seferlerine-firtina-engeli-959022.html",
-          "summary": "Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle Kabatepe-Gökçeada hattında yarınki bazı feribot seferleri iptal edildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "33972aafb1c5",
-      "title": "İstanbul'un barajlarında doluluk yüzde 39'a ulaştı",
-      "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre, 27 Eylül'de yüzde 36,21'e kadar düşen barajlardaki doluluk oranı, son 6 günde giderek arttı.",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulun-barajlarinda-doluluk-yuzde-39a-ulasti-959018.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 15:25:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/istanbulun-barajlarinda-doluluk-yuzde-39a-ulasti-959018.html",
-          "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre, 27 Eylül'de yüzde 36,21'e kadar düşen barajlardaki doluluk oranı, son 6 günde giderek arttı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fbfa7d9cc3ff",
-      "title": "TFF: Yeni Merkez Hakem Kurulu oluşturulacak",
-      "summary": "TFF, MHK Başkanı Ferhat Gündoğdu'nun tutuklanmasının ardından yeni Merkez Hakem Kurulu'nun oluşturulmasına ilişkin çalışmaların sürdüğünü, bu süreçte 6-8 Ekim'deki Ziraat Türkiye Kupası müsabakalarının hakem atamalarının MHK Başkan Vekili Hikmet Öksüzoğlu ve kurul üyelerince yapılacağını duyurdu.",
-      "link": "https://www.trthaber.com/haber/spor/tff-yeni-merkez-hakem-kurulu-olusturulacak-959015.html",
-      "sourceName": "TRT Haber Sport",
-      "region": "regional",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 14:17:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Sport",
-          "link": "https://www.trthaber.com/haber/spor/tff-yeni-merkez-hakem-kurulu-olusturulacak-959015.html",
-          "summary": "TFF, MHK Başkanı Ferhat Gündoğdu'nun tutuklanmasının ardından yeni Merkez Hakem Kurulu'nun oluşturulmasına ilişkin çalışmaların sürdüğünü, bu süreçte 6-8 Ekim'deki Ziraat Türkiye Kupası müsabakalarının hakem atamalarının MHK Başkan Vekili Hikmet Öksüzoğlu ve kurul üyelerince yapılacağını duyurdu."
         }
       ],
       "sourcesCount": 1
