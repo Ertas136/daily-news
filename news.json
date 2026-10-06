@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:46:54.555307+00:00",
+  "updated": "2026-10-06T07:07:53.477379+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -177,24 +177,6 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
           "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1b4cc4490429",
-      "title": "How the oil capital of the US welcomed a solar power boom",
-      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 23 Sep 2026 23:12:22 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-          "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
         }
       ],
       "sourcesCount": 1
@@ -398,6 +380,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Tue, 6 Oct 2026 08:57:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5ced43efc097",
       "title": "Trump stimmt Hinrichtung durch Erschießung zu",
       "summary": "Nidal Hasan tötete 13 Menschen auf einem US-Stützpunkt. Nun soll seine Hinrichtung durch ein Erschießungskommando vollzogen werden.",
@@ -483,24 +483,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/briefing/e-auto-porsche-verbrenner-strategie-neuhann-zdfheute-update-100.html",
           "summary": "Der Autobauer Porsche stellt diese Woche seine neue Strategie vor. Es deutet sich eine Kehrtwende an - eine riskante Wette auf die Zukunft."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 6 Oct 2026 05:56:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -596,24 +578,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a2a851085959",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 29 Sep 2026 23:15:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1b02c6267c03",
       "title": "The start-ups hoping to return battery making to the US",
       "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
@@ -627,6 +591,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
           "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7e8d639e63be",
+      "title": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS - Copyright Lately",
+      "summary": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS Copyright Lately",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBd3pkb3lwOHVtd2NkSERmeEtwM0lWSmxmNGFYc3pMWi1DQjJ6SnM1ZFNlb3lFb0NudXNnV0UyUUptbEZfazJFdnlueG93NzRpN1k4LXppaHY2bzBvMEptbUdsSWlUeWZhTTAwdEdxaktBblE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 29 Sep 2026 19:57:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBd3pkb3lwOHVtd2NkSERmeEtwM0lWSmxmNGFYc3pMWi1DQjJ6SnM1ZFNlb3lFb0NudXNnV0UyUUptbEZfazJFdnlueG93NzRpN1k4LXppaHY2bzBvMEptbUdsSWlUeWZhTTAwdEdxaktBblE?oc=5",
+          "summary": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS Copyright Lately"
         }
       ],
       "sourcesCount": 1
@@ -701,9 +683,27 @@
       "sourcesCount": 1
     },
     {
+      "id": "81c1c1d580b2",
+      "title": "Inside Liverpool's increasing global investment in youth - BBC",
+      "summary": "Inside Liverpool's increasing global investment in youth BBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMW5LdHBqV1dQRDBzMXYwb0x2V0ZWa05UMGpfSjNsMTNFb2NmYkd0VlhVTE9IMFF5OEMxSFdfbGI3dUJTZU1iRV9ZRkFKWTk1Mi03SjFtT3AxWEZFdUtIRGhCekVtYncy?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 29 Sep 2026 07:19:52 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMW5LdHBqV1dQRDBzMXYwb0x2V0ZWa05UMGpfSjNsMTNFb2NmYkd0VlhVTE9IMFF5OEMxSFdfbGI3dUJTZU1iRV9ZRkFKWTk1Mi03SjFtT3AxWEZFdUtIRGhCekVtYncy?oc=5",
+          "summary": "Inside Liverpool's increasing global investment in youth BBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "cdff1be53985",
-      "title": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor - Office of Governor Ron DeSantis",
-      "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor Office of Governor Ron DeSantis",
+      "title": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor - flgov.com",
+      "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor flgov.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelRWTmoteVBtLTBiVElnM2hfdlhjMmxxdFpnbXpGNzBZczVhTVQwMUU3ajBvYlJzR3FMVHhjczJOdTZGeGhaZExsQy1TTUxSMjRsQUgxU1NOeUducGdiamhhYVRWblloWXJfU2pINE5uUkl3Q01CNk5MNTZyVERrc2Y0b1A3U1B2Q2t0TGtNVm1vS19sdGhaenBNOXQ2STFxSGN2dVpMUU1tN3dHZ1p2UHJNd0dmY1Y5Q0IwOHN0UQ?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
@@ -713,7 +713,7 @@
         {
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelRWTmoteVBtLTBiVElnM2hfdlhjMmxxdFpnbXpGNzBZczVhTVQwMUU3ajBvYlJzR3FMVHhjczJOdTZGeGhaZExsQy1TTUxSMjRsQUgxU1NOeUducGdiamhhYVRWblloWXJfU2pINE5uUkl3Q01CNk5MNTZyVERrc2Y0b1A3U1B2Q2t0TGtNVm1vS19sdGhaenBNOXQ2STFxSGN2dVpMUU1tN3dHZ1p2UHJNd0dmY1Y5Q0IwOHN0UQ?oc=5",
-          "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor Office of Governor Ron DeSantis"
+          "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor flgov.com"
         }
       ],
       "sourcesCount": 1
@@ -981,6 +981,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "be387ec318fb",
+      "title": "Altın güne düşüşle başladı",
+      "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 535 liradan işlem görüyor. Çeyrek altın 10 bin 790 liradan, cumhuriyet altını 42 bin 950 liradan satılıyor.",
+      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-959250.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 09:54:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-959250.html",
+          "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 535 liradan işlem görüyor. Çeyrek altın 10 bin 790 liradan, cumhuriyet altını 42 bin 950 liradan satılıyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "cdcf93cd8c30",
+      "title": "30 dolara aldı, 1,35 milyon dolara sattı",
+      "summary": "ABD'de bir kişi, emlak satışında bulduğu tabloyu 30 dolara satın aldı. Eserin ünlü ressam Gertrude Abercrombie'ye ait olduğu anlaşılınca tablo açık artırmada 1,35 milyon dolara satıldı.",
+      "link": "https://www.trthaber.com/haber/dunya/30-dolara-aldi-135-milyon-dolara-satti-959248.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 09:40:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/30-dolara-aldi-135-milyon-dolara-satti-959248.html",
+          "summary": "ABD'de bir kişi, emlak satışında bulduğu tabloyu 30 dolara satın aldı. Eserin ünlü ressam Gertrude Abercrombie'ye ait olduğu anlaşılınca tablo açık artırmada 1,35 milyon dolara satıldı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "601607e1c9a0",
       "title": "Brent petrolün varili 99,79 dolardan işlem görüyor",
       "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 99,79 dolardan işlem görüyor.",
@@ -1107,6 +1143,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abd-ordusunda-ikinci-dunya-savasindan-bu-yana-bir-ilk-saldirgan-kursuna-dizilecek-959240.html",
           "summary": "ABD'nin Teksas eyaletindeki Fort Hood askeri üssünde 2009 yılında 13 kişiyi öldüren ve 32 kişiyi yaralayan eski Ordu Binbaşısı Nidal Hasan'ın kurşuna dizilerek idam edileceği açıklandı. Bu karar, ABD ordusunda İkinci Dünya Savaşı'ndan bu yana bu yöntemle gerçekleştirilecek ilk infaz olma özelliği taşıyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "742b8bf39797",
+      "title": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
+      "summary": "Die EU will reformbereite Beitrittskandidaten nicht endlos warten lassen. Doch da die strengen Reformkriterien noch nicht erfüllt sind, bedarf es dafür neuer Modelle.",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-erweiterungsbericht-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 08:45:06 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-erweiterungsbericht-100.html",
+          "summary": "Die EU will reformbereite Beitrittskandidaten nicht endlos warten lassen. Doch da die strengen Reformkriterien noch nicht erfüllt sind, bedarf es dafür neuer Modelle."
         }
       ],
       "sourcesCount": 1
@@ -1454,6 +1508,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0125a731254c",
+      "title": "Lego fraudster among last year's most high-profile insurance scammers",
+      "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 07:03:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+          "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "3c7b40c99756",
       "title": "Katar Dışişleri Bakanlığı Sözcüsü Ensari: Mekke Anlaşması bölge güvenliği açısından umut verici",
       "summary": "Katar Dışişleri Bakanlığı Sözcüsü Macid el-Ensari, Suudi Arabistan, Türkiye ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın bölge güvenliği açısından umut verici olduğunu söyledi.",
@@ -1467,6 +1539,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/katar-disisleri-bakanligi-sozcusu-ensari-mekke-anlasmasi-bolge-guvenligi-acisindan-umut-verici-959222.html",
           "summary": "Katar Dışişleri Bakanlığı Sözcüsü Macid el-Ensari, Suudi Arabistan, Türkiye ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın bölge güvenliği açısından umut verici olduğunu söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3b72a7ddc94f",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 07:02:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+          "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
         }
       ],
       "sourcesCount": 1
@@ -1490,6 +1580,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f27c32e72bd8",
+      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+      "summary": "A growing number of parents are opening retirement funds for their children.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 06:59:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+          "summary": "A growing number of parents are opening retirement funds for their children."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "41e59159348a",
       "title": "Sibiryada gizemli zatürre vakasının temaslılarında COVID19 ve rinovirüs çıktı",
       "summary": "Rusya İnsan Sağlığı ve Tüketici Haklarını Koruma Servisi (Rospotrebnadzor), Sibirya'daki İrkutsk bölgesinde \"nedeni belirlenemeyen zatürre\" teşhisi konulan kadınla temas eden kişiler arasında 2 COVID-19 ve 2 rinovirüs vakasının belirlendiğini bildirdi.",
@@ -1508,6 +1616,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e770d3f31a3b",
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 06:53:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+          "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "262d5d1a45cf",
       "title": "ABD'li Kongre üyesi Wilson: Mekke Savunma İttifakı, Orta Doğu'nun NATO'su olma potansiyeline sahip",
       "summary": "ABD'li Temsilciler Meclisi üyesi Joe Wilson, Mekke Ortak Savunma Anlaşması'nın Orta Doğu'nun NATO'su olma potansiyeline sahip olduğunu vurguladı.",
@@ -1521,6 +1647,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abdli-kongre-uyesi-wilson-mekke-savunma-ittifaki-orta-dogunun-natosu-olma-potansiyeline-sahip-959218.html",
           "summary": "ABD'li Temsilciler Meclisi üyesi Joe Wilson, Mekke Ortak Savunma Anlaşması'nın Orta Doğu'nun NATO'su olma potansiyeline sahip olduğunu vurguladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "33832ed35360",
+      "title": "F1 in the wet and the future of engines - Q&A",
+      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 06:47:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia."
         }
       ],
       "sourcesCount": 1
@@ -1580,19 +1724,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "f27c32e72bd8",
-      "title": "Toddler pensions: Why we're saving £100 a month for our kids",
-      "summary": "A growing number of parents are opening retirement funds for their children.",
-      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "id": "9dfd76eb0dd1",
+      "title": "Captain apologises for gloating over military service exemption",
+      "summary": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
       "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 06:36:39 GMT",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 06:43:45 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-          "summary": "A growing number of parents are opening retirement funds for their children."
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+          "summary": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games."
         }
       ],
       "sourcesCount": 1
@@ -1647,6 +1791,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/tcmb-baskani-karahan-mecliste-sunum-yapacak-959213.html",
           "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, TBMM Plan ve Bütçe Komisyonunda bugün sunum yapacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e605747dc4c7",
+      "title": "Nach Kontroverse: US-Tennisstar Gauff prangert Rassismus an",
+      "summary": "Coco Gauff wird für einen angeblichen Betrug teils heftig kritisiert. Sie wehrt sich öffentlich und bekommt Unterstützung von einer deutschen Tennis-Legende.",
+      "link": "https://www.faz.net/aktuell/sport/mehr-sport/coco-gauff-prangert-beim-tennis-turnier-in-peking-rassismus-an-accg-201291644.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 06:26:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/mehr-sport/coco-gauff-prangert-beim-tennis-turnier-in-peking-rassismus-an-accg-201291644.html",
+          "summary": "Coco Gauff wird für einen angeblichen Betrug teils heftig kritisiert. Sie wehrt sich öffentlich und bekommt Unterstützung von einer deutschen Tennis-Legende."
         }
       ],
       "sourcesCount": 1
@@ -1708,17 +1870,17 @@
     {
       "id": "56c6d3cc974b",
       "title": "Liveblog Ukrainekrieg: Wadephul: Russland hat über Ukraine hinausgehende Pläne",
-      "summary": "Wadephul: Deutschland nicht erst dann angegriffen sei, wenn deutsches Gebiet angegriffen +++ Russland wirft Ukraine Angriff auf AKW Saporischschja vor +++ alle Neuigkeiten im Liveblog",
+      "summary": "Außenminister: Deutschland nicht erst dann angegriffen, wenn deutsches Gebiet angegriffen +++ Russland wirft Ukraine Angriff auf AKW Saporischschja vor +++ alle Neuigkeiten im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-russland-hat-ueber-ukraine-hinausgehende-plaene-faz-110683325.html",
       "sourceName": "FAZ",
       "region": "international",
-      "topic": "technologie",
+      "topic": "politik",
       "time": "Tue, 06 Oct 2026 06:19:53 GMT",
       "coverage": [
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-russland-hat-ueber-ukraine-hinausgehende-plaene-faz-110683325.html",
-          "summary": "Wadephul: Deutschland nicht erst dann angegriffen sei, wenn deutsches Gebiet angegriffen +++ Russland wirft Ukraine Angriff auf AKW Saporischschja vor +++ alle Neuigkeiten im Liveblog"
+          "summary": "Außenminister: Deutschland nicht erst dann angegriffen, wenn deutsches Gebiet angegriffen +++ Russland wirft Ukraine Angriff auf AKW Saporischschja vor +++ alle Neuigkeiten im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -1743,7 +1905,7 @@
     },
     {
       "id": "5cdf072c8786",
-      "title": "Unternehmen Bremsen: Die KI-Kosten steigen und steigen",
+      "title": "Kosten Für KI: Schon bei der Abrechnung fängt das Problem an",
       "summary": "Deutsche Unternehmen geben Milliarden für Künstliche Intelligenz aus – Tendenz stark steigend. Eine F.A.Z.-Umfrage zeigt: Zum Eindämmen der Kosten verfolgen sie unterschiedliche Strategien.",
       "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
       "sourceName": "FAZ",
@@ -1809,24 +1971,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-praesident-stimmt-hinrichtung-von-amoklaeufer-durch-us-militaer-zu-faz-19444916.html",
           "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e770d3f31a3b",
-      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-      "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 06:00:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-          "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
         }
       ],
       "sourcesCount": 1
@@ -1941,8 +2085,8 @@
     },
     {
       "id": "136c7bd5e3c2",
-      "title": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote - ktvb.com",
-      "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote ktvb.com",
+      "title": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote - KTVB",
+      "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote KTVB",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHBRTFV0cktHSWJ5X2V6N3V4MGFBUkh2ajFaZ0tUekd6c2sxaUgwa3dfYXZ2Z2llc0E0MERmUXBOMUYzOV9SOGxCQno4Sk5tVm9KMEtGMGF3UXdEbHJ4Tjh6R1FUOUNCM2pON29rOE9CcW43VXdkSGs0emUtcURVejlwaWlxNm9RY1ctMWZuQUJlUFBkajBXeU9kcHUwOXlyRWk5Tm9JRS16MjhYRk9iVXBqcXBCdU9qTXhzcjZfTHVVeDRGTDV0a2hJckc3cDNpTkVTWjFwYWZDUFBNQy11ZVF6a2xfdW8wazBN?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -1952,7 +2096,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHBRTFV0cktHSWJ5X2V6N3V4MGFBUkh2ajFaZ0tUekd6c2sxaUgwa3dfYXZ2Z2llc0E0MERmUXBOMUYzOV9SOGxCQno4Sk5tVm9KMEtGMGF3UXdEbHJ4Tjh6R1FUOUNCM2pON29rOE9CcW43VXdkSGs0emUtcURVejlwaWlxNm9RY1ctMWZuQUJlUFBkajBXeU9kcHUwOXlyRWk5Tm9JRS16MjhYRk9iVXBqcXBCdU9qTXhzcjZfTHVVeDRGTDV0a2hJckc3cDNpTkVTWjFwYWZDUFBNQy11ZVF6a2xfdW8wazBN?oc=5",
-          "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote ktvb.com"
+          "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote KTVB"
         }
       ],
       "sourcesCount": 1
@@ -1971,6 +2115,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/finanzen/lohnt-sich-die-kuendigung-der-lebensversicherung-accg-201277540.html",
           "summary": "Eine Ärztin zahlt monatlich 1700 Euro in ihre Lebensversicherung ein. Sie hat Zweifel, ob das wirklich eine gute Idee ist."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "edd956f3cb41",
+      "title": "Boston is embracing AI in its public schools, unlike NYC and LA - The Boston Globe",
+      "summary": "Boston is embracing AI in its public schools, unlike NYC and LA The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUzFmRy1vRGtEczA1b2gycUNOTGFKTkpydWNIcEhzcU02WlpKd2FzVWpzOUl5cjNfN3JRQWVrWkdpTzFMdjZ6cVNaLVBEa2JIN1FiYWNRRXVicmVXX3hLSVJXaUt1STA0M2RIRHQ4WTR4S0FCWldPbHlYcm9aS3M?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 05:05:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUzFmRy1vRGtEczA1b2gycUNOTGFKTkpydWNIcEhzcU02WlpKd2FzVWpzOUl5cjNfN3JRQWVrWkdpTzFMdjZ6cVNaLVBEa2JIN1FiYWNRRXVicmVXX3hLSVJXaUt1STA0M2RIRHQ4WTR4S0FCWldPbHlYcm9aS3M?oc=5",
+          "summary": "Boston is embracing AI in its public schools, unlike NYC and LA The Boston Globe"
         }
       ],
       "sourcesCount": 1
@@ -2030,24 +2192,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "95f3ba2b1e9c",
-      "title": "Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer - AZoM",
-      "summary": "Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer AZoM",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mX3ZyVk95aVFyZXlVNzYwcHo2ajJrcUFTWlJvM2dZRmNfa3hOWEdnb0NTNFdwQTBpdm43V3ByOGFZamlIUFRSdWx6alpDMTBjazZYM2t3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 04:50:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mX3ZyVk95aVFyZXlVNzYwcHo2ajJrcUFTWlJvM2dZRmNfa3hOWEdnb0NTNFdwQTBpdm43V3ByOGFZamlIUFRSdWx6alpDMTBjazZYM2t3?oc=5",
-          "summary": "Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer AZoM"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ea812963d204",
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
@@ -2079,24 +2223,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-ev-ve-araclarini-atese-verdi-959210.html",
           "summary": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da Filistinlilerin evlerine düzenlediği saldırılarda ev ve araçlar ateşe verilirken, İsrail askerlerinin açtığı ateş sonucu 1 Filistinli yaralandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3b72a7ddc94f",
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 04:25:22 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
         }
       ],
       "sourcesCount": 1
@@ -2151,6 +2277,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-gibt-viel-geld-fuer-bildung-aus-trotzdem-protestieren-die-schueler-accg-201288845.html",
           "summary": "Die Oberschüler sehen sich als verlorene Generation, die den Niveauverlust des französischen Bildungssystems ausbaden muss. Dafür gibt es mehrere Gründe – und einer davon weist nach Deutschland."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "91c4ddf83b0f",
+      "title": "Beyond wiring diagrams: Inside a $19 million effort to expand access to connectome technology - The Transmitter",
+      "summary": "Beyond wiring diagrams: Inside a $19 million effort to expand access to connectome technology The Transmitter",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS05FNHJuSUdNNXJwbVc0S214TVFZV1cwSzZieW5ZT19oek9kZXNyT1c1Wm5aSnJsaUZFbDV4NE1vWHZTQzhmelY0c0I1bDZJNlZRb1FvMGhwclA1QjkxZk5ZMTJIMjJDOGJWX0ZlNjMtNU53TFg3c19TQjZ4bDB5U2tnRXJXUS1vNFdXb1RuZG9Qb2s0Y1NraTJKazMtMVFNanVUTHRVcFVMaFk1ZFZnQW5JeHhtYWtWRG51Q2Q5UzUxNEU5eTNaUi1xLXh6dms?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 04:00:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS05FNHJuSUdNNXJwbVc0S214TVFZV1cwSzZieW5ZT19oek9kZXNyT1c1Wm5aSnJsaUZFbDV4NE1vWHZTQzhmelY0c0I1bDZJNlZRb1FvMGhwclA1QjkxZk5ZMTJIMjJDOGJWX0ZlNjMtNU53TFg3c19TQjZ4bDB5U2tnRXJXUS1vNFdXb1RuZG9Qb2s0Y1NraTJKazMtMVFNanVUTHRVcFVMaFk1ZFZnQW5JeHhtYWtWRG51Q2Q5UzUxNEU5eTNaUi1xLXh6dms?oc=5",
+          "summary": "Beyond wiring diagrams: Inside a $19 million effort to expand access to connectome technology The Transmitter"
         }
       ],
       "sourcesCount": 1
@@ -2211,8 +2355,8 @@
     },
     {
       "id": "45e7279fe06e",
-      "title": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech - U.S. Department of War (.gov)",
-      "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech U.S. Department of War (.gov)",
+      "title": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech - war.gov",
+      "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech war.gov",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2222,7 +2366,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5",
-          "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech U.S. Department of War (.gov)"
+          "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech war.gov"
         }
       ],
       "sourcesCount": 1
@@ -2241,24 +2385,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-mekka-allianz-beschliesst-nach-angriff-auf-medina-rasche-truppenverlegung-faz-200583539.html",
           "summary": "Türkei und Pakistan entsenden Truppen +++ Merz „vorsichtig optimistisch“ nach Rückeroberung von Bab al-Mandab +++ Rückeroberung der Hauptstadt Sanaa gestartet +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "027eb9421079",
-      "title": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity - The National Law Review",
-      "summary": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGVvY2Z4LURLNDdsMEFvLVBQeWNxcFY5UEdpclJPNVpsMUxEYmVXTkpfT1pQdUlOYWZTQW5mTkEwRldvTGU1Wk5SU1kxTXRDR3c4VktIU1NSTGdWWnUzeE53ZHFSaWNkTUI4cTQzYm80Q0QxTE54UVdWaS1pQnRIOHYyUHd3UDVkX2lvZWYyeVVSNTBiVi1ZUVR4eURIcXRadkR3TU1mQS01SVk?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 02:53:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGVvY2Z4LURLNDdsMEFvLVBQeWNxcFY5UEdpclJPNVpsMUxEYmVXTkpfT1pQdUlOYWZTQW5mTkEwRldvTGU1Wk5SU1kxTXRDR3c4VktIU1NSTGdWWnUzeE53ZHFSaWNkTUI4cTQzYm80Q0QxTE54UVdWaS1pQnRIOHYyUHd3UDVkX2lvZWYyeVVSNTBiVi1ZUVR4eURIcXRadkR3TU1mQS01SVk?oc=5",
-          "summary": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity The National Law Review"
         }
       ],
       "sourcesCount": 1
@@ -2354,9 +2480,27 @@
       "sourcesCount": 1
     },
     {
+      "id": "6cdcc45fc49b",
+      "title": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles - Honda Global",
+      "summary": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles Honda Global",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pOWx4aUJKN0Z5bDZWWnpIbUpYWDFXcm5NaHVUbzM1d0w5WkF3VkJSTm16Y2lQbzh1Rmc1R3U2Zy02Q1hzd0NfU21NZ2dwU3ROUS1JOE9rUndvejdjLXNhbTFrZ2o0ZEFH?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 02:25:39 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pOWx4aUJKN0Z5bDZWWnpIbUpYWDFXcm5NaHVUbzM1d0w5WkF3VkJSTm16Y2lQbzh1Rmc1R3U2Zy02Q1hzd0NfU21NZ2dwU3ROUS1JOE9rUndvejdjLXNhbTFrZ2o0ZEFH?oc=5",
+          "summary": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles Honda Global"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "26e8279a5a1f",
       "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "summary": "Nidal Malik Hasan killed 13 unarmed US soldiers and injured another 32 and his execution will be the first by the US military since 1961.",
+      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
       "region": "international",
@@ -2366,15 +2510,15 @@
         {
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Nidal Malik Hasan killed 13 unarmed US soldiers and injured another 32 and his execution will be the first by the US military since 1961."
+          "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
         }
       ],
       "sourcesCount": 1
     },
     {
       "id": "fec0c5a97d9d",
-      "title": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology - American Hospital Association",
-      "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology American Hospital Association",
+      "title": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology - aha.org",
+      "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology aha.org",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFlZWUo5aG9HNnpwSmV0RldjOGZBR3NyY2JBOGRIV1c0M2pFSTd0RGkzRWktanFzb0hRY2Y0dW9ndUpzODVSM0taQ1gySmdNc1FOV0pleDhKcHJTQ1F4UWI5LXlEVE9Fcjl6MU1PRkZhaE9vOFg5Z0NTd2ZHa29Dd3pjNjc2cHNCSnQ2UmNtTDRFNTRydC1BUUlEaHZ1RVI0Um1vSXdMS0RpN2Fic2o4RVFVeUlocUk0bkt2amVzQUpmMUJjVnZDbnlPc04wSTNCVURn?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2384,7 +2528,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFlZWUo5aG9HNnpwSmV0RldjOGZBR3NyY2JBOGRIV1c0M2pFSTd0RGkzRWktanFzb0hRY2Y0dW9ndUpzODVSM0taQ1gySmdNc1FOV0pleDhKcHJTQ1F4UWI5LXlEVE9Fcjl6MU1PRkZhaE9vOFg5Z0NTd2ZHa29Dd3pjNjc2cHNCSnQ2UmNtTDRFNTRydC1BUUlEaHZ1RVI0Um1vSXdMS0RpN2Fic2o4RVFVeUlocUk0bkt2amVzQUpmMUJjVnZDbnlPc04wSTNCVURn?oc=5",
-          "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology American Hospital Association"
+          "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology aha.org"
         }
       ],
       "sourcesCount": 1
@@ -2444,24 +2588,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b440a1b59e83",
-      "title": "Euro struggles as it faces political, fiscal reckoning - Reuters",
-      "summary": "Euro struggles as it faces political, fiscal reckoning Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 01:14:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5",
-          "summary": "Euro struggles as it faces political, fiscal reckoning Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2dccf47bd7e5",
       "title": "Johnson & Johnson to Highlight IOL Contrast Data, Smartload Delivery Technology at AAO - Eyewire+",
       "summary": "Johnson & Johnson to Highlight IOL Contrast Data, Smartload Delivery Technology at AAO Eyewire+",
@@ -2475,6 +2601,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWctOE5tX21QcVN2UElKY0pLYjYyV1dGZDNCVW80S1VGNnMxTTEtdm9ORW1aQ2ppWVBUb1huTWg1WFNUUWN1TGhnZ182VW1fZXBCVU05SWRpeFo4UE5xbjFLbTcteDZiU2h4eXZMTlpXMFlBblV5UVVtWFVJNnBxbnNEaUFnNXY3Sy1QSlNZY3BsaE1fQkJIRXlra1FjQ3dFWl9ZemZIeUVDYkp4alE?oc=5",
           "summary": "Johnson & Johnson to Highlight IOL Contrast Data, Smartload Delivery Technology at AAO Eyewire+"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e269ca4dea67",
+      "title": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity - EIN Presswire",
+      "summary": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnNaNGNSUmM3RTZPa1hUMDRtTkxKUnRYVk5DLXFaWWpkcUtyank2cWlaU0RmazdKb0o1Y2QzOTFMbDAzcDVzZkVfTEJGZ1EzLUh4VTFJbHlvV1MyVS1zRjk1elByUDZrM0NFT3VOY3R2alpOT3hqSjYtYmZ4UWhzNEhuMjM1WFVYT3FHZUg4eUhhZldBRTZzR1MxRDI2YlVBQWtKc2hOM1dlamcyRy1vamdNbldiVnR3cExSNkd3?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 01:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnNaNGNSUmM3RTZPa1hUMDRtTkxKUnRYVk5DLXFaWWpkcUtyank2cWlaU0RmazdKb0o1Y2QzOTFMbDAzcDVzZkVfTEJGZ1EzLUh4VTFJbHlvV1MyVS1zRjk1elByUDZrM0NFT3VOY3R2alpOT3hqSjYtYmZ4UWhzNEhuMjM1WFVYT3FHZUg4eUhhZldBRTZzR1MxRDI2YlVBQWtKc2hOM1dlamcyRy1vamdNbldiVnR3cExSNkd3?oc=5",
+          "summary": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity EIN Presswire"
         }
       ],
       "sourcesCount": 1
@@ -2553,8 +2697,8 @@
     },
     {
       "id": "de367f85098b",
-      "title": "A.I. Officials Stonewall on Questions About Technology’s Risks - nytimes.com",
-      "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks nytimes.com",
+      "title": "A.I. Officials Stonewall on Questions About Technology’s Risks - The New York Times",
+      "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2564,7 +2708,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
-          "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks nytimes.com"
+          "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -2859,8 +3003,8 @@
     },
     {
       "id": "a7bd7549341f",
-      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why - The Conversation",
-      "summary": "The International Olympic Committee wants mental health screening in elite sports. Here’s why The Conversation",
+      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why - theconversation.com",
+      "summary": "The International Olympic Committee wants mental health screening in elite sports. Here’s why theconversation.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1rb0JSckhSSFUtWEh3LXhFcWpNZlRqaE9PZy1tekpZWDRHY1prZ1hONkRYb2FVc1p0T25Vb3BMQ0cxeXFJOTBfeVhFeHlxMTh4UGRkQWFWQ3pNM2pNS3dTemptYTVpbUs4czdOX0kzMjNkb1RGejhKQmhnNjJrR2s5RzQ2LUhKMFNKZjZSVDdoTDJLV1hKSy1BelpsWU1TRzhiNExSV3gxRWxrU0JkS0xZWnRzTVdZMmZIQzlidTJOQjhz?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -2870,7 +3014,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1rb0JSckhSSFUtWEh3LXhFcWpNZlRqaE9PZy1tekpZWDRHY1prZ1hONkRYb2FVc1p0T25Vb3BMQ0cxeXFJOTBfeVhFeHlxMTh4UGRkQWFWQ3pNM2pNS3dTemptYTVpbUs4czdOX0kzMjNkb1RGejhKQmhnNjJrR2s5RzQ2LUhKMFNKZjZSVDdoTDJLV1hKSy1BelpsWU1TRzhiNExSV3gxRWxrU0JkS0xZWnRzTVdZMmZIQzlidTJOQjhz?oc=5",
-          "summary": "The International Olympic Committee wants mental health screening in elite sports. Here’s why The Conversation"
+          "summary": "The International Olympic Committee wants mental health screening in elite sports. Here’s why theconversation.com"
         }
       ],
       "sourcesCount": 1
@@ -2997,24 +3141,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
           "summary": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3dcdab6155a5",
-      "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters - Investing.com",
-      "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkFoM2N0SUlLMFNHN2o5TDVsQlRNWGgzTkZOSWFQNjFqSWRzTUY2cXdKX1NnX1FzOHYtS1hjNWlqZnM1eC0yZC1UR0poM19remVMb3JxUUtiYUdtMTI5YXZya0N0N1Z4X191Rk4wSURuX2dvOWxUSUxWeDNQNElETXE3Wmw2MUd3TWZNbVpZTFAxenYzc1gxSFRGSUpRVEQ0U1FwdTZjS0RSNWVvNDJfSjlRUEJLWF9QaUVOX3BJSUo5X2VnOE00?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 01 Oct 2026 23:47:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkFoM2N0SUlLMFNHN2o5TDVsQlRNWGgzTkZOSWFQNjFqSWRzTUY2cXdKX1NnX1FzOHYtS1hjNWlqZnM1eC0yZC1UR0poM19remVMb3JxUUtiYUdtMTI5YXZya0N0N1Z4X191Rk4wSURuX2dvOWxUSUxWeDNQNElETXE3Wmw2MUd3TWZNbVpZTFAxenYzc1gxSFRGSUpRVEQ0U1FwdTZjS0RSNWVvNDJfSjlRUEJLWF9QaUVOX3BJSUo5X2VnOE00?oc=5",
-          "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -3524,6 +3650,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "d4ae436c2957",
+      "title": "Bolsonaro beats expectations in Brazil presidential vote, will face Lula in runoff - CNBC",
+      "summary": "Bolsonaro beats expectations in Brazil presidential vote, will face Lula in runoff CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUZ0bnoybURZVmlZOVhpSmVnX0lKZzJucVBTT0V6VzhNS1VENUg2RjJ2YU5vaXk5SkZlRjBIYnY3OW9YSVlMQkFfTjJHSEd3Yk5NT1hhc3p4NXJHX28wcXhoT25SVGE2VUFnMWZpSGdJcEhYeWVtRm9uOU1YRmNQZDdWQmhIdUnSAYwBQVVfeXFMTXl5VWFmOThmTzdFNGdzX0lVRjRMdTY0cjZvSHIwTUZGaVNEVTFKeUEyRTdCVDNaTFNOQmJOZ2ZpMk53NTFDY1dDSktRc29jeXNtQVZGOXR0T0oxOXlzNUY2QTdLWThxcXNvT3lHVk9ZS1FmNWpLM2kxRVVVZERTcm5EM2h3YVdUTFdhVHE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 04 Oct 2026 21:17:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUZ0bnoybURZVmlZOVhpSmVnX0lKZzJucVBTT0V6VzhNS1VENUg2RjJ2YU5vaXk5SkZlRjBIYnY3OW9YSVlMQkFfTjJHSEd3Yk5NT1hhc3p4NXJHX28wcXhoT25SVGE2VUFnMWZpSGdJcEhYeWVtRm9uOU1YRmNQZDdWQmhIdUnSAYwBQVVfeXFMTXl5VWFmOThmTzdFNGdzX0lVRjRMdTY0cjZvSHIwTUZGaVNEVTFKeUEyRTdCVDNaTFNOQmJOZ2ZpMk53NTFDY1dDSktRc29jeXNtQVZGOXR0T0oxOXlzNUY2QTdLWThxcXNvT3lHVk9ZS1FmNWpLM2kxRVVVZERTcm5EM2h3YVdUTFdhVHE?oc=5",
+          "summary": "Bolsonaro beats expectations in Brazil presidential vote, will face Lula in runoff CNBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "96003926a442",
       "title": "Adana'da 4,4 büyüklüğünde deprem",
       "summary": "Adana'nın Saimbeyli ilçesinde 4,4 büyüklüğünde deprem meydana geldi. Geçtiğimiz saatlerde Adana’da 4,8 ve 4,9’luk iki sarsıntı daha meydana gelmişti.",
@@ -3776,24 +3920,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7435e3e33aa9",
-      "title": "Baskenland und Katalonien: Tote bei schweren Unwettern in Spanien",
-      "summary": "Bei heftigen Regenfällen in Spanien sind drei Menschen ums Leben gekommen. In Katalonien und im Baskenland wurden Straßen und Keller überflutet - die Feuerwehr war im Dauereinsatz.",
-      "link": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Sun, 04 Oct 2026 13:43:22 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
-          "summary": "Bei heftigen Regenfällen in Spanien sind drei Menschen ums Leben gekommen. In Katalonien und im Baskenland wurden Straßen und Keller überflutet - die Feuerwehr war im Dauereinsatz."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "64b71f9794a5",
       "title": "Hakkari'de arı kovanlarına gizlenmiş 91 kilogram uyuşturucu ele geçirildi",
       "summary": "İçişleri Bakanlığı, Hakkari'nin Yüksekova ilçesinde düzenlenen operasyonda, arı kovanlarına gizlenmiş 91,1 kilogram uyuşturucu ele geçirildiğini ve 3 şüphelinin yakalandığını açıkladı.",
@@ -4034,8 +4160,8 @@
     },
     {
       "id": "2a81f90947be",
-      "title": "Google Wants Hollywood to Stop Being So Afraid of Technology - nytimes.com",
-      "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology nytimes.com",
+      "title": "Google Wants Hollywood to Stop Being So Afraid of Technology - The New York Times",
+      "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVc1bUlKVjlmY0NvTWMzX2cxbHRUdGR2RFBYUHhaR0NPeTJrdDVNTXBvTV9FUHdyMnJnUEhZXy01eUVldEl2V2hPS25mcGswQ29ReWlpRC1uS1VpTkxYMjVvMkhvcE9nTHpUWk5pQURxRm9CRW1yempGVlNUd0dRdDhQUzYyOW9NZTZFZWl3?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -4045,7 +4171,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVc1bUlKVjlmY0NvTWMzX2cxbHRUdGR2RFBYUHhaR0NPeTJrdDVNTXBvTV9FUHdyMnJnUEhZXy01eUVldEl2V2hPS25mcGswQ29ReWlpRC1uS1VpTkxYMjVvMkhvcE9nTHpUWk5pQURxRm9CRW1yempGVlNUd0dRdDhQUzYyOW9NZTZFZWl3?oc=5",
-          "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology nytimes.com"
+          "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -4771,24 +4897,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ebb1437b18a6",
-      "title": "Değerli metaller yılın 9 ayında sert düşüşler yaşadı",
-      "summary": "ABD/İsrail-İran Savaşı'nın başlamasıyla bu yıl emtia piyasasında sert dalgalanmalar görüldü. Bu dalgalanmalardan başta değerli metaller olmak üzere tüm emtialar etkilendi.",
-      "link": "https://www.trthaber.com/haber/ekonomi/degerli-metaller-yilin-9-ayinda-sert-dususler-yasadi-958990.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 11:35:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/degerli-metaller-yilin-9-ayinda-sert-dususler-yasadi-958990.html",
-          "summary": "ABD/İsrail-İran Savaşı'nın başlamasıyla bu yıl emtia piyasasında sert dalgalanmalar görüldü. Bu dalgalanmalardan başta değerli metaller olmak üzere tüm emtialar etkilendi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9e7f540f22c2",
       "title": "I Quit OpenAI Because Its Culture Is Broken - The Atlantic",
       "summary": "I Quit OpenAI Because Its Culture Is Broken The Atlantic",
@@ -5277,24 +5385,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5dffd82be0f4",
-      "title": "WXV: Megan Davey reignites international ambitions with Wales - BBC",
-      "summary": "WXV: Megan Davey reignites international ambitions with Wales BBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWmJya0s2RVpoTGVMc2NlTXFndnFxLWZRUXZUN1JPejFHdk8xYnNXTWFzZjB6UzhONkNCV19xODJUc0RObzFDaGYyeUFodEJEUGdmUmhyN2RBeV90Y2JkUC1xT1Nici05anhz?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWmJya0s2RVpoTGVMc2NlTXFndnFxLWZRUXZUN1JPejFHdk8xYnNXTWFzZjB6UzhONkNCV19xODJUc0RObzFDaGYyeUFodEJEUGdmUmhyN2RBeV90Y2JkUC1xT1Nici05anhz?oc=5",
-          "summary": "WXV: Megan Davey reignites international ambitions with Wales BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "309aa3192de3",
       "title": "Olise begeistert Trainer Zidane gegen Belgien",
       "summary": "Frankreich startete mit einer B-Elf in die Nations-League-Partie gegen Belgien und lag lange in Rückstand. Dann wechselte Coach Zinédine Zidane den Sieg ein.",
@@ -5362,96 +5452,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/irandan-abd-ile-muzakere-etmenin-anlami-yok-mesaji-959202.html",
           "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Ermenistan Dışişleri Bakanı Ararat Mirzoyan ile yaptığı görüşmede, “Devamlı yaptırımlar uygulayan, suikastlar düzenleyen ve anlaşmaları bozan bir düşmanla (ABD) müzakere etmenin anlamı yok.” dedi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f83792cf994a",
-      "title": "Nächste Pleite: Türkei verliert erneut gegen Italien",
-      "summary": "Die Türkei hat in Italien eine ordentliche Leistung gezeigt, steht aber auch nach dem vierten Spiel in der Nations League weiter bei null Punkten. Für den Nationaltrainer wird es immer enger.",
-      "link": "https://www.sportschau.de/fussball/nationsleague/naechste-pleite-fuer-tuerkei-montella-bleibt-punktlos,spielbericht-nations-league-italien-tuerkei-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 23:56:23 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/nationsleague/naechste-pleite-fuer-tuerkei-montella-bleibt-punktlos,spielbericht-nations-league-italien-tuerkei-100.html",
-          "summary": "Die Türkei hat in Italien eine ordentliche Leistung gezeigt, steht aber auch nach dem vierten Spiel in der Nations League weiter bei null Punkten. Für den Nationaltrainer wird es immer enger."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "593bf3e1fdbb",
-      "title": "Wehrdienst: Zahl der Kriegsdienstverweigerer steigt weiter stark an",
-      "summary": "Die Zahl der Anträge ist in diesem Jahr bereits dreimal so hoch wie im Vorjahr. Doch viele Kriegsdienstverweigerer machen einen Fehler.",
-      "link": "https://www.faz.net/aktuell/politik/inland/wehrdienst-zahl-der-kriegsdienstverweigerer-steigt-weiter-stark-an-201291263.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 23:54:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/wehrdienst-zahl-der-kriegsdienstverweigerer-steigt-weiter-stark-an-201291263.html",
-          "summary": "Die Zahl der Anträge ist in diesem Jahr bereits dreimal so hoch wie im Vorjahr. Doch viele Kriegsdienstverweigerer machen einen Fehler."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8b10e28a01e5",
-      "title": "ABD'den Mısır, Kuveyt ve BAE'ye 2,27 milyar dolarlık silah satışına onay",
-      "summary": "ABD Dışişleri Bakanlığı, Mısır, Kuveyt ve Birleşik Arap Emirlikleri'ne (BAE) 2,27 milyar dolarlık silah satışını onayladı.",
-      "link": "https://www.trthaber.com/haber/dunya/abdden-misir-kuveyt-ve-baeye-227-milyar-dolarlik-silah-satisina-onay-959200.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 23:49:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/abdden-misir-kuveyt-ve-baeye-227-milyar-dolarlik-silah-satisina-onay-959200.html",
-          "summary": "ABD Dışişleri Bakanlığı, Mısır, Kuveyt ve Birleşik Arap Emirlikleri'ne (BAE) 2,27 milyar dolarlık silah satışını onayladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a93ba133a224",
-      "title": "A simple guide to the US midterms",
-      "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 23:40:58 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-          "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f2bc8ec11328",
-      "title": "Almanya'nın Filistin destekçisi eylemlerde yaptığı hak ihlalleri raporlandı",
-      "summary": "Yeryüzü Avukatları Derneği (WOLAS) Yönetim Kurulu Üyesi M. Beheşti Aydoğan, Varşova’da başlayan AGİT İnsani Boyut Toplantısı’nda Almanya’nın Filistin ile dayanışma eylemlerine yönelik temel hak ihlallerini gündeme taşıdı.",
-      "link": "https://www.trthaber.com/haber/dunya/almanyanin-filistin-destekcisi-eylemlerde-yaptigi-hak-ihlalleri-raporlandi-959198.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 23:34:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/almanyanin-filistin-destekcisi-eylemlerde-yaptigi-hak-ihlalleri-raporlandi-959198.html",
-          "summary": "Yeryüzü Avukatları Derneği (WOLAS) Yönetim Kurulu Üyesi M. Beheşti Aydoğan, Varşova’da başlayan AGİT İnsani Boyut Toplantısı’nda Almanya’nın Filistin ile dayanışma eylemlerine yönelik temel hak ihlallerini gündeme taşıdı."
         }
       ],
       "sourcesCount": 1
