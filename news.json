@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T02:40:59.065453+00:00",
+  "updated": "2026-10-06T03:05:55.990641+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -398,6 +398,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "44480cebf610",
+      "title": "Sachsen-Anhalt: Der erste Test für neue Mehrheiten",
+      "summary": "In Sachsen-Anhalt konstituiert sich der neue Landtag. Auf der Tagesordnung steht die Wahl des Landtagspräsidenten.",
+      "link": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-landtag-konstituierende-sitzung-afd-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 6 Oct 2026 05:01:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-landtag-konstituierende-sitzung-afd-100.html",
+          "summary": "In Sachsen-Anhalt konstituiert sich der neue Landtag. Auf der Tagesordnung steht die Wahl des Landtagspräsidenten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "00792cfabe97",
+      "title": "Industrieverband BDI: \"Die AfD ist keine Wirtschaftspartei\"",
+      "summary": "Vor der konstituierenden Sitzung des Landtags in Sachsen-Anhalt warnt die Industrie vor einer AfD-Regierung. BDI-Chefin Gönner befürchtet einen Rückgang der Investitionen.",
+      "link": "https://www.zdfheute.de/politik/deutschland/industrieverband-warnung-afd-regierung-sachsen-anhalt-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 6 Oct 2026 04:14:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/industrieverband-warnung-afd-regierung-sachsen-anhalt-100.html",
+          "summary": "Vor der konstituierenden Sitzung des Landtags in Sachsen-Anhalt warnt die Industrie vor einer AfD-Regierung. BDI-Chefin Gönner befürchtet einen Rückgang der Investitionen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6bb99155c974",
       "title": "Zahl der Kriegsdienstverweigerer steigt sprunghaft an",
       "summary": "Immer mehr Männer verweigern den Dienst an der Waffe: Von Januar bis August gab es laut Berichten mehr als 12.000 Anträge - das sind dreimal so viele wie im gesamten Vorjahr.",
@@ -488,24 +524,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7e8d639e63be",
-      "title": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS - copyrightlately.com",
-      "summary": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS copyrightlately.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBd3pkb3lwOHVtd2NkSERmeEtwM0lWSmxmNGFYc3pMWi1DQjJ6SnM1ZFNlb3lFb0NudXNnV0UyUUptbEZfazJFdnlueG93NzRpN1k4LXppaHY2bzBvMEptbUdsSWlUeWZhTTAwdEdxaktBblE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 29 Sep 2026 19:57:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBd3pkb3lwOHVtd2NkSERmeEtwM0lWSmxmNGFYc3pMWi1DQjJ6SnM1ZFNlb3lFb0NudXNnV0UyUUptbEZfazJFdnlueG93NzRpN1k4LXppaHY2bzBvMEptbUdsSWlUeWZhTTAwdEdxaktBblE?oc=5",
-          "summary": "Signed, Sealed, Affirmed: Third Circuit Backs Thomson Reuters over ROSS copyrightlately.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "490754c33ab0",
       "title": "Tech Life",
       "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
@@ -540,7 +558,7 @@
     },
     {
       "id": "f4285a0d99ba",
-      "title": "Arista Networks vs. International Business Machines: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
+      "title": "Arista Networks vs. International Business Machines: Which Tech Stock Is a Better Buy in 2026? - fool.com",
       "summary": "Arista Networks vs. International Business Machines: Which Tech Stock Is a Better Buy in 2026?",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbFlHLWcwWENFYjMxS2UxaFdwMXpFZlFrTnFGS1VDeG1jUDRGVWlLeXhBdXN6U2FoM0E0V1NkaEpQNC1mR0F4V2pXZU9DRnFrVmFTdk1Ka0loZzJQWHFaMC0yWlp3aEdub0NQVDhVSXpoOE03OEtkWjBxQ0E4dGY1TXI5OUdVblQ5ZU55TkdiMXlvenpHREE2ZWlmMlowVmlBSld5TzJpZ2t2Tl9hdkhrNC02cjBqMlZZLVFxNG5ldTNybTd6QlBVU21NM2JzRFR1UzIyck5jSDc0NFgwZTdVcnJnMEs?oc=5",
       "sourceName": "Google News – International Business",
@@ -588,6 +606,24 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelRWTmoteVBtLTBiVElnM2hfdlhjMmxxdFpnbXpGNzBZczVhTVQwMUU3ajBvYlJzR3FMVHhjczJOdTZGeGhaZExsQy1TTUxSMjRsQUgxU1NOeUducGdiamhhYVRWblloWXJfU2pINE5uUkl3Q01CNk5MNTZyVERrc2Y0b1A3U1B2Q2t0TGtNVm1vS19sdGhaenBNOXQ2STFxSGN2dVpMUU1tN3dHZ1p2UHJNd0dmY1Y5Q0IwOHN0UQ?oc=5",
           "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor Office of Governor Ron DeSantis"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5d2fdae63e6c",
+      "title": "Sports Illustrated Stadium Announces Summer Schedule Featuring International Soccer, World-Class Concerts, and Soccer Celebration Watch Parties - Red Bull New York",
+      "summary": "Sports Illustrated Stadium Announces Summer Schedule Featuring International Soccer, World-Class Concerts, and Soccer Celebration Watch Parties Red Bull New York",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSzgwby1neldtYmd5ZWNBdWFpc042QjdwRWlFcW41STZiMUV5ZnZibHJ1UnExcUs4VWpVdzFJVUlNaDRZSlRPeTB2WVkxRjQ1cjFxbzRySXYzMzVSN3EzM21fZExVXzV3Z2laUnRtck5pMmVCNy1BNTNQbV9ZcFJMU01FeFU3SzNULVI1UUtrS2FtUlNDNkNFV0hUOFhhWDNvdVFUaU9UMHlvZUo0cWh3VDhLc2dGSFBQUG10UUxBT1FVYk56bnBrUnZDeDVDZXZqc1hjbEp3Zk9JdkV0N24tRUhpa2dvd2xPNE03NzVibjA3TUZqN0p0R0NYMDJhOWRPcEZJMDFLVmJqZw?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 26 May 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSzgwby1neldtYmd5ZWNBdWFpc042QjdwRWlFcW41STZiMUV5ZnZibHJ1UnExcUs4VWpVdzFJVUlNaDRZSlRPeTB2WVkxRjQ1cjFxbzRySXYzMzVSN3EzM21fZExVXzV3Z2laUnRtck5pMmVCNy1BNTNQbV9ZcFJMU01FeFU3SzNULVI1UUtrS2FtUlNDNkNFV0hUOFhhWDNvdVFUaU9UMHlvZUo0cWh3VDhLc2dGSFBQUG10UUxBT1FVYk56bnBrUnZDeDVDZXZqc1hjbEp3Zk9JdkV0N24tRUhpa2dvd2xPNE03NzVibjA3TUZqN0p0R0NYMDJhOWRPcEZJMDFLVmJqZw?oc=5",
+          "summary": "Sports Illustrated Stadium Announces Summer Schedule Featuring International Soccer, World-Class Concerts, and Soccer Celebration Watch Parties Red Bull New York"
         }
       ],
       "sourcesCount": 1
@@ -873,6 +909,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "19212b79517c",
+      "title": "Cornell-Universität: Neue Details zu Vergewaltigungsvorwürfen erhöhen Druck auf US-Eliteuni",
+      "summary": "Im Fall einer mutmaßlichen Gruppenvergewaltigung an der US-Elitehochschule Cornell wächst mit neuen Details der Druck auf die Universität. Auch die Klägerin sieht sich Drohungen ausgesetzt.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/neue-details-zu-vergewaltigungsvorwuerfen-erhoehen-druck-auf-us-uni-accg-201291362.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 02:45:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/neue-details-zu-vergewaltigungsvorwuerfen-erhoehen-druck-auf-us-uni-accg-201291362.html",
+          "summary": "Im Fall einer mutmaßlichen Gruppenvergewaltigung an der US-Elitehochschule Cornell wächst mit neuen Details der Druck auf die Universität. Auch die Klägerin sieht sich Drohungen ausgesetzt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4431354cf96a",
       "title": "Gazzeli öğretmenlerden Dünya Öğretmenler Günü mesajı: Bu nesli ayağa kaldırmaya devam edeceğiz",
       "summary": "Soykırımcı İsrail'in Gazze Şeridi'ne yönelik saldırılarıyla ağır darbe alan eğitim sisteminde görev yapan öğretmenler, 5 Ekim Dünya Öğretmenler Günü dolayısıyla yayımladıkları videoda, \"Çocukların yüreklerine umudu ekmeye, bu nesli ayağa kaldırmaya devam edeceğiz\" mesajı verdi.",
@@ -904,6 +958,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/fatihte-iki-katli-binada-yangin-1-kisi-hayatini-kaybetti-959207.html",
           "summary": "İstanbul Fatih'te iki katlı binada çıkan yangında 1 kişi yaşamını yitirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "245a4ef7f2f3",
+      "title": "Visualizing Ben Rice's swing using bat tracking technology - MLB.com",
+      "summary": "Visualizing Ben Rice's swing using bat tracking technology MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0JJN3dwUVRvNUtBRklaTjUxUExUd3ZfTzNMa0FDVkc2Tlo4TXdnUWcxOTZ2NFRjOUJRLUh4M2xja1pMYkZadHc5REJBcWZwU1pYUVlYbElSTmJDSHRaMTB2WDd5YnU2VlRDa2w3WGhsbWdBa29hYTU2ZjlFUFUySTZrSVZuWTByQ2V1N0FSR29rWkdCREoxdTcwaTZ6cWc?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 01:39:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0JJN3dwUVRvNUtBRklaTjUxUExUd3ZfTzNMa0FDVkc2Tlo4TXdnUWcxOTZ2NFRjOUJRLUh4M2xja1pMYkZadHc5REJBcWZwU1pYUVlYbElSTmJDSHRaMTB2WDd5YnU2VlRDa2w3WGhsbWdBa29hYTU2ZjlFUFUySTZrSVZuWTByQ2V1N0FSR29rWkdCREoxdTcwaTZ6cWc?oc=5",
+          "summary": "Visualizing Ben Rice's swing using bat tracking technology MLB.com"
         }
       ],
       "sourcesCount": 1
@@ -963,6 +1035,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "71313423b741",
+      "title": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity - EIN News",
+      "summary": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity EIN News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1VzaUlIM3JFTFJEQlN1TFMxRlctdVgwOGFpMDFQNVdXVWR6M3ozdXJJMXR0bHk0bDAxS01TNUozMnJnOFQ1WWNUcWVGVVpVZUVGTE91T0pILVBGdnR0ZjFXS2I3ZmFtS05TUWFDazFYZDFWb2NyajFfcjcxYXdJQU42ZTVsQmg5R2lCTVpLOWJZWlNkNHZpZFBacFpZWWVrMVpBLUpaRkp1X1lVT2N3R0toN0VQczg?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 01:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1VzaUlIM3JFTFJEQlN1TFMxRlctdVgwOGFpMDFQNVdXVWR6M3ozdXJJMXR0bHk0bDAxS01TNUozMnJnOFQ1WWNUcWVGVVpVZUVGTE91T0pILVBGdnR0ZjFXS2I3ZmFtS05TUWFDazFYZDFWb2NyajFfcjcxYXdJQU42ZTVsQmg5R2lCTVpLOWJZWlNkNHZpZFBacFpZWWVrMVpBLUpaRkp1X1lVT2N3R0toN0VQczg?oc=5",
+          "summary": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity EIN News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "47566cba9890",
       "title": "Handelsstreit: Deutsche Handelskammer warnt EU vor Pauschalzöllen gegen China",
       "summary": "Die deutsche Handelskammer fordert vor der Peking-Reise von EU-Handelskommissar Šefčovič, China als Partner zu sehen. Für den Fall einer Eskalation rechnen 80 Prozent der Firmen mit Folgen für ihr Geschäft.",
@@ -994,6 +1084,42 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/trump-ingilteredeki-abd-bombardiman-ucaklarini-iran-tehdidi-ihtimali-uzerine-cektiklerini-soyledi-959206.html",
           "summary": "ABD Başkanı Donald Trump, İngiltere'nin Gloucestershire bölgesindeki Kraliyet Hava Kuvvetleri (RAF) Fairford Üssü'ndeki bombardıman uçaklarını, muhtemel \"İran bağlantılı bazı tehditler\" nedeniyle çektiklerini doğruladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "23368e7fddbb",
+      "title": "Oregon lawmakers look to ban Flock cameras, surveillance technology - kgw.com",
+      "summary": "Oregon lawmakers look to ban Flock cameras, surveillance technology kgw.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZENxY1BPT1VqZVhtaXZsc0tycXkyLThRdVI2c0VoSUVYNEdwMjhEaUZhU2tNZmJDd2U5RlFqLXpYamRSMmVOb3pOaHdOREMzMUFWUGJNNGxSRTRFcV9sOXU2aUhUcnZZallDWkdFa3JJU1pVZGNfcXhxeWhxWFRsZ2dxQTQ4djdMNy05X3RwaUtfMGN3dERQdkZBakhYWnZtQWI0dFphZUF4ZVFkb2h3YkhDN1czUG1QZmhHakZQSGdVT0tXRWo3LW9LLWJOOUJ3V3ZXRVZiX1h0STRZc25V?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 00:28:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZENxY1BPT1VqZVhtaXZsc0tycXkyLThRdVI2c0VoSUVYNEdwMjhEaUZhU2tNZmJDd2U5RlFqLXpYamRSMmVOb3pOaHdOREMzMUFWUGJNNGxSRTRFcV9sOXU2aUhUcnZZallDWkdFa3JJU1pVZGNfcXhxeWhxWFRsZ2dxQTQ4djdMNy05X3RwaUtfMGN3dERQdkZBakhYWnZtQWI0dFphZUF4ZVFkb2h3YkhDN1czUG1QZmhHakZQSGdVT0tXRWo3LW9LLWJOOUJ3V3ZXRVZiX1h0STRZc25V?oc=5",
+          "summary": "Oregon lawmakers look to ban Flock cameras, surveillance technology kgw.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "de367f85098b",
+      "title": "A.I. Officials Stonewall on Questions About Technology’s Risks - The New York Times",
+      "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 00:17:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
+          "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -1216,8 +1342,8 @@
     },
     {
       "id": "fffaa82fa51f",
-      "title": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies - news.pollstar.com",
-      "summary": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies news.pollstar.com",
+      "title": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies - Pollstar News",
+      "summary": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies Pollstar News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlNqSXJuSW9lVE94MjRrZ3JVNXZ4WldHV1dXTkFBMngtNGhjbUZ4eTNsaE9jaHVwdlZPNXJsWmtqR1dYMFI4X2c3aDdqZENqd0RhUUpsYmRFNXIxZl81MnJWVkhqdFZLTExKcWEtSmR0c1RUd29NYTM3aF94ZDJYUkZiaW1MRmMxZzgxOTBDcVBxSERRV2ctU3pEYVJsdXkwZlN6b2NlbUVtdWRkU0RXMHBQbG1NVGpKeXhHdGt3?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
@@ -1227,7 +1353,7 @@
         {
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlNqSXJuSW9lVE94MjRrZ3JVNXZ4WldHV1dXTkFBMngtNGhjbUZ4eTNsaE9jaHVwdlZPNXJsWmtqR1dYMFI4X2c3aDdqZENqd0RhUUpsYmRFNXIxZl81MnJWVkhqdFZLTExKcWEtSmR0c1RUd29NYTM3aF94ZDJYUkZiaW1MRmMxZzgxOTBDcVBxSERRV2ctU3pEYVJsdXkwZlN6b2NlbUVtdWRkU0RXMHBQbG1NVGpKeXhHdGt3?oc=5",
-          "summary": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies news.pollstar.com"
+          "summary": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies Pollstar News"
         }
       ],
       "sourcesCount": 1
@@ -1246,24 +1372,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aVpsYnpOaHV4ZHhFLW5FSHRJUmNRVzR4eV9sVlJjTElkWERFLTlwajVuN3pvWl8tOVFQSlZWNTFzSTlXMm9sR2MtTFZJX3hZejVRQTAwREF5d0lBNkhiMjZqNA?oc=5",
           "summary": "Presidents Cup: US edge opening session against International team BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f4159a0d9d32",
-      "title": "Padel Highway brings international sport to Tucker - decaturish.com",
-      "summary": "Padel Highway brings international sport to Tucker decaturish.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdmgyUmYwQnF4T0NVTnZWams2S0F2SEdDTVNjN0ljbjJ5aV9PcjJrNmFZZF9lcm5mZ3dCakZVM1dFUDAzczBFNk1aMnF6T1pFaThTbGhaQ2VyT2dwX3Z6aDludzQyOGlKTEl3UzdhTEcyRGdOTm1mUHRpdndwSWQ5VEJxZ2FWQkpHMGpCRU5MM1gzTXlCZjc3UVJkcV80QTlKNC1lbVlRWDZkcElrSUNWNnlINjNwZk5nWXMzUE1ENDFPc3Rsdzdnd2VVMHhqcExPQ0ZrN0VB?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdmgyUmYwQnF4T0NVTnZWams2S0F2SEdDTVNjN0ljbjJ5aV9PcjJrNmFZZF9lcm5mZ3dCakZVM1dFUDAzczBFNk1aMnF6T1pFaThTbGhaQ2VyT2dwX3Z6aDludzQyOGlKTEl3UzdhTEcyRGdOTm1mUHRpdndwSWQ5VEJxZ2FWQkpHMGpCRU5MM1gzTXlCZjc3UVJkcV80QTlKNC1lbVlRWDZkcElrSUNWNnlINjNwZk5nWXMzUE1ENDFPc3Rsdzdnd2VVMHhqcExPQ0ZrN0VB?oc=5",
-          "summary": "Padel Highway brings international sport to Tucker decaturish.com"
         }
       ],
       "sourcesCount": 1
@@ -1953,24 +2061,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "9067d0ff343c",
-      "title": "Friars at the Basilica of Saint Francis turn to AI, lasers and gigapixel cameras to repair 13th century church - CBS News",
-      "summary": "Friars at the Basilica of Saint Francis turn to AI, lasers and gigapixel cameras to repair 13th century church CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEJteVJqU3ltakM3SEg3Q3JKb1Jkdkpmb3VDWnRjWC15Vkh6VnAwbDdySEZtRjhjVWlpNkdNemxZNnBuN2NWY0lVN1AxTWN1eS1JbVJWVHVvNXFhVkpZQml5d2x1NVFtcGJJVThpdERyeTRLU1RKLWhwbTNnWWFJZkxuTWdZRkJRSWtzV1U5SjlyX0NL?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 04 Oct 2026 23:59:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEJteVJqU3ltakM3SEg3Q3JKb1Jkdkpmb3VDWnRjWC15Vkh6VnAwbDdySEZtRjhjVWlpNkdNemxZNnBuN2NWY0lVN1AxTWN1eS1JbVJWVHVvNXFhVkpZQml5d2x1NVFtcGJJVThpdERyeTRLU1RKLWhwbTNnWWFJZkxuTWdZRkJRSWtzV1U5SjlyX0NL?oc=5",
-          "summary": "Friars at the Basilica of Saint Francis turn to AI, lasers and gigapixel cameras to repair 13th century church CBS News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "46677fd2314e",
       "title": "The job interview question you don't have to answer",
       "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
@@ -2260,8 +2350,8 @@
     },
     {
       "id": "71f4a237e76b",
-      "title": "New technology advances understanding of eye pressure and glaucoma - medicalxpress.com",
-      "summary": "New technology advances understanding of eye pressure and glaucoma medicalxpress.com",
+      "title": "New technology advances understanding of eye pressure and glaucoma - Medical Xpress",
+      "summary": "New technology advances understanding of eye pressure and glaucoma Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2271,7 +2361,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5",
-          "summary": "New technology advances understanding of eye pressure and glaucoma medicalxpress.com"
+          "summary": "New technology advances understanding of eye pressure and glaucoma Medical Xpress"
         }
       ],
       "sourcesCount": 1
@@ -3755,42 +3845,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8314911ccef5",
-      "title": "Aktuelles zum Krieg in der Ukraine",
-      "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-      "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 5 Oct 2026 23:41:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-          "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d0f08657a68b",
-      "title": "Frankreich dreht Spiel gegen Belgien und verteidigt Spitze",
-      "summary": "Erster Heimsieg für Trainer Zinedine Zidane mit Frankreich. Gegen Belgien gewinnt die Equipe Tricolore 4:1.",
-      "link": "https://www.zdfheute.de/sport/fussball-nations-league/frankreich-belgien-italien-tuerkei-nations-league-100.html",
-      "sourceName": "ZDF",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Mon, 5 Oct 2026 23:07:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/fussball-nations-league/frankreich-belgien-italien-tuerkei-nations-league-100.html",
-          "summary": "Erster Heimsieg für Trainer Zinedine Zidane mit Frankreich. Gegen Belgien gewinnt die Equipe Tricolore 4:1."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1b54141cb607",
       "title": "Bombendrohung am Stuttgarter Flughafen: Mann löst Chaos aus",
       "summary": "Mit einer Bombendrohung hat ein 24-Jähriger am Stuttgarter Flughafen für ein riesiges Verkehrschaos gesorgt: Der Flugverkehr stand still - 3.000 Menschen waren betroffen.",
@@ -4203,8 +4257,8 @@
     },
     {
       "id": "8fbe806ef978",
-      "title": "Here's how Thomson Reuters is loosening Claude's costly grip - businessinsider.com",
-      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip businessinsider.com",
+      "title": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
+      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip Business Insider",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5",
       "sourceName": "Google News – Reuters",
       "region": "international",
@@ -4214,7 +4268,7 @@
         {
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5",
-          "summary": "Here's how Thomson Reuters is loosening Claude's costly grip businessinsider.com"
+          "summary": "Here's how Thomson Reuters is loosening Claude's costly grip Business Insider"
         }
       ],
       "sourcesCount": 1
@@ -4328,6 +4382,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "aaa19731c9ad",
+      "title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ",
+      "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 05 Oct 2026 23:53:39 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+          "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8b10e28a01e5",
       "title": "ABD'den Mısır, Kuveyt ve BAE'ye 2,27 milyar dolarlık silah satışına onay",
       "summary": "ABD Dışişleri Bakanlığı, Mısır, Kuveyt ve Birleşik Arap Emirlikleri'ne (BAE) 2,27 milyar dolarlık silah satışını onayladı.",
@@ -4359,6 +4431,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-fruehere-trump-sprecherin-wechselt-zu-fox-news-faz-19444916.html",
           "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ed68535e317c",
+      "title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait - Reuters",
+      "summary": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 23:39:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
+          "summary": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4400,6 +4490,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "cc47fd09bd8e",
+      "title": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 - Yahoo Finance",
+      "summary": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHB2Nk9lZ21KT2dxUDJPakdTOENHekJrQlNXMzVZY09udEQxZzJseXl0eEdheWJaQXI3NmZZSmNieFQ1NnFjRmVwNloxN2EtTzAzVXpjcC0xWksxVlVRZlRISnlWbEoxVXg5UVdVQ2RjZ0YtaVBHN2FtYm1XVUFTVE05MDM5ZXRsYklRSVNHeXFfRUppREN6eElaRFc0Zw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Mon, 05 Oct 2026 23:25:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHB2Nk9lZ21KT2dxUDJPakdTOENHekJrQlNXMzVZY09udEQxZzJseXl0eEdheWJaQXI3NmZZSmNieFQ1NnFjRmVwNloxN2EtTzAzVXpjcC0xWksxVlVRZlRISnlWbEoxVXg5UVdVQ2RjZ0YtaVBHN2FtYm1XVUFTVE05MDM5ZXRsYklRSVNHeXFfRUppREN6eElaRFc0Zw?oc=5",
+          "summary": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "077895bc81e6",
       "title": "Adios, Argentinien - letztes Länderspiel von Messi",
       "summary": "Nach 21 Jahren in der Albiceleste sagt der Fußballgott Argentiniens \"adios\": Lionel Messi bestreitet in der Nacht zu Mittwoch sein 208. und letztes Länderspiel.",
@@ -4431,6 +4539,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
           "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7859596358b2",
+      "title": "Dozens quarantined in Siberia after plague institute lab worker dies - Reuters",
+      "summary": "Dozens quarantined in Siberia after plague institute lab worker dies Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 23:19:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
+          "summary": "Dozens quarantined in Siberia after plague institute lab worker dies Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4554,24 +4680,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7f7fddd96ddb",
-      "title": "Trump says taxpayers will no longer pay for TV ads that praised him - Reuters",
-      "summary": "Trump says taxpayers will no longer pay for TV ads that praised him Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHViRWR3UjN4UHNYUWJFUjQ2U1VQTHVvOTIta013bHRjZDVxY3UwMG5zdVd1a3BiMjJyVDZuQWJQbVMtdUVDZ2lFdjRfSEJKQVN2b1lfY0JhSWg4LUpPQklvNE40YklBbUNJUEh3Ulp3M1poQzZnelNIS1RLUG9IbFlxUWZUMzVRSW1laERZd3MyODNzbFBXNU4yUkJVZjczUEs5LTh3NTVNWktsWnBLZHBoUXdGMjdiLU5GS2FSWVo?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 22:47:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHViRWR3UjN4UHNYUWJFUjQ2U1VQTHVvOTIta013bHRjZDVxY3UwMG5zdVd1a3BiMjJyVDZuQWJQbVMtdUVDZ2lFdjRfSEJKQVN2b1lfY0JhSWg4LUpPQklvNE40YklBbUNJUEh3Ulp3M1poQzZnelNIS1RLUG9IbFlxUWZUMzVRSW1laERZd3MyODNzbFBXNU4yUkJVZjczUEs5LTh3NTVNWktsWnBLZHBoUXdGMjdiLU5GS2FSWVo?oc=5",
-          "summary": "Trump says taxpayers will no longer pay for TV ads that praised him Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "be32e912c415",
       "title": "Ataşehir Belediyesi'ne yönelik yolsuzluk operasyonu: 5 tutuklama",
       "summary": "Ataşehir Belediyesi'ne yönelik yolsuzluk soruşturması kapsamında gözaltına alınan, aralarında Belediye Başkan Vekili Murat Güneş'in de bulunduğu 5 şüpheli tutuklandı.",
@@ -4662,45 +4770,45 @@
       "sourcesCount": 1
     },
     {
-      "id": "ed68535e317c",
-      "title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait - Reuters",
-      "summary": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
+      "id": "7ca11e35753c",
+      "title": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 - Reuters",
+      "summary": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVlXcEZjUmh4TnlFb1RJM3ZQZW5yTlZhV3prMGFfc0JNLWt5cWVLVHEwU1VEcUlVYWhJVnRiaTA1Ylphd01taU54Y3RGNk9EMm80MkFVaEpiNDlvOThVN1pIb0JUYXplbmw5UThFTWE1eDFnOTlpMXFGMlVxMUFFOW9HSWNhSEp1V0lFdmFmREY1Rl9adHAxNw?oc=5",
       "sourceName": "Google News – Reuters",
       "region": "international",
       "topic": "politik",
-      "time": "Mon, 05 Oct 2026 22:23:00 GMT",
+      "time": "Mon, 05 Oct 2026 22:18:28 GMT",
       "coverage": [
         {
           "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
-          "summary": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait Reuters"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVlXcEZjUmh4TnlFb1RJM3ZQZW5yTlZhV3prMGFfc0JNLWt5cWVLVHEwU1VEcUlVYWhJVnRiaTA1Ylphd01taU54Y3RGNk9EMm80MkFVaEpiNDlvOThVN1pIb0JUYXplbmw5UThFTWE1eDFnOTlpMXFGMlVxMUFFOW9HSWNhSEp1V0lFdmFmREY1Rl9adHAxNw?oc=5",
+          "summary": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 Reuters"
         }
       ],
       "sourcesCount": 1
     },
     {
-      "id": "ac05754e11d7",
-      "title": "WSA Earns Two 2026 Hearing Technology Innovator Awards for Signia and Widex - The Hearing Review",
-      "summary": "WSA Earns Two 2026 Hearing Technology Innovator Awards for Signia and Widex The Hearing Review",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzRYQy01cFU2d3g2bkpTX2tqV1ZuekVLV3RsRzBWN0VhaVRUaGg2UXlUNU15SzM1Ty1ESHRubkxXd1MxUjFSQlJiOTdBa0J5OWY4UkhwU0hwNEk3RTI4Y3ZCbEFTUkhsYXJKWkszZVA5d2wwMjZOUmJ3UG1QU1FiZHFwTlFfY25vb09YMFJVUlNQR2dtaVdvOU5BaklraTBiLVFUNXBaVmh4UDkwVDUtZjFGcWNkdl9EcS1yUkZMY3hNNzVKckVqNjhCdw?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "bb04c8af45b1",
+      "title": "Spain's November snap election — what you need to know - Reuters",
+      "summary": "Spain's November snap election — what you need to know Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkxFcVJoYUdNZVFwQUNuNjI4b25Hc1FuOEN3bUNUTlhjU20tZDNWU2xRVzNBNlE5ejNRNjNzRkdHZ29Wa3ZMd2pnMXdWLXlrN09ESnhrUlhkS0g1OVU5dzFPRXozOEkzQ251U1IwY0tBU2JxTzVGdFE3VmNEeXJvc1ZnRXhxb1FKQmlqUHo5Z3lDQjJ5MDhVUU5R?oc=5",
+      "sourceName": "Google News – Reuters",
       "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 22:17:35 GMT",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 22:11:16 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzRYQy01cFU2d3g2bkpTX2tqV1ZuekVLV3RsRzBWN0VhaVRUaGg2UXlUNU15SzM1Ty1ESHRubkxXd1MxUjFSQlJiOTdBa0J5OWY4UkhwU0hwNEk3RTI4Y3ZCbEFTUkhsYXJKWkszZVA5d2wwMjZOUmJ3UG1QU1FiZHFwTlFfY25vb09YMFJVUlNQR2dtaVdvOU5BaklraTBiLVFUNXBaVmh4UDkwVDUtZjFGcWNkdl9EcS1yUkZMY3hNNzVKckVqNjhCdw?oc=5",
-          "summary": "WSA Earns Two 2026 Hearing Technology Innovator Awards for Signia and Widex The Hearing Review"
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkxFcVJoYUdNZVFwQUNuNjI4b25Hc1FuOEN3bUNUTlhjU20tZDNWU2xRVzNBNlE5ejNRNjNzRkdHZ29Wa3ZMd2pnMXdWLXlrN09ESnhrUlhkS0g1OVU5dzFPRXozOEkzQ251U1IwY0tBU2JxTzVGdFE3VmNEeXJvc1ZnRXhxb1FKQmlqUHo5Z3lDQjJ5MDhVUU5R?oc=5",
+          "summary": "Spain's November snap election — what you need to know Reuters"
         }
       ],
       "sourcesCount": 1
     },
     {
       "id": "0b09d9d200ed",
-      "title": "NYC councilwoman pushes back on proposed AI regulations: Technology must ‘move forward’ - Fox News",
-      "summary": "NYC councilwoman pushes back on proposed AI regulations: Technology must ‘move forward’ Fox News",
+      "title": "NYC councilwoman pushes back on proposed AI regulations: Technology must ‘move forward’ - foxnews.com",
+      "summary": "NYC councilwoman pushes back on proposed AI regulations: Technology must ‘move forward’ foxnews.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbUVBY2x2VG5wUlFKdC01clZLbjUxQU80bG85STZHWG1LYVFWRTJsNk93VFRJbDdpMEVld1FpaUZKb2JxcXpsSU5MdFd0WkZMV3BhSGlB?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -4710,7 +4818,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbUVBY2x2VG5wUlFKdC01clZLbjUxQU80bG85STZHWG1LYVFWRTJsNk93VFRJbDdpMEVld1FpaUZKb2JxcXpsSU5MdFd0WkZMV3BhSGlB?oc=5",
-          "summary": "NYC councilwoman pushes back on proposed AI regulations: Technology must ‘move forward’ Fox News"
+          "summary": "NYC councilwoman pushes back on proposed AI regulations: Technology must ‘move forward’ foxnews.com"
         }
       ],
       "sourcesCount": 1
@@ -4842,6 +4950,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5b62e2ba6b83",
+      "title": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says - Reuters",
+      "summary": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVg5UG5DN2dZR3lHMTBFbUIyTTVNRk9mMmlDV0xOVklrVC1RRVkwT1JndUZ1bjNST2F4SHJicnpsSExEaHBzWFhjdXJyZ1FmVERQWThObEtVUFFJM2tHMy00RWF4TG81UHBOVFIwLU1vdy14ZHl4NE1iTHVyVzFWckVEN01qVHJBV3FRZmNNWXg3Zk9hdjNiaFljWk11LWlVSmlYdHpQa3B3T1gxU2FOdDIwLVAwVjJPZTRLLQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 05 Oct 2026 21:33:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVg5UG5DN2dZR3lHMTBFbUIyTTVNRk9mMmlDV0xOVklrVC1RRVkwT1JndUZ1bjNST2F4SHJicnpsSExEaHBzWFhjdXJyZ1FmVERQWThObEtVUFFJM2tHMy00RWF4TG81UHBOVFIwLU1vdy14ZHl4NE1iTHVyVzFWckVEN01qVHJBV3FRZmNNWXg3Zk9hdjNiaFljWk11LWlVSmlYdHpQa3B3T1gxU2FOdDIwLVAwVjJPZTRLLQ?oc=5",
+          "summary": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "de2d5d5ad1d6",
       "title": "Humble Gilmour happy with new role as 50th cap beckons",
       "summary": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach.",
@@ -4855,24 +4981,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cmly05el6gz2o?at_medium=RSS&at_campaign=rss",
           "summary": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7859596358b2",
-      "title": "Dozens quarantined in Siberia after plague institute lab worker dies - Reuters",
-      "summary": "Dozens quarantined in Siberia after plague institute lab worker dies Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 21:23:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
-          "summary": "Dozens quarantined in Siberia after plague institute lab worker dies Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4915,8 +5023,8 @@
     },
     {
       "id": "1f3da31688db",
-      "title": "Technology Modernization Fund Invests About $83M in 4 Federal IT Projects - ExecutiveGov",
-      "summary": "Technology Modernization Fund Invests About $83M in 4 Federal IT Projects ExecutiveGov",
+      "title": "Technology Modernization Fund Invests About $83M in 4 Federal IT Projects - executivegov.com",
+      "summary": "Technology Modernization Fund Invests About $83M in 4 Federal IT Projects executivegov.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHdyUnU0eGh0RFM0MzlHUlBhMElFYURCak9pbjFaeVRCNXNPeVhUUlhzVWtPVkZOYmdRX1BhVzc0R3FYazNIN09VbzJFbGJmb28xMzNMSmlsRU04M2M3VTBoQm9CUW1ZckNEZHdZSGFJaDByd1JxUTBLY0pxdmhVbHhlMEVwVHlncDZReDNWN3NsQnA4RjJ3?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -4926,7 +5034,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHdyUnU0eGh0RFM0MzlHUlBhMElFYURCak9pbjFaeVRCNXNPeVhUUlhzVWtPVkZOYmdRX1BhVzc0R3FYazNIN09VbzJFbGJmb28xMzNMSmlsRU04M2M3VTBoQm9CUW1ZckNEZHdZSGFJaDByd1JxUTBLY0pxdmhVbHhlMEVwVHlncDZReDNWN3NsQnA4RjJ3?oc=5",
-          "summary": "Technology Modernization Fund Invests About $83M in 4 Federal IT Projects ExecutiveGov"
+          "summary": "Technology Modernization Fund Invests About $83M in 4 Federal IT Projects executivegov.com"
         }
       ],
       "sourcesCount": 1
@@ -5189,24 +5297,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1d7b6cacebb1",
-      "title": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds - Reuters",
-      "summary": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01hOUZVSEEyS0E3MkdRWEFjOHAwR3BYQzg0cE1GTXVPelBSWUstNVlzUGIyTXVva3ByV3lqMWIteWxpNFRtYVNMUi1wNmJzbmdQNHVlUEpzOGpZd1o2cTV4X3lkYzBUSS11YVJzU0NjaTR1SjZ5X1MxZ1hNeVhWX1kyQWgwd0owRF9aX3lpNlVPbmdhT3F0WFdkRTFXblE2NlRvM1lvTEtXeTUzYVRzWmtralp6cWo3WW9oUW56VHpwZw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 20:14:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01hOUZVSEEyS0E3MkdRWEFjOHAwR3BYQzg0cE1GTXVPelBSWUstNVlzUGIyTXVva3ByV3lqMWIteWxpNFRtYVNMUi1wNmJzbmdQNHVlUEpzOGpZd1o2cTV4X3lkYzBUSS11YVJzU0NjaTR1SjZ5X1MxZ1hNeVhWX1kyQWgwd0owRF9aX3lpNlVPbmdhT3F0WFdkRTFXblE2NlRvM1lvTEtXeTUzYVRzWmtralp6cWo3WW9oUW56VHpwZw?oc=5",
-          "summary": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "bde7ecd940dc",
       "title": "New Zealand National support at weakest level since 2020, poll finds - Reuters",
       "summary": "New Zealand National support at weakest level since 2020, poll finds Reuters",
@@ -5390,101 +5480,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "f2a49a45f4c1",
-      "title": "Starbucks sued over 'sugar-free' claims for protein beverages - Reuters",
-      "summary": "Starbucks sued over 'sugar-free' claims for protein beverages Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxFQ2tLby14Mks3MHc4SVNtdHdVenpDUjg0Q2dCTzFoY05ac1V1eXNqMXBhQlhhRFJCcFpjRml5cXdDT1dBUHV1Um93b1pEQ2Q1QjBsZDlBVl80Ull1V3JEazhJTGNubnBFX0xVVks1Qk9RUU1mcGxLRHBFS0NpNkcyYkhHa0NsdE02UFpIMVVLOVBHRnBKNy16amtmNHZLUlVTZTVkOXdtZDhn?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 19:27:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxFQ2tLby14Mks3MHc4SVNtdHdVenpDUjg0Q2dCTzFoY05ac1V1eXNqMXBhQlhhRFJCcFpjRml5cXdDT1dBUHV1Um93b1pEQ2Q1QjBsZDlBVl80Ull1V3JEazhJTGNubnBFX0xVVks1Qk9RUU1mcGxLRHBFS0NpNkcyYkhHa0NsdE02UFpIMVVLOVBHRnBKNy16amtmNHZLUlVTZTVkOXdtZDhn?oc=5",
-          "summary": "Starbucks sued over 'sugar-free' claims for protein beverages Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6804ae4094ea",
-      "title": "Liveblog Irankrieg: Mekka-Allianz beschließt nach Angriff auf Medina rasche Truppenverlegung",
-      "summary": "Merz „vorsichtig optimistisch“ nach Rückeroberung von Bab al-Mandab +++ Jemenitische Truppen melden Einnahme von Meerenge Bab al-Mandab +++ Rückeroberung der Hauptstadt Sanaa gestartet +++ alle Entwicklungen im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-mekka-allianz-beschliesst-nach-angriff-auf-medina-rasche-truppenverlegung-faz-200583539.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 19:21:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-mekka-allianz-beschliesst-nach-angriff-auf-medina-rasche-truppenverlegung-faz-200583539.html",
-          "summary": "Merz „vorsichtig optimistisch“ nach Rückeroberung von Bab al-Mandab +++ Jemenitische Truppen melden Einnahme von Meerenge Bab al-Mandab +++ Rückeroberung der Hauptstadt Sanaa gestartet +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "76a534ecfb11",
-      "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-      "summary": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 19:13:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
-          "summary": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c919952b9015",
-      "title": "America.gov: Digitaler Service oder Überwachung per KI?",
-      "summary": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung.",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 19:12:58 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
-          "summary": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "24d698f3757e",
-      "title": "England's greatest international? Kane is now a serious contender",
-      "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 19:05:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
-          "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?"
-        },
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yclptaHlreWEtdUFrUkxqOFFDWHpkcXRJTktLRmpLMy1JeGZaM09KNVBvWU5jbHYyR2k1RENHNm1ZaHJUd09TWWJDejNaaDFIb25STlVPR3pTeTh4X2JMVjlLZ19ZSmp0eUpz?oc=5",
-          "summary": "England's greatest international? Kane is now a serious contender BBC"
-        }
-      ],
-      "sourcesCount": 2
     }
   ]
 }
