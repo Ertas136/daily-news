@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:07:03.634891+00:00",
+  "updated": "2026-10-06T06:46:54.555307+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -141,6 +141,24 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
           "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ab8591400e2a",
+      "title": "Aufregung um Token-Preise: Wie KI-Kosten richtig gesteuert werden",
+      "summary": "Die Preise für KI fallen schneller als bei jeder vergleichbaren Technologie zuvor. Trotzdem werden die Rechnungen der Unternehmen nicht kleiner.",
+      "link": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/tokenpreise-wie-agentenverbrauch-unternehmensbudgets-beeinflusst-accg-201273653.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 30 Sep 2026 04:50:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/tokenpreise-wie-agentenverbrauch-unternehmensbudgets-beeinflusst-accg-201273653.html",
+          "summary": "Die Preise für KI fallen schneller als bei jeder vergleichbaren Technologie zuvor. Trotzdem werden die Rechnungen der Unternehmen nicht kleiner."
         }
       ],
       "sourcesCount": 1
@@ -380,6 +398,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "5ced43efc097",
+      "title": "Trump stimmt Hinrichtung durch Erschießung zu",
+      "summary": "Nidal Hasan tötete 13 Menschen auf einem US-Stützpunkt. Nun soll seine Hinrichtung durch ein Erschießungskommando vollzogen werden.",
+      "link": "https://www.zdfheute.de/politik/ausland/usa-hinrichtung-erschiessung-nidal-hasan-trump-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "gesellschaft",
+      "time": "Tue, 6 Oct 2026 08:18:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/usa-hinrichtung-erschiessung-nidal-hasan-trump-100.html",
+          "summary": "Nidal Hasan tötete 13 Menschen auf einem US-Stützpunkt. Nun soll seine Hinrichtung durch ein Erschießungskommando vollzogen werden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "54e45be8abf3",
+      "title": "Wohnungsnot in Barcelona: Zehntausende gegen hohe Mieten",
+      "summary": "Tausende protestieren in Barcelona gegen die Wohnungsnot. Wegen gescheiterter Gesetze rief Premier Sánchez Neuwahlen aus.",
+      "link": "https://www.zdfheute.de/politik/ausland/barcelona-protest-wohnungsnot-spanien-sanchez-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 6 Oct 2026 08:07:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/barcelona-protest-wohnungsnot-spanien-sanchez-100.html",
+          "summary": "Tausende protestieren in Barcelona gegen die Wohnungsnot. Wegen gescheiterter Gesetze rief Premier Sánchez Neuwahlen aus."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "402d8b8fe4ed",
       "title": "Schüler-Proteste in Frankreich: Neuer Höhepunkt erwartet",
       "summary": "Frankreich steht vor einem weiteren Aktionstag von Schülern, der zu einem neuen Höhepunkt der Proteste werden könnte. Zuletzt endeten diese in Gewalt und Tausenden Festnahmen.",
@@ -465,24 +519,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/wehrdienst-verweigerer-anstieg-medienbericht-100.html",
           "summary": "Immer mehr Menschen verweigern den Dienst an der Waffe: Von Januar bis August gab es laut Berichten mehr als 12.000 Anträge - das sind dreimal so viele wie im gesamten Vorjahr."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fe7cafe5ab37",
-      "title": "Messis letzter Tango für Argentinien: \"Wird unvergesslich\"",
-      "summary": "Nach 21 Jahren in der Nationalmannschaft steht der letzte Tango von Lionel Messi an. In der Nacht auf Mittwoch trifft Argentinien auf Benin.",
-      "link": "https://www.zdfheute.de/sport/fussball-messi-abschied-nationalmannschaft-argentinien-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 6 Oct 2026 05:07:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/fussball-messi-abschied-nationalmannschaft-argentinien-100.html",
-          "summary": "Nach 21 Jahren in der Nationalmannschaft steht der letzte Tango von Lionel Messi an. In der Nacht auf Mittwoch trifft Argentinien auf Benin."
         }
       ],
       "sourcesCount": 1
@@ -665,27 +701,9 @@
       "sourcesCount": 1
     },
     {
-      "id": "81c1c1d580b2",
-      "title": "Inside Liverpool's increasing global investment in youth - bbc.com",
-      "summary": "Inside Liverpool's increasing global investment in youth bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMW5LdHBqV1dQRDBzMXYwb0x2V0ZWa05UMGpfSjNsMTNFb2NmYkd0VlhVTE9IMFF5OEMxSFdfbGI3dUJTZU1iRV9ZRkFKWTk1Mi03SjFtT3AxWEZFdUtIRGhCekVtYncy?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 29 Sep 2026 07:19:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMW5LdHBqV1dQRDBzMXYwb0x2V0ZWa05UMGpfSjNsMTNFb2NmYkd0VlhVTE9IMFF5OEMxSFdfbGI3dUJTZU1iRV9ZRkFKWTk1Mi03SjFtT3AxWEZFdUtIRGhCekVtYncy?oc=5",
-          "summary": "Inside Liverpool's increasing global investment in youth bbc.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "cdff1be53985",
-      "title": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor - flgov.com",
-      "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor flgov.com",
+      "title": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor - Office of Governor Ron DeSantis",
+      "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor Office of Governor Ron DeSantis",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelRWTmoteVBtLTBiVElnM2hfdlhjMmxxdFpnbXpGNzBZczVhTVQwMUU3ajBvYlJzR3FMVHhjczJOdTZGeGhaZExsQy1TTUxSMjRsQUgxU1NOeUducGdiamhhYVRWblloWXJfU2pINE5uUkl3Q01CNk5MNTZyVERrc2Y0b1A3U1B2Q2t0TGtNVm1vS19sdGhaenBNOXQ2STFxSGN2dVpMUU1tN3dHZ1p2UHJNd0dmY1Y5Q0IwOHN0UQ?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
@@ -695,7 +713,7 @@
         {
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelRWTmoteVBtLTBiVElnM2hfdlhjMmxxdFpnbXpGNzBZczVhTVQwMUU3ajBvYlJzR3FMVHhjczJOdTZGeGhaZExsQy1TTUxSMjRsQUgxU1NOeUducGdiamhhYVRWblloWXJfU2pINE5uUkl3Q01CNk5MNTZyVERrc2Y0b1A3U1B2Q2t0TGtNVm1vS19sdGhaenBNOXQ2STFxSGN2dVpMUU1tN3dHZ1p2UHJNd0dmY1Y5Q0IwOHN0UQ?oc=5",
-          "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor flgov.com"
+          "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor Office of Governor Ron DeSantis"
         }
       ],
       "sourcesCount": 1
@@ -819,24 +837,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "567246dad595",
-      "title": "Spain battles climate change on several fronts",
-      "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 22 Sep 2026 09:11:48 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0313b19e120a",
       "title": "Am Ende wieder am Anfang",
       "summary": "Das Bundeskartellamt hat die 50+1-Regel im deutschen Fußball im August für rechtens erklärt, aber die einheitliche Anwendung gefordert. Am Ende des Verfahrens steht damit alles wieder auf Anfang.",
@@ -874,8 +874,8 @@
     },
     {
       "id": "0328c8d7e4e4",
-      "title": "Nations League: How do players withdraw from an international squad? - bbc.com",
-      "summary": "Nations League: How do players withdraw from an international squad? bbc.com",
+      "title": "Nations League: How do players withdraw from an international squad? - BBC",
+      "summary": "Nations League: How do players withdraw from an international squad? BBC",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOWNwYmhCS1pQeVo5YkJrUWpYUkZiLVhXSnBtSHEtZGNvNW5xWURLWWd5a2tyalhHQlFrTWl2Q3R0M011YVdmd0VHWnh3dkhLb2xuNjNPbFo3MlRLUkw5TkR2QjdRczhT?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -885,15 +885,15 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOWNwYmhCS1pQeVo5YkJrUWpYUkZiLVhXSnBtSHEtZGNvNW5xWURLWWd5a2tyalhHQlFrTWl2Q3R0M011YVdmd0VHWnh3dkhLb2xuNjNPbFo3MlRLUkw5TkR2QjdRczhT?oc=5",
-          "summary": "Nations League: How do players withdraw from an international squad? bbc.com"
+          "summary": "Nations League: How do players withdraw from an international squad? BBC"
         }
       ],
       "sourcesCount": 1
     },
     {
       "id": "2828c56ebd32",
-      "title": "England fast bowler Wood retires from internationals - bbc.com",
-      "summary": "England fast bowler Wood retires from internationals bbc.com",
+      "title": "England fast bowler Wood retires from internationals - BBC",
+      "summary": "England fast bowler Wood retires from internationals BBC",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WRGdqU3d0MHJjaldRUHVMd1JTcUUtdWdoai1YYzk4RlZqS2dfX0tiVXhzcmlIRE1aOW5NWVFLcEY4THRqcHh6cFRKejh1T25OVjJneERfVnVaVnZxT2FXQ1hRbXFjdw?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -903,7 +903,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WRGdqU3d0MHJjaldRUHVMd1JTcUUtdWdoai1YYzk4RlZqS2dfX0tiVXhzcmlIRE1aOW5NWVFLcEY4THRqcHh6cFRKejh1T25OVjJneERfVnVaVnZxT2FXQ1hRbXFjdw?oc=5",
-          "summary": "England fast bowler Wood retires from internationals bbc.com"
+          "summary": "England fast bowler Wood retires from internationals BBC"
         }
       ],
       "sourcesCount": 1
@@ -979,6 +979,83 @@
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "601607e1c9a0",
+      "title": "Brent petrolün varili 99,79 dolardan işlem görüyor",
+      "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 99,79 dolardan işlem görüyor.",
+      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9979-dolardan-islem-goruyor-959246.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 09:38:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9979-dolardan-islem-goruyor-959246.html",
+          "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 99,79 dolardan işlem görüyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d9672cdd69de",
+      "title": "ABD'de ara seçimler yaklaşırken Demokratlar Temsilciler Meclisinde avantajlı görünüyor",
+      "summary": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimlerine yaklaşık bir ay kala, seçim yarışında Demokratların özellikle Temsilciler Meclisinde avantaj sağladığı görülüyor.",
+      "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-yaklasirken-demokratlar-temsilciler-meclisinde-avantajli-gorunuyor-959245.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 09:35:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-yaklasirken-demokratlar-temsilciler-meclisinde-avantajli-gorunuyor-959245.html",
+          "summary": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimlerine yaklaşık bir ay kala, seçim yarışında Demokratların özellikle Temsilciler Meclisinde avantaj sağladığı görülüyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "95e4ba8446a4",
+      "title": "TİGEM, 675 reforme küçükbaş satacak",
+      "summary": "Tarım İşletmeleri Genel Müdürlüğü (TİGEM) Altınova Tarım İşletmesi Müdürlüğü, 650 baş reforme koyun ve 25 baş reforme koç satışı yapacak.",
+      "link": "https://www.trthaber.com/haber/ekonomi/tigem-675-reforme-kucukbas-satacak-959244.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 09:28:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/tigem-675-reforme-kucukbas-satacak-959244.html",
+          "summary": "Tarım İşletmeleri Genel Müdürlüğü (TİGEM) Altınova Tarım İşletmesi Müdürlüğü, 650 baş reforme koyun ve 25 baş reforme koç satışı yapacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c3ba0724fcf3",
+      "title": "Küresel piyasalar pozitif seyrediyor",
+      "summary": "Küresel piyasalar, ABD'de tahvil faizlerinin yükselişine rağmen yapay zeka yatırımlarına yönelik iyimserlik ve güçlü bilanço beklentilerinin risk iştahını artırmasıyla pozitif seyrediyor.",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-pozitif-seyrediyor-959243.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 09:05:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-pozitif-seyrediyor-959243.html",
+          "summary": "Küresel piyasalar, ABD'de tahvil faizlerinin yükselişine rağmen yapay zeka yatırımlarına yönelik iyimserlik ve güçlü bilanço beklentilerinin risk iştahını artırmasıyla pozitif seyrediyor."
+        },
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-orta-dogu-tedirginligi-959123.html",
+          "summary": "Petrol fiyatlarının 100 doların üzerine çıkması ve dolar endeksinde görülen sert yükseliş piyasalardaki risk iştahını sınırlıyor. Fed’in şahin tutumundan vazgeçeceği umuduyla destek bulan endeksler, Orta Doğu’daki çatışma haberleriyle yön arayışını sürdürüyor."
+        }
+      ],
+      "sourcesCount": 2
     },
     {
       "id": "a1c117a9eea3",
@@ -1291,13 +1368,13 @@
       "title": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
       "summary": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können.",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
-      "sourceName": "Tagesschau Ausland",
+      "sourceName": "Tagesschau Wirtschaft",
       "region": "international",
       "topic": "politik",
       "time": "Tue, 06 Oct 2026 07:30:33 +0200",
       "coverage": [
         {
-          "sourceName": "Tagesschau Ausland",
+          "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
           "summary": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können."
         }
@@ -1468,7 +1545,7 @@
     },
     {
       "id": "39c3e76b4e28",
-      "title": "Hallo statt Privjet: An Lettlands Schulen ist Russisch verboten",
+      "title": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
       "summary": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch.",
       "link": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
       "sourceName": "Tagesschau Ausland",
@@ -1503,6 +1580,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f27c32e72bd8",
+      "title": "Toddler pensions: Why we're saving £100 a month for our kids",
+      "summary": "A growing number of parents are opening retirement funds for their children.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 06:36:39 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+          "summary": "A growing number of parents are opening retirement funds for their children."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a99be3ad4d94",
       "title": "TRT'nin acı kaybı: Usta gazeteci Levent Öztürk hayatını kaybetti",
       "summary": "TRT muhabiri Recep Levent Öztürk, geçirdiği kalp krizi sonrası kaldırıldığı hastanede müdahalelere rağmen kurtarılamadı.",
@@ -1516,6 +1611,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/trtnin-aci-kaybi-usta-gazeteci-levent-ozturk-hayatini-kaybetti-959214.html",
           "summary": "TRT muhabiri Recep Levent Öztürk, geçirdiği kalp krizi sonrası kaldırıldığı hastanede müdahalelere rağmen kurtarılamadı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "57d246671c8f",
+      "title": "Sanderson Acquire Some Nicoll Curtin Operations - The Global Recruiter",
+      "summary": "Sanderson Acquire Some Nicoll Curtin Operations The Global Recruiter",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEswS2dxT0lfTVBEYWY3QndDelF3LV8zeENldVVsX2dMa1Rud2JqQl9JX3VnWHRlTDdsOGhHN2YzeWN1bnVaYXNfYWVJa0xmeTlhUTM2S3g5a0hxcEhtSEFJUl9kQ2pEN081eTZWenlORTlxaXRHd2pLcEZ3Q3UwWlVBMjFyTU9QdGg4?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 06:31:15 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEswS2dxT0lfTVBEYWY3QndDelF3LV8zeENldVVsX2dMa1Rud2JqQl9JX3VnWHRlTDdsOGhHN2YzeWN1bnVaYXNfYWVJa0xmeTlhUTM2S3g5a0hxcEhtSEFJUl9kQ2pEN081eTZWenlORTlxaXRHd2pLcEZ3Q3UwWlVBMjFyTU9QdGg4?oc=5",
+          "summary": "Sanderson Acquire Some Nicoll Curtin Operations The Global Recruiter"
         }
       ],
       "sourcesCount": 1
@@ -1557,6 +1670,114 @@
       "sourcesCount": 1
     },
     {
+      "id": "455fd3ef11f1",
+      "title": "Quiz: Name England's all-time leading appearance makers",
+      "summary": "Harry Kane will become England men's joint all-time leading appearance maker if he plays against Czech Republic on Tuesday.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 06:23:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
+          "summary": "Harry Kane will become England men's joint all-time leading appearance maker if he plays against Czech Republic on Tuesday."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "db8c4128ca8a",
+      "title": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
+      "summary": "Die Leselust sinkt, Läden schließen, die Politik macht Druck. Wird die Krise der deutschen Buchbranche existenziell?",
+      "link": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 06:22:55 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
+          "summary": "Die Leselust sinkt, Läden schließen, die Politik macht Druck. Wird die Krise der deutschen Buchbranche existenziell?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "56c6d3cc974b",
+      "title": "Liveblog Ukrainekrieg: Wadephul: Russland hat über Ukraine hinausgehende Pläne",
+      "summary": "Wadephul: Deutschland nicht erst dann angegriffen sei, wenn deutsches Gebiet angegriffen +++ Russland wirft Ukraine Angriff auf AKW Saporischschja vor +++ alle Neuigkeiten im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-russland-hat-ueber-ukraine-hinausgehende-plaene-faz-110683325.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 06:19:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-russland-hat-ueber-ukraine-hinausgehende-plaene-faz-110683325.html",
+          "summary": "Wadephul: Deutschland nicht erst dann angegriffen sei, wenn deutsches Gebiet angegriffen +++ Russland wirft Ukraine Angriff auf AKW Saporischschja vor +++ alle Neuigkeiten im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3baf345bb208",
+      "title": "Born into Celtic, made at Motherwell, Welsh comes of age with Scotland",
+      "summary": "It takes talent, resilience and good fortune in finding managers who believe in you, but dreams can come true. Stephen Welsh is living proof of it, writes Tom English.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crd938wj2n14o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 06:18:52 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crd938wj2n14o?at_medium=RSS&at_campaign=rss",
+          "summary": "It takes talent, resilience and good fortune in finding managers who believe in you, but dreams can come true. Stephen Welsh is living proof of it, writes Tom English."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5cdf072c8786",
+      "title": "Unternehmen Bremsen: Die KI-Kosten steigen und steigen",
+      "summary": "Deutsche Unternehmen geben Milliarden für Künstliche Intelligenz aus – Tendenz stark steigend. Eine F.A.Z.-Umfrage zeigt: Zum Eindämmen der Kosten verfolgen sie unterschiedliche Strategien.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 06:18:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
+          "summary": "Deutsche Unternehmen geben Milliarden für Künstliche Intelligenz aus – Tendenz stark steigend. Eine F.A.Z.-Umfrage zeigt: Zum Eindämmen der Kosten verfolgen sie unterschiedliche Strategien."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "65d29e098dde",
+      "title": "NFL suspends two officials for player incidents",
+      "summary": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 06:13:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+          "summary": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "562ecda3ae3e",
       "title": "CIA raporunda İsrailin iç savaş veya siyasi çöküş riski var",
       "summary": "İsrail basınında yer alan ABD kaynaklı bir raporda, İsrail'in birkaç krizden geçtiği, bu krizlerin ülkeyi \"iç savaş veya siyasi çöküş riski\" ile karşı karşıya bıraktığı bildirildi.",
@@ -1575,19 +1796,55 @@
       "sourcesCount": 1
     },
     {
+      "id": "dc4fd6f103b0",
+      "title": "USA unter Trump: Trump stimmt Hinrichtung von Amokläufer durch US-Militär zu",
+      "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-praesident-stimmt-hinrichtung-von-amoklaeufer-durch-us-militaer-zu-faz-19444916.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 06:02:19 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-praesident-stimmt-hinrichtung-von-amoklaeufer-durch-us-militaer-zu-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e770d3f31a3b",
       "title": "OpenAI admits response to Australian government hacks 'not good enough'",
       "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
       "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "sourceName": "BBC World",
       "region": "international",
       "topic": "technologie",
       "time": "Tue, 06 Oct 2026 06:00:53 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
+          "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
           "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2c8e961989d5",
+      "title": "Who am I? Guess Premier League star No 78",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxzdzdr6dyzlo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 05:50:25 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxzdzdr6dyzlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
         }
       ],
       "sourcesCount": 1
@@ -1630,7 +1887,7 @@
     },
     {
       "id": "448a65a011f0",
-      "title": "Deutschland-Liveblog: Wagenknecht: AfD-Landtagspräsident ist „eine Selbstverständlichkeit“",
+      "title": "Deutschland-Liveblog: Wagenknecht: „Das BSW beendet die Brandmauer-Idiotie“",
       "summary": "BSW-Gründerin: „Es steht kein Göring 2.0 zur Wahl“ +++ AfD schlägt Tillschneider als Landtagsvizepräsidenten vor +++ Ermittlungen gegen Niedersachsens SPD-Fraktionschef Politze +++ alle Entwicklungen im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-wagenknecht-afd-landtagspraesident-ist-eine-selbstverstaendlichkeit-faz-110093143.html",
       "sourceName": "FAZ",
@@ -1665,27 +1922,27 @@
       "sourcesCount": 1
     },
     {
-      "id": "4b0af9ad69f1",
-      "title": "Mit 86 Jahren: Bestsellerautor Jeffrey Archer gestorben",
-      "summary": "Er saß im Unter-, im Oberhaus und im Gefängnis. Sein erster Bestseller rettete ihn vor dem Bankrott.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/britischer-bestsellerautor-jeffrey-archer-gestorben-accg-201291551.html",
-      "sourceName": "FAZ",
+      "id": "1b01a2e91bfb",
+      "title": "Last call for the mall? How shopping centres are reinventing themselves",
+      "summary": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
       "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 05:30:58 GMT",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 05:28:37 GMT",
       "coverage": [
         {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/britischer-bestsellerautor-jeffrey-archer-gestorben-accg-201291551.html",
-          "summary": "Er saß im Unter-, im Oberhaus und im Gefängnis. Sein erster Bestseller rettete ihn vor dem Bankrott."
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+          "summary": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive."
         }
       ],
       "sourcesCount": 1
     },
     {
       "id": "136c7bd5e3c2",
-      "title": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote - KTVB",
-      "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote KTVB",
+      "title": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote - ktvb.com",
+      "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote ktvb.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHBRTFV0cktHSWJ5X2V6N3V4MGFBUkh2ajFaZ0tUekd6c2sxaUgwa3dfYXZ2Z2llc0E0MERmUXBOMUYzOV9SOGxCQno4Sk5tVm9KMEtGMGF3UXdEbHJ4Tjh6R1FUOUNCM2pON29rOE9CcW43VXdkSGs0emUtcURVejlwaWlxNm9RY1ctMWZuQUJlUFBkajBXeU9kcHUwOXlyRWk5Tm9JRS16MjhYRk9iVXBqcXBCdU9qTXhzcjZfTHVVeDRGTDV0a2hJckc3cDNpTkVTWjFwYWZDUFBNQy11ZVF6a2xfdW8wazBN?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -1695,25 +1952,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHBRTFV0cktHSWJ5X2V6N3V4MGFBUkh2ajFaZ0tUekd6c2sxaUgwa3dfYXZ2Z2llc0E0MERmUXBOMUYzOV9SOGxCQno4Sk5tVm9KMEtGMGF3UXdEbHJ4Tjh6R1FUOUNCM2pON29rOE9CcW43VXdkSGs0emUtcURVejlwaWlxNm9RY1ctMWZuQUJlUFBkajBXeU9kcHUwOXlyRWk5Tm9JRS16MjhYRk9iVXBqcXBCdU9qTXhzcjZfTHVVeDRGTDV0a2hJckc3cDNpTkVTWjFwYWZDUFBNQy11ZVF6a2xfdW8wazBN?oc=5",
-          "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote KTVB"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ecc495272cf8",
-      "title": "Standortwettbewerb: Die Risiken von Investitionen in China",
-      "summary": "Wenn deutsche Unternehmen sehr viel in China investieren, darf der deutsche Steuerzahler nicht für Verluste im geopolitischen Konfliktfall zahlen müssen. Das fordern zwei Ökonomen des arbeitgebernahen Instituts der deutschen Wirtschaft.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/die-risiken-von-investitionen-in-china-accg-201289694.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 05:27:35 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/die-risiken-von-investitionen-in-china-accg-201289694.html",
-          "summary": "Wenn deutsche Unternehmen sehr viel in China investieren, darf der deutsche Steuerzahler nicht für Verluste im geopolitischen Konfliktfall zahlen müssen. Das fordern zwei Ökonomen des arbeitgebernahen Instituts der deutschen Wirtschaft."
+          "summary": "Caldwell approves $6.7M surveillance and technology contract with Axon in a 4-1 vote ktvb.com"
         }
       ],
       "sourcesCount": 1
@@ -1737,8 +1976,26 @@
       "sourcesCount": 1
     },
     {
+      "id": "146fba48830c",
+      "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+      "summary": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 04:57:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+          "summary": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "751373978c67",
-      "title": "Watch: Moment Indonesian sneaker shop is torn apart by explosion",
+      "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
       "summary": "Police have said it is “strongly suspected” that the incident was caused by a gas leak.",
       "link": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
@@ -1768,6 +2025,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/c617j1klwpwqo?at_medium=RSS&at_campaign=rss",
           "summary": "Wales face Albania in the Women's World Cup play-offs this week knowing a challenging reunion with Gemma Grainger may well be the prize on offer."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "95f3ba2b1e9c",
+      "title": "Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer - AZoM",
+      "summary": "Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer AZoM",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mX3ZyVk95aVFyZXlVNzYwcHo2ajJrcUFTWlJvM2dZRmNfa3hOWEdnb0NTNFdwQTBpdm43V3ByOGFZamlIUFRSdWx6alpDMTBjazZYM2t3?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 04:50:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mX3ZyVk95aVFyZXlVNzYwcHo2ajJrcUFTWlJvM2dZRmNfa3hOWEdnb0NTNFdwQTBpdm43V3ByOGFZamlIUFRSdWx6alpDMTBjazZYM2t3?oc=5",
+          "summary": "Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer AZoM"
         }
       ],
       "sourcesCount": 1
@@ -1876,42 +2151,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-gibt-viel-geld-fuer-bildung-aus-trotzdem-protestieren-die-schueler-accg-201288845.html",
           "summary": "Die Oberschüler sehen sich als verlorene Generation, die den Niveauverlust des französischen Bildungssystems ausbaden muss. Dafür gibt es mehrere Gründe – und einer davon weist nach Deutschland."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9510bc57bcb2",
-      "title": "Infantino ohne Ende?: Wie reformiert man die FIFA, Herr Duval?",
-      "summary": "Der Jurist Antoine Duval fordert seit Jahren andere FIFA-Strukturen. Er erklärt, warum der Anstoß dafür von der EU kommen muss und welches Angebot die UEFA machen sollte, um Infantino loszuwerden.",
-      "link": "https://www.faz.net/aktuell/sport/fussball/fifa-reform-was-antoine-duval-von-der-eu-und-uefa-fordert-accg-201240669.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 04:04:34 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/fussball/fifa-reform-was-antoine-duval-von-der-eu-und-uefa-fordert-accg-201240669.html",
-          "summary": "Der Jurist Antoine Duval fordert seit Jahren andere FIFA-Strukturen. Er erklärt, warum der Anstoß dafür von der EU kommen muss und welches Angebot die UEFA machen sollte, um Infantino loszuwerden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "cc854d8522bd",
-      "title": "Library Technology Guides Now Has a Redesigned Website - newsbreaks.infotoday.com",
-      "summary": "Library Technology Guides Now Has a Redesigned Website newsbreaks.infotoday.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNalY2RWNfa1R4dmxKSjRRSER4eDdzTDIxUDVsY19MSm4wYXNuYzBGZHNYT2ZYYTNOd094ckhxOFhWYXN6QkZ6U0M2czFjYkFQT3BwMmh2NExjWnRxT3NyWWt5R1hyTG52MHpnSThWbEpVdGNmcGNJRHg1ZmhUS2sxUjU3UTk0bFFGU0wxVF9NZnVzcTFuTGpjYUVRLWsyZDBZdG44N0taNk4?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 04:01:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNalY2RWNfa1R4dmxKSjRRSER4eDdzTDIxUDVsY19MSm4wYXNuYzBGZHNYT2ZYYTNOd094ckhxOFhWYXN6QkZ6U0M2czFjYkFQT3BwMmh2NExjWnRxT3NyWWt5R1hyTG52MHpnSThWbEpVdGNmcGNJRHg1ZmhUS2sxUjU3UTk0bFFGU0wxVF9NZnVzcTFuTGpjYUVRLWsyZDBZdG44N0taNk4?oc=5",
-          "summary": "Library Technology Guides Now Has a Redesigned Website newsbreaks.infotoday.com"
         }
       ],
       "sourcesCount": 1
@@ -2134,8 +2373,8 @@
     },
     {
       "id": "fec0c5a97d9d",
-      "title": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology - aha.org",
-      "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology aha.org",
+      "title": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology - American Hospital Association",
+      "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology American Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFlZWUo5aG9HNnpwSmV0RldjOGZBR3NyY2JBOGRIV1c0M2pFSTd0RGkzRWktanFzb0hRY2Y0dW9ndUpzODVSM0taQ1gySmdNc1FOV0pleDhKcHJTQ1F4UWI5LXlEVE9Fcjl6MU1PRkZhaE9vOFg5Z0NTd2ZHa29Dd3pjNjc2cHNCSnQ2UmNtTDRFNTRydC1BUUlEaHZ1RVI0Um1vSXdMS0RpN2Fic2o4RVFVeUlocUk0bkt2amVzQUpmMUJjVnZDbnlPc04wSTNCVURn?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2145,15 +2384,15 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFlZWUo5aG9HNnpwSmV0RldjOGZBR3NyY2JBOGRIV1c0M2pFSTd0RGkzRWktanFzb0hRY2Y0dW9ndUpzODVSM0taQ1gySmdNc1FOV0pleDhKcHJTQ1F4UWI5LXlEVE9Fcjl6MU1PRkZhaE9vOFg5Z0NTd2ZHa29Dd3pjNjc2cHNCSnQ2UmNtTDRFNTRydC1BUUlEaHZ1RVI0Um1vSXdMS0RpN2Fic2o4RVFVeUlocUk0bkt2amVzQUpmMUJjVnZDbnlPc04wSTNCVURn?oc=5",
-          "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology aha.org"
+          "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology American Hospital Association"
         }
       ],
       "sourcesCount": 1
     },
     {
       "id": "8e9d81acfe30",
-      "title": "Dillon ranchers implement virtual fencing technology to track cattle - KBZK News",
-      "summary": "Dillon ranchers implement virtual fencing technology to track cattle KBZK News",
+      "title": "Dillon ranchers implement virtual fencing technology to track cattle - kbzk.com",
+      "summary": "Dillon ranchers implement virtual fencing technology to track cattle kbzk.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjlGLVd4aTdqdkwwRWVFZHVyVmh0WXN3YUFiWGtSTXJ0cjVPcm9rVVJoek1peWJQSHhuejVlWnhGQ0h1TFZZc0ZMX2EzTGZvTl81MGxTNVdHNDNJVlhIaGI0cTR4bFE1Zy1jSGNBeXJwQTFRUGY1R1dqcXBYN3ZFUzVfM05KTDF3UV9VM1ZhZEE0R0NwMnZlTU5R?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2163,25 +2402,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjlGLVd4aTdqdkwwRWVFZHVyVmh0WXN3YUFiWGtSTXJ0cjVPcm9rVVJoek1peWJQSHhuejVlWnhGQ0h1TFZZc0ZMX2EzTGZvTl81MGxTNVdHNDNJVlhIaGI0cTR4bFE1Zy1jSGNBeXJwQTFRUGY1R1dqcXBYN3ZFUzVfM05KTDF3UV9VM1ZhZEE0R0NwMnZlTU5R?oc=5",
-          "summary": "Dillon ranchers implement virtual fencing technology to track cattle KBZK News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e21610056b64",
-      "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
-      "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 01:58:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
-          "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
+          "summary": "Dillon ranchers implement virtual fencing technology to track cattle kbzk.com"
         }
       ],
       "sourcesCount": 1
@@ -2259,24 +2480,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4cbb20465b21",
-      "title": "Deutsche Bahn: Pfefferspray löst Polizeieinsatz in ICE aus",
-      "summary": "Dutzende Reisende eines Zugabteils klagten über Atembeschwerden und gereizte Augen. Der betroffene ICE hat darauf einen Notstopp eingelegt.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/deutsche-bahn-pfefferspray-loest-polizeieinsatz-in-ice-aus-accg-201291282.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 01:03:04 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/deutsche-bahn-pfefferspray-loest-polizeieinsatz-in-ice-aus-accg-201291282.html",
-          "summary": "Dutzende Reisende eines Zugabteils klagten über Atembeschwerden und gereizte Augen. Der betroffene ICE hat darauf einen Notstopp eingelegt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1f3423748e81",
       "title": "Trump, İngiltere'deki ABD bombardıman uçaklarını İran tehdidi ihtimali üzerine çektiklerini söyledi",
       "summary": "ABD Başkanı Donald Trump, İngiltere'nin Gloucestershire bölgesindeki Kraliyet Hava Kuvvetleri (RAF) Fairford Üssü'ndeki bombardıman uçaklarını, muhtemel \"İran bağlantılı bazı tehditler\" nedeniyle çektiklerini doğruladı.",
@@ -2313,6 +2516,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f58dded52ff3",
+      "title": "Oil gains as traders weigh Gulf tensions against strong Mideast exports - Reuters",
+      "summary": "Oil gains as traders weigh Gulf tensions against strong Mideast exports Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 00:39:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
+          "summary": "Oil gains as traders weigh Gulf tensions against strong Mideast exports Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b52e90b75d3b",
       "title": "International growth made easy: lessons from three leading brands - Drapers",
       "summary": "International growth made easy: lessons from three leading brands Drapers",
@@ -2332,8 +2553,8 @@
     },
     {
       "id": "de367f85098b",
-      "title": "A.I. Officials Stonewall on Questions About Technology’s Risks - The New York Times",
-      "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks The New York Times",
+      "title": "A.I. Officials Stonewall on Questions About Technology’s Risks - nytimes.com",
+      "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2343,7 +2564,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
-          "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks The New York Times"
+          "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks nytimes.com"
         }
       ],
       "sourcesCount": 1
@@ -2584,8 +2805,8 @@
     },
     {
       "id": "b2cd2c896c6a",
-      "title": "Presidents Cup: US edge opening session against International team - bbc.com",
-      "summary": "Presidents Cup: US edge opening session against International team bbc.com",
+      "title": "Presidents Cup: US edge opening session against International team - BBC",
+      "summary": "Presidents Cup: US edge opening session against International team BBC",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aVpsYnpOaHV4ZHhFLW5FSHRJUmNRVzR4eV9sVlJjTElkWERFLTlwajVuN3pvWl8tOVFQSlZWNTFzSTlXMm9sR2MtTFZJX3hZejVRQTAwREF5d0lBNkhiMjZqNA?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -2595,7 +2816,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aVpsYnpOaHV4ZHhFLW5FSHRJUmNRVzR4eV9sVlJjTElkWERFLTlwajVuN3pvWl8tOVFQSlZWNTFzSTlXMm9sR2MtTFZJX3hZejVRQTAwREF5d0lBNkhiMjZqNA?oc=5",
-          "summary": "Presidents Cup: US edge opening session against International team bbc.com"
+          "summary": "Presidents Cup: US edge opening session against International team BBC"
         }
       ],
       "sourcesCount": 1
@@ -2614,24 +2835,6 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/besiktastan-avrupada-govde-gosterisi-957199.html",
           "summary": "Beşiktaş, UEFA Avrupa Ligi'nin ilk haftasında Fransız ekibi Marsilya'yı 4-1 mağlup etti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e52342f13ab4",
-      "title": "The virtual worlds where robots are trained",
-      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 17 Sep 2026 23:00:47 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
         }
       ],
       "sourcesCount": 1
@@ -2889,24 +3092,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5f26fd5863e7",
-      "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-      "summary": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium.",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 01 Oct 2026 19:49:18 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-          "summary": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "b8dc19b51d5a",
       "title": "PM warned Rosebank oil field could breach West Bank sanctions",
       "summary": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
@@ -2956,24 +3141,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/daglioglu-teknofest-bir-seyler-uretmek-icin-bircok-insana-ilham-kaynagi-oluyor-958785.html",
           "summary": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi Başkanı Ahmet Burak Dağlıoğlu, TEKNOFEST'in, insanlığa faydalı teknoloji alanında üretimde bulunmak isteyen birçok kişiye ilham kaynağı olduğunu belirtti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "68c4d06b403d",
-      "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
-      "summary": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab.",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 01 Oct 2026 13:01:33 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
-          "summary": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab."
         }
       ],
       "sourcesCount": 1
@@ -3178,8 +3345,8 @@
     },
     {
       "id": "c88eb61b918a",
-      "title": "Nations League: Bruno Fernandes, Cody Gakpo and Patrick Dorgu injured on international duty - bbc.com",
-      "summary": "Nations League: Bruno Fernandes, Cody Gakpo and Patrick Dorgu injured on international duty bbc.com",
+      "title": "Nations League: Bruno Fernandes, Cody Gakpo and Patrick Dorgu injured on international duty - BBC",
+      "summary": "Nations League: Bruno Fernandes, Cody Gakpo and Patrick Dorgu injured on international duty BBC",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSU5XelpwZXkzbEhDcmo4RWpJc3RVakVnV1NrYjdPNVE0d1RoM3BqQWFwUmlSSTNCVFV6RVVDMWhVU05uMm9VVVdtcVV2ZE5GTDVyNGU2TEQtOWJuVDJGNjRrYWdWU2hI?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "turkey",
@@ -3189,7 +3356,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSU5XelpwZXkzbEhDcmo4RWpJc3RVakVnV1NrYjdPNVE0d1RoM3BqQWFwUmlSSTNCVFV6RVVDMWhVU05uMm9VVVdtcVV2ZE5GTDVyNGU2TEQtOWJuVDJGNjRrYWdWU2hI?oc=5",
-          "summary": "Nations League: Bruno Fernandes, Cody Gakpo and Patrick Dorgu injured on international duty bbc.com"
+          "summary": "Nations League: Bruno Fernandes, Cody Gakpo and Patrick Dorgu injured on international duty BBC"
         }
       ],
       "sourcesCount": 1
@@ -3214,8 +3381,8 @@
     },
     {
       "id": "e04318e5ecc9",
-      "title": "Will three-week break put more pressure on managers? - bbc.com",
-      "summary": "Will three-week break put more pressure on managers? bbc.com",
+      "title": "Will three-week break put more pressure on managers? - BBC",
+      "summary": "Will three-week break put more pressure on managers? BBC",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWXhUdHpTSTVSaEtiUnRvRG9ZYnhWazVzZ28teWF3MGE2VlEwYThjMTYzZk0zaEF0TWFlSi1KSFpEUjNOcmQ1M05VYzJDTFFwTXI3OEFDVDR5Yk5RZ3ZFSGZSVHlPeVJn?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -3225,7 +3392,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWXhUdHpTSTVSaEtiUnRvRG9ZYnhWazVzZ28teWF3MGE2VlEwYThjMTYzZk0zaEF0TWFlSi1KSFpEUjNOcmQ1M05VYzJDTFFwTXI3OEFDVDR5Yk5RZ3ZFSGZSVHlPeVJn?oc=5",
-          "summary": "Will three-week break put more pressure on managers? bbc.com"
+          "summary": "Will three-week break put more pressure on managers? BBC"
         }
       ],
       "sourcesCount": 1
@@ -3663,24 +3830,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6738bfda67f2",
-      "title": "Influencer werden für ethische Jagd zum Problem",
-      "summary": "Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht.",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 04 Oct 2026 12:16:11 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html",
-          "summary": "Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8aefabaf804d",
       "title": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
       "summary": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj.",
@@ -3789,24 +3938,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4f9fca84228d",
-      "title": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
-      "summary": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen.",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "germany",
-      "topic": "wirtschaft",
-      "time": "Sun, 04 Oct 2026 10:13:01 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
-          "summary": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2e0e871f3007",
       "title": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
       "summary": "Die Letten haben ein neues Parlament gewählt - nachdem die meisten Stimmen ausgezählt sind, liegt die Vereinigte Liste von Ministerpräsident Kulbergs vorn. Doch auch prorussische Parteien haben zugelegt.",
@@ -3903,8 +4034,8 @@
     },
     {
       "id": "2a81f90947be",
-      "title": "Google Wants Hollywood to Stop Being So Afraid of Technology - The New York Times",
-      "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology The New York Times",
+      "title": "Google Wants Hollywood to Stop Being So Afraid of Technology - nytimes.com",
+      "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVc1bUlKVjlmY0NvTWMzX2cxbHRUdGR2RFBYUHhaR0NPeTJrdDVNTXBvTV9FUHdyMnJnUEhZXy01eUVldEl2V2hPS25mcGswQ29ReWlpRC1uS1VpTkxYMjVvMkhvcE9nTHpUWk5pQURxRm9CRW1yempGVlNUd0dRdDhQUzYyOW9NZTZFZWl3?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -3914,7 +4045,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVc1bUlKVjlmY0NvTWMzX2cxbHRUdGR2RFBYUHhaR0NPeTJrdDVNTXBvTV9FUHdyMnJnUEhZXy01eUVldEl2V2hPS25mcGswQ29ReWlpRC1uS1VpTkxYMjVvMkhvcE9nTHpUWk5pQURxRm9CRW1yempGVlNUd0dRdDhQUzYyOW9NZTZFZWl3?oc=5",
-          "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology The New York Times"
+          "summary": "Google Wants Hollywood to Stop Being So Afraid of Technology nytimes.com"
         }
       ],
       "sourcesCount": 1
@@ -4095,6 +4226,24 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/fenerbahceden-transfer-yasagi-aciklamasi-958199.html",
           "summary": "Fenerbahçe Kulübü, FIFA tarafından uygulanan 3 dönemlik transfer yasağının geçici olduğunu, hükmedilen ödemenin pazartesi günü yapılmasıyla yasağın kaldırılacağını bildirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5364ca1a3fdb",
+      "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
+      "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge. Die Erklärung ist höchst besorgniserregend.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscher-yoshua-bengio-warum-die-ki-agenten-ausarten-accg-201242795.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Sat, 19 Sep 2026 12:34:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscher-yoshua-bengio-warum-die-ki-agenten-ausarten-accg-201242795.html",
+          "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge. Die Erklärung ist höchst besorgniserregend."
         }
       ],
       "sourcesCount": 1
@@ -4352,42 +4501,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "83adc54500e4",
-      "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
-      "summary": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte.",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Sat, 03 Oct 2026 18:40:33 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
-          "summary": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3f1061d55989",
-      "title": "Wer an KI-Songs verdient - und wer leer ausgeht",
-      "summary": "Immer mehr Songs auf Streamingplattformen werden nicht von Menschen erschaffen, sondern stammen aus der Maschine - und nicht immer ist das erkennbar. Viele Musikschaffende sehen dadurch ihre wirtschaftliche Existenz bedroht.",
-      "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-musik-existenz-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Sat, 03 Oct 2026 17:11:44 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-musik-existenz-100.html",
-          "summary": "Immer mehr Songs auf Streamingplattformen werden nicht von Menschen erschaffen, sondern stammen aus der Maschine - und nicht immer ist das erkennbar. Viele Musikschaffende sehen dadurch ihre wirtschaftliche Existenz bedroht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "44b34a080f0b",
       "title": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
       "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden.",
@@ -4437,24 +4550,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/kuzey-egede-feribot-seferlerine-firtina-engeli-959022.html",
           "summary": "Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle Kabatepe-Gökçeada hattında yarınki bazı feribot seferleri iptal edildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5d897f1a9415",
-      "title": "Toone determined to come back better after 'difficult week'",
-      "summary": "Ella Toone reflects on a \"difficult week\" and looks back on a narrow win against Liverpool in the Women's Super League.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cjx239vvql0qo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 15:33:16 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cjx239vvql0qo?at_medium=RSS&at_campaign=rss",
-          "summary": "Ella Toone reflects on a \"difficult week\" and looks back on a narrow win against Liverpool in the Women's Super League."
         }
       ],
       "sourcesCount": 1
@@ -4658,6 +4753,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "c2dd9eb4ef1a",
+      "title": "Küresel piyasalar yoğun veri gündemine odaklandı",
+      "summary": "Küresel piyasalarda tahvil piyasasındaki satış baskısının etkisiyle bu hafta satış ağırlıklı bir seyir öne çıkarken, gözler gelecek hafta yoğun veri gündemine çevrildi.",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi-958991.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sat, 03 Oct 2026 11:36:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi-958991.html",
+          "summary": "Küresel piyasalarda tahvil piyasasındaki satış baskısının etkisiyle bu hafta satış ağırlıklı bir seyir öne çıkarken, gözler gelecek hafta yoğun veri gündemine çevrildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ebb1437b18a6",
       "title": "Değerli metaller yılın 9 ayında sert düşüşler yaşadı",
       "summary": "ABD/İsrail-İran Savaşı'nın başlamasıyla bu yıl emtia piyasasında sert dalgalanmalar görüldü. Bu dalgalanmalardan başta değerli metaller olmak üzere tüm emtialar etkilendi.",
@@ -4671,42 +4784,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/degerli-metaller-yilin-9-ayinda-sert-dususler-yasadi-958990.html",
           "summary": "ABD/İsrail-İran Savaşı'nın başlamasıyla bu yıl emtia piyasasında sert dalgalanmalar görüldü. Bu dalgalanmalardan başta değerli metaller olmak üzere tüm emtialar etkilendi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "34ad5fa24e6f",
-      "title": "Türkiye'de yapay zekayı en çok bilişim, en az inşaat sektörü kullanıyor",
-      "summary": "Türkiye'de yapay zeka kullanımı, girişimler arasında sektörel olarak farklılık gösterirken, en yüksek oran yüzde 63,7 ile telekomünikasyon, programlama ve bilişim alanında, en düşük oran ise yüzde 6,9 ile inşaat sektöründe görüldü.",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-yapay-zekayi-en-cok-bilisim-en-az-insaat-sektoru-kullaniyor-958989.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 11:26:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-yapay-zekayi-en-cok-bilisim-en-az-insaat-sektoru-kullaniyor-958989.html",
-          "summary": "Türkiye'de yapay zeka kullanımı, girişimler arasında sektörel olarak farklılık gösterirken, en yüksek oran yüzde 63,7 ile telekomünikasyon, programlama ve bilişim alanında, en düşük oran ise yüzde 6,9 ile inşaat sektöründe görüldü."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ec6e98bf28db",
-      "title": "Merkez Bankası 95 yaşında",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), faaliyete başlamasının 95. yıl dönümünü kutluyor.",
-      "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-95-yasinda-958988.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "wirtschaft",
-      "time": "Sat, 03 Oct 2026 11:26:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-95-yasinda-958988.html",
-          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), faaliyete başlamasının 95. yıl dönümünü kutluyor."
         }
       ],
       "sourcesCount": 1
@@ -5183,8 +5260,8 @@
     },
     {
       "id": "635378eeb674",
-      "title": "How will Premier League and Championship clubs train during three-week international break? - bbc.com",
-      "summary": "How will Premier League and Championship clubs train during three-week international break? bbc.com",
+      "title": "How will Premier League and Championship clubs train during three-week international break? - BBC",
+      "summary": "How will Premier League and Championship clubs train during three-week international break? BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45cnE3dWJPYjFsXy1NTDhtYVZzUDk1SkY3WFJjUXplZC04V2pGUnAxSnVyUkktVlZMdU1BNThTb2s2OUt4X3Z4d3FoMzQtNWRSZzZGOVFPbFBXUHQ3U3dtT0E4TkJNTWc?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -5194,7 +5271,25 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45cnE3dWJPYjFsXy1NTDhtYVZzUDk1SkY3WFJjUXplZC04V2pGUnAxSnVyUkktVlZMdU1BNThTb2s2OUt4X3Z4d3FoMzQtNWRSZzZGOVFPbFBXUHQ3U3dtT0E4TkJNTWc?oc=5",
-          "summary": "How will Premier League and Championship clubs train during three-week international break? bbc.com"
+          "summary": "How will Premier League and Championship clubs train during three-week international break? BBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5dffd82be0f4",
+      "title": "WXV: Megan Davey reignites international ambitions with Wales - BBC",
+      "summary": "WXV: Megan Davey reignites international ambitions with Wales BBC",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWmJya0s2RVpoTGVMc2NlTXFndnFxLWZRUXZUN1JPejFHdk8xYnNXTWFzZjB6UzhONkNCV19xODJUc0RObzFDaGYyeUFodEJEUGdmUmhyN2RBeV90Y2JkUC1xT1Nici05anhz?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWmJya0s2RVpoTGVMc2NlTXFndnFxLWZRUXZUN1JPejFHdk8xYnNXTWFzZjB6UzhONkNCV19xODJUc0RObzFDaGYyeUFodEJEUGdmUmhyN2RBeV90Y2JkUC1xT1Nici05anhz?oc=5",
+          "summary": "WXV: Megan Davey reignites international ambitions with Wales BBC"
         }
       ],
       "sourcesCount": 1
@@ -5273,7 +5368,7 @@
     },
     {
       "id": "f83792cf994a",
-      "title": "Nations League: Nächste Pleite für Türkei - Montella bleibt punktlos",
+      "title": "Nächste Pleite: Türkei verliert erneut gegen Italien",
       "summary": "Die Türkei hat in Italien eine ordentliche Leistung gezeigt, steht aber auch nach dem vierten Spiel in der Nations League weiter bei null Punkten. Für den Nationaltrainer wird es immer enger.",
       "link": "https://www.sportschau.de/fussball/nationsleague/naechste-pleite-fuer-tuerkei-montella-bleibt-punktlos,spielbericht-nations-league-italien-tuerkei-100.html",
       "sourceName": "Tagesschau Sport",
@@ -5357,96 +5452,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/almanyanin-filistin-destekcisi-eylemlerde-yaptigi-hak-ihlalleri-raporlandi-959198.html",
           "summary": "Yeryüzü Avukatları Derneği (WOLAS) Yönetim Kurulu Üyesi M. Beheşti Aydoğan, Varşova’da başlayan AGİT İnsani Boyut Toplantısı’nda Almanya’nın Filistin ile dayanışma eylemlerine yönelik temel hak ihlallerini gündeme taşıdı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a5f125b367cd",
-      "title": "Northern Ireland make huge strides despite Georgia frustration",
-      "summary": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 23:30:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
-          "summary": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ab3b609f2ceb",
-      "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
-      "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 23:29:02 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-          "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "cc47fd09bd8e",
-      "title": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 - Yahoo Finance",
-      "summary": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHB2Nk9lZ21KT2dxUDJPakdTOENHekJrQlNXMzVZY09udEQxZzJseXl0eEdheWJaQXI3NmZZSmNieFQ1NnFjRmVwNloxN2EtTzAzVXpjcC0xWksxVlVRZlRISnlWbEoxVXg5UVdVQ2RjZ0YtaVBHN2FtYm1XVUFTVE05MDM5ZXRsYklRSVNHeXFfRUppREN6eElaRFc0Zw?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Mon, 05 Oct 2026 23:25:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHB2Nk9lZ21KT2dxUDJPakdTOENHekJrQlNXMzVZY09udEQxZzJseXl0eEdheWJaQXI3NmZZSmNieFQ1NnFjRmVwNloxN2EtTzAzVXpjcC0xWksxVlVRZlRISnlWbEoxVXg5UVdVQ2RjZ0YtaVBHN2FtYm1XVUFTVE05MDM5ZXRsYklRSVNHeXFfRUppREN6eElaRFc0Zw?oc=5",
-          "summary": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 Yahoo Finance"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "077895bc81e6",
-      "title": "Adios, Argentinien - letztes Länderspiel von Messi",
-      "summary": "Nach 21 Jahren in der \"Albiceleste\" sagt der Fußballgott Argentiniens \"adios\": Lionel Messi bestreitet in der Nacht zu Mittwoch sein 208. und letztes Länderspiel.",
-      "link": "https://www.sportschau.de/fussball/adios-argentinien-letztes-laenderspiel-von-messi,messi-abschied-argentinien-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 23:21:35 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/adios-argentinien-letztes-laenderspiel-von-messi,messi-abschied-argentinien-100.html",
-          "summary": "Nach 21 Jahren in der \"Albiceleste\" sagt der Fußballgott Argentiniens \"adios\": Lionel Messi bestreitet in der Nacht zu Mittwoch sein 208. und letztes Länderspiel."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7859596358b2",
-      "title": "Dozens quarantined in Siberia after plague institute lab worker dies - Reuters",
-      "summary": "Dozens quarantined in Siberia after plague institute lab worker dies Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 23:19:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
-          "summary": "Dozens quarantined in Siberia after plague institute lab worker dies Reuters"
         }
       ],
       "sourcesCount": 1
