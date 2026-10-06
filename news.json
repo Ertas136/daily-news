@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:07:33.829807+00:00",
+  "updated": "2026-10-06T08:41:02.928850+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -123,24 +123,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/pilotprojekt-im-osten-weniger-polizei-statt-kostenbeteiligung,polizeikosten-dfb-100.html",
           "summary": "Sollten Amateurklubs sich in Zukunft an Polizeikosten beteiligen müssen, wäre das für viele existenzbedrohend. In der Regionalliga Nordost testet man nun ein Modell mit weniger Polizei."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1922f6b1105b",
-      "title": "Reuters/Ipsos October Survey - Ipsos",
-      "summary": "Reuters/Ipsos October Survey Ipsos",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR3NLUGlwbDdUa2ladmJ5Mm1ZWVpYeGdmc2NOSlU1WjZfaDQ4eTFCSGRCT3JMM0JuREJCM2FESzJUY2wxR3lhRjR0VlFyVXl2RjNPZlB6eVg3NXpadkxCV2stMlF2dw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR3NLUGlwbDdUa2ladmJ5Mm1ZWVpYeGdmc2NOSlU1WjZfaDQ4eTFCSGRCT3JMM0JuREJCM2FESzJUY2wxR3lhRjR0VlFyVXl2RjNPZlB6eVg3NXpadkxCV2stMlF2dw?oc=5",
-          "summary": "Reuters/Ipsos October Survey Ipsos"
         }
       ],
       "sourcesCount": 1
@@ -362,19 +344,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "c90904d324da",
-      "title": "Weltkrebstag: Geschlechterspezifische Therapie",
-      "summary": "Weltkrebstag: Geschlechterspezifische Therapie",
-      "link": "https://www.tagesschau.de/video/video-1552252.html",
-      "sourceName": "Tagesschau Wissen",
+      "id": "36f843c923fc",
+      "title": "FAI General Conference 2026: Lausanne, the heart of international sport - fai.org",
+      "summary": "FAI General Conference 2026: Lausanne, the heart of international sport fai.org",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1STHZUUXRWZWM2a0NDTWZlekZNZElwNU1TaUtVaTdNREI0M2FFa2NGUTJvdTRsbUR6M0dLbVljaUhVOTBicGdLejlNZXpBZHRUVW5ZYi10RThvUkhzSFRUemVFRk1qX1E?oc=5",
+      "sourceName": "Google News – International Sport",
       "region": "international",
-      "topic": "wissenschaft",
-      "time": "Wed, 04 Feb 2026 20:39:27 +0100",
+      "topic": "sport",
+      "time": "Wed, 08 Jul 2026 07:00:00 GMT",
       "coverage": [
         {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1552252.html",
-          "summary": "Weltkrebstag: Geschlechterspezifische Therapie"
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1STHZUUXRWZWM2a0NDTWZlekZNZElwNU1TaUtVaTdNREI0M2FFa2NGUTJvdTRsbUR6M0dLbVljaUhVOTBicGdLejlNZXpBZHRUVW5ZYi10RThvUkhzSFRUemVFRk1qX1E?oc=5",
+          "summary": "FAI General Conference 2026: Lausanne, the heart of international sport fai.org"
         }
       ],
       "sourcesCount": 1
@@ -393,6 +375,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/forschung/dna-menschen-hoehlenmalerei-100.html",
           "summary": "Haben steinzeitliche Künstler in ihren Malereien genetische Spuren hinterlassen? Forschende haben dort erstmals menschliche DNA nachgewiesen - und hoffen auf neue Einblicke in eine längst vergangene Zeit."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f26d8cb179b0",
+      "title": "Verdacht auf Spionage: Ex-BND-Chef Hanning festgenommen",
+      "summary": "Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht.",
+      "link": "https://www.zdfheute.de/politik/deutschland/august-hanning-ex-bnd-chef-spionage-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 6 Oct 2026 10:14:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/august-hanning-ex-bnd-chef-spionage-100.html",
+          "summary": "Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht."
         }
       ],
       "sourcesCount": 1
@@ -838,8 +838,8 @@
     },
     {
       "id": "275920a179a6",
-      "title": "UMSL recognized as a leader in international business in latest US News ‘Best Colleges’ rankings - blogs.umsl.edu",
-      "summary": "UMSL recognized as a leader in international business in latest US News ‘Best Colleges’ rankings blogs.umsl.edu",
+      "title": "UMSL recognized as a leader in international business in latest US News ‘Best Colleges’ rankings - UMSL Blogs",
+      "summary": "UMSL recognized as a leader in international business in latest US News ‘Best Colleges’ rankings UMSL Blogs",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0pWR2JsSmItMzFaWWhyZERmbnB5M0VBVTlFcFBCem1DaGIzTTJXVW9uNTk0MGNHYVh5SnNDbTVnMlV1OFRsMldfRzV1SndlMUx0ODc0d0FHdEN1S3hRUGYzTTBfR2hVbEtQQ3RYeVUycVoxa1NSTVlKUHREa01oYw?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
@@ -849,7 +849,7 @@
         {
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0pWR2JsSmItMzFaWWhyZERmbnB5M0VBVTlFcFBCem1DaGIzTTJXVW9uNTk0MGNHYVh5SnNDbTVnMlV1OFRsMldfRzV1SndlMUx0ODc0d0FHdEN1S3hRUGYzTTBfR2hVbEtQQ3RYeVUycVoxa1NSTVlKUHREa01oYw?oc=5",
-          "summary": "UMSL recognized as a leader in international business in latest US News ‘Best Colleges’ rankings blogs.umsl.edu"
+          "summary": "UMSL recognized as a leader in international business in latest US News ‘Best Colleges’ rankings UMSL Blogs"
         }
       ],
       "sourcesCount": 1
@@ -999,6 +999,150 @@
       "sourcesCount": 1
     },
     {
+      "id": "5a472f6e8631",
+      "title": "Japonya'da iki şirkete yönelik siber saldırılarda 2,6 milyondan fazla müşterinin bilgileri sızdırıldı",
+      "summary": "Japonya'da internet hizmetleri firması GMO Research & AI ile perakende şirketi Mr Max, sunucularını hedef alan siber saldırılar sonucu 2,6 milyondan fazla müşterinin kişisel bilgilerinin sızdırıldığını bildirdi.",
+      "link": "https://www.trthaber.com/haber/dunya/japonyada-iki-sirkete-yonelik-siber-saldirilarda-26-milyondan-fazla-musterinin-bilgileri-sizdirildi-959271.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 11:27:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/japonyada-iki-sirkete-yonelik-siber-saldirilarda-26-milyondan-fazla-musterinin-bilgileri-sizdirildi-959271.html",
+          "summary": "Japonya'da internet hizmetleri firması GMO Research & AI ile perakende şirketi Mr Max, sunucularını hedef alan siber saldırılar sonucu 2,6 milyondan fazla müşterinin kişisel bilgilerinin sızdırıldığını bildirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "649bf3b0b8bc",
+      "title": "Depremden etkilenen 5 ilde eğitim destekleri artırıldı",
+      "summary": "6 Şubat depremlerinden etkilenen illerden Adıyaman, Hatay, Kahramanmaraş, Malatya ile Gaziantep'in İslahiye ve Nurdağı ilçelerindeki özel okullarda öğrenim gören öğrencilere ödenen \"eğitim ve öğretim desteği\" tutarlarında yüzde 35 oranında artış yapıldı.",
+      "link": "https://www.trthaber.com/haber/ekonomi/depremden-etkilenen-5-ilde-egitim-destekleri-artirildi-959272.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 11:27:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/depremden-etkilenen-5-ilde-egitim-destekleri-artirildi-959272.html",
+          "summary": "6 Şubat depremlerinden etkilenen illerden Adıyaman, Hatay, Kahramanmaraş, Malatya ile Gaziantep'in İslahiye ve Nurdağı ilçelerindeki özel okullarda öğrenim gören öğrencilere ödenen \"eğitim ve öğretim desteği\" tutarlarında yüzde 35 oranında artış yapıldı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ec894c9cbf2a",
+      "title": "Çevre danışmanlık firmalarına büro tescil belgesi zorunluluğu",
+      "summary": "Bakanlık tarafından yapılan yönetmelik değişikliğiyle, Çevre danışmanlık firmalarına da TMMOB Çevre Mühendisleri Odasından alınan Büro Tescil Belgesi (BTB) sahibi olma zorunluluğu getirildi.",
+      "link": "https://www.trthaber.com/haber/ekonomi/cevre-danismanlik-firmalarina-buro-tescil-belgesi-zorunlulugu-959270.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 11:22:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/cevre-danismanlik-firmalarina-buro-tescil-belgesi-zorunlulugu-959270.html",
+          "summary": "Bakanlık tarafından yapılan yönetmelik değişikliğiyle, Çevre danışmanlık firmalarına da TMMOB Çevre Mühendisleri Odasından alınan Büro Tescil Belgesi (BTB) sahibi olma zorunluluğu getirildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c52074b80a79",
+      "title": "Türkiye komşularına 20,9 milyar dolarlık ihracat yaptı",
+      "summary": "Türkiye'nin komşuları Azerbaycan, Bulgaristan, Gürcistan, Irak, İran, Suriye ve Yunanistan'a yaptığı ihracat, ocak-eylül döneminde geçen yılın aynı dönemine kıyasla yüzde 3,2 artarak 20,9 milyar doları buldu.",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-komsularina-209-milyar-dolarlik-ihracat-yapti-959269.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 11:18:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/turkiye-komsularina-209-milyar-dolarlik-ihracat-yapti-959269.html",
+          "summary": "Türkiye'nin komşuları Azerbaycan, Bulgaristan, Gürcistan, Irak, İran, Suriye ve Yunanistan'a yaptığı ihracat, ocak-eylül döneminde geçen yılın aynı dönemine kıyasla yüzde 3,2 artarak 20,9 milyar doları buldu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5017c7fa87e8",
+      "title": "Merkez bankası başkanları İstanbul'da bir araya gelecek",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından 8-9 Ekim'de İstanbul Finans Merkezi'nde düzenlenecek İstanbul Ekonomi Forumu, dünyanın dört bir yanından merkez bankası başkanlarını ve üst düzey politika yapıcıları bir araya getirecek.",
+      "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-baskanlari-istanbulda-bir-araya-gelecek-959265.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 11:16:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-baskanlari-istanbulda-bir-araya-gelecek-959265.html",
+          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından 8-9 Ekim'de İstanbul Finans Merkezi'nde düzenlenecek İstanbul Ekonomi Forumu, dünyanın dört bir yanından merkez bankası başkanlarını ve üst düzey politika yapıcıları bir araya getirecek."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8039dfbd49a4",
+      "title": "Eli kanlı İsrailli Bakan BenGvir, Filistinlilerin evlerinin yıkımına katılıp buldozerde poz verdi",
+      "summary": "Soykırımcı İsrailli aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, işgal altındaki Doğu Kudüs'te Filistinlilere ait 5 katlı bir binanın yıkımına katılarak buldozere binip poz verdi.",
+      "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israilli-bakan-ben-gvir-filistinlilerin-evlerinin-yikimina-katilip-buldozerde-poz-verdi-959267.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 11:16:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israilli-bakan-ben-gvir-filistinlilerin-evlerinin-yikimina-katilip-buldozerde-poz-verdi-959267.html",
+          "summary": "Soykırımcı İsrailli aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, işgal altındaki Doğu Kudüs'te Filistinlilere ait 5 katlı bir binanın yıkımına katılarak buldozere binip poz verdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4037d60c72b2",
+      "title": "HÜRSAT 2027'de göreve başlayacak",
+      "summary": "TUSAŞ Genel Müdürü Mehmet Demiroğlu, HÜRSAT-1 uydusunun gelecek yılın ortalarında, HÜRSAT-2'nin de ROKETSAN'ın ŞİMŞEK-1 roketiyle 2028-2029 bandında fırlatılmasının planlandığını açıkladı.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/hursat-2027de-goreve-baslayacak-959266.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 11:15:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/hursat-2027de-goreve-baslayacak-959266.html",
+          "summary": "TUSAŞ Genel Müdürü Mehmet Demiroğlu, HÜRSAT-1 uydusunun gelecek yılın ortalarında, HÜRSAT-2'nin de ROKETSAN'ın ŞİMŞEK-1 roketiyle 2028-2029 bandında fırlatılmasının planlandığını açıkladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d01338fdd191",
+      "title": "Filistinliler barınma mücadelesi veriyor",
+      "summary": "İşgalci İsrail'in saldırıları nedeniyle binaların yüzde 82'sinin zarar gördüğü Gazze'de Filistinliler, barınma mücadelesi veriyor.",
+      "link": "https://www.trthaber.com/haber/dunya/filistinliler-barinma-mucadelesi-veriyor-959264.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 11:13:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/filistinliler-barinma-mucadelesi-veriyor-959264.html",
+          "summary": "İşgalci İsrail'in saldırıları nedeniyle binaların yüzde 82'sinin zarar gördüğü Gazze'de Filistinliler, barınma mücadelesi veriyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "2fd688886b39",
       "title": "Suudi Arabistan: Cizan kentinde iki havalimanı saldırıya uğradı",
       "summary": "Suudi Arabistan, Cizan kentindeki Kral Abdullah bin Abdulaziz Uluslararası Havalimanı ile Necran Uluslararası Havalimanı'nın saldırıya uğradığını duyurdu.",
@@ -1071,6 +1215,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "910319020061",
+      "title": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
+      "summary": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
+      "link": "https://www.tagesschau.de/video/video-1661224.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "germany",
+      "topic": "wissenschaft",
+      "time": "Tue, 06 Oct 2026 10:29:01 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/video/video-1661224.html",
+          "summary": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "26253ee8d2de",
       "title": "Güneş ve rüzgardan elektrik üretiminde tarihi rekor",
       "summary": "Güneş ve rüzgar kaynaklı toplam elektrik üretiminde ağustosta 9,9 milyar kilovatsaat ile tüm zamanların en yüksek seviyesine çıkılarak tarihi rekor kırıldı.",
@@ -1084,6 +1246,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/gunes-ve-ruzgardan-elektrik-uretiminde-tarihi-rekor-959255.html",
           "summary": "Güneş ve rüzgar kaynaklı toplam elektrik üretiminde ağustosta 9,9 milyar kilovatsaat ile tüm zamanların en yüksek seviyesine çıkılarak tarihi rekor kırıldı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "50bb17832364",
+      "title": "Coco Gauff wehrt sich gegen rassistische Angriffe",
+      "summary": "Coco Gauff hat sich beim Tennis-Turnier in Peking öffentlich gegen rassistische Kommentare gewehrt - vorausgegangen war eine Videoüberprüfung in ihrem Spiel gegen Sun Xinran.",
+      "link": "https://www.sportschau.de/tennis/coco-gauff-wehrt-sich-gegen-rassistische-angriffe,gauff-162.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 10:21:17 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/tennis/coco-gauff-wehrt-sich-gegen-rassistische-angriffe,gauff-162.html",
+          "summary": "Coco Gauff hat sich beim Tennis-Turnier in Peking öffentlich gegen rassistische Kommentare gewehrt - vorausgegangen war eine Videoüberprüfung in ihrem Spiel gegen Sun Xinran."
         }
       ],
       "sourcesCount": 1
@@ -1138,6 +1318,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-sagliksiz-820-kilo-ic-yagi-ve-sakatat-ele-gecirildi-959251.html",
           "summary": "Diyarbakır'ın Çınar ilçesinde jandarma ekiplerince bir araçta yapılan aramada, menşei belirsiz ve sağlıksız olduğu belirlenen yaklaşık 820 kilogram hayvansal ürün ele geçirildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "078068d8efbd",
+      "title": "FIFA-Kongress im März 2027: DFB-Boss Neuendorf wird Infantino nicht wählen",
+      "summary": "DFB-Präsident Bernd Neuendorf hat sich gegen eine weitere Amtszeit von Gianni Infantino als FIFA-Präsident ausgesprochen. Die Stimme aus Deutschland werde er nicht bekommen.",
+      "link": "https://www.sportschau.de/fussball/dfb-praesident-neuendorf-wird-infantino-nicht-waehlen,infantino-neuendorf-114.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 10:09:36 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/dfb-praesident-neuendorf-wird-infantino-nicht-waehlen,infantino-neuendorf-114.html",
+          "summary": "DFB-Präsident Bernd Neuendorf hat sich gegen eine weitere Amtszeit von Gianni Infantino als FIFA-Präsident ausgesprochen. Die Stimme aus Deutschland werde er nicht bekommen."
         }
       ],
       "sourcesCount": 1
@@ -1270,8 +1468,8 @@
     },
     {
       "id": "5b9706b1589d",
-      "title": "Schülerdemos in Frankreich: Legitimer Protest - aber ausufernde Gewalt",
-      "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Auch heute wollen Frankreichs Schüler dagegen auf die Straße gehen. Während die Kritik berechtigt ist, wird über die ausufernde Gewalt am Rande der Proteste diskutiert.",
+      "title": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
+      "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation.",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
       "sourceName": "Tagesschau Ausland",
       "region": "international",
@@ -1281,7 +1479,7 @@
         {
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
-          "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Auch heute wollen Frankreichs Schüler dagegen auf die Straße gehen. Während die Kritik berechtigt ist, wird über die ausufernde Gewalt am Rande der Proteste diskutiert."
+          "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation."
         }
       ],
       "sourcesCount": 1
@@ -1418,6 +1616,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "14b5dd909baa",
+      "title": "Mass school protests begin in France after days of clashes",
+      "summary": "Students who have been demanding more investment in education are being joined by parents and some big unions.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "gesellschaft",
+      "time": "Tue, 06 Oct 2026 08:39:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Students who have been demanding more investment in education are being joined by parents and some big unions."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "2446319e164a",
       "title": "New York'ta eyalet çapında acil durum ilan edildi",
       "summary": "New York Valisi Kathy Hochul, eyalet genelinde hızla yayılan kızamık salgını nedeniyle acil durum ilan etti. ABD'de 2025 yılında başlayan tarihi vaka artışlarından bu yana ilk kez bir eyalet bu yönde bir adım atarken, kırsal kesimlerdeki aşısız topluluklarda artan vakalar yetkilileri alarma geçirdi.",
@@ -1449,6 +1665,57 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/cnn-ms-now-ve-politicodan-trump-yonetimine-karsi-son-hamle-959237.html",
           "summary": "Beyaz Saray'daki basın akreditasyonları Başkan Donald Trump tarafından iptal edilen ABD'nin önde gelen üç medya kuruluşu, erişim haklarının süresiz olarak korunması talebiyle mahkemeye son yazılı savunmalarını sundu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "bb0bb1f8d787",
+      "title": "International Business Machines Corporation (NYSE:IBM) Stock Has Consensus Price Target of $253.52 - MarketBeat",
+      "summary": "International Business Machines Corporation (NYSE:IBM) Stock Has Consensus Price Target of $253.52 MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZW41d0l1QzZ5YTZRQm1yVTN3c0QtZzNMbzBWM21wRkdCbjRZNDdxd1ZweFpRMVNIa3ZoYlRVYUJZNkJDaGhzNjFpMUt3d3NXa0xaUU9YZTk2SGswMjdyTndKV2xteEEzU1YzaF9xV3pmQ2t4UGd4Z1NqY2Mxc0lfRkNHRW53bUR6ODlWTjJuTE1sMDZGOVVVNnhmaXRMYzZ3OHhpU3llSWZKMTFxTl9KYUdvZ24xVTNSTjNGVmtxVzVPYjM5VEt0aVdWLTFtOVRKSmxPTl9WNFFUQmlVMjR2TmdmUmZ3bENfZTdLMXo1bw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 08:34:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZW41d0l1QzZ5YTZRQm1yVTN3c0QtZzNMbzBWM21wRkdCbjRZNDdxd1ZweFpRMVNIa3ZoYlRVYUJZNkJDaGhzNjFpMUt3d3NXa0xaUU9YZTk2SGswMjdyTndKV2xteEEzU1YzaF9xV3pmQ2t4UGd4Z1NqY2Mxc0lfRkNHRW53bUR6ODlWTjJuTE1sMDZGOVVVNnhmaXRMYzZ3OHhpU3llSWZKMTFxTl9KYUdvZ24xVTNSTjNGVmtxVzVPYjM5VEt0aVdWLTFtOVRKSmxPTl9WNFFUQmlVMjR2TmdmUmZ3bENfZTdLMXo1bw?oc=5",
+          "summary": "International Business Machines Corporation (NYSE:IBM) Stock Has Consensus Price Target of $253.52 MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFdnYkRJQVpTUnJwQ2NpazcyYjBEQkloX1lzM29nMHZ5RDVWMy1qZ1NKbHhpUEhROUlLbVpLSllGSnNDRlFkdlVIa29WNElmTzNiLUlMV0VuT0xpM085ejk5QnRRc1BXZUJ2UFY3OVpZLVpsR1ppcGN6UFQzYmgtUlhJZ2pXYjJRUXZRM3JtNnF6Uzh4VjBReEVzUGRGTk1IcDUzY2dqV1hsMmd5OHFDN2FvekNjVEhydVhUWDFHb0VtTEpTMlAyWkxsTm9aTUllTmI2M200c2FUVVpuak5ObWxiMnY?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock Purchased by CapWealth Advisors LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSV84dFB4bWhxeG5YQUVXRENLYzBpcmNqZllheE1nTEh5dkJnUzhDR1pENTcyczkxN1VlbDBfTmRJWnI2dlg1OXB4djIycEViOW5pbkhjTjB5UlZydm5jLXdPeUhCdmRBakdsbDdLbnVtVmdQNkpvbnVVN3ZWd21GMTVUUGQzVGgyclBDbFhrUm54TnRCNjFFR2dhel9hYS1iRjFMaXJEWHA5aWxsM3NsLVF2aG1CVkxPX1pZcmRhME9MX29ONG43a3ZZM0YtY1cwS2E0dEFadHg2RUNUdlZsbkloQThHV25vaWxjaw?oc=5",
+          "summary": "2,328 International Business Machines Corporation $IBM Shares Bought by Ridgewood Investments LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcERXZVd1aHMzdmtWT21halR1QzZPS216NFp5QUVIMW1GUkNHZkM4dW1YbTF1dFJRVWZ2Q1ZEMXFGV011QXBiTDRYSWJFLUkzMVAyRXJsbFRPZi1fSy1OX1RLU0JfX05jUThnYllOamZJbE5rRDc5d2txSlBLS3VxMlVoVHczcDBxRVY4cGFRMWV5SWpsNGZlNmp2VjFmM25SSVlyajR4T0lpRHozckdqaUJ3aVYwYXUwWlMtOHlkUHp6TDYwUHh3?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Shares Down 1.4% - Time to Sell? MarketBeat"
+        }
+      ],
+      "sourcesCount": 4
+    },
+    {
+      "id": "b1567142454a",
+      "title": "Wegen Spionageverdachts: Ehemaliger BND-Präsident August Hanning festgenommen",
+      "summary": "Der frühere Geheimdienstchef soll noch Jahre nach seinem Ausscheiden von seinem ehemaligen Büroleiter mit geheimen Informationen aus der Behörde versorgt worden sein.",
+      "link": "https://www.faz.net/aktuell/politik/inland/spionageverdacht-ehemaliger-bnd-chef-august-hanning-festgenommen-accg-201292036.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 08:33:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/spionageverdacht-ehemaliger-bnd-chef-august-hanning-festgenommen-accg-201292036.html",
+          "summary": "Der frühere Geheimdienstchef soll noch Jahre nach seinem Ausscheiden von seinem ehemaligen Büroleiter mit geheimen Informationen aus der Behörde versorgt worden sein."
         }
       ],
       "sourcesCount": 1
@@ -1544,6 +1811,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "7effef4f18b9",
+      "title": "Buchmesse mit Wallraff: Ich musste hier weg – und dann kam ich mit den Obdachlosen vom Bahnhof zurück",
+      "summary": "Als mein Verlag im Oktober 1973 im Hessischen Hof zur Buchmesse einen Empfang für mich ausrichtete, war dort niemand so fehl am Platz wie ich selbst. Also verließ die Party, kam aber zurück.",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/wen-guenter-wallraff-zur-buchmessenparty-mitbrachte-accg-201222559.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 08:22:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/wen-guenter-wallraff-zur-buchmessenparty-mitbrachte-accg-201222559.html",
+          "summary": "Als mein Verlag im Oktober 1973 im Hessischen Hof zur Buchmesse einen Empfang für mich ausrichtete, war dort niemand so fehl am Platz wie ich selbst. Also verließ die Party, kam aber zurück."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a50ce103b4e3",
       "title": "Rusya'da veba araştırmacısının şüpheli ölümü ABD'yi alarma geçirdi",
       "summary": "Rusya'nın Sibirya bölgesindeki İrkutsk kentinde bulunan bir veba araştırma merkezinde çalışan kadın laboratuvar teknisyeninin hayatını kaybetmesi uluslararası kamuoyunda geniş yankı uyandırdı. ABD Başkanı Donald Trump olayı son derece ciddi bir şekilde incelediklerini açıklarken, Dışişleri Bakanı Marco Rubio durumu anbean izlediklerini duyurdu.",
@@ -1557,6 +1842,42 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/rusyada-veba-arastirmacisinin-supheli-olumu-abdyi-alarma-gecirdi-959231.html",
           "summary": "Rusya'nın Sibirya bölgesindeki İrkutsk kentinde bulunan bir veba araştırma merkezinde çalışan kadın laboratuvar teknisyeninin hayatını kaybetmesi uluslararası kamuoyunda geniş yankı uyandırdı. ABD Başkanı Donald Trump olayı son derece ciddi bir şekilde incelediklerini açıklarken, Dışişleri Bakanı Marco Rubio durumu anbean izlediklerini duyurdu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "09cd3057e271",
+      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 08:16:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+          "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f27c32e72bd8",
+      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+      "summary": "A growing number of parents are opening retirement funds for their children.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 08:16:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+          "summary": "A growing number of parents are opening retirement funds for their children."
         }
       ],
       "sourcesCount": 1
@@ -1598,6 +1919,78 @@
       "sourcesCount": 1
     },
     {
+      "id": "b0408d29b774",
+      "title": "Ablöse wie im Fußball: Juri Knorr, das Karussell und die Klauseln",
+      "summary": "Ob Ausstiegsklauseln oder Ablösesummen: Im Handball geht es langsam zu wie im Profifußball – sehr zur Freude von Nationalspielern wie Knorr und Uščins. Verlierer sind andere.",
+      "link": "https://www.faz.net/aktuell/sport/mehr-sport/handballstar-juri-knorr-springt-aufs-wechselkarussell-accg-201286333.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 08:08:31 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/mehr-sport/handballstar-juri-knorr-springt-aufs-wechselkarussell-accg-201286333.html",
+          "summary": "Ob Ausstiegsklauseln oder Ablösesummen: Im Handball geht es langsam zu wie im Profifußball – sehr zur Freude von Nationalspielern wie Knorr und Uščins. Verlierer sind andere."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "96f24a6131d3",
+      "title": "bildungsbarometer: Ein Viertel der Eltern hat Schwierigkeiten, einen Kita-Platz zu finden",
+      "summary": "In der frühkindlichen Bildung sehen die Deutschen den Mangel an Kita-Plätzen und einen schlechten Betreuungsschlüssel als dringendste Probleme. Welche Ideen gibt es dagegen?",
+      "link": "https://www.faz.net/aktuell/politik/inland/ifo-bildungsbarometer-2026-was-eltern-am-meisten-sorgen-bereitet-accg-201291534.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 08:00:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/ifo-bildungsbarometer-2026-was-eltern-am-meisten-sorgen-bereitet-accg-201291534.html",
+          "summary": "In der frühkindlichen Bildung sehen die Deutschen den Mangel an Kita-Plätzen und einen schlechten Betreuungsschlüssel als dringendste Probleme. Welche Ideen gibt es dagegen?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2b090df30d08",
+      "title": "„Nie mehr weinen“: Eine Flasche Tränen, bitte!",
+      "summary": "„Nie mehr weinen“, kann das wirklich ein Lebensziel sein? Die österreichische Schriftstellerin Teresa Präauer liefert eine Tränenkunde für Fortgeschrittene.",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-teresa-praeauers-essay-nie-mehr-weinen-201269721.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 07:59:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-teresa-praeauers-essay-nie-mehr-weinen-201269721.html",
+          "summary": "„Nie mehr weinen“, kann das wirklich ein Lebensziel sein? Die österreichische Schriftstellerin Teresa Präauer liefert eine Tränenkunde für Fortgeschrittene."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "bb34fcce2d23",
+      "title": "What is Russia saying about death of woman linked to plague lab?",
+      "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia.",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 07:58:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b0f4a832e25d",
       "title": "US 'watching closely' after plague researcher dies in Russia",
       "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
@@ -1611,24 +2004,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
           "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "078068d8efbd",
-      "title": "FIFA-Kongress im März 2027: DFB-Boss Neuendorf wird Infantino nicht wählen",
-      "summary": "DFB-Präsident Bernd Neuendorf hat sich gegen eine weitere Amtszeit von Gianni Infantino als FIFA-Präsident ausgesprochen. Die Stimme aus Deutschland werde er nicht bekommen.",
-      "link": "https://www.sportschau.de/fussball/dfb-praesident-neuendorf-wird-infantino-nicht-waehlen,infantino-neuendorf-114.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 07:56:37 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/dfb-praesident-neuendorf-wird-infantino-nicht-waehlen,infantino-neuendorf-114.html",
-          "summary": "DFB-Präsident Bernd Neuendorf hat sich gegen eine weitere Amtszeit von Gianni Infantino als FIFA-Präsident ausgesprochen. Die Stimme aus Deutschland werde er nicht bekommen."
         }
       ],
       "sourcesCount": 1
@@ -1922,10 +2297,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "f26da55df75a",
-      "title": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential - Morningstar",
-      "summary": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHN3bkg1UlRlaDVLbWwtUEZHSlZ4WDVMX2ZDS2RHZVN1NnRKSGdsR2ZHYzMxQ1k3MTM1MzUyMFZsTlFqY043WEdRX2xvTGxUUGJ1QXFNb2FDdk5MenR4RG9zNF9ubjZPY2VvRjFKNGt4Wk5vdm1qV1FuYWc3bUR1cHBRVlpXamZRMGw2NGZEUXZncFo2NW8tOWVTblVjRjY5WWQzMWZrTzU3TG1LZzBtT3pPbzhsMVZuSVlKQnZzdUlnMl9uTVlOa2E2Y0ZqX1czRWtMX0tPNXhleHA1Q3J5Zzl6c3N2NmpPQ21fa0FndWVDaGNadHNhcw?oc=5",
+      "id": "11cba7890e90",
+      "title": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential - Business Wire",
+      "summary": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYXRQX3lkZnViYUdHbV8yQTg5TmxJX0t5T201QlZNemtXSXYxbWVVMUlYcHhPSHVhSTZoVGlqbXJYNE9uNjhfd3V6VEdTSXRGNVBtdHJTYm1McVFuNVZPYzBtdmw0WG0tRkptNVpqNXBZVG1jeW1LSkY4UDZraWF2M21vSy1DOGYyN3l1LXhwdkFaZjh0cmhVSXNrZ3dsOWl6S1dsLUVCVXhDcXN1dTNabXU4SG9wS1o1amtOenRRbnBJSk96WGhBY3ZUdkxGbldZaVlwV21BSEZtQk5yVi1rTkp2dFdlMVBGOVgxb1BYYjZEUQ?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
@@ -1933,8 +2308,8 @@
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHN3bkg1UlRlaDVLbWwtUEZHSlZ4WDVMX2ZDS2RHZVN1NnRKSGdsR2ZHYzMxQ1k3MTM1MzUyMFZsTlFqY043WEdRX2xvTGxUUGJ1QXFNb2FDdk5MenR4RG9zNF9ubjZPY2VvRjFKNGt4Wk5vdm1qV1FuYWc3bUR1cHBRVlpXamZRMGw2NGZEUXZncFo2NW8tOWVTblVjRjY5WWQzMWZrTzU3TG1LZzBtT3pPbzhsMVZuSVlKQnZzdUlnMl9uTVlOa2E2Y0ZqX1czRWtMX0tPNXhleHA1Q3J5Zzl6c3N2NmpPQ21fa0FndWVDaGNadHNhcw?oc=5",
-          "summary": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential Morningstar"
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYXRQX3lkZnViYUdHbV8yQTg5TmxJX0t5T201QlZNemtXSXYxbWVVMUlYcHhPSHVhSTZoVGlqbXJYNE9uNjhfd3V6VEdTSXRGNVBtdHJTYm1McVFuNVZPYzBtdmw0WG0tRkptNVpqNXBZVG1jeW1LSkY4UDZraWF2M21vSy1DOGYyN3l1LXhwdkFaZjh0cmhVSXNrZ3dsOWl6S1dsLUVCVXhDcXN1dTNabXU4SG9wS1o1amtOenRRbnBJSk96WGhBY3ZUdkxGbldZaVlwV21BSEZtQk5yVi1rTkp2dFdlMVBGOVgxb1BYYjZEUQ?oc=5",
+          "summary": "New Logitech Ctrl Tomorrow Study Reveals Technology’s Impact On Mood, Wellbeing, Performance and Potential Business Wire"
         }
       ],
       "sourcesCount": 1
@@ -1953,42 +2328,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/italya-basbakani-meloni-yapay-zeka-klonlamasina-karsi-sesinin-telif-hakkini-almak-istiyor-959221.html",
           "summary": "İtalya Başbakanı Giorgia Meloni, yapay zeka klonlamalarına karşı sesinin telif hakkını almak için Avrupa Birliği Fikri Mülkiyet Ofisi'ne (EUIPO) başvuruda bulundu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8efe87aadbe8",
-      "title": "Jake Dyson im Gespräch: „Unsere Erdbeeren sind außergewöhnlich gut“",
-      "summary": "Jake Dyson ist Chef-Ingenieur bei Dyson. Im Interview spricht er über Zahnbürsten mit Kamera, wischende Saugroboter, luftreinigende Kopfhörer und den Aufstieg zum größten Lebensmittelproduzenten Großbritanniens.",
-      "link": "https://www.faz.net/aktuell/technik-motor/technik/jake-dyson-im-gespraech-ueber-zahnbuersten-saugroboter-und-erdbeeren-accg-201270476.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/technik-motor/technik/jake-dyson-im-gespraech-ueber-zahnbuersten-saugroboter-und-erdbeeren-accg-201270476.html",
-          "summary": "Jake Dyson ist Chef-Ingenieur bei Dyson. Im Interview spricht er über Zahnbürsten mit Kamera, wischende Saugroboter, luftreinigende Kopfhörer und den Aufstieg zum größten Lebensmittelproduzenten Großbritanniens."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f27c32e72bd8",
-      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-      "summary": "A growing number of parents are opening retirement funds for their children.",
-      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 06:59:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-          "summary": "A growing number of parents are opening retirement funds for their children."
         }
       ],
       "sourcesCount": 1
@@ -2120,24 +2459,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0f5362c188a3",
-      "title": "BM Genel Sekreteri Guterres: Gazze'de ateşkesin kalıcı hale gelmesinin zamanı geldi",
-      "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, Ekim 2023'ten bu yana Filistinli sivillerin hala dayanılmaz koşullara katlanmaya devam ettiğini belirterek, Gazze'deki ateşkesin kalıcı hale gelmesinin ve büyük ölçekte insani yardıma izin verilmesinin zamanının geldiğini vurguladı.",
-      "link": "https://www.trthaber.com/haber/dunya/bm-genel-sekreteri-guterres-gazzede-ateskesin-kalici-hale-gelmesinin-zamani-geldi-959216.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 06:45:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/bm-genel-sekreteri-guterres-gazzede-ateskesin-kalici-hale-gelmesinin-zamani-geldi-959216.html",
-          "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, Ekim 2023'ten bu yana Filistinli sivillerin hala dayanılmaz koşullara katlanmaya devam ettiğini belirterek, Gazze'deki ateşkesin kalıcı hale gelmesinin ve büyük ölçekte insani yardıma izin verilmesinin zamanının geldiğini vurguladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9dfd76eb0dd1",
       "title": "Captain apologises for gloating over military service exemption",
       "summary": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
@@ -2174,24 +2495,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "09cd3057e271",
-      "title": "Nigeria mourns as 32 killed in military plane crash",
-      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 06:33:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-          "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "57d246671c8f",
       "title": "Sanderson Acquire Some Nicoll Curtin Operations - The Global Recruiter",
       "summary": "Sanderson Acquire Some Nicoll Curtin Operations The Global Recruiter",
@@ -2223,24 +2526,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/tcmb-baskani-karahan-mecliste-sunum-yapacak-959213.html",
           "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, TBMM Plan ve Bütçe Komisyonunda bugün sunum yapacak."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e605747dc4c7",
-      "title": "Nach Kontroverse: US-Tennisstar Gauff prangert Rassismus an",
-      "summary": "Coco Gauff wird für einen angeblichen Betrug teils heftig kritisiert. Sie wehrt sich öffentlich und bekommt Unterstützung von einer deutschen Tennis-Legende.",
-      "link": "https://www.faz.net/aktuell/sport/mehr-sport/coco-gauff-prangert-beim-tennis-turnier-in-peking-rassismus-an-accg-201291644.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 06:26:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/mehr-sport/coco-gauff-prangert-beim-tennis-turnier-in-peking-rassismus-an-accg-201291644.html",
-          "summary": "Coco Gauff wird für einen angeblichen Betrug teils heftig kritisiert. Sie wehrt sich öffentlich und bekommt Unterstützung von einer deutschen Tennis-Legende."
         }
       ],
       "sourcesCount": 1
@@ -2372,26 +2657,8 @@
       "sourcesCount": 1
     },
     {
-      "id": "562ecda3ae3e",
-      "title": "CIA raporunda İsrailin iç savaş veya siyasi çöküş riski var",
-      "summary": "İsrail basınında yer alan ABD kaynaklı bir raporda, İsrail'in birkaç krizden geçtiği, bu krizlerin ülkeyi \"iç savaş veya siyasi çöküş riski\" ile karşı karşıya bıraktığı bildirildi.",
-      "link": "https://www.trthaber.com/haber/dunya/cia-raporunda-israilin-ic-savas-veya-siyasi-cokus-riski-var-959215.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 06:11:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/cia-raporunda-israilin-ic-savas-veya-siyasi-cokus-riski-var-959215.html",
-          "summary": "İsrail basınında yer alan ABD kaynaklı bir raporda, İsrail'in birkaç krizden geçtiği, bu krizlerin ülkeyi \"iç savaş veya siyasi çöküş riski\" ile karşı karşıya bıraktığı bildirildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "dc4fd6f103b0",
-      "title": "USA unter Trump: Trump stimmt Hinrichtung von Amokläufer durch US-Militär zu",
+      "title": "USA unter Trump: Trump stimmt Hinrichtung von Amokläufer durch Erschießungskommando zu",
       "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
       "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-praesident-stimmt-hinrichtung-von-amoklaeufer-durch-us-militaer-zu-faz-19444916.html",
       "sourceName": "FAZ",
@@ -2588,24 +2855,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "49a1bcf8513e",
-      "title": "İşgalci İsrailliler Batı Şeria'da Filistinlilerin ev ve araçlarını ateşe verdi",
-      "summary": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da Filistinlilerin evlerine düzenlediği saldırılarda ev ve araçlar ateşe verilirken, İsrail askerlerinin açtığı ateş sonucu 1 Filistinli yaralandı.",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-ev-ve-araclarini-atese-verdi-959210.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 04:27:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-ev-ve-araclarini-atese-verdi-959210.html",
-          "summary": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da Filistinlilerin evlerine düzenlediği saldırılarda ev ve araçlar ateşe verilirken, İsrail askerlerinin açtığı ateş sonucu 1 Filistinli yaralandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "aae6089bc2e9",
       "title": "Abzug aus Fairford: Wieder sieht Amerika schwach aus",
       "summary": "Der Abzug von amerikanischen Bombern aus Großbritannien zeigt, wie wenig es braucht, um die Bündnisvormacht der NATO in die Defensive zu drängen.",
@@ -2619,24 +2868,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/bomber-abzug-aus-england-wieder-sehen-die-usa-schwach-aus-201289609.html",
           "summary": "Der Abzug von amerikanischen Bombern aus Großbritannien zeigt, wie wenig es braucht, um die Bündnisvormacht der NATO in die Defensive zu drängen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3b17e0b079e1",
-      "title": "Terror vom 7. Oktober: Die Hamas hat den moralischen Kompass der Welt verdreht",
-      "summary": "Das Massaker der Hamas vom 7. Oktober 2023, bei dem 1200 Menschen ermordet wurden, hat den Antisemitismus weltweit befeuert.",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/fuer-die-hamas-ist-das-massaker-vom-7-oktober-ein-propagandasieg-accg-201287751.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Tue, 06 Oct 2026 04:19:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/fuer-die-hamas-ist-das-massaker-vom-7-oktober-ein-propagandasieg-accg-201287751.html",
-          "summary": "Das Massaker der Hamas vom 7. Oktober 2023, bei dem 1200 Menschen ermordet wurden, hat den Antisemitismus weltweit befeuert."
         }
       ],
       "sourcesCount": 1
@@ -2697,8 +2928,8 @@
     },
     {
       "id": "45e7279fe06e",
-      "title": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech - war.gov",
-      "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech war.gov",
+      "title": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech - U.S. Department of War (.gov)",
+      "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -2708,7 +2939,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5",
-          "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech war.gov"
+          "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech U.S. Department of War (.gov)"
         }
       ],
       "sourcesCount": 1
@@ -2750,19 +2981,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "19212b79517c",
-      "title": "Cornell-Universität: Neue Details zu Vergewaltigungsvorwürfen erhöhen Druck auf US-Eliteuni",
-      "summary": "Im Fall einer mutmaßlichen Gruppenvergewaltigung an der US-Elitehochschule Cornell wächst mit neuen Details der Druck auf die Universität. Auch die Klägerin sieht sich Drohungen ausgesetzt.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/neue-details-zu-vergewaltigungsvorwuerfen-erhoehen-druck-auf-us-uni-accg-201291362.html",
-      "sourceName": "FAZ",
+      "id": "6cdcc45fc49b",
+      "title": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles - global.honda",
+      "summary": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles global.honda",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pOWx4aUJKN0Z5bDZWWnpIbUpYWDFXcm5NaHVUbzM1d0w5WkF3VkJSTm16Y2lQbzh1Rmc1R3U2Zy02Q1hzd0NfU21NZ2dwU3ROUS1JOE9rUndvejdjLXNhbTFrZ2o0ZEFH?oc=5",
+      "sourceName": "Google News – International Technology",
       "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 02:45:21 GMT",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 02:50:17 GMT",
       "coverage": [
         {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/neue-details-zu-vergewaltigungsvorwuerfen-erhoehen-druck-auf-us-uni-accg-201291362.html",
-          "summary": "Im Fall einer mutmaßlichen Gruppenvergewaltigung an der US-Elitehochschule Cornell wächst mit neuen Details der Druck auf die Universität. Auch die Klägerin sieht sich Drohungen ausgesetzt."
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pOWx4aUJKN0Z5bDZWWnpIbUpYWDFXcm5NaHVUbzM1d0w5WkF3VkJSTm16Y2lQbzh1Rmc1R3U2Zy02Q1hzd0NfU21NZ2dwU3ROUS1JOE9rUndvejdjLXNhbTFrZ2o0ZEFH?oc=5",
+          "summary": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles global.honda"
         }
       ],
       "sourcesCount": 1
@@ -2804,24 +3035,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6cdcc45fc49b",
-      "title": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles - Honda Global",
-      "summary": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles Honda Global",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pOWx4aUJKN0Z5bDZWWnpIbUpYWDFXcm5NaHVUbzM1d0w5WkF3VkJSTm16Y2lQbzh1Rmc1R3U2Zy02Q1hzd0NfU21NZ2dwU3ROUS1JOE9rUndvejdjLXNhbTFrZ2o0ZEFH?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 02:25:39 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pOWx4aUJKN0Z5bDZWWnpIbUpYWDFXcm5NaHVUbzM1d0w5WkF3VkJSTm16Y2lQbzh1Rmc1R3U2Zy02Q1hzd0NfU21NZ2dwU3ROUS1JOE9rUndvejdjLXNhbTFrZ2o0ZEFH?oc=5",
-          "summary": "Honda Develops Underlaying Technology for In-motion Wireless Charging of EVs, Including Large Commercial Vehicles Honda Global"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "26e8279a5a1f",
       "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
       "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
@@ -2840,24 +3053,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "fec0c5a97d9d",
-      "title": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology - American Hospital Association",
-      "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFlZWUo5aG9HNnpwSmV0RldjOGZBR3NyY2JBOGRIV1c0M2pFSTd0RGkzRWktanFzb0hRY2Y0dW9ndUpzODVSM0taQ1gySmdNc1FOV0pleDhKcHJTQ1F4UWI5LXlEVE9Fcjl6MU1PRkZhaE9vOFg5Z0NTd2ZHa29Dd3pjNjc2cHNCSnQ2UmNtTDRFNTRydC1BUUlEaHZ1RVI0Um1vSXdMS0RpN2Fic2o4RVFVeUlocUk0bkt2amVzQUpmMUJjVnZDbnlPc04wSTNCVURn?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 02:16:39 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFlZWUo5aG9HNnpwSmV0RldjOGZBR3NyY2JBOGRIV1c0M2pFSTd0RGkzRWktanFzb0hRY2Y0dW9ndUpzODVSM0taQ1gySmdNc1FOV0pleDhKcHJTQ1F4UWI5LXlEVE9Fcjl6MU1PRkZhaE9vOFg5Z0NTd2ZHa29Dd3pjNjc2cHNCSnQ2UmNtTDRFNTRydC1BUUlEaHZ1RVI0Um1vSXdMS0RpN2Fic2o4RVFVeUlocUk0bkt2amVzQUpmMUJjVnZDbnlPc04wSTNCVURn?oc=5",
-          "summary": "Valleywise Health becomes first Arizona hospital to implement LifeBubble NICU technology American Hospital Association"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8e9d81acfe30",
       "title": "Dillon ranchers implement virtual fencing technology to track cattle - KBZK News",
       "summary": "Dillon ranchers implement virtual fencing technology to track cattle KBZK News",
@@ -2865,7 +3060,7 @@
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 02:08:52 GMT",
+      "time": "Tue, 06 Oct 2026 02:02:20 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
@@ -2997,6 +3192,42 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
           "summary": "A.I. Officials Stonewall on Questions About Technology’s Risks The New York Times"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ce94665f5d48",
+      "title": "Cornell students stage anti-rape rally in support of 'Jane Doe' - Reuters",
+      "summary": "Cornell students stage anti-rape rally in support of 'Jane Doe' Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcncxcWNuYUNzeUpJSjdMVFZsZnZ1S1VYVTlOelJFdG9ZVjBvdGdWMllHaHBfdnRlOV92WU11R0pmVFU2cV9UZm9wdTZxSUFCS0FhUHkzYVVTMDFKendlcTBIb0cwME5JN2k1b3hOQUFfeGxSUG4yLUFzYVFseF96dHdCdGhwRHFhYVVBVzBfOTNvbk1jc3c?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 00:16:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcncxcWNuYUNzeUpJSjdMVFZsZnZ1S1VYVTlOelJFdG9ZVjBvdGdWMllHaHBfdnRlOV92WU11R0pmVFU2cV9UZm9wdTZxSUFCS0FhUHkzYVVTMDFKendlcTBIb0cwME5JN2k1b3hOQUFfeGxSUG4yLUFzYVFseF96dHdCdGhwRHFhYVVBVzBfOTNvbk1jc3c?oc=5",
+          "summary": "Cornell students stage anti-rape rally in support of 'Jane Doe' Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "edd956f3cb41",
+      "title": "Boston is embracing AI in its public schools, unlike NYC and LA - The Boston Globe",
+      "summary": "Boston is embracing AI in its public schools, unlike NYC and LA The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUzFmRy1vRGtEczA1b2gycUNOTGFKTkpydWNIcEhzcU02WlpKd2FzVWpzOUl5cjNfN3JRQWVrWkdpTzFMdjZ6cVNaLVBEa2JIN1FiYWNRRXVicmVXX3hLSVJXaUt1STA0M2RIRHQ4WTR4S0FCWldPbHlYcm9aS3M?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 00:01:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUzFmRy1vRGtEczA1b2gycUNOTGFKTkpydWNIcEhzcU02WlpKd2FzVWpzOUl5cjNfN3JRQWVrWkdpTzFMdjZ6cVNaLVBEa2JIN1FiYWNRRXVicmVXX3hLSVJXaUt1STA0M2RIRHQ4WTR4S0FCWldPbHlYcm9aS3M?oc=5",
+          "summary": "Boston is embracing AI in its public schools, unlike NYC and LA The Boston Globe"
         }
       ],
       "sourcesCount": 1
@@ -3399,8 +3630,8 @@
     },
     {
       "id": "8864645d5df3",
-      "title": "Casey Wasserman and the changing landscape of international sport - The Jerusalem Post",
-      "summary": "Casey Wasserman and the changing landscape of international sport The Jerusalem Post",
+      "title": "Casey Wasserman and the changing landscape of international sport - jpost.com",
+      "summary": "Casey Wasserman and the changing landscape of international sport jpost.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNaTRocHBNSFhJRURvWTRicGVzd0NpWDJSNGE0YzNCX2RnNjZQeTc0RzlPNkNJMzVvY3paSUdLM0plWUZBOU9LYlRWR3pfT3JmeE1oajBxX1R6YWRhdHBQaTNTVjBDTVpYTUlJWlRKZlpwQ3dKc0t4Yw?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -3410,7 +3641,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNaTRocHBNSFhJRURvWTRicGVzd0NpWDJSNGE0YzNCX2RnNjZQeTc0RzlPNkNJMzVvY3paSUdLM0plWUZBOU9LYlRWR3pfT3JmeE1oajBxX1R6YWRhdHBQaTNTVjBDTVpYTUlJWlRKZlpwQ3dKc0t4Yw?oc=5",
-          "summary": "Casey Wasserman and the changing landscape of international sport The Jerusalem Post"
+          "summary": "Casey Wasserman and the changing landscape of international sport jpost.com"
         }
       ],
       "sourcesCount": 1
@@ -3429,6 +3660,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
           "summary": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3dcdab6155a5",
+      "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters - Investing.com",
+      "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkFoM2N0SUlLMFNHN2o5TDVsQlRNWGgzTkZOSWFQNjFqSWRzTUY2cXdKX1NnX1FzOHYtS1hjNWlqZnM1eC0yZC1UR0poM19remVMb3JxUUtiYUdtMTI5YXZya0N0N1Z4X191Rk4wSURuX2dvOWxUSUxWeDNQNElETXE3Wmw2MUd3TWZNbVpZTFAxenYzc1gxSFRGSUpRVEQ0U1FwdTZjS0RSNWVvNDJfSjlRUEJLWF9QaUVOX3BJSUo5X2VnOE00?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 01 Oct 2026 23:47:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkFoM2N0SUlLMFNHN2o5TDVsQlRNWGgzTkZOSWFQNjFqSWRzTUY2cXdKX1NnX1FzOHYtS1hjNWlqZnM1eC0yZC1UR0poM19remVMb3JxUUtiYUdtMTI5YXZya0N0N1Z4X191Rk4wSURuX2dvOWxUSUxWeDNQNElETXE3Wmw2MUd3TWZNbVpZTFAxenYzc1gxSFRGSUpRVEQ0U1FwdTZjS0RSNWVvNDJfSjlRUEJLWF9QaUVOX3BJSUo5X2VnOE00?oc=5",
+          "summary": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -3645,24 +3894,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-guneydoguda-ziyaretciler-3-dakikada-12-bin-yillik-yolculuga-cikiyor-958756.html",
           "summary": "Dünyanın en büyük havacılık, uzay ve teknoloji festivali TEKNOFEST Güneydoğu'yu ziyaret edenler, festival alanında kurulan \"Göbeklitepe Deneyim Alanı\" sayesinde yaklaşık 3 dakikada 12 bin yıllık yolculuğa çıkıyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "73e523742952",
-      "title": "NASA uzay yolculuğunda yeni bir rekor kırmaya hazırlanıyor",
-      "summary": "NASA ve SpaceX, Uluslararası Uzay İstasyonu'na (ISS) dört astronot taşıyacak olan Crew-13 misyonunu fırlatmaya hazırlanıyor. Florida'daki Cape Canaveral Uzay Kuvvetleri İstasyonu'ndaki Fırlatma Kompleksi 40'tan gerçekleştirilmesi planlanan uçuşun, istasyona dokuz saatten kısa bir sürede ulaşması öngörülüyor.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/nasa-uzay-yolculugunda-yeni-bir-rekor-kirmaya-hazirlaniyor-958742.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 01 Oct 2026 10:16:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/nasa-uzay-yolculugunda-yeni-bir-rekor-kirmaya-hazirlaniyor-958742.html",
-          "summary": "NASA ve SpaceX, Uluslararası Uzay İstasyonu'na (ISS) dört astronot taşıyacak olan Crew-13 misyonunu fırlatmaya hazırlanıyor. Florida'daki Cape Canaveral Uzay Kuvvetleri İstasyonu'ndaki Fırlatma Kompleksi 40'tan gerçekleştirilmesi planlanan uçuşun, istasyona dokuz saatten kısa bir sürede ulaşması öngörülüyor."
         }
       ],
       "sourcesCount": 1
@@ -4465,6 +4696,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "679a65cef175",
+      "title": "How Investors May Respond To IBM Stock Self Hosted AI Rollout - Simply Wall Street",
+      "summary": "How Investors May Respond To IBM Stock Self Hosted AI Rollout Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVmJ4Vk5tVFdaVW5LcG1BYW1JVEJPZEZXVzdXQ3EtdGFOay01TklKQlgxV3MxNjJXZm9ZcXdDZXhCY1JTQm95dG04TFU3dDN0VTJSWjhNcDJZR01yVngtZVNGTjFNazFZSUM4WEVzRmFrS2xscXlDeVlKZ2NnXzB0N3h6NVo2Y1hFdmtOUWs1bm11SWVWdDRNam56SWxfZHJHN3dDcTRxd1VkQnhPTV81bUpLbXdxa3JwM0YzeWh5WTRZSTRqWElXa1FjbWxzWnhjbkhGRlNHeUhWdWU2QlAta9IB5gFBVV95cUxNaFFpZHRHY3lBY3l2eVZiUDNxRFNMdHdvVGdjTTc2ZElWa1FTTlRvSHNqQWVzRnBMUTU0MkRQSzlyOTZ2UWZ6NEVpTFNDZzZPM2V5MDRQMEhXY2p3Skp4dTdrcGhFRmZ5OHMxNzdCOHc4STZTWFN6NXk4VUN3Z2JrZmtHaXVmSDRFYmY3NjRsbDhpOWZfVms0b1JfZnRwSHVVbXM4M2ZzcUN2bkNSNUhIS01fNEV1M3IzRXJDYk1YQkRHYUNBd2JsYnV3ZmgzU01mTmcwZzNTSjc3QThqdVU3czdyXzV4UQ?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 04 Oct 2026 00:38:23 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVmJ4Vk5tVFdaVW5LcG1BYW1JVEJPZEZXVzdXQ3EtdGFOay01TklKQlgxV3MxNjJXZm9ZcXdDZXhCY1JTQm95dG04TFU3dDN0VTJSWjhNcDJZR01yVngtZVNGTjFNazFZSUM4WEVzRmFrS2xscXlDeVlKZ2NnXzB0N3h6NVo2Y1hFdmtOUWs1bm11SWVWdDRNam56SWxfZHJHN3dDcTRxd1VkQnhPTV81bUpLbXdxa3JwM0YzeWh5WTRZSTRqWElXa1FjbWxzWnhjbkhGRlNHeUhWdWU2QlAta9IB5gFBVV95cUxNaFFpZHRHY3lBY3l2eVZiUDNxRFNMdHdvVGdjTTc2ZElWa1FTTlRvSHNqQWVzRnBMUTU0MkRQSzlyOTZ2UWZ6NEVpTFNDZzZPM2V5MDRQMEhXY2p3Skp4dTdrcGhFRmZ5OHMxNzdCOHc4STZTWFN6NXk4VUN3Z2JrZmtHaXVmSDRFYmY3NjRsbDhpOWZfVms0b1JfZnRwSHVVbXM4M2ZzcUN2bkNSNUhIS01fNEV1M3IzRXJDYk1YQkRHYUNBd2JsYnV3ZmgzU01mTmcwZzNTSjc3QThqdVU3czdyXzV4UQ?oc=5",
+          "summary": "How Investors May Respond To IBM Stock Self Hosted AI Rollout Simply Wall Street"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8895e4919651",
       "title": "İçişleri Bakanı Çiftçi, TEKNOFEST Güneydoğu'yu ziyaret etti",
       "summary": "İçişleri Bakanı Mustafa Çiftçi, Şanlıurfa'da düzenlenen TEKNOFEST Güneydoğu'yu ziyaret etti.",
@@ -4915,24 +5164,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e765ac5e014b",
-      "title": "Savunma ve havacılıktan 634 milyon dolarlık ihracat",
-      "summary": "Savunma ve havacılık sanayiinin ihracatı, eylülde geçen yılın aynı ayına göre yüzde 10,7 artışla 634 milyon dolara ulaştı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havaciliktan-634-milyon-dolarlik-ihracat-959019.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "wirtschaft",
-      "time": "Sat, 03 Oct 2026 15:33:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havaciliktan-634-milyon-dolarlik-ihracat-959019.html",
-          "summary": "Savunma ve havacılık sanayiinin ihracatı, eylülde geçen yılın aynı ayına göre yüzde 10,7 artışla 634 milyon dolara ulaştı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "33972aafb1c5",
       "title": "İstanbul'un barajlarında doluluk yüzde 39'a ulaştı",
       "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre, 27 Eylül'de yüzde 36,21'e kadar düşen barajlardaki doluluk oranı, son 6 günde giderek arttı.",
@@ -5005,24 +5236,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "bc044e289a10",
-      "title": "COP 31 kapsamında 30 ilde Gençlik İklim Çalıştayları düzenlenecek",
-      "summary": "Türkiye'nin ev sahipliğinde düzenlenecek 31. Taraflar Konferansı (COP31) hazırlıkları çerçevesinde, Milli Eğitim Bakanlığı (MEB) Ortaöğretim Genel Müdürlüğünce 6-8 Ekim'de Gençlik İklim Çalıştayları gerçekleştirilecek.",
-      "link": "https://www.trthaber.com/haber/ekonomi/cop-31-kapsaminda-30-ilde-genclik-iklim-calistaylari-duzenlenecek-959007.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 13:28:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/cop-31-kapsaminda-30-ilde-genclik-iklim-calistaylari-duzenlenecek-959007.html",
-          "summary": "Türkiye'nin ev sahipliğinde düzenlenecek 31. Taraflar Konferansı (COP31) hazırlıkları çerçevesinde, Milli Eğitim Bakanlığı (MEB) Ortaöğretim Genel Müdürlüğünce 6-8 Ekim'de Gençlik İklim Çalıştayları gerçekleştirilecek."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "532198f26119",
       "title": "TEKNOFEST'in yeni yıldızı isot hem mayın tarıyor hem halay çekiyor",
       "summary": "TEKNOFEST Güneydoğu'nun en renkli konuğu, ASELSAN tarafından geliştirilen mayın tarama robotu oldu. Şanlıurfalı çocukların 'İsot' ismini verdiği robot köpek, üstün teknik özellikleriyle zorlu görevlerde güvenlik güçlerine destek verirken, festival alanında çocuklarla beraber halay çekmeyi de öğrendi.",
@@ -5036,42 +5249,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofestin-yeni-yildizi-isot-hem-mayin-tariyor-hem-halay-cekiyor-959008.html",
           "summary": "TEKNOFEST Güneydoğu'nun en renkli konuğu, ASELSAN tarafından geliştirilen mayın tarama robotu oldu. Şanlıurfalı çocukların 'İsot' ismini verdiği robot köpek, üstün teknik özellikleriyle zorlu görevlerde güvenlik güçlerine destek verirken, festival alanında çocuklarla beraber halay çekmeyi de öğrendi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ec51fab6c2a3",
-      "title": "İhracatta eylülde zirve yine otomotivin",
-      "summary": "Otomotiv endüstrisi, eylülde 3 milyar 940 milyon dolarla en fazla ihracata imza atan sektör olarak kayıtlara geçti. En fazla ihracat yapan sektörler arasında kimyevi maddeler ve mamulleri 3 milyar 68 milyon dolarla ikinci, elektrik ve elektronik sektörü 2 milyar 63 milyon dolarla üçüncü sırada yer aldı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/ihracatta-eylulde-zirve-yine-otomotivin-959000.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 12:56:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/ihracatta-eylulde-zirve-yine-otomotivin-959000.html",
-          "summary": "Otomotiv endüstrisi, eylülde 3 milyar 940 milyon dolarla en fazla ihracata imza atan sektör olarak kayıtlara geçti. En fazla ihracat yapan sektörler arasında kimyevi maddeler ve mamulleri 3 milyar 68 milyon dolarla ikinci, elektrik ve elektronik sektörü 2 milyar 63 milyon dolarla üçüncü sırada yer aldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0c1af33da65b",
-      "title": "T10X otomobil pazarındaki liderliğini sürdürüyor",
-      "summary": "Togg T10X, geçen ay toplam otomobil satışlarında en çok tercih edilen model olurken, pazar liderliğini üst üste ikinci aya taşıdı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/t10x-otomobil-pazarindaki-liderligini-surduruyor-958992.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 03 Oct 2026 11:57:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/t10x-otomobil-pazarindaki-liderligini-surduruyor-958992.html",
-          "summary": "Togg T10X, geçen ay toplam otomobil satışlarında en çok tercih edilen model olurken, pazar liderliğini üst üste ikinci aya taşıdı."
         }
       ],
       "sourcesCount": 1
@@ -5218,24 +5395,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "eaa3eadb86aa",
-      "title": "Der Fall \"Jane Doe\": Was steckt hinter der Solidaritätswelle?",
-      "summary": "Eine mutmaßliche Gruppenvergewaltigung an der Elite-Universität Cornell hat in den USA eine Welle der Empörung ausgelöst. Eine Studentin erhebt schwere Vorwürfe.",
-      "link": "https://www.zdfheute.de/panorama/cornell-uni-vergewaltigung-new-york-jane-doe-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 5 Oct 2026 22:07:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/cornell-uni-vergewaltigung-new-york-jane-doe-100.html",
-          "summary": "Eine mutmaßliche Gruppenvergewaltigung an der Elite-Universität Cornell hat in den USA eine Welle der Empörung ausgelöst. Eine Studentin erhebt schwere Vorwürfe."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "6425962bf266",
       "title": "Großer Felssturz bei Cortina d’Ampezzo",
       "summary": "Im norditalienischen Cortina d'Ampezzo ist ein großer Felssturz niedergegangen. Aufgewirbelte Staubwolken zwangen sogar einen Rettungshubschrauber zur Umkehr.",
@@ -5303,150 +5462,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/hallo-deutschland/palmendieb-hannover-100.html",
           "summary": "In Hannover kam es zu einer Reihe skurriler Diebstähle: Ein Mann stahl nachts mithilfe eines Rollwagens die Palmen mehrerer Restaurants. Die Polizei ermittelt, viele Fragen sind noch offen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bfb8cd3d062f",
-      "title": "Heidi Klum mit Tochter Lou auf Fashion Week",
-      "summary": "Premiere in Paris: Als vorgezogenes Geschenk zum 17. Geburtstag nahm Heidi Klum ihre jüngste Tochter Lou Samuel mit auf die Modewoche und besuchte mit ihr mehrere Shows bekannter Designer.",
-      "link": "https://www.zdfheute.de/video/hallo-deutschland/heidi-klum-tochter-paris-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 5 Oct 2026 17:10:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/hallo-deutschland/heidi-klum-tochter-paris-100.html",
-          "summary": "Premiere in Paris: Als vorgezogenes Geschenk zum 17. Geburtstag nahm Heidi Klum ihre jüngste Tochter Lou Samuel mit auf die Modewoche und besuchte mit ihr mehrere Shows bekannter Designer."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "839abb34adea",
-      "title": "So viel wiegt der dickste Kürbis Deutschlands",
-      "summary": "Bei den Deutschen Meisterschaften im Kürbis-Wettwiegen in Ludwigsburg hat der schwerste Kürbis mit 986 Kilogramm gewonnen. Das Spitzengewicht 1.052 Kilo aus dem Jahr 2023 wurde damit nicht überboten.",
-      "link": "https://www.zdfheute.de/video/zdfheute-xpress/deutsche-meisterschaft-im-kuerbiswiegen-video-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 5 Oct 2026 14:30:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdfheute-xpress/deutsche-meisterschaft-im-kuerbiswiegen-video-100.html",
-          "summary": "Bei den Deutschen Meisterschaften im Kürbis-Wettwiegen in Ludwigsburg hat der schwerste Kürbis mit 986 Kilogramm gewonnen. Das Spitzengewicht 1.052 Kilo aus dem Jahr 2023 wurde damit nicht überboten."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1a497a82fa09",
-      "title": "5 Euro für Hamburger Elb-Aussicht",
-      "summary": "Die Aussichtsplattform Plaza der Elbphilharmonie kostet ab sofort fünf Euro Eintritt. Nach fast zehn Jahren soll damit der Kulturhaushalt der Stadt entlastet werden.",
-      "link": "https://www.zdfheute.de/video/heute-in-deutschland/5-euro-fuer-hamburger-elb-aussicht-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Mon, 5 Oct 2026 14:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/heute-in-deutschland/5-euro-fuer-hamburger-elb-aussicht-100.html",
-          "summary": "Die Aussichtsplattform Plaza der Elbphilharmonie kostet ab sofort fünf Euro Eintritt. Nach fast zehn Jahren soll damit der Kulturhaushalt der Stadt entlastet werden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b0958956a897",
-      "title": "Nomaden-Hirten in der Mongolei",
-      "summary": "Während sich in der Hauptstadt Ulan Bator Wolkenkratzer finden, gibt es in den Weiten der Steppe der Mongolei noch Nomaden Familien, die traditionell mit ihren Tieren von Ort zu Ort ziehen.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/mongolei-nomaden-hirten-102.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Mon, 5 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/mongolei-nomaden-hirten-102.html",
-          "summary": "Während sich in der Hauptstadt Ulan Bator Wolkenkratzer finden, gibt es in den Weiten der Steppe der Mongolei noch Nomaden Familien, die traditionell mit ihren Tieren von Ort zu Ort ziehen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4018b44bc475",
-      "title": "Rettung vor Feuer in letzter Sekunde",
-      "summary": "Nachdem alle Versuche der Nachbarn zuvor gescheitert waren, hat die Feuerwehr im Erzgebirge am späten Sonntagabend einen Mann in letzter Sekunde von seinem brennenden Dachstuhl gerettet.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/rettung-feuer-letzte-sekunde-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Mon, 5 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/rettung-feuer-letzte-sekunde-100.html",
-          "summary": "Nachdem alle Versuche der Nachbarn zuvor gescheitert waren, hat die Feuerwehr im Erzgebirge am späten Sonntagabend einen Mann in letzter Sekunde von seinem brennenden Dachstuhl gerettet."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "42ad925db52d",
-      "title": "Ausstellung: Deutsch ist beautiful",
-      "summary": "Im hessischen Dreieich widmet sich die Mitmach-Ausstellung „Deutsch ist Beautiful! Eine Liebeserklärung an die Deutsche Sprache\" vielen Fragen rund um die deutsche Sprache.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/ausstellung-deutsch-ist-beautiful-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 5 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/ausstellung-deutsch-ist-beautiful-100.html",
-          "summary": "Im hessischen Dreieich widmet sich die Mitmach-Ausstellung „Deutsch ist Beautiful! Eine Liebeserklärung an die Deutsche Sprache\" vielen Fragen rund um die deutsche Sprache."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e44b65a067b1",
-      "title": "Leben und Arbeiten entlang der Schlei",
-      "summary": "Die Schlei ist Urlaubsregion und Arbeitsplatz zugleich. Entlang des Ostseearms trifft ZDF-Reporter Timm Kruse Menschen, deren Arbeit eng mit dem Wasser verbunden ist.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/schlei-fluss-arbeit-leben-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Mon, 5 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/schlei-fluss-arbeit-leben-100.html",
-          "summary": "Die Schlei ist Urlaubsregion und Arbeitsplatz zugleich. Entlang des Ostseearms trifft ZDF-Reporter Timm Kruse Menschen, deren Arbeit eng mit dem Wasser verbunden ist."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "44b00de9be37",
-      "title": "China-Sexpuppen: Mit KI noch \"menschlicher\"",
-      "summary": "Ein chinesischer Hersteller entwickelt Sexpuppen, die auf Sprache und Berührung reagieren. \"Die Puppe verhält sich wie ein echter Mensch\", so der Gründer.",
-      "link": "https://www.zdfheute.de/video/sexpuppe-ki-china-video-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 5 Oct 2026 11:09:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/sexpuppe-ki-china-video-100.html",
-          "summary": "Ein chinesischer Hersteller entwickelt Sexpuppen, die auf Sprache und Berührung reagieren. \"Die Puppe verhält sich wie ein echter Mensch\", so der Gründer."
         }
       ],
       "sourcesCount": 1
