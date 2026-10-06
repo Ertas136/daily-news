@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:41:56.977119+00:00",
+  "updated": "2026-10-06T17:06:13.021184+00:00",
   "articles": [
     {
       "id": "cc43a07feb7d",
@@ -105,24 +105,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR3NLUGlwbDdUa2ladmJ5Mm1ZWVpYeGdmc2NOSlU1WjZfaDQ4eTFCSGRCT3JMM0JuREJCM2FESzJUY2wxR3lhRjR0VlFyVXl2RjNPZlB6eVg3NXpadkxCV2stMlF2dw?oc=5",
           "summary": "Reuters/Ipsos October Survey Ipsos"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9c28d76e9e9a",
-      "title": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered - NBC News",
-      "summary": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3BfVDlBclVpS3ZLU2V4Zm1qa0tGTWlKbEJ1c1Q1RmlNRGZSYm5jMEhnSXNCN21QQS1UcnFzTjlYc250d0JjT1N5NmVHT1gwclVNWU05M2xNaUhXRVU1T1NOcVNldHRBcEtBZWk5LWNwclBrVlNJVG9oR21yYkJFYVMxXzlLQVpOZFFfNlN5RWhvNVhZR1YyTldmN25NX2JrUjFZZzZISDduVEI0ZDNGcXdLS2U?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3BfVDlBclVpS3ZLU2V4Zm1qa0tGTWlKbEJ1c1Q1RmlNRGZSYm5jMEhnSXNCN21QQS1UcnFzTjlYc250d0JjT1N5NmVHT1gwclVNWU05M2xNaUhXRVU1T1NOcVNldHRBcEtBZWk5LWNwclBrVlNJVG9oR21yYkJFYVMxXzlLQVpOZFFfNlN5RWhvNVhZR1YyTldmN25NX2JrUjFZZzZISDduVEI0ZDNGcXdLS2U?oc=5",
-          "summary": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered NBC News"
         }
       ],
       "sourcesCount": 1
@@ -981,6 +963,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "a96b540b2174",
+      "title": "Muğla'da 34 düzensiz göçmen yakalandı",
+      "summary": "Muğla'nın Bodrum ilçesinde, Sahil Güvenlik ekipleri tarafından gerçekleştirilen denetimlerde kara üzerinde tespit edilen 34 düzensiz göçmen yakalandı.",
+      "link": "https://www.trthaber.com/haber/turkiye/muglada-34-duzensiz-gocmen-yakalandi-959315.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 19:57:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/muglada-34-duzensiz-gocmen-yakalandi-959315.html",
+          "summary": "Muğla'nın Bodrum ilçesinde, Sahil Güvenlik ekipleri tarafından gerçekleştirilen denetimlerde kara üzerinde tespit edilen 34 düzensiz göçmen yakalandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "46dfa6428dd4",
+      "title": "İşgalci İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine topçu saldırılarını sürdürdü",
+      "summary": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere topçu saldırıları düzenledi.",
+      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilarini-surdurdu-959313.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 19:07:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilarini-surdurdu-959313.html",
+          "summary": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere topçu saldırıları düzenledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8b6fec9e94e5",
       "title": "TRT muhabiri Recep Levent Öztürk'e veda",
       "summary": "TRT muhabiri Recep Levent Öztürk, geçirdiği kalp krizi sonucu hayatını kaybetti. Düzce'de ikindi namazını müteakiben kılınan cenaze namazın ardından Levent Öztürk, Hakk'a uğurlandı.",
@@ -1107,6 +1125,132 @@
       "sourcesCount": 1
     },
     {
+      "id": "bb87ed784ada",
+      "title": "Nach sieben Staffeln: Carolin Kebekus übernimmt „LOL“ von Bully Herbig",
+      "summary": "Carolin Kebekus darf künftig lachen, so viel sie will. Sie übernimmt bei „LOL: Last One Laughing“ die Spielleitung von Michael „Bully“ Herbig.",
+      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/carolin-kebekus-uebernimmt-lol-von-michael-bully-herbig-201294183.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 17:00:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/carolin-kebekus-uebernimmt-lol-von-michael-bully-herbig-201294183.html",
+          "summary": "Carolin Kebekus darf künftig lachen, so viel sie will. Sie übernimmt bei „LOL: Last One Laughing“ die Spielleitung von Michael „Bully“ Herbig."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b4bb1ec6df6b",
+      "title": "O'Neill 'just as determined' to lead Celtic",
+      "summary": "Martin O'Neill insists he is the man to lead Celtic forwards after a period of reflection during the ongoing international break.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c620rnv0rpdno?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 16:56:42 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c620rnv0rpdno?at_medium=RSS&at_campaign=rss",
+          "summary": "Martin O'Neill insists he is the man to lead Celtic forwards after a period of reflection during the ongoing international break."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a3a232d75431",
+      "title": "Gescheitertes Fregattenprojekt: 4.679.663.394 Euro – für nichts?",
+      "summary": "Viel zu teuer, viel zu spät: Die Berliner Politik beendete das Projekt Fregatte F126 im Frühsommer. Die Verlierer fahren nun schweres Geschütz auf und fordern Milliarden Euro.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fregatte-f126-peter-gauweiler-fordert-milliarden-vom-bund-201292562.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 16:52:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fregatte-f126-peter-gauweiler-fordert-milliarden-vom-bund-201292562.html",
+          "summary": "Viel zu teuer, viel zu spät: Die Berliner Politik beendete das Projekt Fregatte F126 im Frühsommer. Die Verlierer fahren nun schweres Geschütz auf und fordern Milliarden Euro."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "570ba73f57e4",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 16:51:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+          "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "51222f72d9de",
+      "title": "Djokovic ends trophy drought with victory in China",
+      "summary": "Novak Djokovic wins the China Open for a seventh time after Alex de Minaur retires in the final in Beijing, as the Serb wins the 102nd title of his career.",
+      "link": "https://www.bbc.co.uk/sport/tennis/videos/cw0k08n0rry4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 16:48:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/tennis/videos/cw0k08n0rry4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Novak Djokovic wins the China Open for a seventh time after Alex de Minaur retires in the final in Beijing, as the Serb wins the 102nd title of his career."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a81c80d84997",
+      "title": "Vereint gegen Israel: Wo Berliner Linke mit Extremisten kooperieren",
+      "summary": "Im Internationalistischen Bündnis Berlin arbeiten drei Linkspartei-Gliederungen mit extremistischen Gruppen zusammen. Wer ist dabei?",
+      "link": "https://www.faz.net/aktuell/politik/inland/wo-berliner-linke-mit-extremisten-kooperieren-201292106.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 16:48:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/wo-berliner-linke-mit-extremisten-kooperieren-201292106.html",
+          "summary": "Im Internationalistischen Bündnis Berlin arbeiten drei Linkspartei-Gliederungen mit extremistischen Gruppen zusammen. Wer ist dabei?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e3a846e41477",
+      "title": "Davies' 'extra motivation' after Euros heartbreak",
+      "summary": "Defender Mayzee Davies says missing Wales' first major tournament at Euro 2025 with a serious knee injury has given her extra motivation for the World Cup play-offs.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y43nry14j7o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 16:47:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y43nry14j7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Defender Mayzee Davies says missing Wales' first major tournament at Euro 2025 with a serious knee injury has given her extra motivation for the World Cup play-offs."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "64ab976025d7",
       "title": "Altın fiyatlarında son durum",
       "summary": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda (KMKTP) standart altının kilogram fiyatı, günün sonunda 6 milyon 610 bin liraya çıktı.",
@@ -1161,6 +1305,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b69780f5127c",
+      "title": "Securitas Technology acquires Sonitrol El Paso - Security Systems News",
+      "summary": "Securitas Technology acquires Sonitrol El Paso Security Systems News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNyQTJrVG85MUlJS1loaVFNTm5LdjBOc0xsakxoSGw2ZkNaM1VKNUdoQmplWjdjaFlDN2xOc2h3dV9HOFhzV2xkVi1NTE1KY1k0WUdGbkswOXVFUi11VzRQZzlfWmhuOU9XckMxSklNQjBXa19jS0lYX2N5bS1jVnI5Ykltc1FhbG96OFRUeEV3b0Ix?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 16:16:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNyQTJrVG85MUlJS1loaVFNTm5LdjBOc0xsakxoSGw2ZkNaM1VKNUdoQmplWjdjaFlDN2xOc2h3dV9HOFhzV2xkVi1NTE1KY1k0WUdGbkswOXVFUi11VzRQZzlfWmhuOU9XckMxSklNQjBXa19jS0lYX2N5bS1jVnI5Ykltc1FhbG96OFRUeEV3b0Ix?oc=5",
+          "summary": "Securitas Technology acquires Sonitrol El Paso Security Systems News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8842272df60a",
       "title": "Rival clubs want retrospective and future punishments for Man City",
       "summary": "A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future.",
@@ -1181,7 +1343,7 @@
     {
       "id": "8ed9144762e2",
       "title": "Magdeburger Landtag: Tillschneider will als Vizepräsident „unauffällig“ arbeiten",
-      "summary": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Unionsfraktionschef Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog",
+      "summary": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-tillschneider-will-als-vizepraesident-unauffaellig-arbeiten-faz-110093143.html",
       "sourceName": "FAZ",
       "region": "international",
@@ -1191,7 +1353,25 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-tillschneider-will-als-vizepraesident-unauffaellig-arbeiten-faz-110093143.html",
-          "summary": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Unionsfraktionschef Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog"
+          "summary": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "08d459ef5647",
+      "title": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego - Reuters",
+      "summary": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 16:09:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
+          "summary": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1246,6 +1426,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
           "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6a63f9801fd6",
+      "title": "Police fire teargas as French school protests cause 'heaviest toll in decades' - Reuters",
+      "summary": "Police fire teargas as French school protests cause 'heaviest toll in decades' Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 16:02:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
+          "summary": "Police fire teargas as French school protests cause 'heaviest toll in decades' Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1503,24 +1701,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/verbraucher/zwoelf-uhr-tank-regel-100.html",
           "summary": "Die Zahl der Tankstellen, die gegen die 12-Uhr-Regel verstoßen, ist deutlich gesunken. Laut SWR-Analyse konzentrieren sich die verbliebenen Fälle auf wenige auffällige Betreiber."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d82ecc4bc129",
-      "title": "Teurer Einkauf: Nun sorgt die geplante Plastiksteuer für Ärger",
-      "summary": "Für Kunden wird mit der geplanten Steuer auf Kunststoffverpackungen vieles im täglichen Einkauf teurer. Verbände warnen davor, die Abgabe im Schnellverfahren durchzudrücken.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/plastiksteuer-fuer-verbraucher-wird-der-taegliche-einkauf-teurer-201292398.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 15:27:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/plastiksteuer-fuer-verbraucher-wird-der-taegliche-einkauf-teurer-201292398.html",
-          "summary": "Für Kunden wird mit der geplanten Steuer auf Kunststoffverpackungen vieles im täglichen Einkauf teurer. Verbände warnen davor, die Abgabe im Schnellverfahren durchzudrücken."
         }
       ],
       "sourcesCount": 1
@@ -1891,6 +2071,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "85a3e5e1ebd0",
+      "title": "Ohio early voting begins with US Congress control on the line - Reuters",
+      "summary": "Ohio early voting begins with US Congress control on the line Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3NBVWtIOEhDaDlKenA1S0x2NUh3dDFfa1c5REw3OThWbjVzQnpwWVhQd09nYnBJU2dwMFJfZWxhcU1nb1JTR1JETm85R1lRV0RVZEViRmR0UGZJdmpSQUdNLXZhTWRleFRaMndmX283c29UY3FvZE9KSVBsRVM0ZW5rMXZYam9FeklWUTZoU3FKQ2pDcFBzc21LVFF6QndO?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 14:34:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3NBVWtIOEhDaDlKenA1S0x2NUh3dDFfa1c5REw3OThWbjVzQnpwWVhQd09nYnBJU2dwMFJfZWxhcU1nb1JTR1JETm85R1lRV0RVZEViRmR0UGZJdmpSQUdNLXZhTWRleFRaMndmX283c29UY3FvZE9KSVBsRVM0ZW5rMXZYam9FeklWUTZoU3FKQ2pDcFBzc21LVFF6QndO?oc=5",
+          "summary": "Ohio early voting begins with US Congress control on the line Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b7b133deb48e",
       "title": "'Means more than just a trophy' - Djokovic claims 102nd title of career",
       "summary": "Novak Djokovic claims the 102nd title of his astonishing career as Alex de Minaur retires injured from the China Open final.",
@@ -1904,24 +2102,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/tennis/articles/crkg7d815e59o?at_medium=RSS&at_campaign=rss",
           "summary": "Novak Djokovic claims the 102nd title of his astonishing career as Alex de Minaur retires injured from the China Open final."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "db982a5d668f",
-      "title": "Physik-Nobelpreis: Neutrino-Fischen im ewigen Eis",
-      "summary": "Der Nobelpreis für Physik geht an den Teilchenphysiker Francis Halzen. Er hatte die Idee, am Südpol die schwer nachweisbaren Neutrinos einzufangen, die aus den Tiefen des Universums bis zur Erde gelangen.",
-      "link": "https://www.faz.net/aktuell/wissen/physik-mehr/francis-halzen-physik-nobelpreis-fuer-neutrino-forschung-im-eis-201292563.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "wissenschaft",
-      "time": "Tue, 06 Oct 2026 14:30:38 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wissen/physik-mehr/francis-halzen-physik-nobelpreis-fuer-neutrino-forschung-im-eis-201292563.html",
-          "summary": "Der Nobelpreis für Physik geht an den Teilchenphysiker Francis Halzen. Er hatte die Idee, am Südpol die schwer nachweisbaren Neutrinos einzufangen, die aus den Tiefen des Universums bis zur Erde gelangen."
         }
       ],
       "sourcesCount": 1
@@ -2017,19 +2197,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "6a63f9801fd6",
-      "title": "Police fire teargas at French protesters on biggest day of school demonstrations - Reuters",
-      "summary": "Police fire teargas at French protesters on biggest day of school demonstrations Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
-      "sourceName": "Google News – Reuters",
+      "id": "50b06deef75d",
+      "title": "How SacRT Harnesses AI Technology Daily - Passenger Transport",
+      "summary": "How SacRT Harnesses AI Technology Daily Passenger Transport",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjRDcXFZNzdTNENHbnlFSVhjNGRrbU5OU3hwWEVYV2VmVHdyc3BmSEpoN1gwSkRVODFhbmx4bmZ0QU9qQndBYmptZ2gyWW5HUjhrQTdnOU1QQno0cWd0MU1iUjJwdU1pbHNSSkF1WUV5SG9BQkpUUE15dnc4Mkp3Xw?oc=5",
+      "sourceName": "Google News – International Technology",
       "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 14:03:57 GMT",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 14:03:11 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
-          "summary": "Police fire teargas at French protesters on biggest day of school demonstrations Reuters"
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjRDcXFZNzdTNENHbnlFSVhjNGRrbU5OU3hwWEVYV2VmVHdyc3BmSEpoN1gwSkRVODFhbmx4bmZ0QU9qQndBYmptZ2gyWW5HUjhrQTdnOU1QQno0cWd0MU1iUjJwdU1pbHNSSkF1WUV5SG9BQkpUUE15dnc4Mkp3Xw?oc=5",
+          "summary": "How SacRT Harnesses AI Technology Daily Passenger Transport"
         }
       ],
       "sourcesCount": 1
@@ -2048,24 +2228,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abdnin-yardim-teklifine-rusyadan-yanit-karsilikli-yardim-teklifi-her-zaman-iyidir-959293.html",
           "summary": "Kremlin Sözcüsü Dmitriy Peskov, ABD Başkanı Donald Trump'ın Rusya'nın İrkutsk bölgesinde nedeni belirlenemeyen zatürre vakasıyla ilgili gerekmesi halinde yardım sağlamaya hazır olduğu yönündeki açıklamasına ilişkin, \"Karşılıklı yardım teklif edilmesi her zaman iyidir\" dedi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0c4e44988588",
-      "title": "Schülerproteste: „Zu den Waffen, Bürger!“",
-      "summary": "Über dem Pariser Quartier Latin liegt ein Hauch von Mai 1968. Wieder sind es geburtenstarke Jahrgänge, die protestieren.",
-      "link": "https://www.faz.net/aktuell/politik/ausland/protesttag-in-frankreich-so-demonstrieren-die-schueler-in-paris-201291778.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 14:01:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ausland/protesttag-in-frankreich-so-demonstrieren-die-schueler-in-paris-201291778.html",
-          "summary": "Über dem Pariser Quartier Latin liegt ein Hauch von Mai 1968. Wieder sind es geburtenstarke Jahrgänge, die protestieren."
         }
       ],
       "sourcesCount": 1
@@ -2210,6 +2372,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/landtagspraesident-in-sachsen-anhalt-die-afd-ist-mittendrin-201292986.html",
           "summary": "Die AfD stellt den ersten Landtagspräsidenten. Was er daraus macht, strahlt weit über Magdeburg hinaus."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2bda1b855c7a",
+      "title": "NHS supply lorry drivers to strike in pay dispute",
+      "summary": "Drivers who deliver medical equipment to hospitals across England reject a 4% pay increase.",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 13:43:15 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
+          "summary": "Drivers who deliver medical equipment to hospitals across England reject a 4% pay increase."
         }
       ],
       "sourcesCount": 1
@@ -2665,24 +2845,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "928a902aa653",
-      "title": "South Africa hope to host first African Olympics",
-      "summary": "The International Olympic Committee confirms South Africa have shown an interest in becoming the first African host of the summer Olympics.",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 12:56:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The International Olympic Committee confirms South Africa have shown an interest in becoming the first African host of the summer Olympics."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "5920e1f3d5a4",
       "title": "Tennis-Weltrangliste: Was Alexander Zverev zur verdienten Nummer eins macht",
       "summary": "Durch das Saison-Aus von Jannik Sinner wird Alexander Zverev bald zur zweiten deutschen Nummer eins der Tennis-Welt. Der beste Spieler des Planeten ist er trotzdem nicht.",
@@ -2917,24 +3079,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c2a9057e690a",
-      "title": "The Download: 10 climate tech companies to watch - MIT Technology Review",
-      "summary": "The Download: 10 climate tech companies to watch MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1AzSmdqdVFBRjlpdDF4M1pnV0Mzcm5KdzlCbVdDbGM0amM1WFZqcWk0QnVNN080eUdhOW5RbVBWbzEyNnZvbkIzeFBEX2lvdDJNNlI1SkEzbEZ4Y2dYdWxMaU1IS3lNVmpscUtReTJBalJ6YjItYnI1b2t0aTE4TldfUlNHWHdoU3BRd2hKSGFHZWZvcFF5bldnRWtHb0VfVkHSAacBQVVfeXFMUHotYmVZMWhBRENyTzdmRHdlSFMtQUtFTVJFdUlPUVM0SllSbXc4SEdlTVdZYXBOaHdTczY2UmVRN3BTOWNpR3JXWG1TbU5Qa25wYTQxVF9DYmMxWl83NE9HZXJJWlBMVGszWXNwSjQ4MUlVZWpTVWpLS1hTSHN1M1JWZkxWNXdIRjJGWUs1Y0hsdDIySEpEMG9nRGJPUldYcmFyd1N6SWM?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 12:10:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1AzSmdqdVFBRjlpdDF4M1pnV0Mzcm5KdzlCbVdDbGM0amM1WFZqcWk0QnVNN080eUdhOW5RbVBWbzEyNnZvbkIzeFBEX2lvdDJNNlI1SkEzbEZ4Y2dYdWxMaU1IS3lNVmpscUtReTJBalJ6YjItYnI1b2t0aTE4TldfUlNHWHdoU3BRd2hKSGFHZWZvcFF5bldnRWtHb0VfVkHSAacBQVVfeXFMUHotYmVZMWhBRENyTzdmRHdlSFMtQUtFTVJFdUlPUVM0SllSbXc4SEdlTVdZYXBOaHdTczY2UmVRN3BTOWNpR3JXWG1TbU5Qa25wYTQxVF9DYmMxWl83NE9HZXJJWlBMVGszWXNwSjQ4MUlVZWpTVWpLS1hTSHN1M1JWZkxWNXdIRjJGWUs1Y0hsdDIySEpEMG9nRGJPUldYcmFyd1N6SWM?oc=5",
-          "summary": "The Download: 10 climate tech companies to watch MIT Technology Review"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9e148add0140",
       "title": "People, Technology, and Standards Together will Drive Safety Improvements - IATA",
       "summary": "People, Technology, and Standards Together will Drive Safety Improvements IATA",
@@ -3097,24 +3241,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "14f9a3d777ed",
-      "title": "Micron Says a Chinese Rival Poached Its Engineers, Then Sued It With Its Own Technology - 24/7 Wall St.",
-      "summary": "Micron Says a Chinese Rival Poached Its Engineers, Then Sued It With Its Own Technology 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbG9fdU9Bbmt0RGhDU2RYVEVzQk42QkJmZW5qd0QyY0ZjVWZ0Ri1qUW9rdGctSFJHQUF4UzNuZ0tfcUw0UXVmMjNRWGpfdUFwSHZtWGN1eGNmcklKdEhMcURndFFPMU1CZjJLMEV0ZlNwcTM1YWZYMXhJUHk3S1d0cnh3M1hXLWU4ZjZyLXZDMGVLS29lSmd6VUxmeHZ6RGhjUGJ4VjJjRFNwZmVfNmM5N1BndXJtNFA1ajU0VXE3Q0FZTXlsU0lwTExB?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 11:50:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbG9fdU9Bbmt0RGhDU2RYVEVzQk42QkJmZW5qd0QyY0ZjVWZ0Ri1qUW9rdGctSFJHQUF4UzNuZ0tfcUw0UXVmMjNRWGpfdUFwSHZtWGN1eGNmcklKdEhMcURndFFPMU1CZjJLMEV0ZlNwcTM1YWZYMXhJUHk3S1d0cnh3M1hXLWU4ZjZyLXZDMGVLS29lSmd6VUxmeHZ6RGhjUGJ4VjJjRFNwZmVfNmM5N1BndXJtNFA1ajU0VXE3Q0FZTXlsU0lwTExB?oc=5",
-          "summary": "Micron Says a Chinese Rival Poached Its Engineers, Then Sued It With Its Own Technology 24/7 Wall St."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8b8861f2757b",
       "title": "TİHEK'ten ÖSYM'nin ek süre uygulamasına ayrımcılık kararı",
       "summary": "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK), Ölçme, Seçme ve Yerleştirme Merkezi'nin (ÖSYM) görme engelli adaylara farklı sınavlarda aynı ek süreyi vermesini ​​​​​​​\"engellilik temelinde ayrımcılık yasağının ihlali\" olarak değerlendirdi.",
@@ -3146,24 +3272,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/gazzede-ateskesin-uzerinden-neredeyse-bir-yil-gecmesine-ragmen-hastalar-hala-kurtarilmayi-bekliyor-959275.html",
           "summary": "Soykırımcı İsrail'in Gazze'deki soykırımı üçüncü yılını doldururken, 10 Ekim 2025'te varılan ateşkese rağmen sınır kapılarının kapalı tutulması ve Tel Aviv'in uyguladığı katı kısıtlamalar nedeniyle tedavi bekleyen binlerce hasta ve yaralı, ölümle yaşam arasında zamanla yarışıyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "570ba73f57e4",
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 11:42:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-          "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
         }
       ],
       "sourcesCount": 1
@@ -3655,6 +3763,29 @@
       "sourcesCount": 1
     },
     {
+      "id": "55496c647edd",
+      "title": "2026 Climate Tech Companies to Watch - MIT Technology Review",
+      "summary": "2026 Climate Tech Companies to Watch MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtOa3NFRjlnVWpCOGhJVGlLWmxIdXRlbFE1REpzeENnTGlIM3VrRnhUWWFqelRENFhqUU9pcVBhOEhJSVpUYWZ3LW1lcW1FZ2Fkbk1EazFobi1LWS1LakVEanBDNFN4eTc3S1NveEtITmo5T0ZaNzE1N3ItZW5nbHJ6RzR6Nk0wc1RzM3pFNW1YTXM?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 10:35:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtOa3NFRjlnVWpCOGhJVGlLWmxIdXRlbFE1REpzeENnTGlIM3VrRnhUWWFqelRENFhqUU9pcVBhOEhJSVpUYWZ3LW1lcW1FZ2Fkbk1EazFobi1LWS1LakVEanBDNFN4eTc3S1NveEtITmo5T0ZaNzE1N3ItZW5nbHJ6RzR6Nk0wc1RzM3pFNW1YTXM?oc=5",
+          "summary": "2026 Climate Tech Companies to Watch MIT Technology Review"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1AzSmdqdVFBRjlpdDF4M1pnV0Mzcm5KdzlCbVdDbGM0amM1WFZqcWk0QnVNN080eUdhOW5RbVBWbzEyNnZvbkIzeFBEX2lvdDJNNlI1SkEzbEZ4Y2dYdWxMaU1IS3lNVmpscUtReTJBalJ6YjItYnI1b2t0aTE4TldfUlNHWHdoU3BRd2hKSGFHZWZvcFF5bldnRWtHb0VfVkHSAacBQVVfeXFMUHotYmVZMWhBRENyTzdmRHdlSFMtQUtFTVJFdUlPUVM0SllSbXc4SEdlTVdZYXBOaHdTczY2UmVRN3BTOWNpR3JXWG1TbU5Qa25wYTQxVF9DYmMxWl83NE9HZXJJWlBMVGszWXNwSjQ4MUlVZWpTVWpLS1hTSHN1M1JWZkxWNXdIRjJGWUs1Y0hsdDIySEpEMG9nRGJPUldYcmFyd1N6SWM?oc=5",
+          "summary": "The Download: 10 climate tech companies to watch MIT Technology Review"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "910319020061",
       "title": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
       "summary": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
@@ -3925,24 +4056,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "811fa1f9fb9b",
-      "title": "EXCLUSIVE: Attack aircraft, military vehicles visible at new China-Laos base, satellite images show - Reuters",
-      "summary": "EXCLUSIVE: Attack aircraft, military vehicles visible at new China-Laos base, satellite images show Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2s5NXhEaktubHFvamZHMVhEVEc5cFRIUUUwVzZtMGs5VWlXWlRXRWRfakNuMXozeWZsSUx3QzkxWi01aDJGcjVTaG5CN1Uxd2hTcmhRSHhVV1g1Q3VwZDFpb1JJVUU0LWJVU1JPYjVHeDg3dWhiaGtTN3kwLUIyMjlxanBuX0tDZEdLNFhiZ3Y4VzFtNXFkb3dsMWtzOWM2TTJ5aC1nbmwwbXFRSTFwMWpOZE1ic2QydVlMWmo4b3Bva2dTVzEwYnpVWWU2dw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 09:44:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2s5NXhEaktubHFvamZHMVhEVEc5cFRIUUUwVzZtMGs5VWlXWlRXRWRfakNuMXozeWZsSUx3QzkxWi01aDJGcjVTaG5CN1Uxd2hTcmhRSHhVV1g1Q3VwZDFpb1JJVUU0LWJVU1JPYjVHeDg3dWhiaGtTN3kwLUIyMjlxanBuX0tDZEdLNFhiZ3Y4VzFtNXFkb3dsMWtzOWM2TTJ5aC1nbmwwbXFRSTFwMWpOZE1ic2QydVlMWmo4b3Bva2dTVzEwYnpVWWU2dw?oc=5",
-          "summary": "EXCLUSIVE: Attack aircraft, military vehicles visible at new China-Laos base, satellite images show Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d1a8f3895e4d",
       "title": "Uefa investigating Republic of Ireland-Israel row after spitting accusation",
       "summary": "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of spitting.",
@@ -4195,24 +4308,6 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
           "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a1c117a9eea3",
-      "title": "Yeni antikor tedavisi normal ağrıyı engellemeden sinir ağrısını günlerce dindiriyor",
-      "summary": "Yeni bir antikor tedavisi, vücudun normal uyarı sinyallerini köreltmeden anormal sinir ağrısını bastırabiliyor.",
-      "link": "https://www.trthaber.com/haber/dunya/yeni-antikor-tedavisi-normal-agriyi-engellemeden-sinir-agrisini-gunlerce-dindiriyor-959242.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 08:53:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/yeni-antikor-tedavisi-normal-agriyi-engellemeden-sinir-agrisini-gunlerce-dindiriyor-959242.html",
-          "summary": "Yeni bir antikor tedavisi, vücudun normal uyarı sinyallerini köreltmeden anormal sinir ağrısını bastırabiliyor."
         }
       ],
       "sourcesCount": 1
@@ -4894,6 +4989,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5a11dfcb2b97",
+      "title": "BOJ may signal underlying inflation has hit 2% goal, sources say - Reuters",
+      "summary": "BOJ may signal underlying inflation has hit 2% goal, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2EwSzZ0dnlrOEY4dFNVczAzNlBqamI4eUwzWFByN0VVZU9qOFExTGJfLXNCRS1HN0hza0JwdXJuNUNpeExJMk9IMkI5R2gzbktldlBVejF6VWp6aG5DaVdldGdGRVVUTU4zeXBETHZJQVpobGh5RlZxTS0wQWI4WXRvcGNhQmVmdXNpd3RNT2o1aENxMmhEU2FFa25oVHJpSXRoQmR1MXd1WC02ZVQ4S1NlQnA2LWdh?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 04:28:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2EwSzZ0dnlrOEY4dFNVczAzNlBqamI4eUwzWFByN0VVZU9qOFExTGJfLXNCRS1HN0hza0JwdXJuNUNpeExJMk9IMkI5R2gzbktldlBVejF6VWp6aG5DaVdldGdGRVVUTU4zeXBETHZJQVpobGh5RlZxTS0wQWI4WXRvcGNhQmVmdXNpd3RNT2o1aENxMmhEU2FFa25oVHJpSXRoQmR1MXd1WC02ZVQ4S1NlQnA2LWdh?oc=5",
+          "summary": "BOJ may signal underlying inflation has hit 2% goal, sources say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "aae6089bc2e9",
       "title": "Abzug aus Fairford: Wieder sieht Amerika schwach aus",
       "summary": "Der Abzug von amerikanischen Bombern aus Großbritannien zeigt, wie wenig es braucht, um die Bündnisvormacht der NATO in die Defensive zu drängen.",
@@ -4907,24 +5020,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/bomber-abzug-aus-england-wieder-sehen-die-usa-schwach-aus-201289609.html",
           "summary": "Der Abzug von amerikanischen Bombern aus Großbritannien zeigt, wie wenig es braucht, um die Bündnisvormacht der NATO in die Defensive zu drängen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c44097248e83",
-      "title": "Is the AI Memory Supercycle Sustainable for Micron Technology (MU) Beyond 2026? - Yahoo Finance",
-      "summary": "Is the AI Memory Supercycle Sustainable for Micron Technology (MU) Beyond 2026? Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTVjNmtKZXVlMVBEZVNkeFd4akI1Qm1pQzNXZVh4Y2tYWFluQm1XS05oOHpmOExjYzM4VFJQanBxOEtTbGNmSkl4NTQzdE9yYklpb3NGX0FvTVR1Rmpid3I0NjZiRHV4MEIzU01aRzYyY0hHeERfX0hTWDdOVWJSYk1uU2dUZzZzbnFnNGtHdzNIRkFzOEJOdkZkZFpCR19CQWpBc2d3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 03:47:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTVjNmtKZXVlMVBEZVNkeFd4akI1Qm1pQzNXZVh4Y2tYWFluQm1XS05oOHpmOExjYzM4VFJQanBxOEtTbGNmSkl4NTQzdE9yYklpb3NGX0FvTVR1Rmpid3I0NjZiRHV4MEIzU01aRzYyY0hHeERfX0hTWDdOVWJSYk1uU2dUZzZzbnFnNGtHdzNIRkFzOEJOdkZkZFpCR19CQWpBc2d3?oc=5",
-          "summary": "Is the AI Memory Supercycle Sustainable for Micron Technology (MU) Beyond 2026? Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -5002,24 +5097,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0732d36425bb",
-      "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say - Reuters",
-      "summary": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 02:56:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-          "summary": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "027eb9421079",
       "title": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity - The National Law Review",
       "summary": "Canton Fair 2026 Highlights the Growing Importance of Digital Connectivity The National Law Review",
@@ -5087,24 +5164,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
           "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d7e72e379edb",
-      "title": "Gold edges up as dollar, Treasury yields slip - Reuters",
-      "summary": "Gold edges up as dollar, Treasury yields slip Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 02:15:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
-          "summary": "Gold edges up as dollar, Treasury yields slip Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5393,60 +5452,6 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/besiktastan-avrupada-govde-gosterisi-957199.html",
           "summary": "Beşiktaş, UEFA Avrupa Ligi'nin ilk haftasında Fransız ekibi Marsilya'yı 4-1 mağlup etti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b2e1ff13b3e5",
-      "title": "Ein Tennis-Match ist zu lang für TikTok",
-      "summary": "Um ein junges Publikum zu gewinnen, öffnen Sportverbände ihre Stadien für Influencer und TikTok-Trends. Virale Clips und künstliche Intelligenz lösen das klassische Sporterlebnis auf.",
-      "link": "https://www.sportschau.de/tennis/ein-tennis-spiel-ist-zu-lang-fuer-tiktok,medienwandel-sport-influencer-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Thu, 17 Sep 2026 17:05:06 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/tennis/ein-tennis-spiel-ist-zu-lang-fuer-tiktok,medienwandel-sport-influencer-100.html",
-          "summary": "Um ein junges Publikum zu gewinnen, öffnen Sportverbände ihre Stadien für Influencer und TikTok-Trends. Virale Clips und künstliche Intelligenz lösen das klassische Sporterlebnis auf."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a7bd7549341f",
-      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why - The Conversation",
-      "summary": "The International Olympic Committee wants mental health screening in elite sports. Here’s why The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1rb0JSckhSSFUtWEh3LXhFcWpNZlRqaE9PZy1tekpZWDRHY1prZ1hONkRYb2FVc1p0T25Vb3BMQ0cxeXFJOTBfeVhFeHlxMTh4UGRkQWFWQ3pNM2pNS3dTemptYTVpbUs4czdOX0kzMjNkb1RGejhKQmhnNjJrR2s5RzQ2LUhKMFNKZjZSVDdoTDJLV1hKSy1BelpsWU1TRzhiNExSV3gxRWxrU0JkS0xZWnRzTVdZMmZIQzlidTJOQjhz?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1rb0JSckhSSFUtWEh3LXhFcWpNZlRqaE9PZy1tekpZWDRHY1prZ1hONkRYb2FVc1p0T25Vb3BMQ0cxeXFJOTBfeVhFeHlxMTh4UGRkQWFWQ3pNM2pNS3dTemptYTVpbUs4czdOX0kzMjNkb1RGejhKQmhnNjJrR2s5RzQ2LUhKMFNKZjZSVDdoTDJLV1hKSy1BelpsWU1TRzhiNExSV3gxRWxrU0JkS0xZWnRzTVdZMmZIQzlidTJOQjhz?oc=5",
-          "summary": "The International Olympic Committee wants mental health screening in elite sports. Here’s why The Conversation"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a7e5c1f4b3db",
-      "title": "Why EFL matches get postponed for international call-ups - Yahoo Sports",
-      "summary": "Why EFL matches get postponed for international call-ups Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFFNSkM0R3pIRHMwdFN6bDcwV1J3WkVBczhtTjQwVWlSc3MwTWMwTWtxM1ZDdFNqLW9hOFBxVHBQTTN6SFdmZGxWdVV5NjFlTlgxZzFKX0NSRWw0ZFVoczZZVzN1aG52enZRZktCYTFrcjBSWkJjd3VYc0E1cVhxMVlLdXFVOTVBUXppUVBoN2dFUQ?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFFNSkM0R3pIRHMwdFN6bDcwV1J3WkVBczhtTjQwVWlSc3MwTWMwTWtxM1ZDdFNqLW9hOFBxVHBQTTN6SFdmZGxWdVV5NjFlTlgxZzFKX0NSRWw0ZFVoczZZVzN1aG52enZRZktCYTFrcjBSWkJjd3VYc0E1cVhxMVlLdXFVOTVBUXppUVBoN2dFUQ?oc=5",
-          "summary": "Why EFL matches get postponed for international call-ups Yahoo Sports"
         }
       ],
       "sourcesCount": 1
