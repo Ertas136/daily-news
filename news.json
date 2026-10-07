@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-07T06:06:13.930729+00:00",
+  "updated": "2026-10-07T06:46:28.128999+00:00",
   "articles": [
+    {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 7 Oct 2026 08:23:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
     {
       "id": "76f443dc454e",
       "title": "Bundeskabinett will Gesetz zu Deepfakes auf den Weg bringen",
-      "summary": "Justizministerin Hubig will stärker gegen bildbasierte sexualisierte Gewalt vorgehen. Ihr Gesetzentwurf gegen digitale Gewalt durchläuft heute das Bundeskabinett.",
+      "summary": "Justizministerin Hubig will stärker gegen bildbasierte sexualisierte Gewalt vorgehen. Ihr Gesetzentwurf gegen digitale Gewalt durchläuft am Mittwoch das Bundeskabinett.",
       "link": "https://www.zdfheute.de/politik/deutschland/bundesregierung-gesetz-gegen-digitale-gewalt-100.html",
       "sourceName": "ZDF",
       "region": "international",
@@ -14,7 +32,7 @@
         {
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/bundesregierung-gesetz-gegen-digitale-gewalt-100.html",
-          "summary": "Justizministerin Hubig will stärker gegen bildbasierte sexualisierte Gewalt vorgehen. Ihr Gesetzentwurf gegen digitale Gewalt durchläuft heute das Bundeskabinett."
+          "summary": "Justizministerin Hubig will stärker gegen bildbasierte sexualisierte Gewalt vorgehen. Ihr Gesetzentwurf gegen digitale Gewalt durchläuft am Mittwoch das Bundeskabinett."
         }
       ],
       "sourcesCount": 1
@@ -69,24 +87,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/briefing/israel-hamas-7-oktober-jung-zdfheute-update-100.html",
           "summary": "Zum dritten Mal jährt sich das Hamas-Massaker. Israel gedenkt der Opfer - doch hat bis heute nicht aufgearbeitet, wie es dazu kommen konnte."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 06:28:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -488,6 +488,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "dbd0bcd7b5bd",
+      "title": "Türkiye podcast endüstrisinin durumu değerlendirildi",
+      "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 09:17:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
+          "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6bf7ea2c62ce",
+      "title": "Küresel piyasalar Fed'e odaklandı",
+      "summary": "Küresel piyasalarda ABD Merkez Bankasının (Fed) para politikalarında beklendiği ölçüde sıkılaşmayabileceğine yönelik öngörüler ile şirket karlılıklarına ilişkin iyimserlikler risk iştahını desteklemeye devam ederken, bugün Fed'in toplantı tutanakları yatırımcıların odağında bulunuyor.",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fede-odaklandi-959361.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 09:06:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fede-odaklandi-959361.html",
+          "summary": "Küresel piyasalarda ABD Merkez Bankasının (Fed) para politikalarında beklendiği ölçüde sıkılaşmayabileceğine yönelik öngörüler ile şirket karlılıklarına ilişkin iyimserlikler risk iştahını desteklemeye devam ederken, bugün Fed'in toplantı tutanakları yatırımcıların odağında bulunuyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9471aa1948d7",
       "title": "ABD, Orta Doğu'daki arz kaybı nedeniyle petrol fiyatı tahminlerini artırdı",
       "summary": "ABD Enerji Enformasyon İdaresi (EIA), Orta Doğu'daki petrol arzı ve ihracatının piyasaya sürüleceği şekilde artacağı depolamasına rağmen, bölgesel arz kesintilerinin küresel petrol stoklarını azaltması ve dizel piyasadaki sıkışıklığın oluştuğu petrol fiyatlarını tahminlerini yukarı yönlü revize etti.",
@@ -506,6 +542,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "eaf6722cb355",
+      "title": "Zverev hat Weltranglistenplatz eins so gut wie sicher",
+      "summary": "Alexander Zverev greift nach Platz eins der Tennis-Weltrangliste. Durch das Saison-Aus von Jannik Sinner bleibt vor allem die Frage, wann es soweit ist.",
+      "link": "https://www.sportschau.de/tennis/zverevs-weg-an-die-spitze-der-weltrangliste,zverevs-weg-weltrangliste-platz-eins-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 08:39:18 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/tennis/zverevs-weg-an-die-spitze-der-weltrangliste,zverevs-weg-weltrangliste-platz-eins-100.html",
+          "summary": "Alexander Zverev greift nach Platz eins der Tennis-Weltrangliste. Durch das Saison-Aus von Jannik Sinner bleibt vor allem die Frage, wann es soweit ist."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "077895bc81e6",
+      "title": "Tränen und Standing Ovations - Lionel Messi nimmt Abschied",
+      "summary": "Nach 21 Jahren in der \"Albiceleste\" hat Argentiniens Fußballgott \"adios\" gesagt: Lionel Messi bestritt in der Nacht sein 208. und letztes Länderspiel.",
+      "link": "https://www.sportschau.de/fussball/adios-argentinien-letztes-laenderspiel-von-messi,messi-abschied-argentinien-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 08:18:59 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/adios-argentinien-letztes-laenderspiel-von-messi,messi-abschied-argentinien-100.html",
+          "summary": "Nach 21 Jahren in der \"Albiceleste\" hat Argentiniens Fußballgott \"adios\" gesagt: Lionel Messi bestritt in der Nacht sein 208. und letztes Länderspiel."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e0fe7282a0d1",
+      "title": "Rekord und Doppelpack für Kane im Spiel gegen Tschechien",
+      "summary": "England hat mit einem 3:0 über Tschechien fast sicher das Finalturnier der Nations League erreicht. Harry Kane stellte einen alten Rekord ein.",
+      "link": "https://www.sportschau.de/fussball/nationsleague/rekord-und-doppelpack-kane-fuehrt-england-gegen-tschechien-zum-sieg,bericht-england-tschechien-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 08:12:40 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/nationsleague/rekord-und-doppelpack-kane-fuehrt-england-gegen-tschechien-zum-sieg,bericht-england-tschechien-100.html",
+          "summary": "England hat mit einem 3:0 über Tschechien fast sicher das Finalturnier der Nations League erreicht. Harry Kane stellte einen alten Rekord ein."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5ce2c78b26ba",
       "title": "Dünya 3 yıldır tarihin en büyük katliamına tanık oluyor",
       "summary": "Katil İsrail, 1948 yılından bu yana Filistin halkına karşı sürdürdüğü soykırımı 7 Ekim 2023'te sistematik hale getirdi. Sın 3 yılda Gazze'de 74 bin kişiyi katleden İsrail, nüfusun neredeyse tamamını en az bir kere yerinden etti.",
@@ -519,60 +609,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/dunya-3-yildir-tarihin-en-buyuk-katliamina-tanik-oluyor-959357.html",
           "summary": "Katil İsrail, 1948 yılından bu yana Filistin halkına karşı sürdürdüğü soykırımı 7 Ekim 2023'te sistematik hale getirdi. Sın 3 yılda Gazze'de 74 bin kişiyi katleden İsrail, nüfusun neredeyse tamamını en az bir kere yerinden etti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "eaf6722cb355",
-      "title": "Zverev noch einen Sieg vom Tennis-Thron entfernt",
-      "summary": "Alexander Zverev greift nach Platz eins der Tennis-Weltrangliste. Durch das Saison-Aus seines größten Konkurrenten reicht ihm ein weiterer Sieg.",
-      "link": "https://www.sportschau.de/tennis/zverevs-weg-an-die-spitze-der-weltrangliste,zverevs-weg-weltrangliste-platz-eins-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 07:57:30 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/tennis/zverevs-weg-an-die-spitze-der-weltrangliste,zverevs-weg-weltrangliste-platz-eins-100.html",
-          "summary": "Alexander Zverev greift nach Platz eins der Tennis-Weltrangliste. Durch das Saison-Aus seines größten Konkurrenten reicht ihm ein weiterer Sieg."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "077895bc81e6",
-      "title": "Tränen und Standing Ovations - Lionel Messi nimmt Abschied",
-      "summary": "Nach 21 Jahren in der \"Albiceleste\" hat Argentiniens Fußballgott \"adios\" gesagt: Lionel Messi bestritt in der Nacht sein 208. und letztes Länderspiel.",
-      "link": "https://www.sportschau.de/fussball/adios-argentinien-letztes-laenderspiel-von-messi,messi-abschied-argentinien-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 07:49:56 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/adios-argentinien-letztes-laenderspiel-von-messi,messi-abschied-argentinien-100.html",
-          "summary": "Nach 21 Jahren in der \"Albiceleste\" hat Argentiniens Fußballgott \"adios\" gesagt: Lionel Messi bestritt in der Nacht sein 208. und letztes Länderspiel."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fe227122ff12",
-      "title": "Ölpreis dürfte DAX ausbremsen",
-      "summary": "Die Entspannung am Ölmarkt ist erst einmal dahin. Die wieder anziehenden Notierungen haben die Märkte in Asien belastet, und dürften auch beim DAX für Abschläge sorgen.",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 07:49:28 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
-          "summary": "Die Entspannung am Ölmarkt ist erst einmal dahin. Die wieder anziehenden Notierungen haben die Märkte in Asien belastet, und dürften auch beim DAX für Abschläge sorgen."
         }
       ],
       "sourcesCount": 1
@@ -663,6 +699,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/1950den-bu-yana-gorulen-en-buyuk-el-ninonun-daha-siddetlisi-geliyor-959351.html",
           "summary": "Tropikal Pasifik Okyanusu'nda etkisini artıran güçlü El Nino iklim modeli, okyanus yüzeyi sıcaklıklarını rekor seviyelere taşıdı. Uzmanlar bu durumu \"süper\" ve \"çok güçlü\" olarak nitelendirirken, veriler de bu tanımı doğruluyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fab233b10a7d",
+      "title": "Verbraucherpolitiker kritisieren Schufa wegen mangelnder Transparenz",
+      "summary": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten.",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 06:59:20 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
+          "summary": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten."
         }
       ],
       "sourcesCount": 1
@@ -776,6 +830,47 @@
       "sourcesCount": 1
     },
     {
+      "id": "07bcdca8c235",
+      "title": "Rep. Lloyd Doggett Purchases Shares of International Business Machines Corporation (NYSE:IBM) - MarketBeat",
+      "summary": "Rep. Lloyd Doggett Purchases Shares of International Business Machines Corporation (NYSE:IBM) MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYzVZdGxBanNjSHRuSTd0eWZ3anc3RlpIS3kyYml0MEUtM0wyTmI2TFhTOXVoZkVFSUw3YTlNVWNtSVdqTjlYUk8xZEJEWFQ2elprZnBZYzN0ODZiRjhkWmdwdElGaVloMUUwLWo5Z1NVRjdrbXN4elNNUm1mSDdlUlRocVZRTWlYWURzdWlCaDZsdV9tQ1BacUxOREUtWGlXNVR5MzlraDZDVjVhMzVDbDFZb055d0pvSEhQZVZ4cW84enBIMXFWT1Q0LWtiVTlmREtyQUFGR0VxUVpQQ3ltTlFsQzY0Wl9B?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 06:34:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYzVZdGxBanNjSHRuSTd0eWZ3anc3RlpIS3kyYml0MEUtM0wyTmI2TFhTOXVoZkVFSUw3YTlNVWNtSVdqTjlYUk8xZEJEWFQ2elprZnBZYzN0ODZiRjhkWmdwdElGaVloMUUwLWo5Z1NVRjdrbXN4elNNUm1mSDdlUlRocVZRTWlYWURzdWlCaDZsdV9tQ1BacUxOREUtWGlXNVR5MzlraDZDVjVhMzVDbDFZb055d0pvSEhQZVZ4cW84enBIMXFWT1Q0LWtiVTlmREtyQUFGR0VxUVpQQ3ltTlFsQzY0Wl9B?oc=5",
+          "summary": "Rep. Lloyd Doggett Purchases Shares of International Business Machines Corporation (NYSE:IBM) MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZW41d0l1QzZ5YTZRQm1yVTN3c0QtZzNMbzBWM21wRkdCbjRZNDdxd1ZweFpRMVNIa3ZoYlRVYUJZNkJDaGhzNjFpMUt3d3NXa0xaUU9YZTk2SGswMjdyTndKV2xteEEzU1YzaF9xV3pmQ2t4UGd4Z1NqY2Mxc0lfRkNHRW53bUR6ODlWTjJuTE1sMDZGOVVVNnhmaXRMYzZ3OHhpU3llSWZKMTFxTl9KYUdvZ24xVTNSTjNGVmtxVzVPYjM5VEt0aVdWLTFtOVRKSmxPTl9WNFFUQmlVMjR2TmdmUmZ3bENfZTdLMXo1bw?oc=5",
+          "summary": "International Business Machines Corporation (NYSE:IBM) Stock Has Consensus Price Target of $253.52 MarketBeat"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
+      "id": "4c4236f38ad9",
+      "title": "Wahlen in Brasilien: Die Rechte jubelt, doch Trump schweigt",
+      "summary": "Flávio Bolsonaros gutes Abschneiden im ersten Durchgang der Präsidentenwahl in Brasilien beflügelt Lateinamerikas Rechte. Washington bleibt still – aus gutem Grund.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/brasilien-wahl-lateinamerikas-rechte-hoffen-auf-bolsonaro-accg-201294325.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 06:34:14 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/brasilien-wahl-lateinamerikas-rechte-hoffen-auf-bolsonaro-accg-201294325.html",
+          "summary": "Flávio Bolsonaros gutes Abschneiden im ersten Durchgang der Präsidentenwahl in Brasilien beflügelt Lateinamerikas Rechte. Washington bleibt still – aus gutem Grund."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "029fb1a4cebc",
       "title": "Fransa'da çatışmalar hız kesmeden devam ediyor",
       "summary": "Fransa'da lise öğrencilerle başlayan protestoların üniversite öğrencilerine, velilere ve sendikalara sıçramasıyla ülke genelinde yüz binlerce kişi sokaklara döküldü. Paris ve Marsilya'daki gösterilerde polis biber gazı kullanırken, Lyon'da çatışmalar yaşandı ve Rennes'te tazyikli su müdahalesinde bulunuldu.",
@@ -825,6 +920,42 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/arjantinin-efsanesi-messi-milli-takima-veda-etti-959342.html",
           "summary": "Arjantinli yıldız Lionel Messi, milli takım kariyerini Benin'e karşı oynanan ve 3-0 kazandıkları hazırlık maçıyla tamamladı. Buenos Aires'teki Monumental Stadyumu'nda düzenlenen duygusal veda gecesinde, 39 yaşındaki futbolcu 208'inci ve son milli maçına çıktı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "81f64862d25c",
+      "title": "Der Leiters-Plan: Porsche setzt vermehrt auf Verbrenner – und mehr Luxus-Sportwagen",
+      "summary": "Teurere Autos, neue Verbrenner und ein Super-Sportwagen. Der Porsche-Chef stellt seine Strategie zur Rettung des Stuttgarter Autoherstellers vor.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/michael-leiters-porsche-setzt-vermehrt-auf-verbrenner-und-mehr-luxus-sportwagen-accg-201294921.html",
+      "sourceName": "FAZ",
+      "region": "regional",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 06:22:41 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/michael-leiters-porsche-setzt-vermehrt-auf-verbrenner-und-mehr-luxus-sportwagen-accg-201294921.html",
+          "summary": "Teurere Autos, neue Verbrenner und ein Super-Sportwagen. Der Porsche-Chef stellt seine Strategie zur Rettung des Stuttgarter Autoherstellers vor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7eee4e07419e",
+      "title": "Chisora, 42, to fight in December after deciding against retirement",
+      "summary": "Derek Chisora's last fight was billed as his retirement bout, but the 42-year-old says he intends to box in December.",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cqpvgzwj1gp2o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 06:19:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/cqpvgzwj1gp2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Derek Chisora's last fight was billed as his retirement bout, but the 42-year-old says he intends to box in December."
         }
       ],
       "sourcesCount": 1
@@ -884,6 +1015,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "37341a750cda",
+      "title": "NSDAP-Mitglieder: Warum haben sie geschwiegen?",
+      "summary": "Ein Unternehmer, ein SPD-Politiker, ein Architekt, ein Entwicklungshelfer: In der Nachkriegszeit prägten sie das Bundesland Hessen. Was bislang nicht bekannt war: Davor waren sie Mitglieder der NSDAP.",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/heimliche-nsdap-mitglieder-in-hessen-warum-haben-sie-geschwiegen-accg-201195109.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 06:15:48 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/heimliche-nsdap-mitglieder-in-hessen-warum-haben-sie-geschwiegen-accg-201195109.html",
+          "summary": "Ein Unternehmer, ein SPD-Politiker, ein Architekt, ein Entwicklungshelfer: In der Nachkriegszeit prägten sie das Bundesland Hessen. Was bislang nicht bekannt war: Davor waren sie Mitglieder der NSDAP."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8df0dca9a0ae",
       "title": "Almanya Başbakanı Merz: Filistin devletinin kurulması bölge barışı için en iyi yol",
       "summary": "Almanya Başbakanı Friedrich Merz, Filistin devletinin kurulmasının, bölgede barış ve güvenliğin sağlanması için en iyi yol olduğunu ifade etti.",
@@ -902,6 +1051,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "52a286d5291c",
+      "title": "Deutschland liveblog: „Berliner Appell“ warnt vor Rot-Grün-Rot in Berlin",
+      "summary": "80 Unterzeichner aus Politik und Zivilgesellschaft fordern CDU, SPD und Grüne zur Zusammenarbeit auf +++ Tillschneider will als Vizepräsident „unauffällig“ arbeiten +++ alle Entwicklungen im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-appell-warnt-vor-rot-gruen-rot-in-berlin-faz-110093143.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 06:14:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-appell-warnt-vor-rot-gruen-rot-in-berlin-faz-110093143.html",
+          "summary": "80 Unterzeichner aus Politik und Zivilgesellschaft fordern CDU, SPD und Grüne zur Zusammenarbeit auf +++ Tillschneider will als Vizepräsident „unauffällig“ arbeiten +++ alle Entwicklungen im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3d44b294d5e9",
+      "title": "Can Man City juggle WSL title defence and Champions League?",
+      "summary": "Manchester City have had a strong start to the WSL season, but have they showed they are capable of juggling Champions League football?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c32l4nwr7z05o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 06:14:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c32l4nwr7z05o?at_medium=RSS&at_campaign=rss",
+          "summary": "Manchester City have had a strong start to the WSL season, but have they showed they are capable of juggling Champions League football?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4d79c000e331",
+      "title": "Business-Ticker: Ifo: Ölkonzerne geben Tankrabatt bislang nur teilweise weiter",
+      "summary": "Paramount schließt Warner-Übernahme ab +++ SAP will KI-Spezialisten TechWolf übernehmen +++ Rheinmetall erschließt Weltall als Geschäftsfeld +++ Neuigkeiten im Unternehmen-Liveblog",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-oelkonzerne-geben-tankrabatt-laut-ifo-bislang-nur-teilweise-weiter-faz-200452404.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 06:09:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-oelkonzerne-geben-tankrabatt-laut-ifo-bislang-nur-teilweise-weiter-faz-200452404.html",
+          "summary": "Paramount schließt Warner-Übernahme ab +++ SAP will KI-Spezialisten TechWolf übernehmen +++ Rheinmetall erschließt Weltall als Geschäftsfeld +++ Neuigkeiten im Unternehmen-Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4c38e0c91642",
       "title": "Was die Metall-Tarifrunde so kompliziert macht",
       "summary": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte.",
@@ -915,6 +1118,24 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-tarifverhandlungen-104.html",
           "summary": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "92a0a9139316",
+      "title": "BR-Recherche zu Pestiziden - Mehr als 50 Wirkstoffe scheitern an EU-Prüfung",
+      "summary": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen.",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/eu-neuregelung-pestizid-zulassung-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Wed, 07 Oct 2026 06:00:21 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/investigativ/br-recherche/eu-neuregelung-pestizid-zulassung-100.html",
+          "summary": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen."
         }
       ],
       "sourcesCount": 1
@@ -1010,6 +1231,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "718253b07b02",
+      "title": "Wrexham's Kop: The project matching the club's rise",
+      "summary": "Wrexham's new Kop stand a signal of their ambition to keep climbing from the Championship to the Premier League.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5dj4j2kvm98o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 05:25:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5dj4j2kvm98o?at_medium=RSS&at_campaign=rss",
+          "summary": "Wrexham's new Kop stand a signal of their ambition to keep climbing from the Championship to the Premier League."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5258ae96e7a2",
       "title": "Watch: Every Messi World Cup goal for Argentina",
       "summary": "Watch every World Cup goal scored by Lionel Messi, as the Argentina forward retires from international football.",
@@ -1029,7 +1268,7 @@
     },
     {
       "id": "fdb8f7d0a0c5",
-      "title": "Test cricket's biggest scandals - your result revealed",
+      "title": "Test cricket's biggest scandals - your results revealed",
       "summary": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -1077,24 +1316,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/merz-sichert-israel-beistand-zu-und-wirbt-fuer-palaestinenserstaat-accg-201294567.html",
           "summary": "Am Jahrestag des Hamas-Überfalls warnt der Kanzler vor wachsendem Antisemitismus in Deutschland. Außenminister Wadephul nennt es beschämend, wie viel noch zu tun sei."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "24a24e787e64",
-      "title": "Edelmetall: Angst vor einer Eurokrise stützt den Goldpreis",
-      "summary": "Der Goldpreis ist seit Januar um mehr als ein Viertel gefallen. Jetzt sehen Analysten eine Unterstützung von unerwarteter Seite.",
-      "link": "https://www.faz.net/aktuell/finanzen/angst-vor-einer-eurokrise-stuetzt-den-goldpreis-accg-201292191.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 05:07:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/finanzen/angst-vor-einer-eurokrise-stuetzt-den-goldpreis-accg-201292191.html",
-          "summary": "Der Goldpreis ist seit Januar um mehr als ein Viertel gefallen. Jetzt sehen Analysten eine Unterstützung von unerwarteter Seite."
         }
       ],
       "sourcesCount": 1
@@ -1149,24 +1370,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3QzMk4tTDVuLTdqSm95RkN4NlJWVXA0YnNMT3hFYk5NUTZpZjB2Nnh1SlhPMklfX3ZTN1Y4bTVrUFJUU1RZYnUwVHRFbk1RRXBfVFV2MFRTc1gxWjZ3clZzdk9fcDRVNFZJdVZ0cC1HWGZlRWhQY2lWZnJSUHNuUlFqU0lIWDdocW5lNzc3ZXVLaUl5aFZkYjVCSnNMTXhZcnI2d0JJQWNrcF9aZzdCRzRMT0ZUYy10SmRkaVpVZ1lveVE?oc=5",
           "summary": "Executive Order Pushes Technology Updates at DoD, VA U.S. Medicine"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f50cf41075eb",
-      "title": "Ein hundert Jahre altes Vorbild: Diese Berliner Siedlungen machen Wohnen erschwinglich",
-      "summary": "Kompakte Grundrisse, grüne Wege: Vor hundert Jahren brauchten Städte schnell viele Wohnungen. Sieben Berliner Siedlungen aus der Zeit stehen heute auf der Welterbeliste.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/welterbe-berliner-siedlungen-machen-wohnen-erschwinglich-accg-201189263.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Wed, 07 Oct 2026 04:49:47 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/welterbe-berliner-siedlungen-machen-wohnen-erschwinglich-accg-201189263.html",
-          "summary": "Kompakte Grundrisse, grüne Wege: Vor hundert Jahren brauchten Städte schnell viele Wohnungen. Sieben Berliner Siedlungen aus der Zeit stehen heute auf der Welterbeliste."
         }
       ],
       "sourcesCount": 1
@@ -1280,24 +1483,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "bb7978b4273d",
-      "title": "F.A.Z. Frühdenker: Woher kamen die Stimmen für Rausch und Tillschneider?",
-      "summary": "Union und SPD kommen erstmals seit dem Sommer zum Koalitionsausschuss zusammen. Der Hamas-Überfall auf Israel am 7.",
-      "link": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/woher-kamen-die-stimmen-fuer-rausch-und-tillschneider-faz-fruehdenker-201294434.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 04:15:39 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/woher-kamen-die-stimmen-fuer-rausch-und-tillschneider-faz-fruehdenker-201294434.html",
-          "summary": "Union und SPD kommen erstmals seit dem Sommer zum Koalitionsausschuss zusammen. Der Hamas-Überfall auf Israel am 7."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1695902ff0f2",
       "title": "7. Oktober 2023: Was wusste Netanjahu?",
       "summary": "Mehrmals soll Israels Ministerpräsident Benjamin Netanjahu vor dem Terrorangriff vom 7. Oktober gewarnt worden sein.",
@@ -1352,24 +1537,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/besser-leben/psychologie/aus-der-stadt-aufs-land-ziehen-wie-der-plan-gnadenlos-an-der-realitaet-scheiterte-accg-201291709.html",
           "summary": "Unsere Kolumnistin wohnt seit über zwanzig Jahren in Berlin. Schön ist es da nicht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "edb8caca91af",
-      "title": "Messi signs off in tears after one last Argentina master class - Reuters",
-      "summary": "Messi signs off in tears after one last Argentina master class Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 03:24:26 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
-          "summary": "Messi signs off in tears after one last Argentina master class Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1537,19 +1704,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "a77ef085cb01",
-      "title": "„erhebliche Unsicherheiten“: Kassen warnen vor neuen Risiken für stabile Beiträge",
-      "summary": "Union und SPD planen Änderungen an dem Sparpaket, das Krankenkassen entlasten soll. Der Kassenverband zweifelt an der Gegenfinanzierung.",
-      "link": "https://www.faz.net/aktuell/politik/inland/kassen-warnen-vor-neuen-risiken-fuer-stabile-beitraege-accg-201294639.html",
-      "sourceName": "FAZ",
-      "region": "germany",
+      "id": "edb8caca91af",
+      "title": "Messi signs off in tears after one last Argentina master class - Reuters",
+      "summary": "Messi signs off in tears after one last Argentina master class Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
       "topic": "politik",
-      "time": "Wed, 07 Oct 2026 02:25:28 GMT",
+      "time": "Wed, 07 Oct 2026 02:21:00 GMT",
       "coverage": [
         {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/kassen-warnen-vor-neuen-risiken-fuer-stabile-beitraege-accg-201294639.html",
-          "summary": "Union und SPD planen Änderungen an dem Sparpaket, das Krankenkassen entlasten soll. Der Kassenverband zweifelt an der Gegenfinanzierung."
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
+          "summary": "Messi signs off in tears after one last Argentina master class Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1609,24 +1776,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "56c6d3cc974b",
-      "title": "Liveblog Ukrainekrieg: Ukrainischer Drohnenangriff löst heftigen Brand auf Öltanker aus",
-      "summary": "Rohöl brennt laut Russland „offen auf dem Wasser des Schwarzen Meeres“ +++ Neue russische Angriffe auf Kiew +++ Wadephul: Putin möchte Zusammenbruch der Sowjetunion reparieren +++ alle Neuigkeiten im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-russland-hat-ueber-ukraine-hinausgehende-plaene-faz-110683325.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 01:36:35 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-russland-hat-ueber-ukraine-hinausgehende-plaene-faz-110683325.html",
-          "summary": "Rohöl brennt laut Russland „offen auf dem Wasser des Schwarzen Meeres“ +++ Neue russische Angriffe auf Kiew +++ Wadephul: Putin möchte Zusammenbruch der Sowjetunion reparieren +++ alle Neuigkeiten im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d8a54895c8dd",
       "title": "Houthis attack Aden airport as fighting intensifies in Yemen - Reuters",
       "summary": "Houthis attack Aden airport as fighting intensifies in Yemen Reuters",
@@ -1640,24 +1789,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjcwdDdFSmxISzN2RWdiODU1ZjlXODFLZGRiVmxTeW94dnI1T1VsNnhlU1NJMTZXajJoVlE0VnpzVDlmMmJQUjYzN21Tamk5YWZhazdRSzd5MTJndURBTjNQTC0yd2I2ZDhIazZlNUJUYjAyZHVwZFRCMER1OGZLS2pZRmRQTjlrSlVyLUd3N1dnUUxrM2NBSERSd3VmYkJBNnpzT1I4RmhwMWhHbHQyN1ZOWkxCclZBV3c?oc=5",
           "summary": "Houthis attack Aden airport as fighting intensifies in Yemen Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fdff9f566b6c",
-      "title": "Vietnam's banks tap investors for $7 billion as economy runs red hot - Reuters",
-      "summary": "Vietnam's banks tap investors for $7 billion as economy runs red hot Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHo4NlJqZktPYWpaZGJOdjdzRXhwcENlTHkwZXNsVjJtbktRUklSaloxTHYxZTUtcm1oa1JId2U0QTg1SkdvVFRDdnQtLUpmUHFnZGpPVmNLRXRKcEY5UmVYblZSb3hWbGJyMTJRYkxIbThodnJNWmtlendmZFpIZjlsdUpEWGVYb1lRZUhEQnpiRlVkdmk4UWs3aUpXMnNjaGtjLXl4V2ZGY0VnRFRySTVR?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 01:02:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHo4NlJqZktPYWpaZGJOdjdzRXhwcENlTHkwZXNsVjJtbktRUklSaloxTHYxZTUtcm1oa1JId2U0QTg1SkdvVFRDdnQtLUpmUHFnZGpPVmNLRXRKcEY5UmVYblZSb3hWbGJyMTJRYkxIbThodnJNWmtlendmZFpIZjlsdUpEWGVYb1lRZUhEQnpiRlVkdmk4UWs3aUpXMnNjaGtjLXl4V2ZGY0VnRFRySTVR?oc=5",
-          "summary": "Vietnam's banks tap investors for $7 billion as economy runs red hot Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1748,6 +1879,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHVkUDFUa2g1elRlVG16Z285Yy1nNmlvQkxySE1WQ3JkNnhXejA5RlM3VVY3VENmalR3V2tmTkJhVnlGSEZVSFJjNV9faEVLQUdubE0tMndfVGpDZU5GNUlXYlpmdElDR2pzdmRyZHRZMFYtYlhvZDNVZnRuUTdOUUtqU09vMWdzdUFvc3lBbEhZanRSYkZQM1pZRVlLWTVVVU9sQXA0SWR5Vjd3M29sdl9MRQ?oc=5",
           "summary": "MSU history professors tackle college loneliness with broad technology bans The State News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b24bc37d0b1e",
+      "title": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide - International Testing Agency",
+      "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
+          "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency"
         }
       ],
       "sourcesCount": 1
@@ -2303,24 +2452,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e0fe7282a0d1",
-      "title": "Rekord und Doppelpack für Kane im Spiel gegen Tschechien",
-      "summary": "England hat mit einem 3:0 über Tschechien fast sicher das Finalturnier der Nations League erreicht. Harry Kane stellte einen alten Rekord ein.",
-      "link": "https://www.sportschau.de/fussball/nationsleague/rekord-und-doppelpack-kane-fuehrt-england-gegen-tschechien-zum-sieg,bericht-england-tschechien-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 23:44:49 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/nationsleague/rekord-und-doppelpack-kane-fuehrt-england-gegen-tschechien-zum-sieg,bericht-england-tschechien-100.html",
-          "summary": "England hat mit einem 3:0 über Tschechien fast sicher das Finalturnier der Nations League erreicht. Harry Kane stellte einen alten Rekord ein."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "291587312f8d",
       "title": "Ronaldo, milli takımı bırakmadığını açıkladı",
       "summary": "Portekizli yıldız futbolcu Cristiano Ronaldo, milli takımı bırakmadığını açıkladı.",
@@ -2448,8 +2579,8 @@
     },
     {
       "id": "d9959ed79a27",
-      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
-      "summary": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
+      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
+      "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Business",
       "region": "international",
@@ -2459,7 +2590,7 @@
         {
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
-          "summary": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved."
+          "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved."
         }
       ],
       "sourcesCount": 1
@@ -2550,24 +2681,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo?at_medium=RSS&at_campaign=rss",
           "summary": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "67e1a2ac686d",
-      "title": "Trump says nobody knows who is running Iran - Reuters",
-      "summary": "Trump says nobody knows who is running Iran Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGU1UW1VTmk1eGViZjRja3o3X18zR3UtcXc3Sk9VVDBuaVU3VWMwc2NkeFN4cXRyNHA1ZkpUMVNIaGRWOTY3anA0OXFrUHUwVzFwSFFydm41aWZDMDVkRmhvOGdIa05yLWM4VDNCVEpyZTAyMzM0Mi1IT1ZuNjdPTEpLVlEwUEE2NUhGS2xMSUhoaTdZbG5YQzhZelBOQQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 22:32:44 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGU1UW1VTmk1eGViZjRja3o3X18zR3UtcXc3Sk9VVDBuaVU3VWMwc2NkeFN4cXRyNHA1ZkpUMVNIaGRWOTY3anA0OXFrUHUwVzFwSFFydm41aWZDMDVkRmhvOGdIa05yLWM4VDNCVEpyZTAyMzM0Mi1IT1ZuNjdPTEpLVlEwUEE2NUhGS2xMSUhoaTdZbG5YQzhZelBOQQ?oc=5",
-          "summary": "Trump says nobody knows who is running Iran Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2735,6 +2848,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "bb9820a94c09",
+      "title": "North Korea criticises US support for Taiwan, pledges backing for Russia - Reuters",
+      "summary": "North Korea criticises US support for Taiwan, pledges backing for Russia Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 21:49:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
+          "summary": "North Korea criticises US support for Taiwan, pledges backing for Russia Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "d9a7dbf3e642",
       "title": "Ronaldo wants Portugal 'punishment' but not retiring",
       "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
@@ -2874,6 +3005,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/rusyanin-karadeniz-aciklarinda-tankerde-yangin-cikti-959322.html",
           "summary": "Rusya'nın Karadeniz sahili açıklarında bir tankerde yangın çıktı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "08d9b8376eca",
+      "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
+      "summary": "Im neuen \"Infraplan\" legt der Bund konkrete Ziele für Sanierung und Ausbau des Bahnnetzes fest. Doch die Branche mahnt: Ohne gesicherte Finanzierung droht auch dieser Plan in der Schublade zu verschwinden.",
+      "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 20:57:31 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
+          "summary": "Im neuen \"Infraplan\" legt der Bund konkrete Ziele für Sanierung und Ausbau des Bahnnetzes fest. Doch die Branche mahnt: Ohne gesicherte Finanzierung droht auch dieser Plan in der Schublade zu verschwinden."
         }
       ],
       "sourcesCount": 1
@@ -3042,12 +3191,12 @@
     },
     {
       "id": "34332c307e33",
-      "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
       "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
       "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
       "region": "international",
-      "topic": "politik",
+      "topic": "technologie",
       "time": "Tue, 06 Oct 2026 20:40:01 GMT",
       "coverage": [
         {
@@ -3266,13 +3415,13 @@
       "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
       "summary": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China.",
       "link": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
-      "sourceName": "Tagesschau Ausland",
+      "sourceName": "Tagesschau Wirtschaft",
       "region": "international",
       "topic": "politik",
       "time": "Tue, 06 Oct 2026 19:43:36 +0200",
       "coverage": [
         {
-          "sourceName": "Tagesschau Ausland",
+          "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
           "summary": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China."
         }
@@ -3362,6 +3511,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/bundesliga/501-montag-erste-beratungen-zwischen-klubs,50-plus-1-klubs-kompromiss-100.html",
           "summary": "Das Präsidium der Bundesliga hat nach einem Treffen mit den Klubs vor einem Rechtsstreit bei 50+1 gewarnt. Bis zum Sommer 2027 soll ein Kompromissvorschlag vorliegen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "96e1a07f0e73",
+      "title": "Deutsch-französischer Deal: Die Abkehr vom Verbrenner-Aus bahnt sich an",
+      "summary": "Bundeskanzler Merz will das Verbrennerverbot endgültig kippen. Bislang blockierte Frankreich.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/verbrennerverbot-merz-und-macron-planen-ueberraschenden-deal-201291103.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 19:17:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/verbrennerverbot-merz-und-macron-planen-ueberraschenden-deal-201291103.html",
+          "summary": "Bundeskanzler Merz will das Verbrennerverbot endgültig kippen. Bislang blockierte Frankreich."
         }
       ],
       "sourcesCount": 1
@@ -3565,6 +3732,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "d7e72e379edb",
+      "title": "Gold climbs as dollar, Treasury yields slip - Reuters",
+      "summary": "Gold climbs as dollar, Treasury yields slip Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 18:24:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+          "summary": "Gold climbs as dollar, Treasury yields slip Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0f245914faf8",
       "title": "Amasya'da hayvan pazarları geçici olarak kapatıldı",
       "summary": "Amasya Valiliği, kentteki hayvan pazarlarının şap hastalığı nedeniyle geçici olarak kapatıldığını açıkladı.",
@@ -3745,6 +3930,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "2dae18e72cb7",
+      "title": "The world has nearly burned through its oil stockpile buffer, executives say - Reuters",
+      "summary": "The world has nearly burned through its oil stockpile buffer, executives say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpPa01RZzZ1ZlNmZS1XU1FlVnlKbTNhblkyVFU1dkttNzY2WllwRXNVdHVSNlBkV21wQi05d3NQdTFQcjQ1Vm5CcG1XQ1gtaDdZUmZiZXZaVVA1ZXBIcEpoOHBIZ0k1RnpKWXpsOVBjWWhrQzlWNW53SFM2dm5LeWJFVThkLUNHMzY2VFN1cFl0QXpqc2U5T2FvM1M1TmQyRjUwTDBBTFJ3NkRLS0ZENmY4cDNPam13OG9pRUFZUGw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 17:26:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpPa01RZzZ1ZlNmZS1XU1FlVnlKbTNhblkyVFU1dkttNzY2WllwRXNVdHVSNlBkV21wQi05d3NQdTFQcjQ1Vm5CcG1XQ1gtaDdZUmZiZXZaVVA1ZXBIcEpoOHBIZ0k1RnpKWXpsOVBjWWhrQzlWNW53SFM2dm5LeWJFVThkLUNHMzY2VFN1cFl0QXpqc2U5T2FvM1M1TmQyRjUwTDBBTFJ3NkRLS0ZENmY4cDNPam13OG9pRUFZUGw?oc=5",
+          "summary": "The world has nearly burned through its oil stockpile buffer, executives say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "24977b9dc394",
       "title": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
       "summary": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet.",
@@ -3907,24 +4110,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b4bb1ec6df6b",
-      "title": "O'Neill 'just as determined' to lead Celtic",
-      "summary": "Martin O'Neill insists he is the man to lead Celtic forwards after a period of reflection during the ongoing international break.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c620rnv0rpdno?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 16:56:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c620rnv0rpdno?at_medium=RSS&at_campaign=rss",
-          "summary": "Martin O'Neill insists he is the man to lead Celtic forwards after a period of reflection during the ongoing international break."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "51222f72d9de",
       "title": "Djokovic ends trophy drought with victory in China",
       "summary": "Novak Djokovic wins the China Open for a seventh time after Alex de Minaur retires in the final in Beijing, as the Serb wins the 102nd title of his career.",
@@ -3938,24 +4123,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/tennis/videos/cw0k08n0rry4o?at_medium=RSS&at_campaign=rss",
           "summary": "Novak Djokovic wins the China Open for a seventh time after Alex de Minaur retires in the final in Beijing, as the Serb wins the 102nd title of his career."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e3a846e41477",
-      "title": "Davies' 'extra motivation' after Euros heartbreak",
-      "summary": "Defender Mayzee Davies says missing Wales' first major tournament at Euro 2025 with a serious knee injury has given her extra motivation for the World Cup play-offs.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y43nry14j7o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 16:47:33 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y43nry14j7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Defender Mayzee Davies says missing Wales' first major tournament at Euro 2025 with a serious knee injury has given her extra motivation for the World Cup play-offs."
         }
       ],
       "sourcesCount": 1
@@ -3979,24 +4146,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8ed9144762e2",
-      "title": "Magdeburger Landtag: Tillschneider will als Vizepräsident „unauffällig“ arbeiten",
-      "summary": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-tillschneider-will-als-vizepraesident-unauffaellig-arbeiten-faz-110093143.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 16:12:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-tillschneider-will-als-vizepraesident-unauffaellig-arbeiten-faz-110093143.html",
-          "summary": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ae323a248a3d",
       "title": "Türkiye Kültür Yolu Festivali 10 Ekim'de Diyarbakır'da",
       "summary": "Kültür ve Turizm Bakanlığınca düzenlenen Türkiye Kültür Yolu Festivali, 10-18 Ekim'de Diyarbakır'da gerçekleştirilecek.",
@@ -4010,42 +4159,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/turkiye-kultur-yolu-festivali-10-ekimde-diyarbakirda-959303.html",
           "summary": "Kültür ve Turizm Bakanlığınca düzenlenen Türkiye Kültür Yolu Festivali, 10-18 Ekim'de Diyarbakır'da gerçekleştirilecek."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "714f4c54d858",
-      "title": "Marsch calls USA politics 'big talk' as Pochettino praises Canada coach",
-      "summary": "Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises his opposite number before Tuesday's game.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwdr8d6kr8mlo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 15:54:22 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cwdr8d6kr8mlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises his opposite number before Tuesday's game."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a122aad78c49",
-      "title": "AfD in Magdeburg: Ein Etappensieg für die Rechtsradikalen",
-      "summary": "Erstmals wird ein AfD-Politiker zum Parlamentspräsidenten gewählt – mutmaßlich auch mit Stimmen der CDU. Der steht die eigentliche Feuerprobe allerdings noch bevor.",
-      "link": "https://www.faz.net/aktuell/politik/inland/rausch-und-tillschneider-im-praesidium-des-landtags-sachsen-anhalt-vordergruendig-versoehnlich-201293219.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 15:48:49 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/rausch-und-tillschneider-im-praesidium-des-landtags-sachsen-anhalt-vordergruendig-versoehnlich-201293219.html",
-          "summary": "Erstmals wird ein AfD-Politiker zum Parlamentspräsidenten gewählt – mutmaßlich auch mit Stimmen der CDU. Der steht die eigentliche Feuerprobe allerdings noch bevor."
         }
       ],
       "sourcesCount": 1
@@ -4326,24 +4439,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/norwegen-reicht-ethikbeschwerde-gegen-infantino-ein,norwegen-ethikbeschwerde-100.html",
           "summary": "Im FIFA-Machtkampf hat der norwegische Fußballverband (NFF) offiziell zwei Anträge gegen Gianni Infantino eingereicht. Das bestätigte NFF-Präsidentin Lise Klaveness."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ac47aa06dd79",
-      "title": "Nancy Guthrie Case Investigation Update: False Extortion Demands Investigated by FBI and Sheriff - inkl",
-      "summary": "Nancy Guthrie Case Investigation Update: False Extortion Demands Investigated by FBI and Sheriff inkl",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXFDdzV2b0tENVFrWUI2d3lRUnZiWlFZU1BmVTk2YlVEbmZsdTJSNURVMXdKRldyUnR4dGdfMmY2X2RnUWVLN2g4aE9jYjhfVG84OTNneXByamRPcF9oTEZtOFZ4ZzJPZ25vQWlfUWluRDU2S2VCbHo5Sm9YTGVWY3d4SFIwVlVzcXpsQlJsSkVid25mUUtuVlg5a1kyTDBPVGZBR3JHMGIxQXpEa2FaSncyekw3eDI0c1k4MmtR?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 14:57:51 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXFDdzV2b0tENVFrWUI2d3lRUnZiWlFZU1BmVTk2YlVEbmZsdTJSNURVMXdKRldyUnR4dGdfMmY2X2RnUWVLN2g4aE9jYjhfVG84OTNneXByamRPcF9oTEZtOFZ4ZzJPZ25vQWlfUWluRDU2S2VCbHo5Sm9YTGVWY3d4SFIwVlVzcXpsQlJsSkVid25mUUtuVlg5a1kyTDBPVGZBR3JHMGIxQXpEa2FaSncyekw3eDI0c1k4MmtR?oc=5",
-          "summary": "Nancy Guthrie Case Investigation Update: False Extortion Demands Investigated by FBI and Sheriff inkl"
         }
       ],
       "sourcesCount": 1
@@ -4637,24 +4732,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c984a6d00b37",
-      "title": "NBA star Wembanyama trains with French rugby club",
-      "summary": "NBA superstar Victor Wembanyama says he was inspired by the unity and camaraderie of rugby after spending time with French second tier side Provence.",
-      "link": "https://www.bbc.co.uk/sport/articles/c3vgx592y8ero?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 13:16:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/articles/c3vgx592y8ero?at_medium=RSS&at_campaign=rss",
-          "summary": "NBA superstar Victor Wembanyama says he was inspired by the unity and camaraderie of rugby after spending time with French second tier side Provence."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "dd23aff880d7",
       "title": "Sechs Konkurrenten für München im Kampf um Olympia 2036",
       "summary": "München hat im Rennen um die Olympischen Sommerspiele 2036 Konkurrenz aus sechs Ländern. Als weitere Kandidaten nannte das IOC Katar, Indien, Südkorea, Ungarn, die Türkei und Südafrika.",
@@ -4704,6 +4781,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-drohnenangriff-100.html",
           "summary": "Wieder sind im Schwarzen Meer Handelsschiffe unter Beschuss geraten - diesmal vor der Küste Bulgariens. Ein Frachter ist gesunken, die Crew wird vermisst."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "928a902aa653",
+      "title": "South Africa's three-city proposal to stage 2036 Olympics",
+      "summary": "The International Olympic Committee confirms South Africa have shown an interest in becoming the first African host of the summer Olympics.",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 12:56:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The International Olympic Committee confirms South Africa have shown an interest in becoming the first African host of the summer Olympics."
         }
       ],
       "sourcesCount": 1
@@ -4866,24 +4961,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/depremden-etkilenen-5-ilde-egitim-destekleri-artirildi-959272.html",
           "summary": "6 Şubat depremlerinden etkilenen illerden Adıyaman, Hatay, Kahramanmaraş, Malatya ile Gaziantep'in İslahiye ve Nurdağı ilçelerindeki özel okullarda öğrenim gören öğrencilere ödenen \"eğitim ve öğretim desteği\" tutarlarında yüzde 35 oranında artış yapıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9b5f451b7fea",
-      "title": "Russia tells WHO there are no plague cases in Siberian city - Reuters",
-      "summary": "Russia tells WHO there are no plague cases in Siberian city Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTHR1TVUzX1lUNHNDUEJkaGJyUEFVU09YZ3pud2ZIb1lMUXdzWkFJR2I3UjRPSEtrSDF4REdpblRUMlFsMW9RVjY4QWw0SVVxMnQ0bnRWSWJFV2N6ZWJDT0pVZHhmSWZoRDBsSEtNN1piOGVjWjJ4T19UMk0wNEVrUXpSanZ1UWZRLWQtZ29xM3dvc0JERjQ5aXpYN29JSTR5VjczbmZSSW1QVzc2R1J0Z1QwSmpFZVhidVFLZnZZSFQtRDExcU14SE1lSnNBeXpxc2RTanhDZGR5d1V1bWc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 11:25:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTHR1TVUzX1lUNHNDUEJkaGJyUEFVU09YZ3pud2ZIb1lMUXdzWkFJR2I3UjRPSEtrSDF4REdpblRUMlFsMW9RVjY4QWw0SVVxMnQ0bnRWSWJFV2N6ZWJDT0pVZHhmSWZoRDBsSEtNN1piOGVjWjJ4T19UMk0wNEVrUXpSanZ1UWZRLWQtZ29xM3dvc0JERjQ5aXpYN29JSTR5VjczbmZSSW1QVzc2R1J0Z1QwSmpFZVhidVFLZnZZSFQtRDExcU14SE1lSnNBeXpxc2RTanhDZGR5d1V1bWc?oc=5",
-          "summary": "Russia tells WHO there are no plague cases in Siberian city Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5082,6 +5159,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/tennis/articles/cxyvr7q207gpo?at_medium=RSS&at_campaign=rss",
           "summary": "Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his China Open disqualification was no surprise."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ebf86fa2383c",
+      "title": "Scott returns for Scotland's WXV Tests in Australia",
+      "summary": "Lucia Scott returns to the Scotland women squad for this month's WXV Global Series fixtures with Australia in Sydney and Canberra.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwkg5v7m847do?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 10:37:46 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwkg5v7m847do?at_medium=RSS&at_campaign=rss",
+          "summary": "Lucia Scott returns to the Scotland women squad for this month's WXV Global Series fixtures with Australia in Sydney and Canberra."
         }
       ],
       "sourcesCount": 1
@@ -5352,96 +5447,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYkowUzlzbXVuN0FTbVpFNzBCZjhVeUcxMzdzcGw0Vzg4ZlFIYm5uVVIzclB5QVNFcHlPRjUyZzdZbHhuVWUtdTFNSXpYR1QwNU52RGJheEJoa2VaVzAxRW1yUENvajlRRVRLX3c1Yy0xcHRLZm1OZFNjMk1DQ1RpUU9qcEhlZjBwWWxGRm45WVVnVWVHaTJwOGF3LVNMUUdZZ1FuYVhkSzVPbHpJaktRQWZvZm0tTEI4SzVQZjM4UHVoOGx4UHRIcy1FLTA1Qzg1Q3NBWUJXcHVPSWUyVmxz0gHkAUFVX3lxTE5yYTRIUDNWU2FkSDY5dEpOV2NjQlpwclRFZXpnT2ppb1VZaDlmNlVXelBCWm9XRHF1WFJqbUVoMld1Z0twSG4xSXNIaTRiRzVRQ1RnWnNRZzU0dlctRmM2MVNubWdmM21oaWU1dmVKZF9mVEJqZXFaeVJLWXBjWFp5RTBqYlNFVW5QUEZ0X2FhM2doSGhycTk5SkJsR1JfQWlMOWFjYmtUclFoMmZWTTUyVGFQTzZia2V3cG5qWjNxaDcxVm1ibmtTdGVVQ1g2SmZBakdhMWs3ZjFmRm55THo2UUlMYw?oc=5",
           "summary": "IBM (IBM) Unveils Adaptive Protection For Private Apps In New Cybersecurity Push Simply Wall Street"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5b9706b1589d",
-      "title": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
-      "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation.",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Tue, 06 Oct 2026 09:17:43 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
-          "summary": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "17cd5a52cc5b",
-      "title": "Freigabe der Ölreserven: Was bringt das für die Preise?",
-      "summary": "Im Kampf gegen die hohen Öl- und Kraftstoffpreise geben die G7-Staaten bis zu 100 Millionen Barrel aus strategischen Reserven frei. Zumindest kurzfristig ist mit einer Entlastung zu rechnen - auch an den Tankstellen.",
-      "link": "https://www.tagesschau.de/wirtschaft/energie/freigabe-oelreserven-preise-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 09:13:43 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/energie/freigabe-oelreserven-preise-100.html",
-          "summary": "Im Kampf gegen die hohen Öl- und Kraftstoffpreise geben die G7-Staaten bis zu 100 Millionen Barrel aus strategischen Reserven frei. Zumindest kurzfristig ist mit einer Entlastung zu rechnen - auch an den Tankstellen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c3ba0724fcf3",
-      "title": "Küresel piyasalar pozitif seyrediyor",
-      "summary": "Küresel piyasalar, ABD'de tahvil faizlerinin yükselişine rağmen yapay zeka yatırımlarına yönelik iyimserlik ve güçlü bilanço beklentilerinin risk iştahını artırmasıyla pozitif seyrediyor.",
-      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-pozitif-seyrediyor-959243.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 09:05:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-pozitif-seyrediyor-959243.html",
-          "summary": "Küresel piyasalar, ABD'de tahvil faizlerinin yükselişine rağmen yapay zeka yatırımlarına yönelik iyimserlik ve güçlü bilanço beklentilerinin risk iştahını artırmasıyla pozitif seyrediyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c1ba5a5db040",
-      "title": "Ofcom investigates Meta over Instagram Instants feature",
-      "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 09:04:02 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
-          "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "316344034ec8",
-      "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries - NPR",
-      "summary": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries NPR",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMkxNSi1KYWdSc3RXMURUU1J5bk9rWVE1aG9EdXY2R1piOHhib09LVkhCeTBUcTJ4SjFIblZZdE01T2pfeEtZc2dtRm0tZElDeU0yRGhuU19uVHJFYVF0azVGcXBnbGFRSXAyWWhENGtLVXcyVks3ckVGX0Nla3hFRGhlVF96VGdscE16WG9Id2I?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 09:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMkxNSi1KYWdSc3RXMURUU1J5bk9rWVE1aG9EdXY2R1piOHhib09LVkhCeTBUcTJ4SjFIblZZdE01T2pfeEtZc2dtRm0tZElDeU0yRGhuU19uVHJFYVF0azVGcXBnbGFRSXAyWWhENGtLVXcyVks3ckVGX0Nla3hFRGhlVF96VGdscE16WG9Id2I?oc=5",
-          "summary": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries NPR"
         }
       ],
       "sourcesCount": 1
