@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-07T13:41:15.337409+00:00",
+  "updated": "2026-10-07T14:06:44.419348+00:00",
   "articles": [
+    {
+      "id": "7c5716f67192",
+      "title": "Spionageverdacht: Ex-BND-Chef Hanning kommt in U-Haft",
+      "summary": "Dem früheren BND-Präsidenten Hanning wird Spionage und Landesverrat vorgeworfen. Jetzt hat ein Ermittlungsrichter entschieden, dass er in Untersuchungshaft kommt.",
+      "link": "https://www.zdfheute.de/politik/deutschland/ex-bnd-chef-hanning-spionage-ermittlungsrichter-bgh-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 7 Oct 2026 16:01:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/ex-bnd-chef-hanning-spionage-ermittlungsrichter-bgh-100.html",
+          "summary": "Dem früheren BND-Präsidenten Hanning wird Spionage und Landesverrat vorgeworfen. Jetzt hat ein Ermittlungsrichter entschieden, dass er in Untersuchungshaft kommt."
+        }
+      ],
+      "sourcesCount": 1
+    },
     {
       "id": "42bbe9da7363",
       "title": "Wie fest sitzt Gianni Infantino noch im Sattel?",
@@ -38,6 +56,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "3a2015edf941",
+      "title": "\"Es wird immer schlimmer und schlimmer\"",
+      "summary": "Alexander Gertz ist seit 2023 als Sanitäter in der Ukraine und hat die Realität an der Front miterlebt. Wie hat sich der Krieg verändert?",
+      "link": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-russland-drohnen-front-soldaten-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 7 Oct 2026 15:12:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-russland-drohnen-front-soldaten-100.html",
+          "summary": "Alexander Gertz ist seit 2023 als Sanitäter in der Ukraine und hat die Realität an der Front miterlebt. Wie hat sich der Krieg verändert?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "57d2550080b6",
       "title": "Pflegekommission verschoben: Das steckt dahinter",
       "summary": "Eigentlich wollte die Bundesregierung eine Pflegekommission einsetzen, die erarbeiten sollte, wie das System fit für die Zukunft wird. Dazu ist es allerdings nicht gekommen.",
@@ -69,42 +105,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
           "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0e4f05d30e29",
-      "title": "Live: So läuft die Regierungsbefragung von Reiche und Bilger",
-      "summary": "Wirtschaftsministerin Reiche und Verkehrsminister Bilger beantworten im Bundestag die Fragen der Abgeordneten. Sehen Sie die Regierungsbefragung hier im Livestream.",
-      "link": "https://www.zdfheute.de/politik/deutschland/reiche-bilger-cdu-regierungsbefragung-bundestag-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 13:55:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/reiche-bilger-cdu-regierungsbefragung-bundestag-100.html",
-          "summary": "Wirtschaftsministerin Reiche und Verkehrsminister Bilger beantworten im Bundestag die Fragen der Abgeordneten. Sehen Sie die Regierungsbefragung hier im Livestream."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7c5716f67192",
-      "title": "Spionageverdacht: Ex-BND-Chef Hanning kommt in U-Haft",
-      "summary": "Dem früheren BND-Präsidenten Hanning wird Spionage und Landesverrat vorgeworfen. Jetzt hat ein Ermittlungsrichter entschieden, dass er in Untersuchungshaft kommt.",
-      "link": "https://www.zdfheute.de/politik/deutschland/ex-bnd-chef-hanning-spionage-ermittlungsrichter-bgh-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 13:43:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/ex-bnd-chef-hanning-spionage-ermittlungsrichter-bgh-100.html",
-          "summary": "Dem früheren BND-Präsidenten Hanning wird Spionage und Landesverrat vorgeworfen. Jetzt hat ein Ermittlungsrichter entschieden, dass er in Untersuchungshaft kommt."
         }
       ],
       "sourcesCount": 1
@@ -632,6 +632,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "f03b0c3a22bf",
+      "title": "Rekabet Kurulu hazır noodle üreticisi hakkında soruşturma başlattı",
+      "summary": "Rekabet Kurulu, hazır noodle pazarında faaliyet gösteren, Indomie ve Supermi'nin üreticisi Adkoturk Gıda Sanayi ve Ticaret Limited Şirketi (Adkoturk) hakkında soruşturma başlatılmasına karar verdi.",
+      "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulu-hazir-noodle-ureticisi-hakkinda-sorusturma-baslatti-959434.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 16:58:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulu-hazir-noodle-ureticisi-hakkinda-sorusturma-baslatti-959434.html",
+          "summary": "Rekabet Kurulu, hazır noodle pazarında faaliyet gösteren, Indomie ve Supermi'nin üreticisi Adkoturk Gıda Sanayi ve Ticaret Limited Şirketi (Adkoturk) hakkında soruşturma başlatılmasına karar verdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "278c7219cc17",
+      "title": "Nijeryadan Ebola riskine karşı uyarı",
+      "summary": "Nijerya, Kenya'daki Ebola vakasının ardından virüsün uluslararası yayılma riskine karşı uyardı.",
+      "link": "https://www.trthaber.com/haber/dunya/nijeryadan-ebola-riskine-karsi-uyari-959428.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 16:24:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/nijeryadan-ebola-riskine-karsi-uyari-959428.html",
+          "summary": "Nijerya, Kenya'daki Ebola vakasının ardından virüsün uluslararası yayılma riskine karşı uyardı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9be7f874b2e9",
       "title": "İşgalci İsrail Kudüs'ün kuzeybatısındaki beldelerde 50 Filistinliyi gözaltına aldı",
       "summary": "İşgalci İsrail ordusu Kudüs'ün kuzeyindeki beldelere sabah saatlerinden bu yana sürdürdüğü geniş çaplı baskınlarda yaklaşık 50 Filistinliyi gözaltına aldı, Cenin'de bir Filistinliyi yaraladı ve zorla girdiği bazı evleri askeri kışlaya çevirdi.",
@@ -758,6 +794,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "f520e54f3b42",
+      "title": "Niederländische bANK: ABN privat",
+      "summary": "In der Finanzkrise wurde ABN Amro in den Niederlanden gerettet – so wie in Deutschland die Commerzbank. Der Staat senkt seinen Anteil immer weiter.",
+      "link": "https://www.faz.net/aktuell/finanzen/drittgroesste-niederlaendische-bank-staat-halbiert-seinen-anteil-an-abn-amro-201296330.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 14:04:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/finanzen/drittgroesste-niederlaendische-bank-staat-halbiert-seinen-anteil-an-abn-amro-201296330.html",
+          "summary": "In der Finanzkrise wurde ABN Amro in den Niederlanden gerettet – so wie in Deutschland die Commerzbank. Der Staat senkt seinen Anteil immer weiter."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a6e1b09163b0",
+      "title": "Juli Zeh als Bundespräsidentin: Will sie oder will sie nicht?",
+      "summary": "Sie wolle nicht Bundespräsidentin werden, sagt die Bestsellerautorin Juli Zeh nun auch im „Stern“. Zugleich betont sie immer wieder, wie gut sie für das Amt geeignet sei.",
+      "link": "https://www.faz.net/aktuell/feuilleton/debatten/juli-zeh-will-nicht-bundespraesidentin-werden-oder-doch-201296113.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:59:27 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/debatten/juli-zeh-will-nicht-bundespraesidentin-werden-oder-doch-201296113.html",
+          "summary": "Sie wolle nicht Bundespräsidentin werden, sagt die Bestsellerautorin Juli Zeh nun auch im „Stern“. Zugleich betont sie immer wieder, wie gut sie für das Amt geeignet sei."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c9210459b994",
+      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
+      "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 13:52:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+          "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "210d3df1002d",
       "title": "Bund untersagt Zippel-Übernahme durch chinesische Cosco",
       "summary": "Das Kartellamt hatte schon grünes Licht gegeben, jetzt trat die Bundesregierung auf die Bremse: Die chinesische Cosco-Reederei darf doch nicht die Mehrheit des Logistikunternehmens Zippel übernehmen. Aus Sicherheitsgründen, wie es hieß.",
@@ -776,19 +866,181 @@
       "sourcesCount": 1
     },
     {
-      "id": "63971890faf6",
-      "title": "Moët Hennessy, Analog Devices and UC Davis Join Forces to Advance Wine Production Through Breakthrough Chemical Signature Detection Technology Leveraging AI - PR Newswire",
-      "summary": "Moët Hennessy, Analog Devices and UC Davis Join Forces to Advance Wine Production Through Breakthrough Chemical Signature Detection Technology Leveraging AI PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNOEk1Z3ZWdmpTOGFOR3hsckdyMVR0V2Y1WWtZOHU3QWJLUVpXNkpBaHlyZlk2RFlPWmpuenVlTmZXQzhZdFRZV1ZSYU5iUVczeVFwRlNQS0ZvMlcwQlh3SnlYcHEtZlItWjUzZHFGZm43cFlNUXpyRGhBcEwxZnRtbnFLTWRXTkFtUVJsV2dEZE9oeHlRdGxUb050Qm9JRUhRdmZaR1d0TllMSTdFSDUxbmtHSDQxSlZjZWhmQ2swbXE3RDBCRUxiWG5KQXRjcEluTkxSVzRIV2pPMXFQN1hUWElqd1N1MVk5TkN1WHlSdjQ4NG1tV2p5UjZIUURtSmNrWmkxWkROdnpYYWlTRmRWT0U5ak5DeU5SZ1NLYlVWQ1VTRmVVSGFUc2tCdHpUS2RjSlNXcVh3?oc=5",
+      "id": "9367402f9296",
+      "title": "Only 10% Feel In Full Control Of Technology They Use, New Survey Finds - Forbes",
+      "summary": "Only 10% Feel In Full Control Of Technology They Use, New Survey Finds Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmhoZ1BhTmJHeWdjeEpVRzkzYnBscE9JUVZUZTJTU2N4OU0wWG5lUkFvTGlKbmFhYTh0QWRad29KSWRqTjVOVThXcnRWc2g1YjNjckdHaXdqUER0Z0N3Ny1SaWdEYWt2ZU5LMURXaWU3VHh4SzRKR0FUVXI2a1dwUjNHNG1RX1hleVdZLUNqSFNuTXlldkpyVWRqc2hOQURDTF9sRFFNTjc3QUFjRWVRZXZyRkI2VmNYd3phSjlaamwtWTA?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 13:30:00 GMT",
+      "time": "Wed, 07 Oct 2026 13:38:57 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNOEk1Z3ZWdmpTOGFOR3hsckdyMVR0V2Y1WWtZOHU3QWJLUVpXNkpBaHlyZlk2RFlPWmpuenVlTmZXQzhZdFRZV1ZSYU5iUVczeVFwRlNQS0ZvMlcwQlh3SnlYcHEtZlItWjUzZHFGZm43cFlNUXpyRGhBcEwxZnRtbnFLTWRXTkFtUVJsV2dEZE9oeHlRdGxUb050Qm9JRUhRdmZaR1d0TllMSTdFSDUxbmtHSDQxSlZjZWhmQ2swbXE3RDBCRUxiWG5KQXRjcEluTkxSVzRIV2pPMXFQN1hUWElqd1N1MVk5TkN1WHlSdjQ4NG1tV2p5UjZIUURtSmNrWmkxWkROdnpYYWlTRmRWT0U5ak5DeU5SZ1NLYlVWQ1VTRmVVSGFUc2tCdHpUS2RjSlNXcVh3?oc=5",
-          "summary": "Moët Hennessy, Analog Devices and UC Davis Join Forces to Advance Wine Production Through Breakthrough Chemical Signature Detection Technology Leveraging AI PR Newswire"
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmhoZ1BhTmJHeWdjeEpVRzkzYnBscE9JUVZUZTJTU2N4OU0wWG5lUkFvTGlKbmFhYTh0QWRad29KSWRqTjVOVThXcnRWc2g1YjNjckdHaXdqUER0Z0N3Ny1SaWdEYWt2ZU5LMURXaWU3VHh4SzRKR0FUVXI2a1dwUjNHNG1RX1hleVdZLUNqSFNuTXlldkpyVWRqc2hOQURDTF9sRFFNTjc3QUFjRWVRZXZyRkI2VmNYd3phSjlaamwtWTA?oc=5",
+          "summary": "Only 10% Feel In Full Control Of Technology They Use, New Survey Finds Forbes"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c8fe90e8cc3c",
+      "title": "Podcast von der Buchmesse: „Ich hätte mir diesen Titel genauer überlegen sollen“",
+      "summary": "Don Pablo Mulemba, als Sohn eines angolanischen Vertragsarbeiters in Brandenburg geboren, hat ein Buch über „den Osten, meine Familie und andere Rätsel“ geschrieben. Mit Elena Witzeck stellt er „Hundeheimat“ auf der Buchmesse vor.",
+      "link": "https://www.faz.net/podcasts/f-a-z-buecher-podcast/buchmesse-podcast-don-pablo-mulemba-ueber-hundeheimat-201279989.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "gesellschaft",
+      "time": "Wed, 07 Oct 2026 13:37:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/podcasts/f-a-z-buecher-podcast/buchmesse-podcast-don-pablo-mulemba-ueber-hundeheimat-201279989.html",
+          "summary": "Don Pablo Mulemba, als Sohn eines angolanischen Vertragsarbeiters in Brandenburg geboren, hat ein Buch über „den Osten, meine Familie und andere Rätsel“ geschrieben. Mit Elena Witzeck stellt er „Hundeheimat“ auf der Buchmesse vor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f2bad6afc3a6",
+      "title": "Audiostreaming: Spotify bringt Hörbuchangebot in mehr als 100 neue Märkte",
+      "summary": "Vor drei Jahren startete Spotify sein Hörbuchangebot. „Hunderte Millionen Dollar“ sind laut dem Streamingriesen seitdem an Verlage geflossen.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spotify-hoerbuecher-expansion-in-ueber-100-neue-maerkte-201291835.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:36:55 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spotify-hoerbuecher-expansion-in-ueber-100-neue-maerkte-201291835.html",
+          "summary": "Vor drei Jahren startete Spotify sein Hörbuchangebot. „Hunderte Millionen Dollar“ sind laut dem Streamingriesen seitdem an Verlage geflossen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5ed7979951d1",
+      "title": "Gemälde von Gertrude Abercrombie: Für dreißig Dollar gekauft, für 1,35 Millionen versteigert",
+      "summary": "Ein zum Spottpreis privat erstandenes und für eine Rekordsumme in New York versteigertes Gemälde von Gertrude Abercrombie beweist wieder einmal, wie gefragt Kunstwerke lange übersehener Surrealistinnen auf dem Markt sind.",
+      "link": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/gertrude-abercrombie-in-altem-hausrat-gefundenes-gemaelde-fuer-1-35-millionen-dollar-versteigert-201296554.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:35:56 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/gertrude-abercrombie-in-altem-hausrat-gefundenes-gemaelde-fuer-1-35-millionen-dollar-versteigert-201296554.html",
+          "summary": "Ein zum Spottpreis privat erstandenes und für eine Rekordsumme in New York versteigertes Gemälde von Gertrude Abercrombie beweist wieder einmal, wie gefragt Kunstwerke lange übersehener Surrealistinnen auf dem Markt sind."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4bb0f994fd86",
+      "title": "Budget 2028 bis 2034: Von der Leyen beharrt auf neuen Einnahmequellen für die EU",
+      "summary": "Die Kommissionspräsidentin weist das Ansinnen Deutschlands zurück, den EU-Haushalt zu verkleinern. Und schlägt eine Alternative vor.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/von-der-leyen-beharrt-auf-neuen-einnahmequellen-fuer-die-eu-201294044.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:34:41 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/von-der-leyen-beharrt-auf-neuen-einnahmequellen-fuer-die-eu-201294044.html",
+          "summary": "Die Kommissionspräsidentin weist das Ansinnen Deutschlands zurück, den EU-Haushalt zu verkleinern. Und schlägt eine Alternative vor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "debb68d64c56",
+      "title": "Seven injured in Polish school knife attack, police say - Reuters",
+      "summary": "Seven injured in Polish school knife attack, police say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXI0Qll0ejFsSDdjcVpRZlFUX1FNZUpOS1Ftdi1Ld0dvRFNwdDJkV1ZPY1lRanRoMnNONXp4ZFVpQ181UlBoRk12MWg3Zmxwbm16TXhieDJ2UVFrVGlWdG04d1RsWWJIc2cwTHRUai1VajZhSERGNkN4OUZXNWM5RWlsZ2h0dUYtdTU0cHZPVlRIWEtWcGx2aGEydThwY2FkVXZGVUdmcDZsd2VoUU9j?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:34:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXI0Qll0ejFsSDdjcVpRZlFUX1FNZUpOS1Ftdi1Ld0dvRFNwdDJkV1ZPY1lRanRoMnNONXp4ZFVpQ181UlBoRk12MWg3Zmxwbm16TXhieDJ2UVFrVGlWdG04d1RsWWJIc2cwTHRUai1VajZhSERGNkN4OUZXNWM5RWlsZ2h0dUYtdTU0cHZPVlRIWEtWcGx2aGEydThwY2FkVXZGVUdmcDZsd2VoUU9j?oc=5",
+          "summary": "Seven injured in Polish school knife attack, police say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "dbe4d0d4283d",
+      "title": "Großbritannien: Geheimdienste prüfen offenbar alle vertraulichen BND-Informationen",
+      "summary": "Die BND-Affäre um August Hanning sorgt auch bei Partnerdiensten für Unruhe. In London fürchtet man, dass eigene Quellen gefährdet worden sein könnten.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/bnd-spionageaffaere-mi6-prueft-offenbar-alle-vertraulichen-informationen-201295922.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 13:33:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/bnd-spionageaffaere-mi6-prueft-offenbar-alle-vertraulichen-informationen-201295922.html",
+          "summary": "Die BND-Affäre um August Hanning sorgt auch bei Partnerdiensten für Unruhe. In London fürchtet man, dass eigene Quellen gefährdet worden sein könnten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ede4dc141b97",
+      "title": "Burrow would be proud of knighthood - Sinfield",
+      "summary": "Sir Kevin Sinfield is knighted by the Prince of Wales at Windsor Castle.",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zrem2j0go?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 13:28:26 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/news/articles/cq99zrem2j0go?at_medium=RSS&at_campaign=rss",
+          "summary": "Sir Kevin Sinfield is knighted by the Prince of Wales at Windsor Castle."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5082b40a6bf6",
+      "title": "Russia says plague institute worker's death does not risk an epidemic - Reuters",
+      "summary": "Russia says plague institute worker's death does not risk an epidemic Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:26:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5",
+          "summary": "Russia says plague institute worker's death does not risk an epidemic Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5710a83ef0f6",
+      "title": "Lizenzgebühren: Stadt München verdient mehr als 100.000 Euro durch Wiesn-Influencer",
+      "summary": "Influencer, die auf dem Oktoberfest mit Storys und Posts Geld verdienen, mussten in diesem Jahr zum ersten Mal eine Lizenz beantragen. Das hat sich für die Stadt gelohnt.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/oktoberfest-influencer-lizenzen-bringen-muenchen-100-000-euro-201295601.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 13:23:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/menschen/oktoberfest-influencer-lizenzen-bringen-muenchen-100-000-euro-201295601.html",
+          "summary": "Influencer, die auf dem Oktoberfest mit Storys und Posts Geld verdienen, mussten in diesem Jahr zum ersten Mal eine Lizenz beantragen. Das hat sich für die Stadt gelohnt."
         }
       ],
       "sourcesCount": 1
@@ -812,6 +1064,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "2e9a83355531",
+      "title": "Invasive Vogelart: Nilgänse fressen, was da ist",
+      "summary": "Nilgänse bevölkern Parks, Schwimmbäder oder die Wiesen an Flussufern, sie werden oft als lästig empfunden. Aber sind die großen Vögel Schädlinge?",
+      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/nilgaense-als-schaedlinge-was-frankfurter-forscher-ueber-die-voegel-herausfanden-201292694.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:19:55 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/nilgaense-als-schaedlinge-was-frankfurter-forscher-ueber-die-voegel-herausfanden-201292694.html",
+          "summary": "Nilgänse bevölkern Parks, Schwimmbäder oder die Wiesen an Flussufern, sie werden oft als lästig empfunden. Aber sind die großen Vögel Schädlinge?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ecbf827b537f",
       "title": "Ukraine: Viele Tote bei russischen Angriffen",
       "summary": "Wieder haben russische Raketen, Drohnen und Marschflugkörper Kiew und andere ukrainische Städte getroffen. In der nordukrainischen Stadt Pryluki trafen Raketen ein mehrstöckiges Wohnhaus.",
@@ -825,6 +1095,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html",
           "summary": "Wieder haben russische Raketen, Drohnen und Marschflugkörper Kiew und andere ukrainische Städte getroffen. In der nordukrainischen Stadt Pryluki trafen Raketen ein mehrstöckiges Wohnhaus."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2f306ef3d6b2",
+      "title": "Europäische Union: Was den EU-Anleihen noch fehlt",
+      "summary": "Von 2028 an möchte die EU ihre Corona-Kredite tilgen. Investoren warnen davor, das Anleiheprogramm der Europäischen Kommission ganz auslaufen zu lassen.",
+      "link": "https://www.faz.net/premium/meine-finanzen/eu-anleihen-was-dem-markt-noch-fehlt-um-zu-reifen-201294244.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:16:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/premium/meine-finanzen/eu-anleihen-was-dem-markt-noch-fehlt-um-zu-reifen-201294244.html",
+          "summary": "Von 2028 an möchte die EU ihre Corona-Kredite tilgen. Investoren warnen davor, das Anleiheprogramm der Europäischen Kommission ganz auslaufen zu lassen."
         }
       ],
       "sourcesCount": 1
@@ -861,42 +1149,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/halkali-kapikule-hizli-tren-hattinin-edirne-gari-acilisa-hazir-959406.html",
           "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla 9 Ekim'de açılması planlanan Halkalı-Kapıkule Hızlı Tren Hattı'nın Edirne etabındaki yeni gar binasında son hazırlıklar tamamlandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d2798abd74e0",
-      "title": "Myanmar und Malaysia: Ein roter Teppich als Preis für Rückführungen",
-      "summary": "Malaysia gehörte zu den schärfsten Kritikern des Regimes in Myanmar. Nun empfängt das Land den Machthaber Min Aung Hlaing.",
-      "link": "https://www.faz.net/aktuell/politik/ausland/gespraeche-ueber-ruecknahme-von-rohingya-malaysia-empfaengt-myanmars-machthaber-201295997.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 13:10:35 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ausland/gespraeche-ueber-ruecknahme-von-rohingya-malaysia-empfaengt-myanmars-machthaber-201295997.html",
-          "summary": "Malaysia gehörte zu den schärfsten Kritikern des Regimes in Myanmar. Nun empfängt das Land den Machthaber Min Aung Hlaing."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "adc09f3b6bef",
-      "title": "CoNetrix Technology Introduces Microsoft 365 Benchmark Management Service - PR Newswire",
-      "summary": "CoNetrix Technology Introduces Microsoft 365 Benchmark Management Service PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUhfX3NYblQtMmFuWHl4eU5LaW1OWlpXV0NvbWRka2VINnlNX2xMZDNxSWZsbW1EREo2VGdlVVZCM2FoSnk3RzJqVVJ1X0EzUGo3UEdvbVNjem9JNlJiRUJjZGFYN2lzV2RKbVVrLXB2aXoza1hXZEs3QmNSbkQwT0pXM1JidmhIU2hKVDBESk0tNUtLLU5HU1g0akJCSm9haWtFOUFjQlljWkhCZERUbnhnSmh5RnozRmlMck05UHZjSTg3Z0lFNQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 13:10:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUhfX3NYblQtMmFuWHl4eU5LaW1OWlpXV0NvbWRka2VINnlNX2xMZDNxSWZsbW1EREo2VGdlVVZCM2FoSnk3RzJqVVJ1X0EzUGo3UEdvbVNjem9JNlJiRUJjZGFYN2lzV2RKbVVrLXB2aXoza1hXZEs3QmNSbkQwT0pXM1JidmhIU2hKVDBESk0tNUtLLU5HU1g0akJCSm9haWtFOUFjQlljWkhCZERUbnhnSmh5RnozRmlMck05UHZjSTg3Z0lFNQ?oc=5",
-          "summary": "CoNetrix Technology Introduces Microsoft 365 Benchmark Management Service PR Newswire"
         }
       ],
       "sourcesCount": 1
@@ -1028,6 +1280,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0e72f214bcf7",
+      "title": "CrowdStrike vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+      "summary": "CrowdStrike vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkM2TTR6UW1hT01aekhxUHVycTBDcnlSYmhhekJsMDlBV3E4emJXN280VTZkbWVDREhFRG8tN3FNa0JXWF92RU9YTVdYblZZNTlad0RWd2xaRno0T1VfYnozOElhTWpDaDYxelpja3RCcTBaUmVqcmtsaHphZjJfalhwaEpjUlFYY0VVU2cyOGd2djhDeV9rN1Z2RnZQVFB4MUlGSVI1STVpMGxvZWhHZEhiWmlyeExpdEFnVHdweFNIWGM?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 12:57:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkM2TTR6UW1hT01aekhxUHVycTBDcnlSYmhhekJsMDlBV3E4emJXN280VTZkbWVDREhFRG8tN3FNa0JXWF92RU9YTVdYblZZNTlad0RWd2xaRno0T1VfYnozOElhTWpDaDYxelpja3RCcTBaUmVqcmtsaHphZjJfalhwaEpjUlFYY0VVU2cyOGd2djhDeV9rN1Z2RnZQVFB4MUlGSVI1STVpMGxvZWhHZEhiWmlyeExpdEFnVHdweFNIWGM?oc=5",
+          "summary": "CrowdStrike vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f94d17d90355",
       "title": "Frank Basanta, technology executive and recruiter, dies at 69 - MSSP Alert",
       "summary": "Frank Basanta, technology executive and recruiter, dies at 69 MSSP Alert",
@@ -1100,19 +1370,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "3b6a48ca485c",
-      "title": "Buchmesse 2026: „Wie soll ich Politik und Literatur trennen?“",
-      "summary": "Radka Denemarková geht mit der Regierung Babiš ins Gericht, im tschechischen Pavillon liegen Riesenkiesel, im Archäologischen Museum steht ein Bronzegefäß mit Bierresten und in der Romantasy-Halle klimpert eine Elfe.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-buchmesse-2026-das-gab-es-am-ersten-tag-zu-sehen-201295518.html",
-      "sourceName": "FAZ",
+      "id": "32e944cd3868",
+      "title": "Are Computer and Technology Stocks Lagging Infineon Technologies (IFNNY) This Year? - Yahoo Finance",
+      "summary": "Are Computer and Technology Stocks Lagging Infineon Technologies (IFNNY) This Year? Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaW1lZHNQU2U2ZUtyai1ZVTBTUlBUVktKa05nOGJTYzIwbV84VVZ2NVpSd1B4ZXdOdmIyb0RZRktxOWZmRG9DaFZNVlJFeldVR3NTUFFlaHZOTUx3MS1ycy1YVmdURllnS3JjNDVQSXQ2dTRQLVJVVFZMUWJhRkF6NjNXcWhIOG9iM2V4bWVfLVVyRlNheGpYY0h3QXJvemZJZFY0RDNPS2tUM1Jv?oc=5",
+      "sourceName": "Google News – International Technology",
       "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 12:40:58 GMT",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 12:40:03 GMT",
       "coverage": [
         {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-buchmesse-2026-das-gab-es-am-ersten-tag-zu-sehen-201295518.html",
-          "summary": "Radka Denemarková geht mit der Regierung Babiš ins Gericht, im tschechischen Pavillon liegen Riesenkiesel, im Archäologischen Museum steht ein Bronzegefäß mit Bierresten und in der Romantasy-Halle klimpert eine Elfe."
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaW1lZHNQU2U2ZUtyai1ZVTBTUlBUVktKa05nOGJTYzIwbV84VVZ2NVpSd1B4ZXdOdmIyb0RZRktxOWZmRG9DaFZNVlJFeldVR3NTUFFlaHZOTUx3MS1ycy1YVmdURllnS3JjNDVQSXQ2dTRQLVJVVFZMUWJhRkF6NjNXcWhIOG9iM2V4bWVfLVVyRlNheGpYY0h3QXJvemZJZFY0RDNPS2tUM1Jv?oc=5",
+          "summary": "Are Computer and Technology Stocks Lagging Infineon Technologies (IFNNY) This Year? Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -1172,24 +1442,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "45de84f6936d",
-      "title": "gegen Betrugsurteil: Jimi Blue Ochsenknecht legt Berufung ein",
-      "summary": "Vom Landgericht Innsbruck war der Schauspieler vergangene Woche zu einer Geldstrafe in Höhe von 34.000 Euro verurteilt worden. Dagegen wehrt er sich nun.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/jimi-blue-ochsenknecht-legt-berufung-ein-201296641.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 12:31:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/jimi-blue-ochsenknecht-legt-berufung-ein-201296641.html",
-          "summary": "Vom Landgericht Innsbruck war der Schauspieler vergangene Woche zu einer Geldstrafe in Höhe von 34.000 Euro verurteilt worden. Dagegen wehrt er sich nun."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "b5671e0b2f5e",
       "title": "Liveblog Ukrainekrieg: Mindestens 20 Tote nach russischem Angriff auf Ukraine",
       "summary": "Selenskyj: „Dies war einer der niederträchtigsten Angriffe“ +++ Ukrainischer Drohnenangriff löst heftigen Brand auf Öltanker aus +++ alle Neuigkeiten im Liveblog",
@@ -1225,7 +1477,7 @@
         {
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpHUU05ZlNYUVZhUDRvOEtsU2tKOWJWLWM4OUZFWm1PRkJDZDJCZzBIenFyenhDT3o2T1c0QzhJRG4xS2xQTUMxX0VyZVZoSm92ZG8wdGlKdjRmeTI3SldqeHgxM3FabHRZMHI1SXA2dUsySGtza0dWNllWT21ZeVdPWEwwaHdoeUowSEJ2dWdqakxFTDNiQ1dUNkZhT0xyRThrZTM2Z0lmM1JKa2xManNhLUphOVlOOUJ0eVJzdw?oc=5",
-          "summary": "Most Republicans in tight midterm distance themselves from Trump, Reuters review finds Reuters"
+          "summary": "Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds Reuters"
         }
       ],
       "sourcesCount": 2
@@ -1249,10 +1501,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "80e2dcd231f6",
-      "title": "Tech Beats Tariffs: Global Trade Growth Accelerates and Globalization Sets New Record - PR Newswire",
-      "summary": "Tech Beats Tariffs: Global Trade Growth Accelerates and Globalization Sets New Record PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMy11eHhoSHF5Rk56UXR0MUlBdC0yVTZqSGRtUDNCellJRHg4aEdvLVhWdUNMeTRScHJ1c0dCanpfM0p6M2c5VGg4aEo2UDFzNS1rMUlGT25OVi1CdmNGNUM1c3lzd0V2MHpKazV6NFlKOFVweURac1BBck5IbHpEYjFCdkRTUTlrN0hjTGFEOTF0Wk82ZFF4b1pyS1lHa0ppOFU2OXI3ZTlraW13VlJyWVJCajZtR1ZSUlh5TkRvMld4ZDBLRlFnd2FneGhjUDRJa3d0VmR2TQ?oc=5",
+      "id": "373ebdbb3d48",
+      "title": "Oct 07, 2026: Tech beats tariffs: global trade growth accelerates and globalization sets new record - DHL Group",
+      "summary": "Oct 07, 2026: Tech beats tariffs: global trade growth accelerates and globalization sets new record DHL Group",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM040QVV3RVpJU25LejdWak5vakFGd2JSMWpVaXJWSnhXSTJJQUhheEtFM3hWN1U2c0s1UEVmVlAwM2hlVUxJRWRNSDhtcEc1SjR4T09sZF9PUFRFS2hhTzE2NnlIOXJnenpuN2xDcVpXNlBGUnNmQUhiRTJLSS0xSlRXald5SHQ4OG5KaWUzd3NjRm9UcHE2cUdtcTRyaTBvbmFPOW9xRmNjZy05UWJtQTRybnRsTDRVT3pNM3dVcDRJcE9heDZ2Tk8yN291YkJibGRDT2pKMUFCamlmQU01NDNqUDI?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
       "topic": "technologie",
@@ -1260,29 +1512,34 @@
       "coverage": [
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMy11eHhoSHF5Rk56UXR0MUlBdC0yVTZqSGRtUDNCellJRHg4aEdvLVhWdUNMeTRScHJ1c0dCanpfM0p6M2c5VGg4aEo2UDFzNS1rMUlGT25OVi1CdmNGNUM1c3lzd0V2MHpKazV6NFlKOFVweURac1BBck5IbHpEYjFCdkRTUTlrN0hjTGFEOTF0Wk82ZFF4b1pyS1lHa0ppOFU2OXI3ZTlraW13VlJyWVJCajZtR1ZSUlh5TkRvMld4ZDBLRlFnd2FneGhjUDRJa3d0VmR2TQ?oc=5",
-          "summary": "Tech Beats Tariffs: Global Trade Growth Accelerates and Globalization Sets New Record PR Newswire"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM040QVV3RVpJU25LejdWak5vakFGd2JSMWpVaXJWSnhXSTJJQUhheEtFM3hWN1U2c0s1UEVmVlAwM2hlVUxJRWRNSDhtcEc1SjR4T09sZF9PUFRFS2hhTzE2NnlIOXJnenpuN2xDcVpXNlBGUnNmQUhiRTJLSS0xSlRXald5SHQ4OG5KaWUzd3NjRm9UcHE2cUdtcTRyaTBvbmFPOW9xRmNjZy05UWJtQTRybnRsTDRVT3pNM3dVcDRJcE9heDZ2Tk8yN291YkJibGRDT2pKMUFCamlmQU01NDNqUDI?oc=5",
+          "summary": "Oct 07, 2026: Tech beats tariffs: global trade growth accelerates and globalization sets new record DHL Group"
         }
       ],
       "sourcesCount": 1
     },
     {
-      "id": "c9210459b994",
-      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-      "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "id": "8e8326992f2f",
+      "title": "When Technology Is Designed to Serve Women - Mexico Business News",
+      "summary": "When Technology Is Designed to Serve Women Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzFxX1FzZDYxUHVyYlVFVXVscDBlNTY0elJha25jeFN5ZGlYV0FfcTNsanU5Q2pjS1VYeWNlSkx4TTgzaHJIeHNBTWZiN1E0eFcySW1GNndMbWVnWTlRS0NNMW5wN3drSGtLV2NOd2NUSWZDdkRDb3QwNl9QS1dzd3NSZw?oc=5",
+      "sourceName": "Google News – International Technology",
       "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 12:28:52 GMT",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 12:30:00 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-          "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal."
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzFxX1FzZDYxUHVyYlVFVXVscDBlNTY0elJha25jeFN5ZGlYV0FfcTNsanU5Q2pjS1VYeWNlSkx4TTgzaHJIeHNBTWZiN1E0eFcySW1GNndMbWVnWTlRS0NNMW5wN3drSGtLV2NOd2NUSWZDdkRDb3QwNl9QS1dzd3NSZw?oc=5",
+          "summary": "When Technology Is Designed to Serve Women Mexico Business News"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC02bE16RHVsX2x5WENOU3p1LVlteXFWZE5iMXpudVQ2V2Nxa0kxdlgyOWxrX1lFMzJyWVl3blo1djR3bDZ6QmRRLWFEWHBqNVZPaDQ2ZmdYUHlFVnBjcEpZanNHaWpkUnBLWnI1ZVprb2J0R0FBc2M0UkNISzFXbTRid1h1T1BSQWhxRUFNMA?oc=5",
+          "summary": "Who Controls the Technology Protecting Your Business? Mexico Business News"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "915568472f5a",
@@ -1375,24 +1632,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b7b35ea59c1c",
-      "title": "Wichtiger Denker: Was hat Foucault uns heute noch zu sagen?",
-      "summary": "Michael Foucault war einer der schillerndsten und wichtigsten Denker des 20. Jahrhunderts.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/zum-100-geburtstag-was-hat-michel-foucault-uns-heute-noch-zu-sagen-201265496.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 12:18:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/zum-100-geburtstag-was-hat-michel-foucault-uns-heute-noch-zu-sagen-201265496.html",
-          "summary": "Michael Foucault war einer der schillerndsten und wichtigsten Denker des 20. Jahrhunderts."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "211a5bdbcd82",
       "title": "VfL Bochum ordnet Hüpfverbot an",
       "summary": "Kuriose Maßnahme beim VfL Bochum vor dem Heimspiel gegen Bielefeld: Verein und Stadt verhängen ein Hüpfverbot für die Ostkurve.",
@@ -1442,24 +1681,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
           "summary": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9367402f9296",
-      "title": "Only 10% Feel In Full Control Of The Technology They Use, New Survey Finds - Forbes",
-      "summary": "Only 10% Feel In Full Control Of The Technology They Use, New Survey Finds Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmhoZ1BhTmJHeWdjeEpVRzkzYnBscE9JUVZUZTJTU2N4OU0wWG5lUkFvTGlKbmFhYTh0QWRad29KSWRqTjVOVThXcnRWc2g1YjNjckdHaXdqUER0Z0N3Ny1SaWdEYWt2ZU5LMURXaWU3VHh4SzRKR0FUVXI2a1dwUjNHNG1RX1hleVdZLUNqSFNuTXlldkpyVWRqc2hOQURDTF9sRFFNTjc3QUFjRWVRZXZyRkI2VmNYd3phSjlaamwtWTA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 12:09:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmhoZ1BhTmJHeWdjeEpVRzkzYnBscE9JUVZUZTJTU2N4OU0wWG5lUkFvTGlKbmFhYTh0QWRad29KSWRqTjVOVThXcnRWc2g1YjNjckdHaXdqUER0Z0N3Ny1SaWdEYWt2ZU5LMURXaWU3VHh4SzRKR0FUVXI2a1dwUjNHNG1RX1hleVdZLUNqSFNuTXlldkpyVWRqc2hOQURDTF9sRFFNTjc3QUFjRWVRZXZyRkI2VmNYd3phSjlaamwtWTA?oc=5",
-          "summary": "Only 10% Feel In Full Control Of The Technology They Use, New Survey Finds Forbes"
         }
       ],
       "sourcesCount": 1
@@ -1753,24 +1974,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "deba20ddeb7e",
-      "title": "More than 200,000 people displaced since fighting in Yemen began, says UN agency - Reuters",
-      "summary": "More than 200,000 people displaced since fighting in Yemen began, says UN agency Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVBuYVlIVGdyckYyTHF4dXZHbFBnTC1VSjZPak91TWRLbGpiMS1nR1dkU2hPRjE1dkZNR2dMOEtyblQ5SWczSHgtNFlKMlR1R1J1NlNNLXl4MmdGbTdSOFN5VzNFY1BQNVozcmg1aXpWUTgyT0VfLU1SS2hIaGVyd1BCc2tBc3BydEhTS0FabzRyVFk1TEdHeG92cXA5ZTJJejdtd1dRZXJ0a25mbnNpOGhxYTJVS0pJbFNxQjB6djhLWXRRb2s1bg?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 11:46:27 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVBuYVlIVGdyckYyTHF4dXZHbFBnTC1VSjZPak91TWRLbGpiMS1nR1dkU2hPRjE1dkZNR2dMOEtyblQ5SWczSHgtNFlKMlR1R1J1NlNNLXl4MmdGbTdSOFN5VzNFY1BQNVozcmg1aXpWUTgyT0VfLU1SS2hIaGVyd1BCc2tBc3BydEhTS0FabzRyVFk1TEdHeG92cXA5ZTJJejdtd1dRZXJ0a25mbnNpOGhxYTJVS0pJbFNxQjB6djhLWXRRb2s1bg?oc=5",
-          "summary": "More than 200,000 people displaced since fighting in Yemen began, says UN agency Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c4747e2f02c6",
       "title": "Could Manchester City be expelled from the Premier League?",
       "summary": "A panel of BBC Sport correspondents explore what sanctions Manchester City could face after being found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons.",
@@ -1879,42 +2082,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "fc5b25d59bf8",
-      "title": "Who Controls the Technology Protecting Your Business? - Mexico Business News",
-      "summary": "Who Controls the Technology Protecting Your Business? Mexico Business News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC02bE16RHVsX2x5WENOU3p1LVlteXFWZE5iMXpudVQ2V2Nxa0kxdlgyOWxrX1lFMzJyWVl3blo1djR3bDZ6QmRRLWFEWHBqNVZPaDQ2ZmdYUHlFVnBjcEpZanNHaWpkUnBLWnI1ZVprb2J0R0FBc2M0UkNISzFXbTRid1h1T1BSQWhxRUFNMA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 11:30:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC02bE16RHVsX2x5WENOU3p1LVlteXFWZE5iMXpudVQ2V2Nxa0kxdlgyOWxrX1lFMzJyWVl3blo1djR3bDZ6QmRRLWFEWHBqNVZPaDQ2ZmdYUHlFVnBjcEpZanNHaWpkUnBLWnI1ZVprb2J0R0FBc2M0UkNISzFXbTRid1h1T1BSQWhxRUFNMA?oc=5",
-          "summary": "Who Controls the Technology Protecting Your Business? Mexico Business News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5082b40a6bf6",
-      "title": "WHO presses Russia for details on plague institute worker's death, Kremlin turns on media - Reuters",
-      "summary": "WHO presses Russia for details on plague institute worker's death, Kremlin turns on media Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 11:29:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5",
-          "summary": "WHO presses Russia for details on plague institute worker's death, Kremlin turns on media Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "269295c11b3d",
       "title": "Neue Porsche-Strategie: Riskanter Schrumpfkurs",
       "summary": "Ob die neue Strategie von Porsche-Chef Michael Leiters den Hersteller stabilisieren kann, hängt davon ab, ob die Kunden die teureren Luxusautos wirklich kaufen werden. Und ob der Glanz der Marke Porsche noch zieht.",
@@ -1928,24 +2095,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-chef-michael-leiters-faehrt-einen-riskanten-schrumpfkurs-201295191.html",
           "summary": "Ob die neue Strategie von Porsche-Chef Michael Leiters den Hersteller stabilisieren kann, hängt davon ab, ob die Kunden die teureren Luxusautos wirklich kaufen werden. Und ob der Glanz der Marke Porsche noch zieht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3d79cdd1e145",
-      "title": "Azerbaijan denies report of link to German spy scandal - Reuters",
-      "summary": "Azerbaijan denies report of link to German spy scandal Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3pveEFLd2c5OWtRdzd0VkprN1NZVFN0c08yckpvUVM5MUpGTjBhbTJQdHBib1dXRzZJTUlLSTladTl3TzBjaGRpaWhDOTY1ZlFzOFlHcHRrbUpwUlpFQ0RLWVUzYmhTXzFRSFJYbWJwZXZsMUF3eVRNVEZRSWd3ajhlY2NEU1pWZTVrQ1dTSkFmLVJUakNXMG5pd04xT3dLU0lwVVZ0UXoybVE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 11:22:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3pveEFLd2c5OWtRdzd0VkprN1NZVFN0c08yckpvUVM5MUpGTjBhbTJQdHBib1dXRzZJTUlLSTladTl3TzBjaGRpaWhDOTY1ZlFzOFlHcHRrbUpwUlpFQ0RLWVUzYmhTXzFRSFJYbWJwZXZsMUF3eVRNVEZRSWd3ajhlY2NEU1pWZTVrQ1dTSkFmLVJUakNXMG5pd04xT3dLU0lwVVZ0UXoybVE?oc=5",
-          "summary": "Azerbaijan denies report of link to German spy scandal Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1987,6 +2136,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f16abd9eede4",
+      "title": "IEA to meet Wednesday over proposed release of oil, diesel stocks, two EU diplomats say - Reuters",
+      "summary": "IEA to meet Wednesday over proposed release of oil, diesel stocks, two EU diplomats say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWQwZFJidm90SFN2SzVMQVk2ZTZrVDI0LVhoWDloYnNCU2NuTE1ZUlZFM3dyZTFPaUptLXFZNlA2TTQtZFRFdXRDREdIZUtyWHhQbDQ4TDZOU1JpdjhENmxZLVdpU21ZaC1GcEFGT3MyZE5YX0FoZXJPUTM2TDNrTXpoTjRzUTh5V2VQdFlYTmFVTmtBYWIzR0hleXJ3RnZRNy1YTVRNQkxtSDF2OTZ1OUhYMkxFaGdNaUVSWnhxWQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 11:19:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWQwZFJidm90SFN2SzVMQVk2ZTZrVDI0LVhoWDloYnNCU2NuTE1ZUlZFM3dyZTFPaUptLXFZNlA2TTQtZFRFdXRDREdIZUtyWHhQbDQ4TDZOU1JpdjhENmxZLVdpU21ZaC1GcEFGT3MyZE5YX0FoZXJPUTM2TDNrTXpoTjRzUTh5V2VQdFlYTmFVTmtBYWIzR0hleXJ3RnZRNy1YTVRNQkxtSDF2OTZ1OUhYMkxFaGdNaUVSWnhxWQ?oc=5",
+          "summary": "IEA to meet Wednesday over proposed release of oil, diesel stocks, two EU diplomats say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "7fb10ec75080",
       "title": "Gazze'de 3 yıllık İsrail soykırımı kadınları ölüm, kayıp, düşük ve güvensiz doğumlarla karşı karşıya bıraktı",
       "summary": "Katil İsrail'in Gazze Şeridi'nde sürdürdüğü soykırımın üzerinden 3 yıl geçerken, Filistin kurumları ve Birleşmiş Milletler (BM) verileri, kadın ve kız çocuklarının öldürülme, yaralanma ve kaybolmanın yanı sıra düşük yapma, güvensiz doğum ve yetersiz beslenme gibi ağır sonuçlarla karşı karşıya kaldığını ortaya koydu.",
@@ -2000,24 +2167,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/gazzede-3-yillik-israil-soykirimi-kadinlari-olum-kayip-dusuk-ve-guvensiz-dogumlarla-karsi-karsiya-birakti-959382.html",
           "summary": "Katil İsrail'in Gazze Şeridi'nde sürdürdüğü soykırımın üzerinden 3 yıl geçerken, Filistin kurumları ve Birleşmiş Milletler (BM) verileri, kadın ve kız çocuklarının öldürülme, yaralanma ve kaybolmanın yanı sıra düşük yapma, güvensiz doğum ve yetersiz beslenme gibi ağır sonuçlarla karşı karşıya kaldığını ortaya koydu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fa697ef908bb",
-      "title": "Repression in Russland: Ein „wunderbares Wunder“ in Moskau",
-      "summary": "Die Ermittler stellen das Verfahren gegen Kinderhospiz-Leiterin Lida Moniawa ein. Das ist ein höchst unüblicher Vorgang.",
-      "link": "https://www.faz.net/aktuell/politik/ausland/lida-moniawa-verfahren-gegen-kinderhospiz-leiterin-eingestellt-accg-201296029.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 11:18:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ausland/lida-moniawa-verfahren-gegen-kinderhospiz-leiterin-eingestellt-accg-201296029.html",
-          "summary": "Die Ermittler stellen das Verfahren gegen Kinderhospiz-Leiterin Lida Moniawa ein. Das ist ein höchst unüblicher Vorgang."
         }
       ],
       "sourcesCount": 1
@@ -2239,6 +2388,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "06a01b96a67e",
+      "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event - Reuters",
+      "summary": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:47:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+          "summary": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b51a375b7d4c",
       "title": "Inside Scarlets and their struggle for existence",
       "summary": "Scarlets are ready to fight for their existence as the Welsh Rugby Union presses on with controversial plans to cut a west Wales club.",
@@ -2365,6 +2532,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e9ed45ef5ce8",
+      "title": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers - Rimac Newsroom",
+      "summary": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers Rimac Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdE45bEhCSWRUOWNUUTc5SXdKb1hEZ0ItWldGSmRhOFh2NTFrTUgxRDRMZzI5VFpicld1eUdHeE9wczlxQWhULTd3ak9FSXl3RGJXODEtZ2VabEMwaUw3VWZ4dWRJMnA4MnNkWGFFcjZlcHM5NHRMM3FTVEFfMnozZU95N1FjeGlrWDQycF9qYVJ0SU11LWdoc3Y2dmJ4RkY0LXE5R2x6TWtmcVBLWXBWNTBLWTJYWElvRGIyV0I2bE9tMlNVQnVJbVdfMlNHWUI2VlVxaFg5UWVqdWsx?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:31:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdE45bEhCSWRUOWNUUTc5SXdKb1hEZ0ItWldGSmRhOFh2NTFrTUgxRDRMZzI5VFpicld1eUdHeE9wczlxQWhULTd3ak9FSXl3RGJXODEtZ2VabEMwaUw3VWZ4dWRJMnA4MnNkWGFFcjZlcHM5NHRMM3FTVEFfMnozZU95N1FjeGlrWDQycF9qYVJ0SU11LWdoc3Y2dmJ4RkY0LXE5R2x6TWtmcVBLWXBWNTBLWTJYWElvRGIyV0I2bE9tMlNVQnVJbVdfMlNHWUI2VlVxaFg5UWVqdWsx?oc=5",
+          "summary": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers Rimac Newsroom"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "2b8c4ef1c8de",
       "title": "Basketball-Nationalspieler Hukporti fällt lange aus",
       "summary": "NBA-Champion Ariel Hukporti hat sich wie befürchtet einen Achillessehnenriss zugezogen. Für ihn ist die Saison bereits vorüber.",
@@ -2450,24 +2635,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeld2ekRqbmkxdGJJczlHX0NyaWRKQ3pYOEdLVXR0Y041Um9ybDl1U3BkbGF4dmVzTGIyZ0RPY3ZsWXpFc0Y1OFdZc2Y4NUMxN3NmM1puY3Blajg1QTRGcGZXRS1rb3NJcTBzWENZdXlJQzktX3BjSmNzWnV1ZjBGaDI3ZE1TazFhb2JOMWJPNHp6RXJPdC1sMFp0OTdrVnRxR2VB?oc=5",
           "summary": "Rubio says US, Greece to jointly combat security threats Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "06a01b96a67e",
-      "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event - Reuters",
-      "summary": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 10:16:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
-          "summary": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2563,24 +2730,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a71801d2b8f6",
-      "title": "Adesso-Gründer Gruhn: „KI-Agenten können durchdrehen“",
-      "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agenten-koennen-durchdrehen-adesso-gruender-gruhn-ueber-umgang-mit-ki-accg-201292853.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 10:07:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agenten-koennen-durchdrehen-adesso-gruender-gruhn-ueber-umgang-mit-ki-accg-201292853.html",
-          "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1b3fb672bfb4",
       "title": "AI governance’s real gap is accountability, not technology - CIO",
       "summary": "AI governance’s real gap is accountability, not technology CIO",
@@ -2630,24 +2779,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
           "summary": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3eec94d4bb9a",
-      "title": "Why Donald Trump chose these leaders to head his 'Super Intelligence Force' on AI - The Hill",
-      "summary": "Why Donald Trump chose these leaders to head his 'Super Intelligence Force' on AI The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWNkTWdyZm8tUkRZRmRjR0RVQ0g2QnQ2Qi1vVTNDT0FRaXZUdk5USGhOU1JxQjdVbFBsOUdpVTRNNk4td2tJTms2dWptWjM5TEFDdHlTUDJYTTBhN3RfWjdyYlZDX05ic0doWE1GNTNoaUJ6RmxHRHpKbEtMODkxOG5id1hfRldlUVQwdVBGWQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 10:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWNkTWdyZm8tUkRZRmRjR0RVQ0g2QnQ2Qi1vVTNDT0FRaXZUdk5USGhOU1JxQjdVbFBsOUdpVTRNNk4td2tJTms2dWptWjM5TEFDdHlTUDJYTTBhN3RfWjdyYlZDX05ic0doWE1GNTNoaUJ6RmxHRHpKbEtMODkxOG5id1hfRldlUVQwdVBGWQ?oc=5",
-          "summary": "Why Donald Trump chose these leaders to head his 'Super Intelligence Force' on AI The Hill"
         }
       ],
       "sourcesCount": 1
@@ -2784,6 +2915,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "43cc60689b46",
+      "title": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance - Morningstar",
+      "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 09:42:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
+          "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b963f114bbd4",
+      "title": "California’s 3D Printer Gun Law Signed for Firearm-Blocking Technology in 3D Printers - 3D Printing Industry",
+      "summary": "California’s 3D Printer Gun Law Signed for Firearm-Blocking Technology in 3D Printers 3D Printing Industry",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2JfVkFSLURiQ0NoNFJiYU1uTTY4Vnl3TjhWSGVlQU51SGZsRExZcTJmS2JCMGY3Zk5ybldOLVpuYk9CT2NiaWRaVkFWXy1yVmJ0TV9jaktnVU1MSnE0dzBDYWNGd0dDTVhUY0FBdXhwcFNFZkpaRFUwRnVrQ1ViYi1xRnpPdjRLVWJGMjNLVG9FZThBNGZUa0tVRTRnVEt5aWFNWVVNSG8zbXZvenRHdUUtQjAtSmljaUpkSkFZQ1c1ZW1WemNN?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 09:41:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2JfVkFSLURiQ0NoNFJiYU1uTTY4Vnl3TjhWSGVlQU51SGZsRExZcTJmS2JCMGY3Zk5ybldOLVpuYk9CT2NiaWRaVkFWXy1yVmJ0TV9jaktnVU1MSnE0dzBDYWNGd0dDTVhUY0FBdXhwcFNFZkpaRFUwRnVrQ1ViYi1xRnpPdjRLVWJGMjNLVG9FZThBNGZUa0tVRTRnVEt5aWFNWVVNSG8zbXZvenRHdUUtQjAtSmljaUpkSkFZQ1c1ZW1WemNN?oc=5",
+          "summary": "California’s 3D Printer Gun Law Signed for Firearm-Blocking Technology in 3D Printers 3D Printing Industry"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ec52f4aa6a55",
       "title": "California pair charged with abusing at least 14 surrogate-born children",
       "summary": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
@@ -2797,24 +2964,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
           "summary": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "43cc60689b46",
-      "title": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance - Morningstar",
-      "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 09:36:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
-          "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar"
         }
       ],
       "sourcesCount": 1
@@ -2856,24 +3005,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3efcacc79b5b",
-      "title": "Leicester hooker Theobald-Thomas forced to retire",
-      "summary": "Leicester Tigers announce hooker Finn Theobald-Thomas retire immediately on medical grounds.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c574p8p8x7kro?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 09:16:48 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c574p8p8x7kro?at_medium=RSS&at_campaign=rss",
-          "summary": "Leicester Tigers announce hooker Finn Theobald-Thomas retire immediately on medical grounds."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "705a3731098c",
       "title": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
       "summary": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können.",
@@ -2887,24 +3018,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
           "summary": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "286d68786979",
-      "title": "Frankfurter Buchmesse: Das sind die wichtigsten Sachbücher des Herbstes",
-      "summary": "Von der sibirischen Taiga bis ins Silicon Valley, von den Auschwitzprozessen in Polen bis zur Nostalgiewelle der Bundesrepublik: Welche Neuerscheinungen sollte man in diesem Herbst nicht verpasst haben? Eine Übersicht.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/buchmesse-2026-das-sind-die-wichtigsten-sachbuecher-des-herbstes-accg-201280738.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 09:13:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/buchmesse-2026-das-sind-die-wichtigsten-sachbuecher-des-herbstes-accg-201280738.html",
-          "summary": "Von der sibirischen Taiga bis ins Silicon Valley, von den Auschwitzprozessen in Polen bis zur Nostalgiewelle der Bundesrepublik: Welche Neuerscheinungen sollte man in diesem Herbst nicht verpasst haben? Eine Übersicht."
         }
       ],
       "sourcesCount": 1
@@ -3049,24 +3162,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajRPUjRnX2NaejlLVFQ0VGZxOWxJaHo3ei04N3lhYWhHRXk1UEs3c1hGTXVMN0puckxFOEV4MlYyd3E1ZUMxVkhSNmp2T2o2UUhZWWdRQmk1b0RMb0Z5LTV5N3o1b2piX0kwdTZvTUtWM3VkN0R4dlNUTXVNTWZRTGpWTzBzUmdSSXM4ZjRTSGVZc2NwWl9UX3l5YW1YZw?oc=5",
           "summary": "Bulgaria halts rescue operation for crew of sunken ship Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "84cce1e0daa0",
-      "title": "As medical technology and defense demand surges, Tech Etch invests heavily in people and machines - Manufacturing Today",
-      "summary": "As medical technology and defense demand surges, Tech Etch invests heavily in people and machines Manufacturing Today",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjZNb3JIcTNHWGE4QjU4UEVPMkJvdV9SUEtraHlfQnJBQktHOEJjckRncUdPZlowWjVHQUIzNVAxa1RzVmNEbWNfb1lqUnM0d09kbERqWkE4WjRHbnpYdTBMVTdjM2I4ajNPVTY1V2VBRUZFSmR0a1E0cFJmVXJOYUx1NFRwN2FZdkV1bm1VQTBrVHJMX3FTaXJzd2RxY3o5b2hUUVYzWEJ3ajJvaXlGNHFiOF8tTmNObHVaTS12NGxONC0wQVZzZDJYbU9nNFU?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 08:24:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjZNb3JIcTNHWGE4QjU4UEVPMkJvdV9SUEtraHlfQnJBQktHOEJjckRncUdPZlowWjVHQUIzNVAxa1RzVmNEbWNfb1lqUnM0d09kbERqWkE4WjRHbnpYdTBMVTdjM2I4ajNPVTY1V2VBRUZFSmR0a1E0cFJmVXJOYUx1NFRwN2FZdkV1bm1VQTBrVHJMX3FTaXJzd2RxY3o5b2hUUVYzWEJ3ajJvaXlGNHFiOF8tTmNObHVaTS12NGxONC0wQVZzZDJYbU9nNFU?oc=5",
-          "summary": "As medical technology and defense demand surges, Tech Etch invests heavily in people and machines Manufacturing Today"
         }
       ],
       "sourcesCount": 1
@@ -3509,24 +3604,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "029fb1a4cebc",
-      "title": "Fransa'da çatışmalar hız kesmeden devam ediyor",
-      "summary": "Fransa'da lise öğrencilerle başlayan protestoların üniversite öğrencilerine, velilere ve sendikalara sıçramasıyla ülke genelinde yüz binlerce kişi sokaklara döküldü. Paris ve Marsilya'daki gösterilerde polis biber gazı kullanırken, Lyon'da çatışmalar yaşandı ve Rennes'te tazyikli su müdahalesinde bulunuldu.",
-      "link": "https://www.trthaber.com/haber/dunya/fransada-catismalar-hiz-kesmeden-devam-ediyor-959344.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 06:33:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/fransada-catismalar-hiz-kesmeden-devam-ediyor-959344.html",
-          "summary": "Fransa'da lise öğrencilerle başlayan protestoların üniversite öğrencilerine, velilere ve sendikalara sıçramasıyla ülke genelinde yüz binlerce kişi sokaklara döküldü. Paris ve Marsilya'daki gösterilerde polis biber gazı kullanırken, Lyon'da çatışmalar yaşandı ve Rennes'te tazyikli su müdahalesinde bulunuldu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2954ae27b3fd",
       "title": "İzin almayan yabancı konaklama platformlarına erişim engeli getirilecek",
       "summary": "Yabancı Dijital Konaklama Platformları Kanunu Teklifi, TBMM Bayındırlık, İmar, Ulaştırma ve Turizm Komisyonunda kabul edildi. Buna göre, Bakanlıktan izin belgesi almayan ve Türkiye'ye temsilci atamayan yabancı platformlara erişim engeli ve ağır para cezaları uygulanacak.",
@@ -3869,19 +3946,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "1695902ff0f2",
-      "title": "7. Oktober 2023: Was wusste Netanjahu?",
-      "summary": "Mehrmals soll Israels Ministerpräsident Benjamin Netanjahu vor dem Terrorangriff vom 7. Oktober gewarnt worden sein.",
-      "link": "https://www.faz.net/aktuell/politik/ausland/was-wusste-benjamin-netanjahu-vor-dem-7-oktober-accg-201292534.html",
-      "sourceName": "FAZ",
+      "id": "a31d4d1fbb64",
+      "title": "Shares of Japan beer makers fall after raids over cartel suspicion - Reuters",
+      "summary": "Shares of Japan beer makers fall after raids over cartel suspicion Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhtWHU3RnZyOTdISkJHakFfTUd2WlZuUzNzUlZObWNNYjlkb2JYcUlTekdZZk1wNnJPalF4Y2plX0JkUnhDMURVS3dkQW1ldkxNMVJJbUdZQ1FHUEdwWjVGcGo2MDBUcHUySVNZeG5STEQzbG5Sa181bklGaXdJNUY3YTdmUTl0Z1VzUEFGRG05bHYzSGxybUxKTDc0TjV0bXRoX1NpNEhRdWxCVkQtbUVOVk1OM1hBTG5tag?oc=5",
+      "sourceName": "Google News – Reuters",
       "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 03:44:45 GMT",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 03:30:00 GMT",
       "coverage": [
         {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ausland/was-wusste-benjamin-netanjahu-vor-dem-7-oktober-accg-201292534.html",
-          "summary": "Mehrmals soll Israels Ministerpräsident Benjamin Netanjahu vor dem Terrorangriff vom 7. Oktober gewarnt worden sein."
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhtWHU3RnZyOTdISkJHakFfTUd2WlZuUzNzUlZObWNNYjlkb2JYcUlTekdZZk1wNnJPalF4Y2plX0JkUnhDMURVS3dkQW1ldkxNMVJJbUdZQ1FHUEdwWjVGcGo2MDBUcHUySVNZeG5STEQzbG5Sa181bklGaXdJNUY3YTdmUTl0Z1VzUEFGRG05bHYzSGxybUxKTDc0TjV0bXRoX1NpNEhRdWxCVkQtbUVOVk1OM1hBTG5tag?oc=5",
+          "summary": "Shares of Japan beer makers fall after raids over cartel suspicion Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3972,24 +4049,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW5YUkkzdjhfTWJXY25aWkVLeExISGkybXo1YmFoS256Qk5DclZaVVc4ODRnejkzYlBYOTBVWWp5YTVHRDVyMmtBUDVZWHlFclVhYUtIU2d0Tm1GWmRzMnhQNlg4aVVfWEZjb21nQ0tTUzc0WjQ5bEhmWVJuNzFwX25Bdw?oc=5",
           "summary": "European shares, euro slide as energy shock, fiscal worries bite Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7772c2ac26c4",
-      "title": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota - Fox News",
-      "summary": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHRCTnU2ZHdWS1MtcmRPbnRYMjVVMWdmb0lfck9YMDBMb05Wa2g3YlRuMU9wNlpuUXdvZk1vYUhqaU0tSUFJU0l2ZFBqZEw1RW5CWnF2ZHlOZ0N6bTNNcThmS2YwX1RidGZQdi12VjFQTGRmdDBjQzFmbktnbUJEdVFZRGhJN2ppWl9xWjJ2b2dvdEREdEFLQ2pfQVktVmwza2I3WEY0MUNFRktmLXRtYXBQdjNIb3NVUGJB?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 02:28:22 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHRCTnU2ZHdWS1MtcmRPbnRYMjVVMWdmb0lfck9YMDBMb05Wa2g3YlRuMU9wNlpuUXdvZk1vYUhqaU0tSUFJU0l2ZFBqZEw1RW5CWnF2ZHlOZ0N6bTNNcThmS2YwX1RidGZQdi12VjFQTGRmdDBjQzFmbktnbUJEdVFZRGhJN2ppWl9xWjJ2b2dvdEREdEFLQ2pfQVktVmwza2I3WEY0MUNFRktmLXRtYXBQdjNIb3NVUGJB?oc=5",
-          "summary": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota Fox News"
         }
       ],
       "sourcesCount": 1
@@ -4599,24 +4658,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "07fcce0f85b8",
-      "title": "Transcript of US Vice President Vance interview in Alaska - Reuters",
-      "summary": "Transcript of US Vice President Vance interview in Alaska Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN285Y1hMSlNId3o1Zi1tSmI5U0NfUVMtUDRlWVh2QVZZVG5QRlg1MmxzU1BHdno3VE1GMXBSeFpab1ZyTHlkdzNucXc4UWJSUmpSV01kN2RNMi1VZW0tb3g5QjFWMk5jS2pETmdualpUWTNYRm82R3d2UUdEX21FR0cyeU1kWjhvYWlHZnVYS0xMQUVvZzg5Zld4TXo?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 22:59:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN285Y1hMSlNId3o1Zi1tSmI5U0NfUVMtUDRlWVh2QVZZVG5QRlg1MmxzU1BHdno3VE1GMXBSeFpab1ZyTHlkdzNucXc4UWJSUmpSV01kN2RNMi1VZW0tb3g5QjFWMk5jS2pETmdualpUWTNYRm82R3d2UUdEX21FR0cyeU1kWjhvYWlHZnVYS0xMQUVvZzg5Zld4TXo?oc=5",
-          "summary": "Transcript of US Vice President Vance interview in Alaska Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "01c0c7caad13",
       "title": "EXCLUSIVE: Vance says Iran must cut enrichment to end war - Reuters",
       "summary": "EXCLUSIVE: Vance says Iran must cut enrichment to end war Reuters",
@@ -5049,24 +5090,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e1697f420ba6",
-      "title": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026? - The Motley Fool",
-      "summary": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTAzRjR3eWVzTWplNHpfdkNLVEFPSXBSVzdTak9GbWYwdGJ6bFp4OWVXSks0eUUyRk1ic0RwcEItTC0xbzRlTWE2WFVBMHhra3B5S0VKanFKOXE0UExCMzg0bWZQbVdoZUZNdHNtNFJ6UnFwV3RjMTczX19FZEdCUnZQZDNSbndET1h6N1ZLUjNpaEc2aHV4MUVLYVAtNm9jaFVSUUk0b1FhOG52Q2lvRGdhYks?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 20:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTAzRjR3eWVzTWplNHpfdkNLVEFPSXBSVzdTak9GbWYwdGJ6bFp4OWVXSks0eUUyRk1ic0RwcEItTC0xbzRlTWE2WFVBMHhra3B5S0VKanFKOXE0UExCMzg0bWZQbVdoZUZNdHNtNFJ6UnFwV3RjMTczX19FZEdCUnZQZDNSbndET1h6N1ZLUjNpaEc2aHV4MUVLYVAtNm9jaFVSUUk0b1FhOG52Q2lvRGdhYks?oc=5",
-          "summary": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a96b540b2174",
       "title": "Muğla'da 34 düzensiz göçmen yakalandı",
       "summary": "Muğla'nın Bodrum ilçesinde, Sahil Güvenlik ekipleri tarafından gerçekleştirilen denetimlerde kara üzerinde tespit edilen 34 düzensiz göçmen yakalandı.",
@@ -5424,24 +5447,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html",
           "summary": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "34a33723cfb5",
-      "title": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood",
-      "summary": "Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert.",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 17:18:04 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
-          "summary": "Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert."
         }
       ],
       "sourcesCount": 1
