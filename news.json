@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-07T13:11:06.020098+00:00",
+  "updated": "2026-10-07T13:41:15.337409+00:00",
   "articles": [
+    {
+      "id": "42bbe9da7363",
+      "title": "Wie fest sitzt Gianni Infantino noch im Sattel?",
+      "summary": "Der Machtkampf um das FIFA-Präsidentenamt geht in die entscheidende Phase. Die Zeit für die Infantino-Gegner drängt.",
+      "link": "https://www.zdfheute.de/sport/fussball-machtkampf-fifa-infantino-umsturz-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 7 Oct 2026 15:28:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/sport/fussball-machtkampf-fifa-infantino-umsturz-100.html",
+          "summary": "Der Machtkampf um das FIFA-Präsidentenamt geht in die entscheidende Phase. Die Zeit für die Infantino-Gegner drängt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2d13c6730962",
+      "title": "Thüringens Regierungschef Voigt stoppt Kampf um Doktortitel",
+      "summary": "Thüringens Ministerpräsident Voigt kämpft nicht weiter um seinen Doktortitel. Er begründete den Schritt mit einer veränderten politischen Lage, die seinen vollen Einsatz erfordere.",
+      "link": "https://www.zdfheute.de/politik/deutschland/thueringen-voigt-doktortitel-ende-rechtsstreit-afd-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 7 Oct 2026 15:13:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/thueringen-voigt-doktortitel-ende-rechtsstreit-afd-100.html",
+          "summary": "Thüringens Ministerpräsident Voigt kämpft nicht weiter um seinen Doktortitel. Er begründete den Schritt mit einer veränderten politischen Lage, die seinen vollen Einsatz erfordere."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "57d2550080b6",
+      "title": "Pflegekommission verschoben: Das steckt dahinter",
+      "summary": "Eigentlich wollte die Bundesregierung eine Pflegekommission einsetzen, die erarbeiten sollte, wie das System fit für die Zukunft wird. Dazu ist es allerdings nicht gekommen.",
+      "link": "https://www.zdfheute.de/politik/deutschland/pflege-kommission-linnemann-verschoben-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 7 Oct 2026 14:48:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/pflege-kommission-linnemann-verschoben-100.html",
+          "summary": "Eigentlich wollte die Bundesregierung eine Pflegekommission einsetzen, die erarbeiten sollte, wie das System fit für die Zukunft wird. Dazu ist es allerdings nicht gekommen."
+        }
+      ],
+      "sourcesCount": 1
+    },
     {
       "id": "b6c7b9d35679",
       "title": "Schlagzeilen",
@@ -200,24 +254,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3456042488fb",
-      "title": "Gedenken an Hamas-Angriff auf Israel",
-      "summary": "Drei Jahre nach dem Hamas-Massaker und kurz vor der Wahl fordern Demonstranten in Israel einen Untersuchungsausschuss zu möglichen Fehlern. Der Druck auf Benjamin Netanjah wächst.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/siebter-oktober-israel-jahresstag-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/siebter-oktober-israel-jahresstag-100.html",
-          "summary": "Drei Jahre nach dem Hamas-Massaker und kurz vor der Wahl fordern Demonstranten in Israel einen Untersuchungsausschuss zu möglichen Fehlern. Der Druck auf Benjamin Netanjah wächst."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e9080e28eec3",
       "title": "Ifo-Institut: Tankrabatt wird nur teilweise weitergegeben",
       "summary": "Der Tankrabatt kommt laut Ifo-Institut nicht immer vollständig bei den Autofahrern an. Besonders bei Super E10 schwankt, wie viel von der Steuersenkung weitergegeben wird.",
@@ -249,42 +285,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/prominente/eva-marie-saint-hollywood-oscar-preistraegerin-verstorben-100.html",
           "summary": "Gleich mit ihrem ersten Film gewann Eva Marie Saint einen Oscar - 1955 war das. Am Dienstag ist die Hollywood-Schauspielerin im Alter von 102 Jahren verstorben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9871e7f04ec9",
-      "title": "Was Juden in Berlin zur Antisemitismus-Debatte sagen",
-      "summary": "Wie blicken Jüdinnen und Juden auf die aktuelle Debatte über Antisemitismus in Deutschland? In Berlin haben wir mit Shai Hoffmann und Nelly Eliasberg gesprochen.",
-      "link": "https://www.zdfheute.de/politik/deutschland/interview-antisemitismus-debatte-juden-berlin-100.html",
-      "sourceName": "ZDF",
-      "region": "local",
-      "topic": "technologie",
-      "time": "Wed, 7 Oct 2026 09:29:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/interview-antisemitismus-debatte-juden-berlin-100.html",
-          "summary": "Wie blicken Jüdinnen und Juden auf die aktuelle Debatte über Antisemitismus in Deutschland? In Berlin haben wir mit Shai Hoffmann und Nelly Eliasberg gesprochen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "395169bc31d5",
-      "title": "Warum das Nationale Luftreinhalteprogramm geprüft wird",
-      "summary": "Vor dem Bundesverwaltungsgericht in Leipzig geht es um die zentrale Frage, ob die Prognose für das Luftreinhalteprogramm teilweise fehlerhaft war. Wie die Ausgangslage ist.",
-      "link": "https://www.zdfheute.de/politik/deutschland/luftreinhalteprogramm-pruefstand-urteil-bundesverwaltungsgericht-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 09:15:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/luftreinhalteprogramm-pruefstand-urteil-bundesverwaltungsgericht-100.html",
-          "summary": "Vor dem Bundesverwaltungsgericht in Leipzig geht es um die zentrale Frage, ob die Prognose für das Luftreinhalteprogramm teilweise fehlerhaft war. Wie die Ausgangslage ist."
         }
       ],
       "sourcesCount": 1
@@ -429,42 +429,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
           "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "52cac3ac1710",
-      "title": "Meet the only Scot managing a national team in world football - BBC",
-      "summary": "Meet the only Scot managing a national team in world football BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LNThmRzZBdFJjV0ZfNXVUUm9jVFJsd1paOGdGY2ZTWVdfLVE0NWJacVkyMWwxT2FnQ2V6Y21oVmhudHhkbURzOTNGZTFaWGZpVnpkZVZLZjlVdzJiTnVxSFZNbzhQcGF3?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 30 Sep 2026 21:01:32 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LNThmRzZBdFJjV0ZfNXVUUm9jVFJsd1paOGdGY2ZTWVdfLVE0NWJacVkyMWwxT2FnQ2V6Y21oVmhudHhkbURzOTNGZTFaWGZpVnpkZVZLZjlVdzJiTnVxSFZNbzhQcGF3?oc=5",
-          "summary": "Meet the only Scot managing a national team in world football BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "68a13cc70dcf",
-      "title": "International Business University Appoints Dr. Harvey P. Weingarten as Director of the Future Talent Institute - Yahoo Finance",
-      "summary": "International Business University Appoints Dr. Harvey P.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1JISmtMMUtiOVBSSkN2Zm5zbGctaXBpTVpnRndZMkJvMjFvRUZJLXgtb1ltZWhiYWs1NWk4NVNlNzJtb09vRXRRYTB1QUFXRUtSR2dqNXViX0pNNmNQYzRvbm9VM1dhY3NjZHBnaEptOHlqVkNMLVNHaG9TZFVZRkdnTlM1NVByRzkyeGVsbDhXUjhzVXF6QlJNU1NqLWVxVjdUdVk1d0NsUk02Q2NJ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "local",
-      "topic": "wirtschaft",
-      "time": "Wed, 30 Sep 2026 20:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1JISmtMMUtiOVBSSkN2Zm5zbGctaXBpTVpnRndZMkJvMjFvRUZJLXgtb1ltZWhiYWs1NWk4NVNlNzJtb09vRXRRYTB1QUFXRUtSR2dqNXViX0pNNmNQYzRvbm9VM1dhY3NjZHBnaEptOHlqVkNMLVNHaG9TZFVZRkdnTlM1NVByRzkyeGVsbDhXUjhzVXF6QlJNU1NqLWVxVjdUdVk1d0NsUk02Q2NJ?oc=5",
-          "summary": "International Business University Appoints Dr. Harvey P."
         }
       ],
       "sourcesCount": 1
@@ -668,6 +632,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "9be7f874b2e9",
+      "title": "İşgalci İsrail Kudüs'ün kuzeybatısındaki beldelerde 50 Filistinliyi gözaltına aldı",
+      "summary": "İşgalci İsrail ordusu Kudüs'ün kuzeyindeki beldelere sabah saatlerinden bu yana sürdürdüğü geniş çaplı baskınlarda yaklaşık 50 Filistinliyi gözaltına aldı, Cenin'de bir Filistinliyi yaraladı ve zorla girdiği bazı evleri askeri kışlaya çevirdi.",
+      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-kudusun-kuzeybatisindaki-beldelerde-50-filistinliyi-gozaltina-aldi-959427.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:51:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-kudusun-kuzeybatisindaki-beldelerde-50-filistinliyi-gozaltina-aldi-959427.html",
+          "summary": "İşgalci İsrail ordusu Kudüs'ün kuzeyindeki beldelere sabah saatlerinden bu yana sürdürdüğü geniş çaplı baskınlarda yaklaşık 50 Filistinliyi gözaltına aldı, Cenin'de bir Filistinliyi yaraladı ve zorla girdiği bazı evleri askeri kışlaya çevirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6966e10daf71",
       "title": "Bursa'da 6,5 ton sağlıksız gıda imha edildi",
       "summary": "Bursa'nın Osmangazi ilçesinde ruhsatsız bir depoda sağlıksız koşullarda saklanan ve küflendiği belirlenen yaklaşık 6,5 ton gıda ürünü imha edildi.",
@@ -776,24 +758,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "74385806cd71",
-      "title": "Chemie-Nobelpreis geht an Franzosen Kagan und Japaner Soai",
-      "summary": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai.",
-      "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 13:52:14 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
-          "summary": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "210d3df1002d",
       "title": "Bund untersagt Zippel-Übernahme durch chinesische Cosco",
       "summary": "Das Kartellamt hatte schon grünes Licht gegeben, jetzt trat die Bundesregierung auf die Bremse: Die chinesische Cosco-Reederei darf doch nicht die Mehrheit des Logistikunternehmens Zippel übernehmen. Aus Sicherheitsgründen, wie es hieß.",
@@ -807,6 +771,24 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zippel-cosco-china-aussenhandel-100.html",
           "summary": "Das Kartellamt hatte schon grünes Licht gegeben, jetzt trat die Bundesregierung auf die Bremse: Die chinesische Cosco-Reederei darf doch nicht die Mehrheit des Logistikunternehmens Zippel übernehmen. Aus Sicherheitsgründen, wie es hieß."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "63971890faf6",
+      "title": "Moët Hennessy, Analog Devices and UC Davis Join Forces to Advance Wine Production Through Breakthrough Chemical Signature Detection Technology Leveraging AI - PR Newswire",
+      "summary": "Moët Hennessy, Analog Devices and UC Davis Join Forces to Advance Wine Production Through Breakthrough Chemical Signature Detection Technology Leveraging AI PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNOEk1Z3ZWdmpTOGFOR3hsckdyMVR0V2Y1WWtZOHU3QWJLUVpXNkpBaHlyZlk2RFlPWmpuenVlTmZXQzhZdFRZV1ZSYU5iUVczeVFwRlNQS0ZvMlcwQlh3SnlYcHEtZlItWjUzZHFGZm43cFlNUXpyRGhBcEwxZnRtbnFLTWRXTkFtUVJsV2dEZE9oeHlRdGxUb050Qm9JRUhRdmZaR1d0TllMSTdFSDUxbmtHSDQxSlZjZWhmQ2swbXE3RDBCRUxiWG5KQXRjcEluTkxSVzRIV2pPMXFQN1hUWElqd1N1MVk5TkN1WHlSdjQ4NG1tV2p5UjZIUURtSmNrWmkxWkROdnpYYWlTRmRWT0U5ak5DeU5SZ1NLYlVWQ1VTRmVVSGFUc2tCdHpUS2RjSlNXcVh3?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 13:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNOEk1Z3ZWdmpTOGFOR3hsckdyMVR0V2Y1WWtZOHU3QWJLUVpXNkpBaHlyZlk2RFlPWmpuenVlTmZXQzhZdFRZV1ZSYU5iUVczeVFwRlNQS0ZvMlcwQlh3SnlYcHEtZlItWjUzZHFGZm43cFlNUXpyRGhBcEwxZnRtbnFLTWRXTkFtUVJsV2dEZE9oeHlRdGxUb050Qm9JRUhRdmZaR1d0TllMSTdFSDUxbmtHSDQxSlZjZWhmQ2swbXE3RDBCRUxiWG5KQXRjcEluTkxSVzRIV2pPMXFQN1hUWElqd1N1MVk5TkN1WHlSdjQ4NG1tV2p5UjZIUURtSmNrWmkxWkROdnpYYWlTRmRWT0U5ak5DeU5SZ1NLYlVWQ1VTRmVVSGFUc2tCdHpUS2RjSlNXcVh3?oc=5",
+          "summary": "Moët Hennessy, Analog Devices and UC Davis Join Forces to Advance Wine Production Through Breakthrough Chemical Signature Detection Technology Leveraging AI PR Newswire"
         }
       ],
       "sourcesCount": 1
@@ -848,6 +830,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "8b4e48e0e081",
+      "title": "Deutschland liveblog: Merz: Wer der AfD seine Stimme gibt, spielt „das Spiel der Extremisten“",
+      "summary": "Kanzler äußert sich zur Wahl des AfD-Landtagspräsidenten in Sachsen-Anhalt +++ AfD scheitert in Thüringen mit Antrag zur Auflösung des Landtags +++ alle Entwicklungen im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-merz-wer-der-afd-seine-stimme-gibt-spielt-das-spiel-der-extremisten-faz-110093143.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:12:23 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-merz-wer-der-afd-seine-stimme-gibt-spielt-das-spiel-der-extremisten-faz-110093143.html",
+          "summary": "Kanzler äußert sich zur Wahl des AfD-Landtagspräsidenten in Sachsen-Anhalt +++ AfD scheitert in Thüringen mit Antrag zur Auflösung des Landtags +++ alle Entwicklungen im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "3121a904a35e",
       "title": "HalkalıKapıkule Hızlı Tren Hattı'nın Edirne Garı açılışa hazır",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla 9 Ekim'de açılması planlanan Halkalı-Kapıkule Hızlı Tren Hattı'nın Edirne etabındaki yeni gar binasında son hazırlıklar tamamlandı.",
@@ -861,6 +861,60 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/halkali-kapikule-hizli-tren-hattinin-edirne-gari-acilisa-hazir-959406.html",
           "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla 9 Ekim'de açılması planlanan Halkalı-Kapıkule Hızlı Tren Hattı'nın Edirne etabındaki yeni gar binasında son hazırlıklar tamamlandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d2798abd74e0",
+      "title": "Myanmar und Malaysia: Ein roter Teppich als Preis für Rückführungen",
+      "summary": "Malaysia gehörte zu den schärfsten Kritikern des Regimes in Myanmar. Nun empfängt das Land den Machthaber Min Aung Hlaing.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/gespraeche-ueber-ruecknahme-von-rohingya-malaysia-empfaengt-myanmars-machthaber-201295997.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 13:10:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/gespraeche-ueber-ruecknahme-von-rohingya-malaysia-empfaengt-myanmars-machthaber-201295997.html",
+          "summary": "Malaysia gehörte zu den schärfsten Kritikern des Regimes in Myanmar. Nun empfängt das Land den Machthaber Min Aung Hlaing."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "adc09f3b6bef",
+      "title": "CoNetrix Technology Introduces Microsoft 365 Benchmark Management Service - PR Newswire",
+      "summary": "CoNetrix Technology Introduces Microsoft 365 Benchmark Management Service PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUhfX3NYblQtMmFuWHl4eU5LaW1OWlpXV0NvbWRka2VINnlNX2xMZDNxSWZsbW1EREo2VGdlVVZCM2FoSnk3RzJqVVJ1X0EzUGo3UEdvbVNjem9JNlJiRUJjZGFYN2lzV2RKbVVrLXB2aXoza1hXZEs3QmNSbkQwT0pXM1JidmhIU2hKVDBESk0tNUtLLU5HU1g0akJCSm9haWtFOUFjQlljWkhCZERUbnhnSmh5RnozRmlMck05UHZjSTg3Z0lFNQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 13:10:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUhfX3NYblQtMmFuWHl4eU5LaW1OWlpXV0NvbWRka2VINnlNX2xMZDNxSWZsbW1EREo2VGdlVVZCM2FoSnk3RzJqVVJ1X0EzUGo3UEdvbVNjem9JNlJiRUJjZGFYN2lzV2RKbVVrLXB2aXoza1hXZEs3QmNSbkQwT0pXM1JidmhIU2hKVDBESk0tNUtLLU5HU1g0akJCSm9haWtFOUFjQlljWkhCZERUbnhnSmh5RnozRmlMck05UHZjSTg3Z0lFNQ?oc=5",
+          "summary": "CoNetrix Technology Introduces Microsoft 365 Benchmark Management Service PR Newswire"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7e103b56b346",
+      "title": "Star der BVB-Frauen: Wie Alexandra Popp die Regionalliga erlebt",
+      "summary": "Alexandra Popp tingelt mit der Frauenmannschaft der Weltmarke Borussia Dortmund derzeit durch die Regionalliga. Das ist eine neue Erfahrung für manchen Gegner.",
+      "link": "https://www.faz.net/aktuell/sport/fussball/wie-alexandra-popp-bei-borussia-dortmund-die-regionalliga-erlebt-201289710.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 13:09:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/fussball/wie-alexandra-popp-bei-borussia-dortmund-die-regionalliga-erlebt-201289710.html",
+          "summary": "Alexandra Popp tingelt mit der Frauenmannschaft der Weltmarke Borussia Dortmund derzeit durch die Regionalliga. Das ist eine neue Erfahrung für manchen Gegner."
         }
       ],
       "sourcesCount": 1
@@ -920,24 +974,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5b3ca7d212aa",
-      "title": "Reveal Technology Receives $9.5M U.S. Army Purchase Order for Farsight Platform - PR Newswire",
-      "summary": "Reveal Technology Receives $9.5M U.S. Army Purchase Order for Farsight Platform PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmNXQ0w3b3VvOHh2VkxmeXZIbkxiSk80b0dZZzlYOGppbEc4eF9wbmZEVDBTRHVzT0x1WlcwWkpQd0tEdlg5QmZKa3VUVXNiOTNrNlZQSFdCamxiT1dici12Y3JlYU10dDd1RFl0MEZueFJPd0l1LXF2Z0FjQWttX0RXdERNYWlGQ2M1TXVjS0JPZktyYWhGWkFybzFFY2o0RXZ3enktMlV0dHBGeU0xN2Rvc2JYRGtxbmM4WnBDajI0V0hxY05UMzc5dmw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 13:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmNXQ0w3b3VvOHh2VkxmeXZIbkxiSk80b0dZZzlYOGppbEc4eF9wbmZEVDBTRHVzT0x1WlcwWkpQd0tEdlg5QmZKa3VUVXNiOTNrNlZQSFdCamxiT1dici12Y3JlYU10dDd1RFl0MEZueFJPd0l1LXF2Z0FjQWttX0RXdERNYWlGQ2M1TXVjS0JPZktyYWhGWkFybzFFY2o0RXZ3enktMlV0dHBGeU0xN2Rvc2JYRGtxbmM4WnBDajI0V0hxY05UMzc5dmw?oc=5",
-          "summary": "Reveal Technology Receives $9.5M U.S. Army Purchase Order for Farsight Platform PR Newswire"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fea24d231d7b",
       "title": "2026 Nobel Kimya Ödülü sahiplerini buldu",
       "summary": "2026 Nobel Kimya Ödülü, \"Asimetrik organik sentezde doğrusal olmayan etkilerin ve otokatalizin keşfi\" dolayısıyla Henri B. Kagan ve Kenso Soai’ye verildi.",
@@ -951,6 +987,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/2026-nobel-kimya-odulu-sahiplerini-buldu-959404.html",
           "summary": "2026 Nobel Kimya Ödülü, \"Asimetrik organik sentezde doğrusal olmayan etkilerin ve otokatalizin keşfi\" dolayısıyla Henri B. Kagan ve Kenso Soai’ye verildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1d705ba57806",
+      "title": "People, Technology, and Standards Together will Drive Safety Improvements - WebWire",
+      "summary": "People, Technology, and Standards Together will Drive Safety Improvements WebWire",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZS3duek1Dem5hMjc0djBERGR4bHBMbm82cFRZR3RIaTVabFpKa0VJXzhsalhsQkp5dWllWkIyUlFIRUlleW0wb240Z1NVM21zRUtWNDZZSWVCT3NycGp1clc1Z201THZE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 12:59:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZS3duek1Dem5hMjc0djBERGR4bHBMbm82cFRZR3RIaTVabFpKa0VJXzhsalhsQkp5dWllWkIyUlFIRUlleW0wb240Z1NVM21zRUtWNDZZSWVCT3NycGp1clc1Z201THZE?oc=5",
+          "summary": "People, Technology, and Standards Together will Drive Safety Improvements WebWire"
         }
       ],
       "sourcesCount": 1
@@ -1167,9 +1221,14 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQThQR1phVFlSQm53b0tSS3QxQzk3b05nWTVFMmMzS1lVOHM5QjgxX09YRXc5V3NZbC16eU1nZndLbnpFUVp0aVRRVVlTT2M5MmdmWVQtdi03NTFvVmhCRmI0Y3l3S3NfOFI5aF9mOWY1MXc5T0xzSm1KTXZ1VG5ieUVwdGZyZXFiblJVWDM5TjBleVNKMjhkNjlscl9DSXpSd2pIZ1Z1SmZ0ckNUd0VJYjhfUF80U2tUbzlfbTMwVlBuU1BJenU4cFhLTW9zUEVtVGFPWnJPRzF4azR3M2tfZzhZNm45VGljZTQ4RTNB?oc=5",
           "summary": "Most Republicans in tight midterm distance themselves from Trump, Reuters review finds The Detroit News"
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpHUU05ZlNYUVZhUDRvOEtsU2tKOWJWLWM4OUZFWm1PRkJDZDJCZzBIenFyenhDT3o2T1c0QzhJRG4xS2xQTUMxX0VyZVZoSm92ZG8wdGlKdjRmeTI3SldqeHgxM3FabHRZMHI1SXA2dUsySGtza0dWNllWT21ZeVdPWEwwaHdoeUowSEJ2dWdqakxFTDNiQ1dUNkZhT0xyRThrZTM2Z0lmM1JKa2xManNhLUphOVlOOUJ0eVJzdw?oc=5",
+          "summary": "Most Republicans in tight midterm distance themselves from Trump, Reuters review finds Reuters"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "2948f21bc8b1",
@@ -1406,24 +1465,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1b54e95026c0",
-      "title": "Frankfurter Buchmesse: Dann stieg Unseld im Bademantel aus dem Auto",
-      "summary": "Wie ich beim Suhrkamp Verlag einmal in der Frankfurter Klettenbergstraße übernachten durfte, in diesem Zimmer hinter der Treppe, wo Enzensberger, Handke, und Johnson schon genächtigt hatten.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/albert-ostermaier-ueber-siegfried-unseld-im-bademantel-201225941.html",
-      "sourceName": "FAZ",
-      "region": "local",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 12:04:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/albert-ostermaier-ueber-siegfried-unseld-im-bademantel-201225941.html",
-          "summary": "Wie ich beim Suhrkamp Verlag einmal in der Frankfurter Klettenbergstraße übernachten durfte, in diesem Zimmer hinter der Treppe, wo Enzensberger, Handke, und Johnson schon genächtigt hatten."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a7d00617d4fc",
       "title": "İstanbul'da çeşitli suçlardan aranan 640 kişi yakalandı",
       "summary": "İstanbul'da polis ekiplerince gerçekleştirilen denetimde çeşitli suçlardan aranan 640 kişi yakalandı.",
@@ -1437,6 +1478,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/istanbulda-cesitli-suclardan-aranan-640-kisi-yakalandi-959397.html",
           "summary": "İstanbul'da polis ekiplerince gerçekleştirilen denetimde çeşitli suçlardan aranan 640 kişi yakalandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e647ecfb8d4e",
+      "title": "Bradford appoint Hardcastle as head coach",
+      "summary": "Bradford Bulls Women appoint Amy Hardcastle as their new head coach.",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqvgr42zgvl2o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 12:03:31 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqvgr42zgvl2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Bradford Bulls Women appoint Amy Hardcastle as their new head coach."
         }
       ],
       "sourcesCount": 1
@@ -1461,7 +1520,7 @@
     },
     {
       "id": "4a3222aa566a",
-      "title": "Spionagefall: Hanning handelte nach dem Motto „No risk, no fun“",
+      "title": "Spionagefall: Loyal war er vor allem sich selbst gegenüber",
       "summary": "Schon vor dem Spionageskandal galt August Hannings Beratertätigkeit als anrüchig. Dabei vergolden frühere Geheimnisträger öfter ihr Wissen.",
       "link": "https://www.faz.net/aktuell/politik/inland/august-hanning-er-handelte-nach-dem-motto-no-risk-no-fun-201295212.html",
       "sourceName": "FAZ",
@@ -1712,24 +1771,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "d1eac91c84d8",
-      "title": "Deutschland liveblog: Früherer BND-Präsident Hanning wegen Spionageverdachts in U-Haft",
-      "summary": "Ermittlungsrichter setzt Haftbefehl in Vollzug +++ AfD scheitert in Thüringen mit Antrag zur Auflösung des Landtags +++ Unionsfraktionsvize Krings wirft SPD „Grenzüberschreitung“ vor +++ alle Entwicklungen im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-frueherer-bnd-praesident-hanning-wegen-spionageverdachts-in-u-haft-faz-110093143.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 11:45:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-frueherer-bnd-praesident-hanning-wegen-spionageverdachts-in-u-haft-faz-110093143.html",
-          "summary": "Ermittlungsrichter setzt Haftbefehl in Vollzug +++ AfD scheitert in Thüringen mit Antrag zur Auflösung des Landtags +++ Unionsfraktionsvize Krings wirft SPD „Grenzüberschreitung“ vor +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c4747e2f02c6",
       "title": "Could Manchester City be expelled from the Premier League?",
       "summary": "A panel of BBC Sport correspondents explore what sanctions Manchester City could face after being found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons.",
@@ -1892,6 +1933,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "3d79cdd1e145",
+      "title": "Azerbaijan denies report of link to German spy scandal - Reuters",
+      "summary": "Azerbaijan denies report of link to German spy scandal Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3pveEFLd2c5OWtRdzd0VkprN1NZVFN0c08yckpvUVM5MUpGTjBhbTJQdHBib1dXRzZJTUlLSTladTl3TzBjaGRpaWhDOTY1ZlFzOFlHcHRrbUpwUlpFQ0RLWVUzYmhTXzFRSFJYbWJwZXZsMUF3eVRNVEZRSWd3ajhlY2NEU1pWZTVrQ1dTSkFmLVJUakNXMG5pd04xT3dLU0lwVVZ0UXoybVE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 11:22:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3pveEFLd2c5OWtRdzd0VkprN1NZVFN0c08yckpvUVM5MUpGTjBhbTJQdHBib1dXRzZJTUlLSTladTl3TzBjaGRpaWhDOTY1ZlFzOFlHcHRrbUpwUlpFQ0RLWVUzYmhTXzFRSFJYbWJwZXZsMUF3eVRNVEZRSWd3ajhlY2NEU1pWZTVrQ1dTSkFmLVJUakNXMG5pd04xT3dLU0lwVVZ0UXoybVE?oc=5",
+          "summary": "Azerbaijan denies report of link to German spy scandal Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "bb97977321a7",
       "title": "Sigorta sektörü 1 trilyon liraya yakın prim üretimiyle güvence kapasitesini büyüttü",
       "summary": "Sigorta sektörünün bu yılın ağustos sonu itibarıyla toplam prim üretiminin yıllık bazda yüzde 28,1 artışla 971,8 milyar liraya ulaşması, sektörün büyüklüğünü ve sunduğu güvence kapasitesini ortaya koydu.",
@@ -2036,10 +2095,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "d020ce93054f",
+      "id": "3b3ded92f9cc",
       "title": "Thüringen: Voigt zieht Klage gegen Entzug des Doktorgrads zurück",
       "summary": "Thüringens Ministerpräsident stand wegen Plagiatsvorwürfen unter Druck. Nun will er hinnehmen, dass ihm der Doktorgrad entzogen wird.",
-      "link": "https://www.faz.net/aktuell/politik/inland/mario-voigt-beendet-rechtsstreit-um-doktorgrad-accg-201295870.html",
+      "link": "https://www.faz.net/aktuell/politik/inland/mario-voigt-zieht-klage-gegen-entzug-des-doktorgrads-zurueck-accg-201295870.html",
       "sourceName": "FAZ",
       "region": "germany",
       "topic": "politik",
@@ -2047,7 +2106,7 @@
       "coverage": [
         {
           "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/mario-voigt-beendet-rechtsstreit-um-doktorgrad-accg-201295870.html",
+          "link": "https://www.faz.net/aktuell/politik/inland/mario-voigt-zieht-klage-gegen-entzug-des-doktorgrads-zurueck-accg-201295870.html",
           "summary": "Thüringens Ministerpräsident stand wegen Plagiatsvorwürfen unter Druck. Nun will er hinnehmen, dass ihm der Doktorgrad entzogen wird."
         }
       ],
@@ -2121,24 +2180,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
           "summary": "Mikel Arteta says this is \"only the beginning\" of Arsenal's success after signing a new contract with the Premier League champions until 2030."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "63e902301265",
-      "title": "America cannot win the global AI race if Americans are afraid to use AI - Fox News",
-      "summary": "America cannot win the global AI race if Americans are afraid to use AI Fox News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkp6V3B6TXdaTjFFVjFmSnRxNHNrNEhEeFVKcnVfMFFQaGVFY1pTSHJubmJpVFIxX2pZZ1JWSzF3dXhyZi1QUDRFVV95NmxwY3dTYXVlNDE1dnM5UTdmY3pCa3ZWZVlyRmY1Y050a0pMR3p3SnlUZ0VYa18takdoYXFuT1piYmkxVV9xYjJncG9lU03SAZgBQVVfeXFMTlc3RXdyVjQ5aWtldWcyM1VGU2FRMUZVU2ZKZlBqcS1xZ3VjWlhHaVNxNGtoUWNkaHBZdnVwT1I1VFRFZWJ2c1N0dXg1R2ZCc3NyVzZ0QlM0NXRmekpwVDVtaHFLNHBHckMtRmRGYlZ6b0ZTVWwxZ2xaYjFmbDJRUW5Xcm1QM0JHQjIzd3p1cVJBOHZSOEZQeWg?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 11:00:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkp6V3B6TXdaTjFFVjFmSnRxNHNrNEhEeFVKcnVfMFFQaGVFY1pTSHJubmJpVFIxX2pZZ1JWSzF3dXhyZi1QUDRFVV95NmxwY3dTYXVlNDE1dnM5UTdmY3pCa3ZWZVlyRmY1Y050a0pMR3p3SnlUZ0VYa18takdoYXFuT1piYmkxVV9xYjJncG9lU03SAZgBQVVfeXFMTlc3RXdyVjQ5aWtldWcyM1VGU2FRMUZVU2ZKZlBqcS1xZ3VjWlhHaVNxNGtoUWNkaHBZdnVwT1I1VFRFZWJ2c1N0dXg1R2ZCc3NyVzZ0QlM0NXRmekpwVDVtaHFLNHBHckMtRmRGYlZ6b0ZTVWwxZ2xaYjFmbDJRUW5Xcm1QM0JHQjIzd3p1cVJBOHZSOEZQeWg?oc=5",
-          "summary": "America cannot win the global AI race if Americans are afraid to use AI Fox News"
         }
       ],
       "sourcesCount": 1
@@ -2414,6 +2455,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "06a01b96a67e",
+      "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event - Reuters",
+      "summary": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:16:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+          "summary": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "29c3abd01d23",
       "title": "ABD'den, karantina kararı sonrası Rusya'daki vatandaşları için sağlık uyarısı",
       "summary": "ABD'nin Moskova Büyükelçiliği, Rusya'nın İrkutsk bölgesinde veba şüphesi bulunan bir kişinin hayatını kaybettiğine ve bazı hastanelerde karantina tedbirleri uygulandığına ilişkin haberler üzerine bölgedeki ABD vatandaşlarına yerel sağlık makamlarının yönlendirmelerine uyma çağrısında bulundu.",
@@ -2504,28 +2563,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "dae57c3bc207",
-      "title": "Landtagsvizepräsident: Er feiert Putins Geburtstag",
-      "summary": "Hans-Thomas Tillschneider macht Anspielungen auf die NS-Zeit und ist ein Sympathisant des Kremls. Nun repräsentiert er den Parlamentarismus in Sachsen-Anhalt.",
-      "link": "https://www.faz.net/aktuell/politik/inland/hans-thomas-tillschneider-afd-vizepraesident-im-portraet-accg-201295413.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 10:09:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/hans-thomas-tillschneider-afd-vizepraesident-im-portraet-accg-201295413.html",
-          "summary": "Hans-Thomas Tillschneider macht Anspielungen auf die NS-Zeit und ist ein Sympathisant des Kremls. Nun repräsentiert er den Parlamentarismus in Sachsen-Anhalt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6cf4367968b6",
+      "id": "a71801d2b8f6",
       "title": "Adesso-Gründer Gruhn: „KI-Agenten können durchdrehen“",
       "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/adesso-gruender-volker-gruhn-ki-agenten-koennen-durchdrehen-accg-201292853.html",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agenten-koennen-durchdrehen-adesso-gruender-gruhn-ueber-umgang-mit-ki-accg-201292853.html",
       "sourceName": "FAZ",
       "region": "germany",
       "topic": "technologie",
@@ -2533,7 +2574,7 @@
       "coverage": [
         {
           "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/adesso-gruender-volker-gruhn-ki-agenten-koennen-durchdrehen-accg-201292853.html",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agenten-koennen-durchdrehen-adesso-gruender-gruhn-ueber-umgang-mit-ki-accg-201292853.html",
           "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte."
         }
       ],
@@ -2614,20 +2655,25 @@
     {
       "id": "8fbc414737ab",
       "title": "Stockholm: Chemie-Nobelpreis geht an einen Franzosen und einen Japaner",
-      "summary": "Henri Kagan und Kenso Soai haben eine entscheidende Entdeckung für die Chemie gemacht, würdigt die Königlich-Schwedische Akademie der Wissenschaften in Stockholm. Die beiden Forscher haben damit auch ein altes Rätsel gelöst.",
+      "summary": "Henri Kagan und Kenso Soai haben entscheidend ein altes Rätsel der Chemie gelöst. Das würdigt die Königlich-Schwedische Akademie der Wissenschaften in Stockholm.",
       "link": "https://www.faz.net/aktuell/wissen/chemie-nobelpreis-geht-an-einen-franzosen-und-einen-japaner-accg-201295195.html",
       "sourceName": "FAZ",
       "region": "international",
-      "topic": "wissenschaft",
+      "topic": "technologie",
       "time": "Wed, 07 Oct 2026 09:53:20 GMT",
       "coverage": [
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wissen/chemie-nobelpreis-geht-an-einen-franzosen-und-einen-japaner-accg-201295195.html",
-          "summary": "Henri Kagan und Kenso Soai haben eine entscheidende Entdeckung für die Chemie gemacht, würdigt die Königlich-Schwedische Akademie der Wissenschaften in Stockholm. Die beiden Forscher haben damit auch ein altes Rätsel gelöst."
+          "summary": "Henri Kagan und Kenso Soai haben entscheidend ein altes Rätsel der Chemie gelöst. Das würdigt die Königlich-Schwedische Akademie der Wissenschaften in Stockholm."
+        },
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
+          "summary": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai."
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "a87b28d627f0",
@@ -2738,24 +2784,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "43cc60689b46",
-      "title": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance - Morningstar",
-      "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 09:42:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
-          "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ec52f4aa6a55",
       "title": "California pair charged with abusing at least 14 surrogate-born children",
       "summary": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
@@ -2769,6 +2797,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
           "summary": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "43cc60689b46",
+      "title": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance - Morningstar",
+      "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 09:36:52 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem9mUDRtd3g5TV9oMkZxZTFhYUExSWwwbXZsZ1llb3I5V2h1M2dpbDF6OGw4SVZHZGxWMU1wbVFmbXdyRnBvdkxWMG9OaGFtUHN2Z2NBaTg4anByNGlZYkc2UE0yMWdYd0JNUEZVTDRBN2FIVnVvclZQajZScC1iNEx4TGVjVWdZQzJoektPbHRlUEhiMWZhOW5yd2dsSXRjaFVkdWxIRUV5WEswZ2pIX0J6OA?oc=5",
+          "summary": "Marvell Technology Stock: Raising Valuation on Bullish Long-Term Guidance Morningstar"
         }
       ],
       "sourcesCount": 1
@@ -2859,6 +2905,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/buchmesse-2026-das-sind-die-wichtigsten-sachbuecher-des-herbstes-accg-201280738.html",
           "summary": "Von der sibirischen Taiga bis ins Silicon Valley, von den Auschwitzprozessen in Polen bis zur Nostalgiewelle der Bundesrepublik: Welche Neuerscheinungen sollte man in diesem Herbst nicht verpasst haben? Eine Übersicht."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2c5eaa5666c0",
+      "title": "Almanya katil İsrail'i neden koşulsuz destekliyor?",
+      "summary": "Soykırımcı İsrail'in Gazze'ye yönelik saldırıları ve ablukası dünyanın dört bir yanında protesto edilirken, Almanya'da Filistin'e destek amacıyla düzenlenen eylemlerde ciddi hak ihlalleri yaşanıyor. Peki Almanya'nın İsrail'e koşulsuz desteğinin arkasında hangi sebepler yatıyor?",
+      "link": "https://www.trthaber.com/haber/dunya/almanya-katil-israili-neden-kosulsuz-destekliyor-959369.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 09:11:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/almanya-katil-israili-neden-kosulsuz-destekliyor-959369.html",
+          "summary": "Soykırımcı İsrail'in Gazze'ye yönelik saldırıları ve ablukası dünyanın dört bir yanında protesto edilirken, Almanya'da Filistin'e destek amacıyla düzenlenen eylemlerde ciddi hak ihlalleri yaşanıyor. Peki Almanya'nın İsrail'e koşulsuz desteğinin arkasında hangi sebepler yatıyor?"
         }
       ],
       "sourcesCount": 1
@@ -3350,24 +3414,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "cb2083dc4189",
-      "title": "Technology changes security needs - Williamsport Sun-Gazette",
-      "summary": "Technology changes security needs Williamsport Sun-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnQwcDg0VVMxU2loUVNoaHBybXVXVmVTR3BCSDgzTDFab0tTQkpDVUUxdUxnQk1SRVR3aUYyV1ZEdTNGd2MxQXFadDJfbHNlby1IdnEyRWxrb3lBVHVkZGdobE1KbUJhdTR4YlViTXREaDljTmxEdTFZOEJrVmV5bmtCa0hlZlNJZVAzU1JodkFlQQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 06:45:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnQwcDg0VVMxU2loUVNoaHBybXVXVmVTR3BCSDgzTDFab0tTQkpDVUUxdUxnQk1SRVR3aUYyV1ZEdTNGd2MxQXFadDJfbHNlby1IdnEyRWxrb3lBVHVkZGdobE1KbUJhdTR4YlViTXREaDljTmxEdTFZOEJrVmV5bmtCa0hlZlNJZVAzU1JodkFlQQ?oc=5",
-          "summary": "Technology changes security needs Williamsport Sun-Gazette"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fbc725e356f7",
       "title": "Rusya, Sibirya'daki veba laboratuvarı çalışanının ölümüne ilişkin açıklama yaptı",
       "summary": "Rusya, Sibirya'daki İrkutsk Veba Araştırma Enstitüsü'nde çalışan Darya Shipilova'nın şüpheli ölümüyle ilgili son durumu kamuoyuyla paylaştı. Yetkililer, laboratuvar çalışanının ölümünün ardından başlatılan incelemelerde herhangi bir veba vakasına rastlanmadığını bildirdi.",
@@ -3499,24 +3545,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "fa7abbd0d3c3",
-      "title": "Arjantin'in efsanesi Messi, milli takıma veda etti",
-      "summary": "Arjantinli yıldız Lionel Messi, milli takım kariyerini Benin'e karşı oynanan ve 3-0 kazandıkları hazırlık maçıyla tamamladı. Buenos Aires'teki Monumental Stadyumu'nda düzenlenen duygusal veda gecesinde, 39 yaşındaki futbolcu 208'inci ve son milli maçına çıktı.",
-      "link": "https://www.trthaber.com/haber/dunya/arjantinin-efsanesi-messi-milli-takima-veda-etti-959342.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 06:30:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/arjantinin-efsanesi-messi-milli-takima-veda-etti-959342.html",
-          "summary": "Arjantinli yıldız Lionel Messi, milli takım kariyerini Benin'e karşı oynanan ve 3-0 kazandıkları hazırlık maçıyla tamamladı. Buenos Aires'teki Monumental Stadyumu'nda düzenlenen duygusal veda gecesinde, 39 yaşındaki futbolcu 208'inci ve son milli maçına çıktı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7eee4e07419e",
       "title": "Chisora, 42, to fight in December after deciding against retirement",
       "summary": "Derek Chisora's last fight was billed as his retirement bout, but the 42-year-old says he intends to box in December.",
@@ -3535,26 +3563,8 @@
       "sourcesCount": 1
     },
     {
-      "id": "81c20833bf1a",
-      "title": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı füze ve İHA'larla hedef aldı",
-      "summary": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Aden Uluslararası Havalimanı'nı balistik füzeler ve insansız hava araçlarıyla (İHA) hedef aldığı bildirildi.",
-      "link": "https://www.trthaber.com/haber/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi-959341.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 06:18:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi-959341.html",
-          "summary": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Aden Uluslararası Havalimanı'nı balistik füzeler ve insansız hava araçlarıyla (İHA) hedef aldığı bildirildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3d44b294d5e9",
-      "title": "Are Man City equipped for dual demands this time?",
+      "title": "Can Man City juggle WSL title defence and Champions League?",
       "summary": "Manchester City have had a strong start to the WSL season, but have they showed they are capable of juggling Champions League football?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c32l4nwr7z05o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -3620,6 +3630,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWc5YTdRc1hIb1hBUXdiRFY1YlZVQ2lOYTN1RVFIMUhBNDh3Q3M4NnJoRWI1Tzhxc255OHpHeS1TcjJSX1ZoTnNaWEo5VTBNQlJ5Q1pEWnFkSnhWSTlnYUtESFhJcnNZNVV0VkgycHZocFZFOU5hcVg1anpIUWtVckNscjJYeURiVmpIX293bTVteUFQNElQczlwcEJDOUZVbnFEc1p4eVQyVFJFWUZhbUc1ODlhSlViODdFTkJqTUNSbzkySGNR?oc=5",
           "summary": "IMF chief warns energy shock, growing debt and AI risks threaten global growth Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c6a2ac15972a",
+      "title": "Porsche braces for lower sales era, seeks lifeline from luxury - Reuters",
+      "summary": "Porsche braces for lower sales era, seeks lifeline from luxury Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnNpamdWeHNkVFlCcDZNVWMxS3VOd2ZOYlBDVWt0X3Njd0Y3a0R1Si1jaFVfOUtGd01YckVTRW9leWJ1dWJLMEtfMjJaTGVZQWxQVkNrSzd6S2J6ei1rbDlHUXU4SzBwUWl6R0FpSEJxRWVPODV6Y1ZkVVlKZDlDX1VtZ09pcDhiQllEZVZuRW1mQUVpUkM4Zm9YaEl6SkRJZGt4V1FFWFdkWHJ1NHZ4T3hXT190LUNab3c?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 06:02:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnNpamdWeHNkVFlCcDZNVWMxS3VOd2ZOYlBDVWt0X3Njd0Y3a0R1Si1jaFVfOUtGd01YckVTRW9leWJ1dWJLMEtfMjJaTGVZQWxQVkNrSzd6S2J6ei1rbDlHUXU4SzBwUWl6R0FpSEJxRWVPODV6Y1ZkVVlKZDlDX1VtZ09pcDhiQllEZVZuRW1mQUVpUkM4Zm9YaEl6SkRJZGt4V1FFWFdkWHJ1NHZ4T3hXT190LUNab3c?oc=5",
+          "summary": "Porsche braces for lower sales era, seeks lifeline from luxury Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3944,6 +3972,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW5YUkkzdjhfTWJXY25aWkVLeExISGkybXo1YmFoS256Qk5DclZaVVc4ODRnejkzYlBYOTBVWWp5YTVHRDVyMmtBUDVZWHlFclVhYUtIU2d0Tm1GWmRzMnhQNlg4aVVfWEZjb21nQ0tTUzc0WjQ5bEhmWVJuNzFwX25Bdw?oc=5",
           "summary": "European shares, euro slide as energy shock, fiscal worries bite Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7772c2ac26c4",
+      "title": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota - Fox News",
+      "summary": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHRCTnU2ZHdWS1MtcmRPbnRYMjVVMWdmb0lfck9YMDBMb05Wa2g3YlRuMU9wNlpuUXdvZk1vYUhqaU0tSUFJU0l2ZFBqZEw1RW5CWnF2ZHlOZ0N6bTNNcThmS2YwX1RidGZQdi12VjFQTGRmdDBjQzFmbktnbUJEdVFZRGhJN2ppWl9xWjJ2b2dvdEREdEFLQ2pfQVktVmwza2I3WEY0MUNFRktmLXRtYXBQdjNIb3NVUGJB?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 02:28:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHRCTnU2ZHdWS1MtcmRPbnRYMjVVMWdmb0lfck9YMDBMb05Wa2g3YlRuMU9wNlpuUXdvZk1vYUhqaU0tSUFJU0l2ZFBqZEw1RW5CWnF2ZHlOZ0N6bTNNcThmS2YwX1RidGZQdi12VjFQTGRmdDBjQzFmbktnbUJEdVFZRGhJN2ppWl9xWjJ2b2dvdEREdEFLQ2pfQVktVmwza2I3WEY0MUNFRktmLXRtYXBQdjNIb3NVUGJB?oc=5",
+          "summary": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota Fox News"
         }
       ],
       "sourcesCount": 1
@@ -4607,19 +4653,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "67e1a2ac686d",
-      "title": "Trump says nobody knows who is running Iran - Reuters",
-      "summary": "Trump says nobody knows who is running Iran Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGU1UW1VTmk1eGViZjRja3o3X18zR3UtcXc3Sk9VVDBuaVU3VWMwc2NkeFN4cXRyNHA1ZkpUMVNIaGRWOTY3anA0OXFrUHUwVzFwSFFydm41aWZDMDVkRmhvOGdIa05yLWM4VDNCVEpyZTAyMzM0Mi1IT1ZuNjdPTEpLVlEwUEE2NUhGS2xMSUhoaTdZbG5YQzhZelBOQQ?oc=5",
-      "sourceName": "Google News – Reuters",
+      "id": "e2e8552763e4",
+      "title": "England: What has boss Thomas Tuchel learned during international break? - BBC",
+      "summary": "England: What has boss Thomas Tuchel learned during international break? BBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vaE1KNXVPRWpSTGxMZFpyU1V4TVE1ekg2R1N3TklVaDdhTExIcGY0dkVTVmNkb3NqeHpnQ243YjNheVR3QW5XVEw2dWNMZTFBVWlzRTFpN0lGbkk4UG9zTElxc3FOWmYy?oc=5",
+      "sourceName": "Google News – International Sport",
       "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 22:32:44 GMT",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 22:34:46 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGU1UW1VTmk1eGViZjRja3o3X18zR3UtcXc3Sk9VVDBuaVU3VWMwc2NkeFN4cXRyNHA1ZkpUMVNIaGRWOTY3anA0OXFrUHUwVzFwSFFydm41aWZDMDVkRmhvOGdIa05yLWM4VDNCVEpyZTAyMzM0Mi1IT1ZuNjdPTEpLVlEwUEE2NUhGS2xMSUhoaTdZbG5YQzhZelBOQQ?oc=5",
-          "summary": "Trump says nobody knows who is running Iran Reuters"
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vaE1KNXVPRWpSTGxMZFpyU1V4TVE1ekg2R1N3TklVaDdhTExIcGY0dkVTVmNkb3NqeHpnQ243YjNheVR3QW5XVEw2dWNMZTFBVWlzRTFpN0lGbkk4UG9zTElxc3FOWmYy?oc=5",
+          "summary": "England: What has boss Thomas Tuchel learned during international break? BBC"
         }
       ],
       "sourcesCount": 1
@@ -4728,24 +4774,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/spieler-ohne-spielberechtigung-nachtraeglicher-wm-skandal-droht,dr-kongo-wm-2026-100.html",
           "summary": "Der FIFA und Präsident Gianni Infantino droht ein weiterer Skandal im Zusammenhang mit der WM 2026 - es gibt Zweifel an der Spielberechtigung eines Spielers."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bb9820a94c09",
-      "title": "North Korea criticises US support for Taiwan, pledges backing for Russia - Reuters",
-      "summary": "North Korea criticises US support for Taiwan, pledges backing for Russia Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 21:49:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
-          "summary": "North Korea criticises US support for Taiwan, pledges backing for Russia Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4931,24 +4959,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a5796817d80f",
-      "title": "Yemeni government fighters shown driving vehicles over Houthi opponents - Reuters",
-      "summary": "Yemeni government fighters shown driving vehicles over Houthi opponents Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTUtR05NTWVJVFBWcjJmSVZRb0RuVXl6Zk5ocVBacHBIMm1yeWo2VWQ4U2ZqNVFPcTFqeExXUjFyMlpONkU5blQyekxfbGpwM3ZBay05dFU4WkRqZ3lIcmw3VG9UQ3NxSWczQU9qMjFRbHV3QVd3LXl3ZElxaHVRMkFVdHVfajl5SV81YkF1X1ZYX0ZNbW0yMFdjUWFnY3JTLXhZd1gzSU5pNTR5MU1mT0RneVlsLU1uaVdEd1lSRnd0M19Yd1JF?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 20:43:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTUtR05NTWVJVFBWcjJmSVZRb0RuVXl6Zk5ocVBacHBIMm1yeWo2VWQ4U2ZqNVFPcTFqeExXUjFyMlpONkU5blQyekxfbGpwM3ZBay05dFU4WkRqZ3lIcmw3VG9UQ3NxSWczQU9qMjFRbHV3QVd3LXl3ZElxaHVRMkFVdHVfajl5SV81YkF1X1ZYX0ZNbW0yMFdjUWFnY3JTLXhZd1gzSU5pNTR5MU1mT0RneVlsLU1uaVdEd1lSRnd0M19Yd1JF?oc=5",
-          "summary": "Yemeni government fighters shown driving vehicles over Houthi opponents Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "34332c307e33",
       "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
       "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
@@ -4962,24 +4972,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
           "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8278ef1b59bd",
-      "title": "UK watchdog opens first Online Safety Act probe into Meta - Reuters",
-      "summary": "UK watchdog opens first Online Safety Act probe into Meta Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclF2Mmc3UnhHNHpseEtyQnViYlFIc0ZRU2RYcVd4Z19zVFdwN1Y2UUhDbUZhZHBfTkN6NkZpYUtmMGZRZDV5aXB1X1V6b05QNThhbGI1d3ZrUmQ1SlJIUUtkeVhXZkdOOXdnUUlfclJzTkN2MERfTUNrT25TbUxWcVBHLWdORXZfYlBLUDB6QmNqbU5ySUJFY2tYeXhoNlpmVEMzMm92U1I2RzA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 20:38:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclF2Mmc3UnhHNHpseEtyQnViYlFIc0ZRU2RYcVd4Z19zVFdwN1Y2UUhDbUZhZHBfTkN6NkZpYUtmMGZRZDV5aXB1X1V6b05QNThhbGI1d3ZrUmQ1SlJIUUtkeVhXZkdOOXdnUUlfclJzTkN2MERfTUNrT25TbUxWcVBHLWdORXZfYlBLUDB6QmNqbU5ySUJFY2tYeXhoNlpmVEMzMm92U1I2RzA?oc=5",
-          "summary": "UK watchdog opens first Online Safety Act probe into Meta Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5432,6 +5424,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html",
           "summary": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "34a33723cfb5",
+      "title": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood",
+      "summary": "Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert.",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 17:18:04 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
+          "summary": "Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert."
         }
       ],
       "sourcesCount": 1
