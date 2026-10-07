@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-07T07:08:33.958129+00:00",
+  "updated": "2026-10-07T07:41:41.866910+00:00",
   "articles": [
+    {
+      "id": "9871e7f04ec9",
+      "title": "Was Juden in Berlin zur Antisemitismus-Debatte sagen",
+      "summary": "Wie blicken Jüdinnen und Juden auf die aktuelle Debatte über Antisemitismus in Deutschland? In Berlin haben wir mit Shai Hoffmann und Nelly Eliasberg gesprochen.",
+      "link": "https://www.zdfheute.de/politik/deutschland/interview-antisemitismus-debatte-juden-berlin-100.html",
+      "sourceName": "ZDF",
+      "region": "local",
+      "topic": "technologie",
+      "time": "Wed, 7 Oct 2026 09:29:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/interview-antisemitismus-debatte-juden-berlin-100.html",
+          "summary": "Wie blicken Jüdinnen und Juden auf die aktuelle Debatte über Antisemitismus in Deutschland? In Berlin haben wir mit Shai Hoffmann und Nelly Eliasberg gesprochen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "395169bc31d5",
+      "title": "Warum das Nationale Luftreinhalteprogramm geprüft wird",
+      "summary": "Vor dem Bundesverwaltungsgericht in Leipzig geht es um die zentrale Frage, ob die Prognose für das Luftreinhalteprogramm teilweise fehlerhaft war. Wie die Ausgangslage ist.",
+      "link": "https://www.zdfheute.de/politik/deutschland/luftreinhalteprogramm-pruefstand-urteil-bundesverwaltungsgericht-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 7 Oct 2026 09:15:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/luftreinhalteprogramm-pruefstand-urteil-bundesverwaltungsgericht-100.html",
+          "summary": "Vor dem Bundesverwaltungsgericht in Leipzig geht es um die zentrale Frage, ob die Prognose für das Luftreinhalteprogramm teilweise fehlerhaft war. Wie die Ausgangslage ist."
+        }
+      ],
+      "sourcesCount": 1
+    },
     {
       "id": "585c5adb1ec7",
       "title": "Warum sich Tausende im Netz \"Jane Doe\" nennen",
@@ -105,24 +141,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/kriminalitaet/aktenzeichen-xy-oktober-2026-bierkoenig-meisel-dreifachmord-mallorca-100.html",
           "summary": "1997 wurden der Gastronom und \"Bierkönig\"-Betreiber Manfred Meisel, sein achtjähriger Sohn sowie eine Angestellte auf Mallorca erschossen. Bis heute ist der Fall ungeklärt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9eba1c040f34",
-      "title": "Ein Trauma bis heute",
-      "summary": "Zum dritten Mal jährt sich das Hamas-Massaker. Israel gedenkt der Opfer - doch hat bis heute nicht aufgearbeitet, wie es dazu kommen konnte.",
-      "link": "https://www.zdfheute.de/briefing/israel-hamas-7-oktober-jung-zdfheute-update-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 06:43:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/briefing/israel-hamas-7-oktober-jung-zdfheute-update-100.html",
-          "summary": "Zum dritten Mal jährt sich das Hamas-Massaker. Israel gedenkt der Opfer - doch hat bis heute nicht aufgearbeitet, wie es dazu kommen konnte."
         }
       ],
       "sourcesCount": 1
@@ -254,24 +272,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "cc43a07feb7d",
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 30 Sep 2026 23:10:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-          "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fa3f05d9463c",
       "title": "The AI telling farmers when to harvest",
       "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
@@ -357,6 +357,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3BfVDlBclVpS3ZLU2V4Zm1qa0tGTWlKbEJ1c1Q1RmlNRGZSYm5jMEhnSXNCN21QQS1UcnFzTjlYc250d0JjT1N5NmVHT1gwclVNWU05M2xNaUhXRVU1T1NOcVNldHRBcEtBZWk5LWNwclBrVlNJVG9oR21yYkJFYVMxXzlLQVpOZFFfNlN5RWhvNVhZR1YyTldmN25NX2JrUjFZZzZISDduVEI0ZDNGcXdLS2U?oc=5",
           "summary": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered NBC News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "af40a38d1208",
+      "title": "Meta agrees to settlement, platform changes in youth addiction case - Al Jazeera",
+      "summary": "Meta agrees to settlement, platform changes in youth addiction case Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWJMaWxMWUhKOVhwazBvVkRWY2xuOFRjcXZ1YmdZOXVtRnRTMGdRaEoyRUl2Qmo3a1B1RjNBcTByNWJVTEZxZFUxMU9MTUxqZ1d3QzFiRlNaMUViMFo3Yk5EYU9qMlhKZ01oQktkYXhnWlBubERGQnVmRkhEb3VsU3ZyRHZGbFdXV2dLSmtrUWNEX1lZRE5PSi1oRmFBV1RUaDFzQW9nU0dMOVhFUkpF0gG0AUFVX3lxTFA0TkZMNThhZGNhcFZ2RWk3WVNsWW9mcUoxU0RISHZObGJqYzNoSGdSeTZVSWJrRi1uNlFha2ExMWtLVDlKSFdQaVcwQldwaFprZnZjaHJjODlPcW12aEF0SUEwdlBvSXFIY09DaExKNVZfbFB4WE1FVThLblpFNzJHTl9wNjNwVTFiZm92V1haMHZFbXRFV0pNVXZDWlM2QmJGaDN5cnVpaVgzS0NtYV8xVVRKRg?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWJMaWxMWUhKOVhwazBvVkRWY2xuOFRjcXZ1YmdZOXVtRnRTMGdRaEoyRUl2Qmo3a1B1RjNBcTByNWJVTEZxZFUxMU9MTUxqZ1d3QzFiRlNaMUViMFo3Yk5EYU9qMlhKZ01oQktkYXhnWlBubERGQnVmRkhEb3VsU3ZyRHZGbFdXV2dLSmtrUWNEX1lZRE5PSi1oRmFBV1RUaDFzQW9nU0dMOVhFUkpF0gG0AUFVX3lxTFA0TkZMNThhZGNhcFZ2RWk3WVNsWW9mcUoxU0RISHZObGJqYzNoSGdSeTZVSWJrRi1uNlFha2ExMWtLVDlKSFdQaVcwQldwaFprZnZjaHJjODlPcW12aEF0SUEwdlBvSXFIY09DaExKNVZfbFB4WE1FVThLblpFNzJHTl9wNjNwVTFiZm92V1haMHZFbXRFV0pNVXZDWlM2QmJGaDN5cnVpaVgzS0NtYV8xVVRKRg?oc=5",
+          "summary": "Meta agrees to settlement, platform changes in youth addiction case Al Jazeera"
         }
       ],
       "sourcesCount": 1
@@ -524,6 +542,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "5efa1c1fdcfb",
+      "title": "Ukrayna: Rusya'nın hava saldırılarında 8 kişi hayatını kaybetti",
+      "summary": "Rus ordusunun Ukrayna'nın farklı bölgelerine füze ve insansız hava araçlarıyla (İHA) düzenlediği hava saldırılarında ilk belirlemelere göre 8 kişinin hayatını kaybettiği ve 27 kişinin yaralandığı bildirildi.",
+      "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-hava-saldirilarinda-8-kisi-hayatini-kaybetti-959375.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:33:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-hava-saldirilarinda-8-kisi-hayatini-kaybetti-959375.html",
+          "summary": "Rus ordusunun Ukrayna'nın farklı bölgelerine füze ve insansız hava araçlarıyla (İHA) düzenlediği hava saldırılarında ilk belirlemelere göre 8 kişinin hayatını kaybettiği ve 27 kişinin yaralandığı bildirildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "29c3abd01d23",
+      "title": "ABD'den, karantina kararı sonrası Rusya'daki vatandaşları için sağlık uyarısı",
+      "summary": "ABD'nin Moskova Büyükelçiliği, Rusya'nın İrkutsk bölgesinde veba şüphesi bulunan bir kişinin hayatını kaybettiğine ve bazı hastanelerde karantina tedbirleri uygulandığına ilişkin haberler üzerine bölgedeki ABD vatandaşlarına yerel sağlık makamlarının yönlendirmelerine uyma çağrısında bulundu.",
+      "link": "https://www.trthaber.com/haber/dunya/abdden-karantina-karari-sonrasi-rusyadaki-vatandaslari-icin-saglik-uyarisi-959372.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:14:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/abdden-karantina-karari-sonrasi-rusyadaki-vatandaslari-icin-saglik-uyarisi-959372.html",
+          "summary": "ABD'nin Moskova Büyükelçiliği, Rusya'nın İrkutsk bölgesinde veba şüphesi bulunan bir kişinin hayatını kaybettiğine ve bazı hastanelerde karantina tedbirleri uygulandığına ilişkin haberler üzerine bölgedeki ABD vatandaşlarına yerel sağlık makamlarının yönlendirmelerine uyma çağrısında bulundu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8c25625a8e6d",
+      "title": "Borsa İstanbul güne yükselişle başladı",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,12 yükselişle 12.389,72 puandan başladı.",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-gune-yukselisle-basladi-959370.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 10:12:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-gune-yukselisle-basladi-959370.html",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,12 yükselişle 12.389,72 puandan başladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a87b28d627f0",
       "title": "Brent petrolün varili 101,49 dolardan işlem görüyor",
       "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 101,49 dolardan işlem görüyor.",
@@ -560,6 +632,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "4daa1ba0ea56",
+      "title": "Zurück in Europa - Triers Basketballer haben große Ziele im Europe Cup",
+      "summary": "Im Basketball Europe Cup empfangen die Gladiators Trier am Mittwoch Georgiens Meister BC Batumi. Triers erste Europapokalteilnahme seit 25 Jahren.",
+      "link": "https://www.sportschau.de/regional/swr/swr-zurueck-in-europa-triers-basketballer-haben-grosse-ziele-im-europe-cup-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 09:18:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-zurueck-in-europa-triers-basketballer-haben-grosse-ziele-im-europe-cup-102.html",
+          "summary": "Im Basketball Europe Cup empfangen die Gladiators Trier am Mittwoch Georgiens Meister BC Batumi. Triers erste Europapokalteilnahme seit 25 Jahren."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "dbd0bcd7b5bd",
       "title": "Türkiye podcast endüstrisinin durumu değerlendirildi",
       "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu.",
@@ -578,6 +668,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "705a3731098c",
+      "title": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
+      "summary": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können.",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 09:14:12 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
+          "summary": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6bf7ea2c62ce",
       "title": "Küresel piyasalar Fed'e odaklandı",
       "summary": "Küresel piyasalarda ABD Merkez Bankasının (Fed) para politikalarında beklendiği ölçüde sıkılaşmayabileceğine yönelik öngörüler ile şirket karlılıklarına ilişkin iyimserlikler risk iştahını desteklemeye devam ederken, bugün Fed'in toplantı tutanakları yatırımcıların odağında bulunuyor.",
@@ -591,6 +699,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fede-odaklandi-959361.html",
           "summary": "Küresel piyasalarda ABD Merkez Bankasının (Fed) para politikalarında beklendiği ölçüde sıkılaşmayabileceğine yönelik öngörüler ile şirket karlılıklarına ilişkin iyimserlikler risk iştahını desteklemeye devam ederken, bugün Fed'in toplantı tutanakları yatırımcıların odağında bulunuyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c2666dc81a15",
+      "title": "Selbstständige erhalten keinen Mutterschutz",
+      "summary": "Für selbstständige Frauen gilt der Mutterschutz nicht. Viele können sich eine Pause rund um die Geburt deshalb kaum leisten.",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mutterschutz-selbststaendige-110.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 09:03:20 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mutterschutz-selbststaendige-110.html",
+          "summary": "Für selbstständige Frauen gilt der Mutterschutz nicht. Viele können sich eine Pause rund um die Geburt deshalb kaum leisten."
         }
       ],
       "sourcesCount": 1
@@ -686,6 +812,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "8661e6e13df1",
+      "title": "Aktienrente: Wie geht es Ihnen mit der Schwedenrente, Herr Larsson?",
+      "summary": "Alle Schweden müssen Aktien kaufen, um die Rente zu sichern. Deutschland will das nachmachen.",
+      "link": "https://www.faz.net/aktuell/finanzen/schwedenrente-roland-larsson-ueber-das-modell-fuer-deutschland-accg-201161610.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 07:31:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/finanzen/schwedenrente-roland-larsson-ueber-das-modell-fuer-deutschland-accg-201161610.html",
+          "summary": "Alle Schweden müssen Aktien kaufen, um die Rente zu sichern. Deutschland will das nachmachen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2ec0d46d9eae",
+      "title": "Steigende Produktion: Die deutsche Wirtschaft verkraftete die Hitzewelle recht gut",
+      "summary": "Im Sommer wurden mit der Hitzewelle und dem Niedrigwasser im Rhein dramatische Folgen für die deutsche Wirtschaft an die Wand gemalt. Jetzt zeigt sich: Die Unternehmen haben sich gut geschlagen hat.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hitzewelle-und-niedrigwasser-die-deutsche-wirtschaft-ueberstand-sommer-gut-accg-201295194.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 07:19:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hitzewelle-und-niedrigwasser-die-deutsche-wirtschaft-ueberstand-sommer-gut-accg-201295194.html",
+          "summary": "Im Sommer wurden mit der Hitzewelle und dem Niedrigwasser im Rhein dramatische Folgen für die deutsche Wirtschaft an die Wand gemalt. Jetzt zeigt sich: Die Unternehmen haben sich gut geschlagen hat."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "103f3f3099f7",
       "title": "Bilim insanları kolajen takviyelerinin ardındaki araştırmada büyük kusurlar buldu",
       "summary": "Yaşlanma karşıtı ürünler arasında popülaritesi giderek artan kolajen takviyelerinin ardındaki bilimsel araştırmalarda önemli kusurlar ve hatalar tespit edildi.",
@@ -717,6 +879,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ispanyada-konut-krizi-protestolari-sonrasi-acil-onlemler-onaylandi-959353.html",
           "summary": "Madrid'de 87 yaşındaki bir kadının evinden tahliye edilmesiyle tırmanan ve ülke geneline yayılan konut krizi protestolarının Barselona ayağında yaşanan şiddet olaylarının ardından, İspanyol hükümeti acil konut önlemlerini onayladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c253441b11fb",
+      "title": "Rainmakers: The drones used to seed clouds",
+      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 07:09:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?"
         }
       ],
       "sourcesCount": 1
@@ -866,6 +1046,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e2fafc4143c8",
+      "title": "Scientists who put faith in technology less likely to take climate action - The Guardian",
+      "summary": "Scientists who put faith in technology less likely to take climate action The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 06:56:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
+          "summary": "Scientists who put faith in technology less likely to take climate action The Guardian"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "fdf3e99eaf15",
       "title": "Sera gazı seviyeleri rekor seviyede: Buzullar erime tehlikesiyle karşı karşıya",
       "summary": "Yeni Zelanda'da yayımlanan kapsamlı bir iklim raporu, sera gazı seviyelerinin rekor düzeye ulaşmasıyla birlikte ülkenin yakın gelecekte daha sık ve şiddetli sıcak hava dalgaları ile felaket boyutunda buzul erimeleriyle karşılaşabileceğini ortaya koydu.",
@@ -879,24 +1077,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/sera-gazi-seviyeleri-rekor-seviyede-buzullar-erime-tehlikesiyle-karsi-karsiya-959349.html",
           "summary": "Yeni Zelanda'da yayımlanan kapsamlı bir iklim raporu, sera gazı seviyelerinin rekor düzeye ulaşmasıyla birlikte ülkenin yakın gelecekte daha sık ve şiddetli sıcak hava dalgaları ile felaket boyutunda buzul erimeleriyle karşılaşabileceğini ortaya koydu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5dad8e0d9826",
-      "title": "Wegen Programmreform: Ex-CDU-Politiker Nooke klagt gegen Deutschlandradio",
-      "summary": "Dem früheren DDR-Bürgerrechtler und CDU-Politiker Günter Nooke missfällt die Programmreform des Deutschlandfunks. Er denkt, der Sender verstoße gegen gesetzliche Vorgaben, und geht vor Gericht.",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ex-cdu-politiker-nooke-klagt-gegen-deutschlandfunk-reform-accg-201295155.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 06:53:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ex-cdu-politiker-nooke-klagt-gegen-deutschlandfunk-reform-accg-201295155.html",
-          "summary": "Dem früheren DDR-Bürgerrechtler und CDU-Politiker Günter Nooke missfällt die Programmreform des Deutschlandfunks. Er denkt, der Sender verstoße gegen gesetzliche Vorgaben, und geht vor Gericht."
         }
       ],
       "sourcesCount": 1
@@ -1214,7 +1394,7 @@
     },
     {
       "id": "3d44b294d5e9",
-      "title": "Can Man City juggle WSL title defence and Champions League?",
+      "title": "Are Man City equipped for Women's Champions League demands?",
       "summary": "Manchester City have had a strong start to the WSL season, but have they showed they are capable of juggling Champions League football?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c32l4nwr7z05o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -1262,42 +1442,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/investigativ/br-recherche/eu-neuregelung-pestizid-zulassung-100.html",
           "summary": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e2fafc4143c8",
-      "title": "Scientists who put faith in technology less likely to take climate action - The Guardian",
-      "summary": "Scientists who put faith in technology less likely to take climate action The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 06:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
-          "summary": "Scientists who put faith in technology less likely to take climate action The Guardian"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "317068971cdd",
-      "title": "Rhein-Main-Liveblog: Flughafenmalaria in Frankfurt gibt weiter Rätsel auf",
-      "summary": "Was ist los in Frankfurt & Hessen? Lesen Sie aktuelle News & Nachrichten im News-Ticker von heute ► Was heute wichtig ist, erfahren Sie bei der F.A.Z.",
-      "link": "https://www.faz.net/aktuell/rhein-main/flughafenmalaria-in-frankfurt-gefahr-sinkt-mit-den-temperaturen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 05:53:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/rhein-main/flughafenmalaria-in-frankfurt-gefahr-sinkt-mit-den-temperaturen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-          "summary": "Was ist los in Frankfurt & Hessen? Lesen Sie aktuelle News & Nachrichten im News-Ticker von heute ► Was heute wichtig ist, erfahren Sie bei der F.A.Z."
         }
       ],
       "sourcesCount": 1
@@ -1442,6 +1586,42 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/israel-bekommt-beistand-von-friedrich-merz-am-jahrestag-des-hamas-ueberfalls-accg-201294567.html",
           "summary": "Am Jahrestag des Hamas-Überfalls warnt der Kanzler vor wachsendem Antisemitismus in Deutschland. Außenminister Wadephul nennt es beschämend, wie viel noch zu tun sei."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f5af32341311",
+      "title": "Russia says it launched 'massive' strikes on Kyiv, other areas of Ukraine - Reuters",
+      "summary": "Russia says it launched 'massive' strikes on Kyiv, other areas of Ukraine Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE5rSVBjVVRSMDgySnc5Vld4LUQ2cGxjay1YX2NudFEtbFh5OV9jcGNUMTFLRkdLSFQ3NGFab090YmtLYkJPZlA2eVpnUUpxMmRCaUh0WUpZLVNvMXZabERtWjExVzRPVXpXMjZFWUo2NXQ0SUdKQVQ1WksxamgwdHRaVFBwR2VHZHpvbTl1bU4xVWlOUHAtUzJSNTQ5Z3ZPVGVfd3E4UU1TNndWNVpuMWxuSQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 05:17:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE5rSVBjVVRSMDgySnc5Vld4LUQ2cGxjay1YX2NudFEtbFh5OV9jcGNUMTFLRkdLSFQ3NGFab090YmtLYkJPZlA2eVpnUUpxMmRCaUh0WUpZLVNvMXZabERtWjExVzRPVXpXMjZFWUo2NXQ0SUdKQVQ1WksxamgwdHRaVFBwR2VHZHpvbTl1bU4xVWlOUHAtUzJSNTQ5Z3ZPVGVfd3E4UU1TNndWNVpuMWxuSQ?oc=5",
+          "summary": "Russia says it launched 'massive' strikes on Kyiv, other areas of Ukraine Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "089bef532cca",
+      "title": "Dollar recoups losses as markets await Fed minutes, speakers - Reuters",
+      "summary": "Dollar recoups losses as markets await Fed minutes, speakers Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnY5bzdPR0xZNUZ6VEJzWUhMVmJQZEI0bzY0cHpWV21LdHRFeDlIWkxnMURDYVFDVU9nZEVPYU9TNWNNV3NvWUE5MlJPaUVXT2VqaGJQQVFwNmtHWE5nNUF2SU5Ob3dmYVlSOENZVmRBc3lVUjFMM1NYYlBfLUJ6ZzJaU0FQQlQwMkh0cXlrZEItc0ZKeC1YLXdOd2wzRWxHeUlSUDg4STVVQTVGdmc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 05:03:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnY5bzdPR0xZNUZ6VEJzWUhMVmJQZEI0bzY0cHpWV21LdHRFeDlIWkxnMURDYVFDVU9nZEVPYU9TNWNNV3NvWUE5MlJPaUVXT2VqaGJQQVFwNmtHWE5nNUF2SU5Ob3dmYVlSOENZVmRBc3lVUjFMM1NYYlBfLUJ6ZzJaU0FQQlQwMkh0cXlrZEItc0ZKeC1YLXdOd2wzRWxHeUlSUDg4STVVQTVGdmc?oc=5",
+          "summary": "Dollar recoups losses as markets await Fed minutes, speakers Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1633,7 +1813,7 @@
     },
     {
       "id": "4ca205c81b2c",
-      "title": "Kolumne „Midlife Crisis“: Oft denke ich: Jetzt lasse ich den Dreck, den Lärm, die Irren hinter mir",
+      "title": "Kolumne „Midlife Crisis“: Ist man irgendwann zu alt für das Leben in der Großstadt?",
       "summary": "Unsere Kolumnistin wohnt seit über zwanzig Jahren in Berlin. Schön ist es da nicht.",
       "link": "https://www.faz.net/aktuell/besser-leben/psychologie/aus-der-stadt-aufs-land-ziehen-wie-der-plan-gnadenlos-an-der-realitaet-scheiterte-accg-201291709.html",
       "sourceName": "FAZ",
@@ -2113,24 +2293,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/hallo-deutschland/chanel-show-kidman-100.html",
           "summary": "Schaulaufen der Prominenz in Paris: Nicole Kidman, Nadja Auermann und John Malkovich saßen bei der neuen Chanel-Modenschau in der ersten Reihe und stahlen der Kollektion fast die Show."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d133c7cccece",
-      "title": "Spionage und offene Wasserhähne: Die größten BND-Skandale",
-      "summary": "Die Festnahme von Ex-Präsident Hanning ist nicht der erste Skandal des Bundesnachrichtendienstes: Frühere BND-Affären drehen sich um CIA-Spione, KGB-Maulwürfe und geheime Baupläne.",
-      "link": "https://www.zdfheute.de/politik/deutschland/bnd-affaeren-spionage-hanning-skandale-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 6 Oct 2026 15:20:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/bnd-affaeren-spionage-hanning-skandale-100.html",
-          "summary": "Die Festnahme von Ex-Präsident Hanning ist nicht der erste Skandal des Bundesnachrichtendienstes: Frühere BND-Affären drehen sich um CIA-Spione, KGB-Maulwürfe und geheime Baupläne."
         }
       ],
       "sourcesCount": 1
@@ -2938,24 +3100,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "bb9820a94c09",
-      "title": "North Korea criticises US support for Taiwan, pledges backing for Russia - Reuters",
-      "summary": "North Korea criticises US support for Taiwan, pledges backing for Russia Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 21:49:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
-          "summary": "North Korea criticises US support for Taiwan, pledges backing for Russia Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d9a7dbf3e642",
       "title": "Ronaldo wants Portugal 'punishment' but not retiring",
       "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
@@ -3316,6 +3460,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "713dc795886d",
+      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
+      "summary": "Anthropic opens its most powerful AI models to more security teams Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 20:37:46 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
+          "summary": "Anthropic opens its most powerful AI models to more security teams Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9867619ce40d",
       "title": "Routeware technology helps Clearwater’s Solid Waste team - City of Clearwater",
       "summary": "Routeware technology helps Clearwater’s Solid Waste team City of Clearwater",
@@ -3437,6 +3599,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iY2JzYUlZcnM5MnFFc2lIS0F3WVBPdDY5T214SUpXUnU1Q052aEV6MlFsZW1oN1ZJX1dpSXNZWDJqN3dxMEdGbGlCNEljTm9BOWJXX1BuQmpBblVjaFAwdWVVTjZ0dE1fOUF3RFhJcVd1ZTFWajA4VXdDYkI?oc=5",
           "summary": "Critical hire: Founder-turned-VC scout joins Technology Venture Studio as senior director Startland News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e1697f420ba6",
+      "title": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026? - The Motley Fool",
+      "summary": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTAzRjR3eWVzTWplNHpfdkNLVEFPSXBSVzdTak9GbWYwdGJ6bFp4OWVXSks0eUUyRk1ic0RwcEItTC0xbzRlTWE2WFVBMHhra3B5S0VKanFKOXE0UExCMzg0bWZQbVdoZUZNdHNtNFJ6UnFwV3RjMTczX19FZEdCUnZQZDNSbndET1h6N1ZLUjNpaEc2aHV4MUVLYVAtNm9jaFVSUUk0b1FhOG52Q2lvRGdhYks?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 06 Oct 2026 20:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTAzRjR3eWVzTWplNHpfdkNLVEFPSXBSVzdTak9GbWYwdGJ6bFp4OWVXSks0eUUyRk1ic0RwcEItTC0xbzRlTWE2WFVBMHhra3B5S0VKanFKOXE0UExCMzg0bWZQbVdoZUZNdHNtNFJ6UnFwV3RjMTczX19FZEdCUnZQZDNSbndET1h6N1ZLUjNpaEc2aHV4MUVLYVAtNm9jaFVSUUk0b1FhOG52Q2lvRGdhYks?oc=5",
+          "summary": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?"
         }
       ],
       "sourcesCount": 1
@@ -3876,24 +4056,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "76371289502f",
-      "title": "Anthropic's Dario Amodei Made $18 Million Last Year: How it Compares With Other Tech CEOs. - International Business Times",
-      "summary": "Anthropic's Dario Amodei Made $18 Million Last Year: How it Compares With Other Tech CEOs. International Business Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmc1NjJtelp0N093dWZaNVhWeC15Nm1TdHJyQU5mTnU2UUNueDNCMFFFcjR0andfdWQza3NtTmhycTFWTVZHazRpNE1fT0dvOHFweHNGZjA2RnZZb2lwcmxKWDhRTks0RjRkM2lfRUNBYlM2ZmhWWGUyQ2xVZmw0T1pNTHAwWkxzdTF3YVpiT29sMFlURGUxaHVPWmthbTZhdGRoWHh2OVMyQUhUVXl5aFFoTQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 18:10:04 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmc1NjJtelp0N093dWZaNVhWeC15Nm1TdHJyQU5mTnU2UUNueDNCMFFFcjR0andfdWQza3NtTmhycTFWTVZHazRpNE1fT0dvOHFweHNGZjA2RnZZb2lwcmxKWDhRTks0RjRkM2lfRUNBYlM2ZmhWWGUyQ2xVZmw0T1pNTHAwWkxzdTF3YVpiT29sMFlURGUxaHVPWmthbTZhdGRoWHh2OVMyQUhUVXl5aFFoTQ?oc=5",
-          "summary": "Anthropic's Dario Amodei Made $18 Million Last Year: How it Compares With Other Tech CEOs. International Business Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "14b9b17c9e2d",
       "title": "Vor dem Koalitionsausschuss: Klein-Klein hilft nicht gegen große Probleme",
       "summary": "Zuckersteuer, Plastiksteuer und eine Nicht-Einkommensteuerreform: Womit sich die Koalition in dieser Woche beschäftigt, wird die Politikverdrossenheit eher noch steigern.",
@@ -4002,6 +4164,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ba06f083d5f1",
+      "title": "US trade balance sinks deeper into the red as imports hit record high despite tariffs - Reuters",
+      "summary": "US trade balance sinks deeper into the red as imports hit record high despite tariffs Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1IxdUZmenNPcXZRSTEwWDdEUVJNdjBnSEFlYm5JLWRsZm1EaE9iVmV1bGhZLU5Pb3BlRVQwbFZHT2dDbEppNkN6REZZd0JkeXFUbEt4Ync5RW5qREFscFZNVHA1RjdKVjRRcmZPb1ZyaDFhdnVKM2prcHRYd0NUQVVYdHRMdU9lakVQc0NocERlU0JRMDU1V19oMA?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 17:29:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1IxdUZmenNPcXZRSTEwWDdEUVJNdjBnSEFlYm5JLWRsZm1EaE9iVmV1bGhZLU5Pb3BlRVQwbFZHT2dDbEppNkN6REZZd0JkeXFUbEt4Ync5RW5qREFscFZNVHA1RjdKVjRRcmZPb1ZyaDFhdnVKM2prcHRYd0NUQVVYdHRMdU9lakVQc0NocERlU0JRMDU1V19oMA?oc=5",
+          "summary": "US trade balance sinks deeper into the red as imports hit record high despite tariffs Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "24977b9dc394",
       "title": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
       "summary": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet.",
@@ -4015,24 +4195,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html",
           "summary": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4daa1ba0ea56",
-      "title": "Zurück in Europa - Triers Basketballer haben große Ziele im Europe Cup",
-      "summary": "Im Basketball Europe Cup empfangen die Gladiators Trier am Mittwoch Georgiens Meister BC Batumi. Es ist Triers erste Europapokalteilnahme seit 25 Jahren.",
-      "link": "https://www.sportschau.de/regional/swr/swr-zurueck-in-europa-triers-basketballer-haben-grosse-ziele-im-europe-cup-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 17:22:23 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/swr/swr-zurueck-in-europa-triers-basketballer-haben-grosse-ziele-im-europe-cup-102.html",
-          "summary": "Im Basketball Europe Cup empfangen die Gladiators Trier am Mittwoch Georgiens Meister BC Batumi. Es ist Triers erste Europapokalteilnahme seit 25 Jahren."
         }
       ],
       "sourcesCount": 1
@@ -4128,24 +4290,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "51d032d1a6d7",
-      "title": "Police break up Indian opposition protest seeking resignation of election chief - Reuters",
-      "summary": "Police break up Indian opposition protest seeking resignation of election chief Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnBoQ1pjcUc4eEozNUo4MFFXcGxRT0dHSzhrMEJTVWVCOWt6dFFxY0hyczlHME9pVk1lR2pxNVllczZRMXEtT2VDbzRYdHBZRGl6SzF4ai1SR2Z1RmNBOXctZGtxWGh4eXF2YlljbkNWV29CMFlNN1pIZVlDbG10ejFkdU50ZGxCcm5XczVWblE1cEk4UXlFN2lfdDRPaGszSFlsRU9wbFFuR05HTjdIZ3RQejQwcVp3R3RXbQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 17:10:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnBoQ1pjcUc4eEozNUo4MFFXcGxRT0dHSzhrMEJTVWVCOWt6dFFxY0hyczlHME9pVk1lR2pxNVllczZRMXEtT2VDbzRYdHBZRGl6SzF4ai1SR2Z1RmNBOXctZGtxWGh4eXF2YlljbkNWV29CMFlNN1pIZVlDbG10ejFkdU50ZGxCcm5XczVWblE1cEk4UXlFN2lfdDRPaGszSFlsRU9wbFFuR05HTjdIZ3RQejQwcVp3R3RXbQ?oc=5",
-          "summary": "Police break up Indian opposition protest seeking resignation of election chief Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d22c272400b0",
       "title": "USA will be 'underdogs' in 2027 Ryder Cup - Furyk",
       "summary": "United States Ryder Cup captain Jim Furyk says his team will be \"underdogs\" when they attempt to end more than 30 years of pain on European soil in next year's edition at Adare Manor.",
@@ -4231,24 +4375,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/turkiye-kultur-yolu-festivali-10-ekimde-diyarbakirda-959303.html",
           "summary": "Kültür ve Turizm Bakanlığınca düzenlenen Türkiye Kültür Yolu Festivali, 10-18 Ekim'de Diyarbakır'da gerçekleştirilecek."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a183715c438c",
-      "title": "Kuzey Kore'den tampon bölgede mayın temizleyen Güney Kore'ye yeni savaş tehlikesi mesajı",
-      "summary": "Kuzey Kore, Güney Kore'nin 21 Eylül'de iki ülkeyi ayıran Askerden Arındırılmış Bölge'de (DMZ) yürüttüğü mayın temizleme çalışmasının ardından \"yeni savaş tehlikesinin\" ortaya çıktığını bildirdi.",
-      "link": "https://www.trthaber.com/haber/dunya/kuzey-koreden-tampon-bolgede-mayin-temizleyen-guney-koreye-yeni-savas-tehlikesi-mesaji-959301.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 15:48:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/kuzey-koreden-tampon-bolgede-mayin-temizleyen-guney-koreye-yeni-savas-tehlikesi-mesaji-959301.html",
-          "summary": "Kuzey Kore, Güney Kore'nin 21 Eylül'de iki ülkeyi ayıran Askerden Arındırılmış Bölge'de (DMZ) yürüttüğü mayın temizleme çalışmasının ardından \"yeni savaş tehlikesinin\" ortaya çıktığını bildirdi."
         }
       ],
       "sourcesCount": 1
@@ -4419,29 +4545,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "f16fb8e7533b",
-      "title": "İspanya hükümetinden konut krizi için iki yeni kararname",
-      "summary": "İspanya'da azınlık sol koalisyon hükümeti, geçen hafta mecliste reddedilen konut krizine karşı çözümleri içeren kararnamelerin ardından bu sorunla ilgili yeni iki kararname kabul etti.",
-      "link": "https://www.trthaber.com/haber/dunya/ispanya-hukumetinden-konut-krizi-icin-iki-yeni-kararname-959300.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 15:26:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/ispanya-hukumetinden-konut-krizi-icin-iki-yeni-kararname-959300.html",
-          "summary": "İspanya'da azınlık sol koalisyon hükümeti, geçen hafta mecliste reddedilen konut krizine karşı çözümleri içeren kararnamelerin ardından bu sorunla ilgili yeni iki kararname kabul etti."
-        },
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/ispanyada-isci-sendikalari-konut-krizine-karsi-genel-grev-karari-aldi-959205.html",
-          "summary": "İspanya'nın en büyük iki sendikası İşçi Komisyonları (CCOO) ve Genel İşçiler Birliği (UGT), ülkedeki konut krizine karşı genel grev kararı aldı."
-        }
-      ],
-      "sourcesCount": 2
     },
     {
       "id": "6aa640a6392c",
@@ -4948,24 +5051,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b27d15dbb13a",
-      "title": "AMD plans to substantially increase supply in 2027, CEO says - Reuters",
-      "summary": "AMD plans to substantially increase supply in 2027, CEO says Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 11:54:27 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx?oc=5",
-          "summary": "AMD plans to substantially increase supply in 2027, CEO says Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8b8861f2757b",
       "title": "TİHEK'ten ÖSYM'nin ek süre uygulamasına ayrımcılık kararı",
       "summary": "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK), Ölçme, Seçme ve Yerleştirme Merkezi'nin (ÖSYM) görme engelli adaylara farklı sınavlarda aynı ek süreyi vermesini ​​​​​​​\"engellilik temelinde ayrımcılık yasağının ihlali\" olarak değerlendirdi.",
@@ -5087,24 +5172,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/turkiye-komsularina-209-milyar-dolarlik-ihracat-yapti-959269.html",
           "summary": "Türkiye'nin komşuları Azerbaycan, Bulgaristan, Gürcistan, Irak, İran, Suriye ve Yunanistan'a yaptığı ihracat, ocak-eylül döneminde geçen yılın aynı dönemine kıyasla yüzde 3,2 artarak 20,9 milyar doları buldu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "cf89c7f9cfb8",
-      "title": "Rubio tells Russia to share more information about plague death - Reuters",
-      "summary": "Rubio tells Russia to share more information about plague death Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0lSVkhkNW9MdjZfdW5FaTNyS3FDSENqYTJ4enhYWDlNWWJwTFhfQlYwNFVHNHRsQ0lXUV9LYWV2emhucTJpMHFMakJKcXJjNU1DOHM3YnpmNDFiR0xDelc0cVk1ODRpUnZXSjBVOVRnNGxmNklIMXFHR0JLTm1oX2dlVXlrTDl2WUFMUTVDSEhNY1BHY29sYlVQUmlINjkweVFvaUk0QThhNlJuQUE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 06 Oct 2026 11:17:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0lSVkhkNW9MdjZfdW5FaTNyS3FDSENqYTJ4enhYWDlNWWJwTFhfQlYwNFVHNHRsQ0lXUV9LYWV2emhucTJpMHFMakJKcXJjNU1DOHM3YnpmNDFiR0xDelc0cVk1ODRpUnZXSjBVOVRnNGxmNklIMXFHR0JLTm1oX2dlVXlrTDl2WUFMUTVDSEhNY1BHY29sYlVQUmlINjkweVFvaUk0QThhNlJuQUE?oc=5",
-          "summary": "Rubio tells Russia to share more information about plague death Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5375,78 +5442,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
           "summary": "August Hanning is accused of obtaining classified information for a foreign power."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "be387ec318fb",
-      "title": "Altın güne düşüşle başladı",
-      "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 535 liradan işlem görüyor. Çeyrek altın 10 bin 790 liradan, cumhuriyet altını 42 bin 950 liradan satılıyor.",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-959250.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 09:54:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-959250.html",
-          "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 535 liradan işlem görüyor. Çeyrek altın 10 bin 790 liradan, cumhuriyet altını 42 bin 950 liradan satılıyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "77b11184248e",
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 09:48:37 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2d888683f716",
-      "title": "England forward Packer to miss North America tour",
-      "summary": "Two-time World Cup winner Marlie Packer will not travel with England to North America this month for Tests against Canada and the United States.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgql5917y1o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 09:30:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgql5917y1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Two-time World Cup winner Marlie Packer will not travel with England to North America this month for Tests against Canada and the United States."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4ea5fc77cdd3",
-      "title": "Solidarität mit Jane Doe: \"Es geht um unsere Körper, um unsere Leben!\"",
-      "summary": "Seit Tagen sorgt eine mutmaßliche Gruppenvergewaltigung in den USA für Schlagzeilen. Der Fall ist zwei Jahre her.",
-      "link": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-102.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "wissenschaft",
-      "time": "Tue, 06 Oct 2026 09:30:38 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-102.html",
-          "summary": "Seit Tagen sorgt eine mutmaßliche Gruppenvergewaltigung in den USA für Schlagzeilen. Der Fall ist zwei Jahre her."
         }
       ],
       "sourcesCount": 1
