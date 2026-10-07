@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T15:47:09.258663+00:00",
+  "updated": "2026-10-07T16:09:24.716779+00:00",
   "articles": [
     {
       "id": "b6c7b9d35679",
@@ -15,6 +15,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
           "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0e4f05d30e29",
+      "title": "Katherina Reiche sieht Wachstum auf wackeligen Beinen",
+      "summary": "Bei der Regierungsbefragung betonte Wirtschaftsministerin Reiche erste Erfolge bei der Belebung der deutschen Wirtschaft. Dennoch bleibe die Lage weiter fragil.",
+      "link": "https://www.zdfheute.de/politik/deutschland/reiche-bilger-cdu-regierungsbefragung-bundestag-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 7 Oct 2026 17:04:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/reiche-bilger-cdu-regierungsbefragung-bundestag-100.html",
+          "summary": "Bei der Regierungsbefragung betonte Wirtschaftsministerin Reiche erste Erfolge bei der Belebung der deutschen Wirtschaft. Dennoch bleibe die Lage weiter fragil."
         }
       ],
       "sourcesCount": 1
@@ -87,24 +105,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/pflege-kommission-linnemann-verschoben-100.html",
           "summary": "Eigentlich wollte die Bundesregierung eine Pflegekommission einsetzen, die erarbeiten sollte, wie das System fit für die Zukunft wird. Dazu ist es allerdings nicht gekommen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7c5716f67192",
-      "title": "Spionageverdacht: Ex-BND-Chef Hanning kommt in U-Haft",
-      "summary": "Dem früheren BND-Präsidenten Hanning wird Spionage und Landesverrat vorgeworfen. Jetzt hat ein Ermittlungsrichter entschieden, dass er in Untersuchungshaft kommt.",
-      "link": "https://www.zdfheute.de/politik/deutschland/ex-bnd-chef-hanning-spionage-ermittlungsrichter-bgh-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 16:01:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/ex-bnd-chef-hanning-spionage-ermittlungsrichter-bgh-100.html",
-          "summary": "Dem früheren BND-Präsidenten Hanning wird Spionage und Landesverrat vorgeworfen. Jetzt hat ein Ermittlungsrichter entschieden, dass er in Untersuchungshaft kommt."
         }
       ],
       "sourcesCount": 1
@@ -812,6 +812,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "da9779f7d8be",
+      "title": "Do England already have their Kane replacement - or is he yet to emerge?",
+      "summary": "Harry Kane's record-breaking England career can't go on for ever. But do the Three Lions already have a ready-made replacement?",
+      "link": "https://www.bbc.co.uk/sport/articles/cked39dp0476o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 16:00:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/articles/cked39dp0476o?at_medium=RSS&at_campaign=rss",
+          "summary": "Harry Kane's record-breaking England career can't go on for ever. But do the Three Lions already have a ready-made replacement?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5681324bf629",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:57:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+          "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "71e21d7f25b0",
+      "title": "Boots sold in £7bn deal to Canadian billionaire family",
+      "summary": "The sale of the High Street chain was announced on Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:57:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+          "summary": "The sale of the High Street chain was announced on Wednesday."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "2c2d52cbb911",
       "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
       "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen.",
@@ -825,6 +879,24 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
           "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9c999e5ebd2f",
+      "title": "Compulsory media duties like something in an autocracy - Venter",
+      "summary": "Saracens' Brendan Venter compares Prem Rugby's media obligations to \"something from an autocratic land\" after reluctantly speaking at a press conference.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwg7xr9e1y78o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:53:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwg7xr9e1y78o?at_medium=RSS&at_campaign=rss",
+          "summary": "Saracens' Brendan Venter compares Prem Rugby's media obligations to \"something from an autocratic land\" after reluctantly speaking at a press conference."
         }
       ],
       "sourcesCount": 1
@@ -848,6 +920,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "9b87402c5440",
+      "title": "How Edge Technology Is Reshaping Border and Event Security - ExecutiveBiz",
+      "summary": "How Edge Technology Is Reshaping Border and Event Security ExecutiveBiz",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2M0U1A2UGp4ZG9qTG94ZnpUV1JJVUQ1V2RLalg5a2tQcG54UFo0RjJNUFlvTjRjNUxOODJIYWVwYURIWV84Q09ORjQ4YTEzS0pia1pvWml6NUhEaHdiSC05LTk1Tm16dnpDcXRWS0x4WGFVSk92UHZHN0x4bEZ3LWlmNzhNa25UMTd6ZUF2VFhTR2hoYlc3X0duM2ZmN29pRTJXOA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:49:15 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2M0U1A2UGp4ZG9qTG94ZnpUV1JJVUQ1V2RLalg5a2tQcG54UFo0RjJNUFlvTjRjNUxOODJIYWVwYURIWV84Q09ORjQ4YTEzS0pia1pvWml6NUhEaHdiSC05LTk1Tm16dnpDcXRWS0x4WGFVSk92UHZHN0x4bEZ3LWlmNzhNa25UMTd6ZUF2VFhTR2hoYlc3X0duM2ZmN29pRTJXOA?oc=5",
+          "summary": "How Edge Technology Is Reshaping Border and Event Security ExecutiveBiz"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "cf6e626dc4aa",
+      "title": "ICC hosts expert seminar on new technologies in detention - | International Criminal Court",
+      "summary": "ICC hosts expert seminar on new technologies in detention | International Criminal Court",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0loTHljX3hKZDE4R0c3clJWOU9hZ0ptTEIwQzdDWmpkdEdJMlQzV2Z0SXFSRjNHTUt5b25lTDVCM1RSellRdlR0NmdFWG81ZWZUX2tpZUMwUFJ1QlE1U0xjR3hxQkZENFRCdVJXTWxqQ0VnZWVfUF9MYUVkQkNCTy01RVc3VU0?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:43:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0loTHljX3hKZDE4R0c3clJWOU9hZ0ptTEIwQzdDWmpkdEdJMlQzV2Z0SXFSRjNHTUt5b25lTDVCM1RSellRdlR0NmdFWG81ZWZUX2tpZUMwUFJ1QlE1U0xjR3hxQkZENFRCdVJXTWxqQ0VnZWVfUF9MYUVkQkNCTy01RVc3VU0?oc=5",
+          "summary": "ICC hosts expert seminar on new technologies in detention | International Criminal Court"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "642daa8b632b",
       "title": "Eckert free to stay as Southampton boss as Spygate ban suspended",
       "summary": "Tonda Eckert is free to continue as Southampton manager after being given a suspended ban for his role in Spygate.",
@@ -861,6 +969,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cqj9knmvm2ryo?at_medium=RSS&at_campaign=rss",
           "summary": "Tonda Eckert is free to continue as Southampton manager after being given a suspended ban for his role in Spygate."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "64ccb741786e",
+      "title": "Übergang von Vermögen: Nächste Runde im Pingpong um die Erbschaftsteuer",
+      "summary": "Winkt das Bundesverfassungsgericht das geltende Recht einfach durch? Verlangt es abermals ein punktuelles Nacharbeiten?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/erbschaftsteuer-was-plant-das-bundesverfassungsgericht-201292854.html",
+      "sourceName": "FAZ",
+      "region": "local",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 15:36:52 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/erbschaftsteuer-was-plant-das-bundesverfassungsgericht-201292854.html",
+          "summary": "Winkt das Bundesverfassungsgericht das geltende Recht einfach durch? Verlangt es abermals ein punktuelles Nacharbeiten?"
         }
       ],
       "sourcesCount": 1
@@ -897,24 +1023,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/almanya-katil-israili-neden-kosulsuz-destekliyor-959369.html",
           "summary": "Soykırımcı İsrail'in Gazze'ye yönelik saldırıları ve ablukası dünyanın dört bir yanında protesto edilirken, Almanya'da Filistin'e destek amacıyla düzenlenen eylemlerde ciddi hak ihlalleri yaşanıyor. Peki Almanya'nın İsrail'e koşulsuz desteğinin arkasında hangi sebepler yatıyor?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "71e21d7f25b0",
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "summary": "The sale of the High Street chain was announced on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 15:27:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-          "summary": "The sale of the High Street chain was announced on Wednesday."
         }
       ],
       "sourcesCount": 1
@@ -992,6 +1100,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "915568472f5a",
+      "title": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules - Reuters",
+      "summary": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:22:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
+          "summary": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5dfcb9b29a36",
       "title": "Ex-Spurs player Vega set to run for Fifa president",
       "summary": "Former Tottenham Hotspur defender Ramon Vega says he intends to stand as a candidate in next year's Fifa presidential election.",
@@ -1029,7 +1155,7 @@
     },
     {
       "id": "5647c59ad8b1",
-      "title": "Bloms Globaleschichte: Hat der Westen sein Versprechen gebrochen?",
+      "title": "Bloms GlobalGeschichte: Hat der Westen sein Versprechen gebrochen?",
       "summary": "Das neue Jahrtausend begann mit großen Hoffnungen. Doch nach kurzer Zeit war die Euphorie verpufft.",
       "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/gebrochene-versprechen-des-westens-philipp-bloms-die-strauchelnde-welt-201249245.html",
       "sourceName": "FAZ",
@@ -1064,6 +1190,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f58c5afe025e",
+      "title": "EXCLUSIVE: Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say - Reuters",
+      "summary": "EXCLUSIVE: Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDFQZzNVZkV5bHhCZ2FaemZmZDdyMTZtWndQR2tTakxOaW9SWTI2clhnZWpKcDZaVU9RS2p0TUJ0UGoxWWxUQm1JZ3pWYzZJN1pKSkROLTFzc2pqdE9TUEd6b1pQM2dlVE16VEZJbVlOOWFxUUhud3c5UXZ1N3NMMldSRkwxNS1hbnN2ZkxHX1hMaTAzSHMxODdFa2xhU1dTcVpmQ282d2xOUEZRbGpTejZmRFFCVzBsMTh6bnh3?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 15:04:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDFQZzNVZkV5bHhCZ2FaemZmZDdyMTZtWndQR2tTakxOaW9SWTI2clhnZWpKcDZaVU9RS2p0TUJ0UGoxWWxUQm1JZ3pWYzZJN1pKSkROLTFzc2pqdE9TUEd6b1pQM2dlVE16VEZJbVlOOWFxUUhud3c5UXZ1N3NMMldSRkwxNS1hbnN2ZkxHX1hMaTAzSHMxODdFa2xhU1dTcVpmQ282d2xOUEZRbGpTejZmRFFCVzBsMTh6bnh3?oc=5",
+          "summary": "EXCLUSIVE: Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "02ed7ea7ea8c",
       "title": "Fußball-Transferticker: Spanischer Welt- und Europameister beendet Karriere",
       "summary": "Wie wichtigsten Transfer-News im Fußball ▷ Transfermarkt, Vereinswechsel und Vertragsverlängerungen in der Bundesliga und international im Überblick bei der F.A.Z.",
@@ -1082,24 +1226,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0adc5cfad765",
-      "title": "The unexpected ways that AI is reshaping the U.S. economy - The Washington Post",
-      "summary": "The unexpected ways that AI is reshaping the U.S. economy The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 15:02:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
-          "summary": "The unexpected ways that AI is reshaping the U.S. economy The Washington Post"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "bf7bf6ed25d0",
       "title": "7. Oktober: Die Ursache des Gazakriegs nicht vergessen",
       "summary": "Merz weist zu Recht auf die „monströsen, barbarischen Taten“ der Hamas hin. Den Palästinenserstaat, den er fordert, wird es aber nicht so schnell geben.",
@@ -1113,6 +1239,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/gazakrieg-die-barbarischen-taten-der-hamas-nicht-vergessen-201296179.html",
           "summary": "Merz weist zu Recht auf die „monströsen, barbarischen Taten“ der Hamas hin. Den Palästinenserstaat, den er fordert, wird es aber nicht so schnell geben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f9e9f19d8554",
+      "title": "Vertafore earns industry honors for innovation shaping the future of insurance technology - PR Newswire",
+      "summary": "Vertafore earns industry honors for innovation shaping the future of insurance technology PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNckltUXFDUWw5ZzFidk5YZzRreERlSjIzNk40R01ZTjZEN1RRalFGTC1uX2JOM1pFQ2lYNF92Q0twcTlKd0YxZ3NNdlJWRnl1clEzcHZiS19hbFo3QVI5OTFfaFlDa0dnYjhkcmxudXJzaThCcFFVN2U2Y1NIZHZ5MFRKNmFEdFh4Q2R3enpVVTItSXlmV29ReGtaRVFXWGVRc201WXpsLWVsVm9XeXNNR2RWeWZ1VldoOHNNRkMydkZQaHNfMHk1UjBacEN6eTdyX3oxUEtpWnpRTEZSeEE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 15:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNckltUXFDUWw5ZzFidk5YZzRreERlSjIzNk40R01ZTjZEN1RRalFGTC1uX2JOM1pFQ2lYNF92Q0twcTlKd0YxZ3NNdlJWRnl1clEzcHZiS19hbFo3QVI5OTFfaFlDa0dnYjhkcmxudXJzaThCcFFVN2U2Y1NIZHZ5MFRKNmFEdFh4Q2R3enpVVTItSXlmV29ReGtaRVFXWGVRc201WXpsLWVsVm9XeXNNR2RWeWZ1VldoOHNNRkMydkZQaHNfMHk1UjBacEN6eTdyX3oxUEtpWnpRTEZSeEE?oc=5",
+          "summary": "Vertafore earns industry honors for innovation shaping the future of insurance technology PR Newswire"
         }
       ],
       "sourcesCount": 1
@@ -2082,42 +2226,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "486d841c0457",
-      "title": "Technology Survived September, But I'm Downgrading XLK (SPY) - Seeking Alpha",
-      "summary": "Technology Survived September, But I'm Downgrading XLK (SPY) Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUphQUpMVE5tdW9jclMwdWZHMzRhdWo3YVkzMW1rTF95RkhPdTZFek4xQkVKblFuLUR6UEZ4cDdEUUpGbU12WXdQX3EyV3lVZzhSbFU1NEEzakdNZTJGWGVTY2ItV3FPaWpxTk91R051ejEyT09WREpscWFZdjVyRjRlc1BxVVlXWE5lZlZTLWR4emtUN0JQcw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 12:30:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUphQUpMVE5tdW9jclMwdWZHMzRhdWo3YVkzMW1rTF95RkhPdTZFek4xQkVKblFuLUR6UEZ4cDdEUUpGbU12WXdQX3EyV3lVZzhSbFU1NEEzakdNZTJGWGVTY2ItV3FPaWpxTk91R051ejEyT09WREpscWFZdjVyRjRlc1BxVVlXWE5lZlZTLWR4emtUN0JQcw?oc=5",
-          "summary": "Technology Survived September, But I'm Downgrading XLK (SPY) Seeking Alpha"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "915568472f5a",
-      "title": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules - Reuters",
-      "summary": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 12:28:48 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
-          "summary": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f7c87241824a",
       "title": "UEFA sucht nach Strategie für Sturz Infantinos",
       "summary": "Die UEFA lädt ihre Verbände am Donnerstag zu einem Treffen in ein Berliner Luxushotel, Hauptthema ist das Vorgehen im Machtkampf mit FIFA-Präsident Gianni Infantino. Bislang hat die Opposition keinen Gegenkandidaten.",
@@ -2208,24 +2316,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5681324bf629",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 12:16:58 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-          "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fee2951f7c22",
       "title": "Japan beer giants raided over alleged price-fixing cartel",
       "summary": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
@@ -2275,24 +2365,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/istanbulda-cesitli-suclardan-aranan-640-kisi-yakalandi-959397.html",
           "summary": "İstanbul'da polis ekiplerince gerçekleştirilen denetimde çeşitli suçlardan aranan 640 kişi yakalandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e647ecfb8d4e",
-      "title": "Bradford appoint Hardcastle as head coach",
-      "summary": "Bradford Bulls Women appoint Amy Hardcastle as their new head coach.",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqvgr42zgvl2o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 12:03:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqvgr42zgvl2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Bradford Bulls Women appoint Amy Hardcastle as their new head coach."
         }
       ],
       "sourcesCount": 1
@@ -2617,6 +2689,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-chef-michael-leiters-faehrt-einen-riskanten-schrumpfkurs-201295191.html",
           "summary": "Ob die neue Strategie von Porsche-Chef Michael Leiters den Hersteller stabilisieren kann, hängt davon ab, ob die Kunden die teureren Luxusautos wirklich kaufen werden. Und ob der Glanz der Marke Porsche noch zieht."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3d79cdd1e145",
+      "title": "Azerbaijan denies report of link to German spy scandal - Reuters",
+      "summary": "Azerbaijan denies report of link to German spy scandal Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3pveEFLd2c5OWtRdzd0VkprN1NZVFN0c08yckpvUVM5MUpGTjBhbTJQdHBib1dXRzZJTUlLSTladTl3TzBjaGRpaWhDOTY1ZlFzOFlHcHRrbUpwUlpFQ0RLWVUzYmhTXzFRSFJYbWJwZXZsMUF3eVRNVEZRSWd3ajhlY2NEU1pWZTVrQ1dTSkFmLVJUakNXMG5pd04xT3dLU0lwVVZ0UXoybVE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 11:22:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3pveEFLd2c5OWtRdzd0VkprN1NZVFN0c08yckpvUVM5MUpGTjBhbTJQdHBib1dXRzZJTUlLSTladTl3TzBjaGRpaWhDOTY1ZlFzOFlHcHRrbUpwUlpFQ0RLWVUzYmhTXzFRSFJYbWJwZXZsMUF3eVRNVEZRSWd3ajhlY2NEU1pWZTVrQ1dTSkFmLVJUakNXMG5pd04xT3dLU0lwVVZ0UXoybVE?oc=5",
+          "summary": "Azerbaijan denies report of link to German spy scandal Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3090,24 +3180,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3f1cdf3edf66",
-      "title": "Students to learn more about farming and the technology used on a farm - NEWS10 ABC",
-      "summary": "Students to learn more about farming and the technology used on a farm NEWS10 ABC",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkI2X3JFUUdQRC1acG90SWc4NDdVRUJTcVRaX0JTV1VNejl1bndVRnNRV3hfb3RwOXQtTldIcjU1aXIxX0pUOGdNX1BVZHdLVUo1eWhrc1BsS3RzeVh0by1Udkgwa0lZZ19rYVVoalVRdjFyTmZEMjJ6X0EwZzBWd3hxaEt1VV9EVW42aGJWZWoyNmZEdmxxaUNMOGdNTU04VHZ6OEdyaUl1bV94MVE?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 10:11:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkI2X3JFUUdQRC1acG90SWc4NDdVRUJTcVRaX0JTV1VNejl1bndVRnNRV3hfb3RwOXQtTldIcjU1aXIxX0pUOGdNX1BVZHdLVUo1eWhrc1BsS3RzeVh0by1Udkgwa0lZZ19rYVVoalVRdjFyTmZEMjJ6X0EwZzBWd3hxaEt1VV9EVW42aGJWZWoyNmZEdmxxaUNMOGdNTU04VHZ6OEdyaUl1bV94MVE?oc=5",
-          "summary": "Students to learn more about farming and the technology used on a farm NEWS10 ABC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "5bca1e55bc2d",
       "title": "Solingen feiert großes Handball-Fest",
       "summary": "Freudentag für die Handballer des Bergischen HC, die ihre Fans mit dem ersten Heimsieg auf internationaler Bühne verzückten.",
@@ -3121,24 +3193,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/wdr/wdr-solingen-feiert-grosses-handball-fest-100.html",
           "summary": "Freudentag für die Handballer des Bergischen HC, die ihre Fans mit dem ersten Heimsieg auf internationaler Bühne verzückten."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1b3fb672bfb4",
-      "title": "AI governance’s real gap is accountability, not technology - CIO",
-      "summary": "AI governance’s real gap is accountability, not technology CIO",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3dyZTdrWV9LOWM3S3RkdEZJc0pIQ1JGYnFFVG9TNVhZNGRENTVSSC1PTDBLUkVMT0ZRRm5TXzFieFh5VGh5SUYzWnl6dlRVNTRYeG9oS2lDUmUzejk4S29ielA5bjFvSGp4SnhnNVp6SF9KOGZoOUpEOVpEbkVEaXA1VXZwdUFLejRkSjR0OWJ4eU52WDJEaUU0QzdRQQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 10:04:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3dyZTdrWV9LOWM3S3RkdEZJc0pIQ1JGYnFFVG9TNVhZNGRENTVSSC1PTDBLUkVMT0ZRRm5TXzFieFh5VGh5SUYzWnl6dlRVNTRYeG9oS2lDUmUzejk4S29ielA5bjFvSGp4SnhnNVp6SF9KOGZoOUpEOVpEbkVEaXA1VXZwdUFLejRkSjR0OWJ4eU52WDJEaUU0QzdRQQ?oc=5",
-          "summary": "AI governance’s real gap is accountability, not technology CIO"
         }
       ],
       "sourcesCount": 1
@@ -3216,24 +3270,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1142340093fa",
-      "title": "South Korea to review military service exemption after Asian Games row",
-      "summary": "South Korea are discussing making changes to military exemptions for athletes after Asian Games controversy.",
-      "link": "https://www.bbc.co.uk/sport/articles/cqrky4y0v2pdo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 09:48:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/articles/cqrky4y0v2pdo?at_medium=RSS&at_campaign=rss",
-          "summary": "South Korea are discussing making changes to military exemptions for athletes after Asian Games controversy."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c7fedb439504",
       "title": "Masern und andere Erreger: Die vielen Gründe für das Nichtimpfen",
       "summary": "Im Bundesstaat New York wurde der Notstand ausgerufen, weil die Masern grassieren. Das liegt an einer zu geringen Impfquote – die man auch hierzulande und bei anderen Erregern kennt.",
@@ -3247,6 +3283,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/feuilleton/debatten/masern-und-andere-erreger-warum-die-impfquote-so-niedrig-ist-201295216.html",
           "summary": "Im Bundesstaat New York wurde der Notstand ausgerufen, weil die Masern grassieren. Das liegt an einer zu geringen Impfquote – die man auch hierzulande und bei anderen Erregern kennt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7c382d86547e",
+      "title": "Ken Bridges explores Mary L. Good's impact on science, technology - Lubbock Avalanche-Journal",
+      "summary": "Ken Bridges explores Mary L. Good's impact on science, technology Lubbock Avalanche-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYUJ4dkpJMGtXMS00UmdHaXV4c1J2dU8yMG00V0RJYVBCVm01ZDRhSlNwbXR3TVpYVk11TEdIdkxTSFdCNlNqbzBjSWI4Z0NSUVQ5cW9ycHk2R215ZkFzVW1uazN5dmk4a1ZGdkdKSVlkc2dhRXZUMHdqSy1kWUlaaGQyQ3BVcloyTzRtb2JuVUNZTGpIZlRNRnYyQ1p3RTV1cXZGMTFsaldMNFR0SjIza3NKZW1wZW1mdGNSTnZJSHhOaldGX3FaZ0NWSi1qSzRE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 09:46:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYUJ4dkpJMGtXMS00UmdHaXV4c1J2dU8yMG00V0RJYVBCVm01ZDRhSlNwbXR3TVpYVk11TEdIdkxTSFdCNlNqbzBjSWI4Z0NSUVQ5cW9ycHk2R215ZkFzVW1uazN5dmk4a1ZGdkdKSVlkc2dhRXZUMHdqSy1kWUlaaGQyQ3BVcloyTzRtb2JuVUNZTGpIZlRNRnYyQ1p3RTV1cXZGMTFsaldMNFR0SjIza3NKZW1wZW1mdGNSTnZJSHhOaldGX3FaZ0NWSi1qSzRE?oc=5",
+          "summary": "Ken Bridges explores Mary L. Good's impact on science, technology Lubbock Avalanche-Journal"
         }
       ],
       "sourcesCount": 1
@@ -3355,6 +3409,24 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0RndVdtYm83NXhpaEJVTkdXVU45TWxTWUk5MUUxME9JTlZjeTJYTUlkRDVFNGdDUnhfa21SRkJNMlVUY3hiNURnNnQzZ3Z4T291MFhMVlhsQlpsYVBUNXBuNU5XMlNXWUNUbmYxa2JldkFiTUk0SDd6Ty1RM1kwd3pBWHVkb2FUaEJGSV9JUmdLbnZpSVcwcGlUbVNNUQ?oc=5",
           "summary": "Battling regulatory complexity in the international voice sector Capacity Media"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c2c7258e4efe",
+      "title": "Andrew Tate Extradition Explained: 42 UK Charges and 81 Days in Miami Custody With No Final Hearing - inkl",
+      "summary": "Andrew Tate Extradition Explained: 42 UK Charges and 81 Days in Miami Custody With No Final Hearing inkl",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjFTZ2FNNnk3SHhuZTNqTEo3dkhTSWZqUzJZTnRnQnJGcm9EV1hiU0xIeTRxY0VhY1dBWGpWTmxzelV0ZFczbm5HX1J1WTFjZ25qWjZ0Zi1qaVNCSkJwZGlwd25BUndTanprbWRJQWpraVg4bTZFR3VTMXdiNjRvOTZMSjVWNWhZVU1MSEFENGpSNGhWcEIyVzVHX0dGR0V1MS14M3Vwalg2ck1jUDVEMDhxc3IydExpUzBlVVEwYWJydw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 09:19:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjFTZ2FNNnk3SHhuZTNqTEo3dkhTSWZqUzJZTnRnQnJGcm9EV1hiU0xIeTRxY0VhY1dBWGpWTmxzelV0ZFczbm5HX1J1WTFjZ25qWjZ0Zi1qaVNCSkJwZGlwd25BUndTanprbWRJQWpraVg4bTZFR3VTMXdiNjRvOTZMSjVWNWhZVU1MSEFENGpSNGhWcEIyVzVHX0dGR0V1MS14M3Vwalg2ck1jUDVEMDhxc3IydExpUzBlVVEwYWJydw?oc=5",
+          "summary": "Andrew Tate Extradition Explained: 42 UK Charges and 81 Days in Miami Custody With No Final Hearing inkl"
         }
       ],
       "sourcesCount": 1
@@ -3977,24 +4049,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c6a2ac15972a",
-      "title": "Porsche braces for era of lower sales as it leans in to luxury - Reuters",
-      "summary": "Porsche braces for era of lower sales as it leans in to luxury Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnNpamdWeHNkVFlCcDZNVWMxS3VOd2ZOYlBDVWt0X3Njd0Y3a0R1Si1jaFVfOUtGd01YckVTRW9leWJ1dWJLMEtfMjJaTGVZQWxQVkNrSzd6S2J6ei1rbDlHUXU4SzBwUWl6R0FpSEJxRWVPODV6Y1ZkVVlKZDlDX1VtZ09pcDhiQllEZVZuRW1mQUVpUkM4Zm9YaEl6SkRJZGt4V1FFWFdkWHJ1NHZ4T3hXT190LUNab3c?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 06:02:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnNpamdWeHNkVFlCcDZNVWMxS3VOd2ZOYlBDVWt0X3Njd0Y3a0R1Si1jaFVfOUtGd01YckVTRW9leWJ1dWJLMEtfMjJaTGVZQWxQVkNrSzd6S2J6ei1rbDlHUXU4SzBwUWl6R0FpSEJxRWVPODV6Y1ZkVVlKZDlDX1VtZ09pcDhiQllEZVZuRW1mQUVpUkM4Zm9YaEl6SkRJZGt4V1FFWFdkWHJ1NHZ4T3hXT190LUNab3c?oc=5",
-          "summary": "Porsche braces for era of lower sales as it leans in to luxury Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "92a0a9139316",
       "title": "BR-Recherche zu Pestiziden - Mehr als 50 Wirkstoffe scheitern an EU-Prüfung",
       "summary": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen.",
@@ -4206,24 +4260,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHBUdHYtYXUwX1dpejJ0RTBVd1JJS0NxODBhQmN6T0w3NVQ5VWJOZ0c0NTNYZzVoM0FoSk44Rkc1UGlneDZ4WjhIY29XbWZhdVJPMmwwRFY0ZzRqTUJSMHRqN1ZXWUpWSzJ3ZW56dncxdExkYTVvVFZMclQ0eXdoOUkzM00zeHJheWhrV1FJa0JWQnNHSkw1MXJfVnpLdkpwMDc1VHVzQlJRdmtPRGZxZ0JfS1Jld9IBuwFBVV95cUxQWHQwYUc5dFczbUJKWmFJLXVXYjVlOE1rbHFteHlTaGJUSmU5UlNzZ042eG5KRkdRTXVhQzdhQ2YwRUJPeEZNOWliUV83NTdSQUJCdXpZcnpadDlISUJjRUw5b09BZnJMQk5TbjZEQVpWeFJsbm9LbWpFZk1ZdktKM2drRUZhcE0wOHl0U1NjMHJKSFoyUk5vZy1RU0ZqbThDVG5Lb2R5dFdMNEV2Rkh0S250TXBxZVZrNmRZ?oc=5",
           "summary": "Border Report Live: International trade amidst Mexican fuel thefts and USMCA failed talks WAVY.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a31d4d1fbb64",
-      "title": "Shares of Japan beer makers fall after raids over cartel suspicion - Reuters",
-      "summary": "Shares of Japan beer makers fall after raids over cartel suspicion Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhtWHU3RnZyOTdISkJHakFfTUd2WlZuUzNzUlZObWNNYjlkb2JYcUlTekdZZk1wNnJPalF4Y2plX0JkUnhDMURVS3dkQW1ldkxNMVJJbUdZQ1FHUEdwWjVGcGo2MDBUcHUySVNZeG5STEQzbG5Sa181bklGaXdJNUY3YTdmUTl0Z1VzUEFGRG05bHYzSGxybUxKTDc0TjV0bXRoX1NpNEhRdWxCVkQtbUVOVk1OM1hBTG5tag?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 03:30:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhtWHU3RnZyOTdISkJHakFfTUd2WlZuUzNzUlZObWNNYjlkb2JYcUlTekdZZk1wNnJPalF4Y2plX0JkUnhDMURVS3dkQW1ldkxNMVJJbUdZQ1FHUEdwWjVGcGo2MDBUcHUySVNZeG5STEQzbG5Sa181bklGaXdJNUY3YTdmUTl0Z1VzUEFGRG05bHYzSGxybUxKTDc0TjV0bXRoX1NpNEhRdWxCVkQtbUVOVk1OM1hBTG5tag?oc=5",
-          "summary": "Shares of Japan beer makers fall after raids over cartel suspicion Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5180,24 +5216,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "9867619ce40d",
-      "title": "Routeware technology helps Clearwater’s Solid Waste team - City of Clearwater",
-      "summary": "Routeware technology helps Clearwater’s Solid Waste team City of Clearwater",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlp3bVVXbmhzdEQwcUo1STBNaTFtR2V0RGNOclpZSmxYM0tMcDhVT3ZHT2JDY1JXbm5yeXVoTWoxQ2doUndWaE92UzRtbFB4US1KVzlmYmFjVjNKQXRtaG14N0N2WVBtV1ZYUWtaa1NMVFNvdWFLSTFVc2hOX09yUGRlTUJCSkV2cm5XbWNkNlJFVXJOMzFfSkRQcXBUdjhibl9Idkl1NWFTcERUOUQ1S1pESEplN09rb3F3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 20:37:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlp3bVVXbmhzdEQwcUo1STBNaTFtR2V0RGNOclpZSmxYM0tMcDhVT3ZHT2JDY1JXbm5yeXVoTWoxQ2doUndWaE92UzRtbFB4US1KVzlmYmFjVjNKQXRtaG14N0N2WVBtV1ZYUWtaa1NMVFNvdWFLSTFVc2hOX09yUGRlTUJCSkV2cm5XbWNkNlJFVXJOMzFfSkRQcXBUdjhibl9Idkl1NWFTcERUOUQ1S1pESEplN09rb3F3?oc=5",
-          "summary": "Routeware technology helps Clearwater’s Solid Waste team City of Clearwater"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "27922cefa751",
       "title": "Deutsche U21 fährt dank Sieg gegen Georgien zur EM 2027",
       "summary": "Die deutsche U21 hat sich durch einen Heimsieg gegen Georgien die EM-Qualifikation gesichert.",
@@ -5429,24 +5447,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
           "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0f245914faf8",
-      "title": "Amasya'da hayvan pazarları geçici olarak kapatıldı",
-      "summary": "Amasya Valiliği, kentteki hayvan pazarlarının şap hastalığı nedeniyle geçici olarak kapatıldığını açıkladı.",
-      "link": "https://www.trthaber.com/haber/turkiye/amasyada-hayvan-pazarlari-gecici-olarak-kapatildi-959308.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 18:20:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/amasyada-hayvan-pazarlari-gecici-olarak-kapatildi-959308.html",
-          "summary": "Amasya Valiliği, kentteki hayvan pazarlarının şap hastalığı nedeniyle geçici olarak kapatıldığını açıkladı."
         }
       ],
       "sourcesCount": 1
