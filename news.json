@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:05:16.443794+00:00",
+  "updated": "2026-10-07T22:39:40.163878+00:00",
   "articles": [
     {
       "id": "195620ff8a53",
@@ -15,24 +15,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/kriminalitaet/aktenzeichen-xy-international-7-oktober-2026-erste-ergebnisse-100.html",
           "summary": "Bei den aktuellen Fällen von Aktenzeichen XY ist die Polizei wieder auf Ihre Mithilfe angewiesen. Erste vielversprechende Zuschauerhinweise gingen bereits ein."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 7 Oct 2026 22:26:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -105,6 +87,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/kriminalitaet/aktenzeichen-xy-oktober-2026-babyleichen-deutschland-tschechien-100.html",
           "summary": "2011 und 2012 wurden in Schwarzenberg (Erzgebirge) und bei Rotava (Tschechien) zwei Babyleichen gefunden. Ermittlungen der Polizei ergaben, dass die beiden Geschwister waren."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "aec50ba6416a",
+      "title": "Junger Niederländer spurlos verschwunden",
+      "summary": "Der Niederländer Sidney Lute schloss 2016 die Schule ab und brach alleine zu einer Reise auf, um über seine Zukunft nachzudenken. Von ihr kehrte der damals 19-Jährige nicht zurück.",
+      "link": "https://www.zdfheute.de/panorama/kriminalitaet/aktenzeichen-xy-oktober-2026-vermisst-sidney-lute-niederlaender-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "gesellschaft",
+      "time": "Wed, 7 Oct 2026 20:15:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/kriminalitaet/aktenzeichen-xy-oktober-2026-vermisst-sidney-lute-niederlaender-100.html",
+          "summary": "Der Niederländer Sidney Lute schloss 2016 die Schule ab und brach alleine zu einer Reise auf, um über seine Zukunft nachzudenken. Von ihr kehrte der damals 19-Jährige nicht zurück."
         }
       ],
       "sourcesCount": 1
@@ -758,6 +758,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b3203c3da3a5",
+      "title": "Rice close to agreeing new Arsenal deal",
+      "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 22:21:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+          "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "bd5c9c8230e2",
       "title": "Suudi Arabistan: Abha ve Riyad'daki havalimanlarına saldırılarda 3 kişi öldü, 36 kişi yaralandı",
       "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Abha'daki Abha Uluslararası Havalimanı ile başkent Riyad'daki Kral Halid Uluslararası Havalimanı'na dün ve bugün düzenlenen saldırılarda 3 kişinin hayatını kaybettiğini, 36 kişinin yaralandığını bildirdi.",
@@ -789,6 +807,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
           "summary": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzlichen Finanzhilfen in Aussicht zu stellen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fb03e7e71a23",
+      "title": "Venezuela's Maduro to face new US charges over alleged torture of Americans, official says - Reuters",
+      "summary": "Venezuela's Maduro to face new US charges over alleged torture of Americans, official says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSG5yaGEtUGxrR1N4M2hiQjhDU0Jzd083RlNNX1FNd3NxM3hKRUxkT09sUGY2M1ZxaGc2aHhaYjZUdXNveDNhRGdzZWVZcW1XVFUxc1RSRDlKNE90bUxHM0ZWNlJLTFp5bUtJSDA3N0x6ZS1wX1hxUDJ0ZHgwTmlqMVcyX2swSkt6Ulo0UnZBOTlvamExWi1LRWd0RzJHeFBha1VWRkExblNxY0szRGhSUmEzbGF5anVsRnJZekZFRUQyb0xUaWlR?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 21:52:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSG5yaGEtUGxrR1N4M2hiQjhDU0Jzd083RlNNX1FNd3NxM3hKRUxkT09sUGY2M1ZxaGc2aHhaYjZUdXNveDNhRGdzZWVZcW1XVFUxc1RSRDlKNE90bUxHM0ZWNlJLTFp5bUtJSDA3N0x6ZS1wX1hxUDJ0ZHgwTmlqMVcyX2swSkt6Ulo0UnZBOTlvamExWi1LRWd0RzJHeFBha1VWRkExblNxY0szRGhSUmEzbGF5anVsRnJZekZFRUQyb0xUaWlR?oc=5",
+          "summary": "Venezuela's Maduro to face new US charges over alleged torture of Americans, official says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -902,9 +938,27 @@
       "sourcesCount": 1
     },
     {
+      "id": "bd166d00fd16",
+      "title": "AI companies run virtual drug trials, aim to improve success of human studies - Reuters",
+      "summary": "AI companies run virtual drug trials, aim to improve success of human studies Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 21:01:28 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
+          "summary": "AI companies run virtual drug trials, aim to improve success of human studies Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ed830c502f76",
-      "title": "The Race to Secure the Internet Is On - The Atlantic",
-      "summary": "The Race to Secure the Internet Is On The Atlantic",
+      "title": "How Long Until AI Hacks Everything? - The Atlantic",
+      "summary": "How Long Until AI Hacks Everything? The Atlantic",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFN4NXJ6VXJDd3BoeXFGUGZKVWhKTWl5MnhMOXNrbWtlQXZqYWJ6OHhLRG1xWm1sV3FUU3Z3QUNmb2haZUNvaUhuZGJzejhkU2NnNUVxUi1JNWlyX2QzNTFoMTFab0NReFdITHN3OFVtQ1B1SXhLanNIRld3LXkwcFQ0aVZWZG9qTXhMSA?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
@@ -914,7 +968,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFN4NXJ6VXJDd3BoeXFGUGZKVWhKTWl5MnhMOXNrbWtlQXZqYWJ6OHhLRG1xWm1sV3FUU3Z3QUNmb2haZUNvaUhuZGJzejhkU2NnNUVxUi1JNWlyX2QzNTFoMTFab0NReFdITHN3OFVtQ1B1SXhLanNIRld3LXkwcFQ0aVZWZG9qTXhMSA?oc=5",
-          "summary": "The Race to Secure the Internet Is On The Atlantic"
+          "summary": "How Long Until AI Hacks Everything? The Atlantic"
         }
       ],
       "sourcesCount": 1
@@ -1041,6 +1095,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/dso-rusyadaki-zaturre-vakasinda-bilgi-eksikligi-nedeniyle-risk-degerlendirmesi-yapilamiyor-959453.html",
           "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Tedros Adhanom Ghebreyesus, Rusya'nın Sibirya bölgesinde nedeni belirlenemeyen zatürre şüphesiyle bir kişinin hayatını kaybetmesinin ardından aynı hastalığa yakalandığı iddia edilen ikinci kişiyle ilgili yeterli bilgi bulunmadığını, bu nedenle kapsamlı risk değerlendirmesinin yapılamadığını belirtti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a3406d705d13",
+      "title": "The Science Behind the Nobel-Winning Technology That Controls Neurons With Light - WIRED",
+      "summary": "The Science Behind the Nobel-Winning Technology That Controls Neurons With Light WIRED",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnNkNy1IVWo3YkttYlFRT1p6WF9QZWR3TlY2cy1UZF8xTVhGMlVJN2x1SVA2Ni1ObEV1YkdST0piQzVsdmFWNEViX3BhNzFBREw0SVE0MEFPN3BjbThCdmo5RXdiWU1VYktXNF9fdVYzdjhZRlVPWlRhV3hpa0tkNkxQcnFhMFNTZHdXWHFkazhMZTFzNW91MzZ0RzZTSWJwaWk1TkdLbTRmTFNCYUE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 20:40:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnNkNy1IVWo3YkttYlFRT1p6WF9QZWR3TlY2cy1UZF8xTVhGMlVJN2x1SVA2Ni1ObEV1YkdST0piQzVsdmFWNEViX3BhNzFBREw0SVE0MEFPN3BjbThCdmo5RXdiWU1VYktXNF9fdVYzdjhZRlVPWlRhV3hpa0tkNkxQcnFhMFNTZHdXWHFkazhMZTFzNW91MzZ0RzZTSWJwaWk1TkdLbTRmTFNCYUE?oc=5",
+          "summary": "The Science Behind the Nobel-Winning Technology That Controls Neurons With Light WIRED"
         }
       ],
       "sourcesCount": 1
@@ -1254,24 +1326,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "bd166d00fd16",
-      "title": "Focus: AI companies run virtual drug trials, aim to improve success of human studies - Reuters",
-      "summary": "Focus: AI companies run virtual drug trials, aim to improve success of human studies Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 20:13:51 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
-          "summary": "Focus: AI companies run virtual drug trials, aim to improve success of human studies Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "977d60c3e7a8",
       "title": "Discovering the value of humanistic inquiry - MIT News",
       "summary": "Discovering the value of humanistic inquiry MIT News",
@@ -1357,6 +1411,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEZESFBWeUlPNk5vbnVaQ09XckxQMDZUSGxRSmowQS15UFVCQ0FlMDRhR1NtNlhBekJhSUxvdWpCYTFRQzI0RDBGN3g5cm8ySUs5U01Qa2RVY0ZZaXowZEhwNE1RSTViRkNhaUdUSTl5dnVuZ3JiTC1qNXY5MGxTNVptQWlEQ0dFY2lV?oc=5",
           "summary": "Working on AI and Technology Policy in the U.S. Senate Communications of the ACM"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3b057aeae6a2",
+      "title": "UPS Worker Missed Email, Letting China Get F-35 Parts - Bloomberg.com",
+      "summary": "UPS Worker Missed Email, Letting China Get F-35 Parts Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1VPWktSTUxRLTJQSUFXaFFZQ2lPUG1rcVIwdkhiNHp5WTRzZkhkOHVTU0F3bk5DdEhGd0ZkTUtfMGpqdF9rMi1xd2Z5VUkyT2ZMQmdwSGFBZFYtaDZfMXdlbVA5NU1wcU9YUnVpS3pmbUNxd2JDRElMeFJfc3pZWTVBb21QQ0hneTdBQTJwVTRYZjJPejFFNUhKVGVZNG55MWxUaVFNS0F1bU82Q3B1OVh3?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "local",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 19:54:14 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1VPWktSTUxRLTJQSUFXaFFZQ2lPUG1rcVIwdkhiNHp5WTRzZkhkOHVTU0F3bk5DdEhGd0ZkTUtfMGpqdF9rMi1xd2Z5VUkyT2ZMQmdwSGFBZFYtaDZfMXdlbVA5NU1wcU9YUnVpS3pmbUNxd2JDRElMeFJfc3pZWTVBb21QQ0hneTdBQTJwVTRYZjJPejFFNUhKVGVZNG55MWxUaVFNS0F1bU82Q3B1OVh3?oc=5",
+          "summary": "UPS Worker Missed Email, Letting China Get F-35 Parts Bloomberg.com"
         }
       ],
       "sourcesCount": 1
@@ -1637,24 +1709,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3b057aeae6a2",
-      "title": "UPS Worker Missed Email, Letting China Get F-35 Parts - Bloomberg.com",
-      "summary": "UPS Worker Missed Email, Letting China Get F-35 Parts Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1VPWktSTUxRLTJQSUFXaFFZQ2lPUG1rcVIwdkhiNHp5WTRzZkhkOHVTU0F3bk5DdEhGd0ZkTUtfMGpqdF9rMi1xd2Z5VUkyT2ZMQmdwSGFBZFYtaDZfMXdlbVA5NU1wcU9YUnVpS3pmbUNxd2JDRElMeFJfc3pZWTVBb21QQ0hneTdBQTJwVTRYZjJPejFFNUhKVGVZNG55MWxUaVFNS0F1bU82Q3B1OVh3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "local",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 19:17:08 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1VPWktSTUxRLTJQSUFXaFFZQ2lPUG1rcVIwdkhiNHp5WTRzZkhkOHVTU0F3bk5DdEhGd0ZkTUtfMGpqdF9rMi1xd2Z5VUkyT2ZMQmdwSGFBZFYtaDZfMXdlbVA5NU1wcU9YUnVpS3pmbUNxd2JDRElMeFJfc3pZWTVBb21QQ0hneTdBQTJwVTRYZjJPejFFNUhKVGVZNG55MWxUaVFNS0F1bU82Q3B1OVh3?oc=5",
-          "summary": "UPS Worker Missed Email, Letting China Get F-35 Parts Bloomberg.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2b9f7e56377f",
       "title": "Edgewater acquires scientific computing provider - Washington Technology",
       "summary": "Edgewater acquires scientific computing provider Washington Technology",
@@ -1866,24 +1920,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
           "summary": "Die Anleger haben sich nach den jüngsten Gewinntagen heute wieder zurückgezogen. Steigende Ölpreise und Anleiherenditen drücken die Stimmung."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b3203c3da3a5",
-      "title": "Rice close to agreeing new Arsenal deal",
-      "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 18:30:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
-          "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport."
         }
       ],
       "sourcesCount": 1
@@ -2614,24 +2650,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0adc5cfad765",
-      "title": "The unexpected ways that AI is reshaping the U.S. economy - The Washington Post",
-      "summary": "The unexpected ways that AI is reshaping the U.S. economy The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 16:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
-          "summary": "The unexpected ways that AI is reshaping the U.S. economy The Washington Post"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2c2d52cbb911",
       "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
       "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen.",
@@ -2807,24 +2825,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5",
           "summary": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "915568472f5a",
-      "title": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules - Reuters",
-      "summary": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 15:22:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
-          "summary": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules Reuters"
         }
       ],
       "sourcesCount": 1
