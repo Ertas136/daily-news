@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:08:49.329623+00:00",
+  "updated": "2026-10-08T14:43:50.663036+00:00",
   "articles": [
     {
       "id": "2e77dd9064dc",
@@ -128,6 +128,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "d1948c05b448",
+      "title": "Chemie-Nobelpreis: Forschung ebnete Weg für Arzneimittel",
+      "summary": "Entscheidende Entdeckung für Arzneimittel: Der diesjährige Chemie-Nobelpreis geht an den französischen Forscher Henri Kagan und den japanischen Chemiker Kenso Soai.",
+      "link": "https://www.zdfheute.de/wissen/chemie-nobelpreis-2026-kagan-soai-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Wed, 7 Oct 2026 12:50:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wissen/chemie-nobelpreis-2026-kagan-soai-100.html",
+          "summary": "Entscheidende Entdeckung für Arzneimittel: Der diesjährige Chemie-Nobelpreis geht an den französischen Forscher Henri Kagan und den japanischen Chemiker Kenso Soai."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b8f551e59c2c",
       "title": "Bodensee trocknet weiter aus",
       "summary": "Boote liegen auf dem Trockenen: Der Wasserstand des Bodensees ist auf einem historischen Tief. Experten rechnen erst nach einem regenreichen Herbst und Winter mit einer Erholung.",
@@ -231,24 +249,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
           "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f0497d903225",
-      "title": "Berlin zieht Olympia-Bewerbung zurück",
-      "summary": "Zuletzt waren Berlin ohnehin nur noch Außenseiterchancen eingeräumt worden. Nun will die Stadt ihre Bewerbung für die Olympischen Spiele zurückziehen.",
-      "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 23 Sep 2026 18:23:08 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
-          "summary": "Zuletzt waren Berlin ohnehin nur noch Außenseiterchancen eingeräumt worden. Nun will die Stadt ihre Bewerbung für die Olympischen Spiele zurückziehen."
         }
       ],
       "sourcesCount": 1
@@ -704,24 +704,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "d6334e94c33e",
-      "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-      "summary": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
-      "link": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 22:10:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
-          "summary": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "5082b40a6bf6",
       "title": "Russia says plague institute worker's death does not risk an epidemic - Reuters",
       "summary": "Russia says plague institute worker's death does not risk an epidemic Reuters",
@@ -753,24 +735,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
           "summary": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6d814b846339",
-      "title": "Rahm to leave LIV Golf over 'unacceptable' terms",
-      "summary": "Jon Rahm will leave LIV Golf after deeming the terms for LIV 2.0 \"unacceptable\", his lawyer has told a bankruptcy court hearing.",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/c65yngj00477o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 20:56:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/golf/articles/c65yngj00477o?at_medium=RSS&at_campaign=rss",
-          "summary": "Jon Rahm will leave LIV Golf after deeming the terms for LIV 2.0 \"unacceptable\", his lawyer has told a bankruptcy court hearing."
         }
       ],
       "sourcesCount": 1
@@ -1326,24 +1290,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f81270de093a",
-      "title": "How an 'absolute fluke' exposed sandpapergate scandal",
-      "summary": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 14:28:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
-          "summary": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2cb1ace95344",
       "title": "Özel bakım merkezlerinde yeni dönem",
       "summary": "Özel Bakım Merkezlerinde yeni dönem başladı. Resmi Gazete'de yayımlanan yönetmelikle merkez açma, ödeme, yerleştirme ve faaliyetlere standart getirildi.",
@@ -1771,6 +1717,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-endustrisi-gecen-ay-3-milyar-940-milyon-dolarlik-ihracata-imza-atti-959377.html",
           "summary": "Uludağ Otomotiv Endüstrisi İhracatçıları Birliğinden (OİB) yapılan açıklamaya göre, Türkiye ihracatının lider sektörü otomotiv endüstrisinin eylül ayı dış satımı 3 milyar 940 milyon dolar olarak gerçekleşti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e9ed45ef5ce8",
+      "title": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers - Rimac Newsroom",
+      "summary": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers Rimac Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdE45bEhCSWRUOWNUUTc5SXdKb1hEZ0ItWldGSmRhOFh2NTFrTUgxRDRMZzI5VFpicld1eUdHeE9wczlxQWhULTd3ak9FSXl3RGJXODEtZ2VabEMwaUw3VWZ4dWRJMnA4MnNkWGFFcjZlcHM5NHRMM3FTVEFfMnozZU95N1FjeGlrWDQycF9qYVJ0SU11LWdoc3Y2dmJ4RkY0LXE5R2x6TWtmcVBLWXBWNTBLWTJYWElvRGIyV0I2bE9tMlNVQnVJbVdfMlNHWUI2VlVxaFg5UWVqdWsx?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:31:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdE45bEhCSWRUOWNUUTc5SXdKb1hEZ0ItWldGSmRhOFh2NTFrTUgxRDRMZzI5VFpicld1eUdHeE9wczlxQWhULTd3ak9FSXl3RGJXODEtZ2VabEMwaUw3VWZ4dWRJMnA4MnNkWGFFcjZlcHM5NHRMM3FTVEFfMnozZU95N1FjeGlrWDQycF9qYVJ0SU11LWdoc3Y2dmJ4RkY0LXE5R2x6TWtmcVBLWXBWNTBLWTJYWElvRGIyV0I2bE9tMlNVQnVJbVdfMlNHWUI2VlVxaFg5UWVqdWsx?oc=5",
+          "summary": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers Rimac Newsroom"
         }
       ],
       "sourcesCount": 1
@@ -2257,6 +2221,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
           "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3d690992b82d",
+      "title": "Physik-Nobelpreis 2026 geht an Astrophysiker Francis Halzen",
+      "summary": "Der Physik-Nobelpreis geht an Francis Halzen. Er wird für den Nachweis von Neutrinos - \"Geisterteilchen\" - mit dem riesigen \"IceCube\"-Detektor am Südpol geehrt.",
+      "link": "https://www.zdfheute.de/wissen/physik-nobelpreis-2026-francis-halzen-neutrinos-astrophysik-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "wissenschaft",
+      "time": "Tue, 6 Oct 2026 13:03:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wissen/physik-nobelpreis-2026-francis-halzen-neutrinos-astrophysik-100.html",
+          "summary": "Der Physik-Nobelpreis geht an Francis Halzen. Er wird für den Nachweis von Neutrinos - \"Geisterteilchen\" - mit dem riesigen \"IceCube\"-Detektor am Südpol geehrt."
         }
       ],
       "sourcesCount": 1
@@ -2858,9 +2840,14 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
           "summary": "The order affecting two planned data centres follows concerns over forest clearance."
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREtxZU1OaUxaLURXN296RVMta2hTQlJpZ282RnR0ZXk4RDJwS014YnFEY1V2VHRKNmdqODZYMDFsR1hrczAtdEF6MHI3QW53d1hVRGM0eDBUZFJ4TjhWUTNqREczZWRtU1BzT1U0TXp0ZlF0Wkl1MXg0TTRTN1FYb1NDNlM4c1pxR0d1TmlFcWhNbmxzS3FfaXlBd3BrR1Bud1FqeUJJVkFBSUpia1pVYjJmMXFFZ9IBuwFBVV95cUxQdVpWT1piWGVJZF90SGNlVWZ2NDRiNkprZzZYS0dxU3hJanVBNFVZcnV3cnBHWWlNT3JtT2xqTXV5MUFsYldzMTU4U1Q1d1JzekVMSHRnOHhrWjgyT2MtZllnV195RHU5OFFCMHBvZ0UyaDY5U2loZzhaRjBfTHloVlNrNGZNUUhHR043dndFNkY1ckhvUUdqWDFYd1RyN1pBNHJzdkprZWdkNDBLbkc0XzNHR0Z2NHZQemln?oc=5",
+          "summary": "Finland orders halt to work on Google data centre sites Al Jazeera"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "51222f72d9de",
@@ -2930,14 +2917,9 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html",
           "summary": "Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos - also Elementarteilchen - am Südpol, wie das Nobelkomitee mitteilte."
-        },
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1660638.html",
-          "summary": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "4ba860bffded",
@@ -3151,42 +3133,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/hursat-2027de-goreve-baslayacak-959266.html",
           "summary": "TUSAŞ Genel Müdürü Mehmet Demiroğlu, HÜRSAT-1 uydusunun gelecek yılın ortalarında, HÜRSAT-2'nin de ROKETSAN'ın ŞİMŞEK-1 roketiyle 2028-2029 bandında fırlatılmasının planlandığını açıkladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "63e64baa2262",
-      "title": "The 6 next big things in computing, chips, and foundational technology for 2026 - Fast Company",
-      "summary": "The 6 next big things in computing, chips, and foundational technology for 2026 Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmxkS2ZSZDVPeVlvVFNaWFYxSm95em5KT21aM25uRExFS3pUSmhwdVR0cExZTWJMZUFRV25YZkF1Z2hTejJxdFNscHBYblhTamdXNXBZMXdienpFd25OQWFadGl5SFlXcXVuTzY0dXVYWWZiSU1NdnJXdm01MkxjUUN6d0tpUy13TnRZZ19acU91UHp4ZTlkUFhXT0ZYRVhwdmxrZTdxajc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 11:06:54 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmxkS2ZSZDVPeVlvVFNaWFYxSm95em5KT21aM25uRExFS3pUSmhwdVR0cExZTWJMZUFRV25YZkF1Z2hTejJxdFNscHBYblhTamdXNXBZMXdienpFd25OQWFadGl5SFlXcXVuTzY0dXVYWWZiSU1NdnJXdm01MkxjUUN6d0tpUy13TnRZZ19acU91UHp4ZTlkUFhXT0ZYRVhwdmxrZTdxajc?oc=5",
-          "summary": "The 6 next big things in computing, chips, and foundational technology for 2026 Fast Company"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b4df97cda809",
-      "title": "Google enters massive 3.6-GW power deal with Constellation Energy - Yahoo! Finance Canada",
-      "summary": "Google enters massive 3.6-GW power deal with Constellation Energy Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxblBFYVBZQjZxS01QNDFSZ01tVVZtLWJjTFB1OGtqS1J5bnNfVmtCY1RDaUxJcFJOTHhIQ1IxdzNtRXJVV2I2TlpFZjMyOWZOd1BMZzgyVDNxNDhhTWU1aXcyUTk2VDEtLWdTR3dmLU0xTC01VEprWTcxbFlMb28?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 06 Oct 2026 10:36:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxblBFYVBZQjZxS01QNDFSZ01tVVZtLWJjTFB1OGtqS1J5bnNfVmtCY1RDaUxJcFJOTHhIQ1IxdzNtRXJVV2I2TlpFZjMyOWZOd1BMZzgyVDNxNDhhTWU1aXcyUTk2VDEtLWdTR3dmLU0xTC01VEprWTcxbFlMb28?oc=5",
-          "summary": "Google enters massive 3.6-GW power deal with Constellation Energy Yahoo! Finance Canada"
         }
       ],
       "sourcesCount": 1
@@ -3570,6 +3516,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "cc8ecaedfcb8",
+      "title": "Was wir von Nobelpreisträgerin Anne Carson lernen können",
+      "summary": "Die Literaturnobelpreisträgerin Anne Carson schreibt in ihren Büchern über Verlust und Schmerz. Was können wir von ihr über den Umgang mit diesen Gefühlen lernen?",
+      "link": "https://www.zdfheute.de/panorama/anne-carson-literatur-nobelpreis-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 8 Oct 2026 16:13:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/anne-carson-literatur-nobelpreis-100.html",
+          "summary": "Die Literaturnobelpreisträgerin Anne Carson schreibt in ihren Büchern über Verlust und Schmerz. Was können wir von ihr über den Umgang mit diesen Gefühlen lernen?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b6c7b9d35679",
       "title": "Schlagzeilen",
       "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
@@ -3601,6 +3565,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
           "summary": "Im Jahr 2024 beliefen sich Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Besonders große Unterschiede gibt es vor allem zwischen den Geschlechtern und im Alter."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "abfcd4075e30",
+      "title": "Versteigerung von \"Thriller\"-Jacke",
+      "summary": "Die rote Lederjacke aus \"Thriller\" von Michael Jackson: Ein zentrales Stück Popgeschichte kommt im Dezember unter den Hammer.",
+      "link": "https://www.zdfheute.de/video/hallo-deutschland/michael-jackson-jacke-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 8 Oct 2026 15:05:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/hallo-deutschland/michael-jackson-jacke-100.html",
+          "summary": "Die rote Lederjacke aus \"Thriller\" von Michael Jackson: Ein zentrales Stück Popgeschichte kommt im Dezember unter den Hammer."
         }
       ],
       "sourcesCount": 1
@@ -3683,24 +3665,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "92a2cab28378",
-      "title": "Bundesregierung hebt Wachstumsprognose an",
-      "summary": "\"Die deutsche Wirtschaft befindet sich auf Wachstumskurs\": Das Wirtschaftsministerium von Katherina Reiche erwartet mehr Wachstum und korrigiert seine Prognosen nach oben.",
-      "link": "https://www.zdfheute.de/politik/deutschland/wirtschaft-prognose-bundesregierung-wachstum-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 12:57:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/wirtschaft-prognose-bundesregierung-wachstum-100.html",
-          "summary": "\"Die deutsche Wirtschaft befindet sich auf Wachstumskurs\": Das Wirtschaftsministerium von Katherina Reiche erwartet mehr Wachstum und korrigiert seine Prognosen nach oben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "90d061756a56",
       "title": "Wie die USA hinrichten und warum es Probleme gibt",
       "summary": "Eine Frau überlebt die Giftspritze, Trump genehmigt eine Hinrichtung per Erschießungskommando: Welche Hinrichtungsmethoden in den USA erlaubt sind und warum Exekutionen misslingen.",
@@ -3773,24 +3737,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "54dd8ecb0d8f",
-      "title": "Freden: Brücke erst saniert, jetzt doch Abriss",
-      "summary": "Viele Brücken in Deutschland müssen saniert werden. Ein Fall aus Niedersachsen zeigt, dass eine Sanierung nicht immer den erhofften Erfolg bringt.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/freden-bruecke-abriss-nach-sanierung-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/freden-bruecke-abriss-nach-sanierung-100.html",
-          "summary": "Viele Brücken in Deutschland müssen saniert werden. Ein Fall aus Niedersachsen zeigt, dass eine Sanierung nicht immer den erhofften Erfolg bringt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8e4669d5a466",
       "title": "Gesundheits-Check für Sibirische Tiger-Drillinge",
       "summary": "Im Tierpark Ströhen sind am 20. August 2026 Amur-Tiger-Drillinge zur Welt gekommen.",
@@ -3804,6 +3750,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
           "summary": "Im Tierpark Ströhen sind am 20. August 2026 Amur-Tiger-Drillinge zur Welt gekommen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "54dd8ecb0d8f",
+      "title": "Freden: Brücke erst saniert, jetzt doch Abriss",
+      "summary": "Viele Brücken in Deutschland müssen saniert werden. Ein Fall aus Niedersachsen zeigt, dass eine Sanierung nicht immer den erhofften Erfolg bringt.",
+      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/freden-bruecke-abriss-nach-sanierung-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 8 Oct 2026 12:00:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/freden-bruecke-abriss-nach-sanierung-100.html",
+          "summary": "Viele Brücken in Deutschland müssen saniert werden. Ein Fall aus Niedersachsen zeigt, dass eine Sanierung nicht immer den erhofften Erfolg bringt."
         }
       ],
       "sourcesCount": 1
@@ -3858,42 +3822,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/keine-talkshow-fleischhauer-stegner-afd-verbot-brandmauer-100.html",
           "summary": "SPD-Politiker Ralf Stegner wirbt beim Talk mit Jan Fleischhauer für ein AfD-Verbotsverfahren und die Brandmauer: Mit Faschisten dürfe es keine Zusammenarbeit geben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7054ac53a266",
-      "title": "Straße von Hormus: Öl-Transporte und Angriffe nehmen zu",
-      "summary": "Es fließt wohl wieder mehr Öl durch die Straße von Hormus. Gleichzeitig nehmen Angriffe auf Schiffe zu.",
-      "link": "https://www.zdfheute.de/politik/ausland/iran-hormus-oel-schiffe-angriff-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 8 Oct 2026 09:29:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/iran-hormus-oel-schiffe-angriff-100.html",
-          "summary": "Es fließt wohl wieder mehr Öl durch die Straße von Hormus. Gleichzeitig nehmen Angriffe auf Schiffe zu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f18f5890a67c",
-      "title": "Banaszak will, dass es bei der Linken kracht",
-      "summary": "Grünen-Chef Felix Banaszak will einen Konflikt in der Linken. CDU-Politiker Mathias Middelberg stützt den \"False-Flag\"-Verdacht des Bundeskanzlers gegen Grüne, SPD und Linke.",
-      "link": "https://www.zdfheute.de/politik/deutschland/lanz-banaszak-middelberg-debatte-linke-afd-100.html",
-      "sourceName": "ZDF",
-      "region": "local",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 08:24:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/lanz-banaszak-middelberg-debatte-linke-afd-100.html",
-          "summary": "Grünen-Chef Felix Banaszak will einen Konflikt in der Linken. CDU-Politiker Mathias Middelberg stützt den \"False-Flag\"-Verdacht des Bundeskanzlers gegen Grüne, SPD und Linke."
         }
       ],
       "sourcesCount": 1
@@ -4187,6 +4115,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "5467a0d36a15",
+      "title": "ABD'li milyarder Bezos, Ayda kalıcı üs kurmayı planladıklarını açıkladı",
+      "summary": "Amazon ve uzay şirketi Blue Origin'in kurucusu ABD'li milyarder Jeff Bezos, Ay’a kısa süreli seferler yerine kalıcı ve ekonomik olarak sürdürülebilir bir üs kurmak amacıyla gitmeyi planladıklarını söyledi.",
+      "link": "https://www.trthaber.com/haber/dunya/abdli-milyarder-bezos-ayda-kalici-us-kurmayi-planladiklarini-acikladi-959559.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 17:38:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/abdli-milyarder-bezos-ayda-kalici-us-kurmayi-planladiklarini-acikladi-959559.html",
+          "summary": "Amazon ve uzay şirketi Blue Origin'in kurucusu ABD'li milyarder Jeff Bezos, Ay’a kısa süreli seferler yerine kalıcı ve ekonomik olarak sürdürülebilir bir üs kurmak amacıyla gitmeyi planladıklarını söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b9b1a8644f44",
+      "title": "Köln gegen Gladbach: Wagner-Endspiel bei Blessin-Debüt?",
+      "summary": "Gladbachs neuer Coach debütiert im Derby, in dem der Kölner Coach wackelt. Das Team des Bundesliga Updates diskutiert die Trainer-Fragen am Rhein.",
+      "link": "https://www.sportschau.de/fussball/bundesliga/warum-el-mala-und-karl-die-gamechanger-sein-koennen,bundesliga-update-ausblick-spieltag-fuenf-104.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Thu, 08 Oct 2026 16:24:47 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/bundesliga/warum-el-mala-und-karl-die-gamechanger-sein-koennen,bundesliga-update-ausblick-spieltag-fuenf-104.html",
+          "summary": "Gladbachs neuer Coach debütiert im Derby, in dem der Kölner Coach wackelt. Das Team des Bundesliga Updates diskutiert die Trainer-Fragen am Rhein."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "724b30be9fc1",
+      "title": "Freie Fahrt für Moskau",
+      "summary": "Seit dem Sommer ist Russland zurück auf der internationalen Sportbühne. Das IOC hat die Sperre aufgehoben, Weltverbände geben Flagge und Hymne zurück, und hinter den Kulissen arbeitet das IOC daran, dass russische Athleten überall einreisen können.",
+      "link": "https://www.sportschau.de/investigativ/freie-fahrt-fuer-moskau,russland-rueckkehr-sport-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 08 Oct 2026 16:24:12 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/investigativ/freie-fahrt-fuer-moskau,russland-rueckkehr-sport-100.html",
+          "summary": "Seit dem Sommer ist Russland zurück auf der internationalen Sportbühne. Das IOC hat die Sperre aufgehoben, Weltverbände geben Flagge und Hymne zurück, und hinter den Kulissen arbeitet das IOC daran, dass russische Athleten überall einreisen können."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6832e272a135",
       "title": "Eisschnelllauf-Streit: Sonnekalb droht mit Abwanderung",
       "summary": "Der Streit zwischen Erfurter Eisschnellläufern und dem Dachverband DESG eskaliert kurz vor dem Saisonstart erneut. 16 Athleten droht eine Nicht-Berücksichtigung für die Nationalmannschaft - auch dem besten von allen.",
@@ -4218,6 +4200,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abdlilerin-yuzde-64u-yapay-zekanin-cok-hizli-gelistigini-dusunuyor-959551.html",
           "summary": "ABD'de yapılan anket, halkın yüzde 64'ünün yapay zeka teknolojilerinin \"çok hızlı\" geliştiği görüşünde olduğunu gösterdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1127b19b7a47",
+      "title": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
+      "summary": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen.",
+      "link": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 15:47:19 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+          "summary": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen."
         }
       ],
       "sourcesCount": 1
@@ -4449,6 +4449,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "337bf8c2d17c",
+      "title": "Infantino-Gegner: UEFA-Präsident Ceferin stellt sich abermals zur Wiederwahl",
+      "summary": "2024 fühlte sich Aleksander Ceferin noch zu „müde“ für eine weitere Amtszeit als UEFA-Präsident. Nun tritt der Slowene abermals an – und muss Europas Widerstand gegen den FIFA-Chef anführen.",
+      "link": "https://www.faz.net/aktuell/sport/fussball/uefa-praesident-ceferin-stellt-sich-zur-wiederwahl-201300731.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:25:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/fussball/uefa-praesident-ceferin-stellt-sich-zur-wiederwahl-201300731.html",
+          "summary": "2024 fühlte sich Aleksander Ceferin noch zu „müde“ für eine weitere Amtszeit als UEFA-Präsident. Nun tritt der Slowene abermals an – und muss Europas Widerstand gegen den FIFA-Chef anführen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "48af799a6649",
+      "title": "Ceferin to stand for fourth term as Uefa president",
+      "summary": "Uefa president Aleksander Ceferin will stand for a fourth term, reversing a previous decision to stand down.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:24:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Uefa president Aleksander Ceferin will stand for a fourth term, reversing a previous decision to stand down."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b95cf9fa55e8",
+      "title": "Everton's Sherif fined for breaching betting rules",
+      "summary": "The Football Association fines Everton forward Martin Sherif £5,000 for breaching its betting rules over a 15-month period.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c54g13we4rero?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 08 Oct 2026 14:24:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c54g13we4rero?at_medium=RSS&at_campaign=rss",
+          "summary": "The Football Association fines Everton forward Martin Sherif £5,000 for breaching its betting rules over a 15-month period."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b3e469bc7158",
       "title": "Aleksander Ceferin tritt erneut zur Wahl als UEFA-Präsident an",
       "summary": "Aleksander Ceferin will für eine vierte Amtszeit als UEFA-Präsident kandidieren - obwohl die Statuten maximal drei vorsehen.",
@@ -4521,6 +4575,78 @@
       "sourcesCount": 1
     },
     {
+      "id": "10058c7bd4d1",
+      "title": "Ausweitung der Spreads: Greift die EZB am Anleihemarkt ein?",
+      "summary": "Die Notenbank signalisiert, für ihr Krisenprogramm seien die Voraussetzungen noch nicht gegeben. Goldman Sachs hält aber Eingriffe unterhalb dieser Schwelle für möglich.",
+      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/greift-die-ezb-am-anleihemarkt-ein-201298864.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 08 Oct 2026 14:14:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/greift-die-ezb-am-anleihemarkt-ein-201298864.html",
+          "summary": "Die Notenbank signalisiert, für ihr Krisenprogramm seien die Voraussetzungen noch nicht gegeben. Goldman Sachs hält aber Eingriffe unterhalb dieser Schwelle für möglich."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "eee21c809236",
+      "title": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature - Reuters",
+      "summary": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:13:15 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5",
+          "summary": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ebf8a6da54b6",
+      "title": "Aufsichtsrat bei Hyperglobus: Altkanzler Schröder bekommt noch einen Job in Russland",
+      "summary": "Schröder wird Aufsichtsrat des Handelskonzerns Hyperglobus. Mit seiner Berufung könnte der Eigentümer Thomas Bruch eine Kontrollübernahme durch Russland verhindern.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/altkanzler-gerhard-schroeder-bekommt-neuen-job-in-russland-201299775.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:08:37 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/altkanzler-gerhard-schroeder-bekommt-neuen-job-in-russland-201299775.html",
+          "summary": "Schröder wird Aufsichtsrat des Handelskonzerns Hyperglobus. Mit seiner Berufung könnte der Eigentümer Thomas Bruch eine Kontrollübernahme durch Russland verhindern."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1d3e237a6236",
+      "title": "Arid Blayne Brings Its Signature Cooling Technology to a New Ribbed Collection - Fitt Insider",
+      "summary": "Arid Blayne Brings Its Signature Cooling Technology to a New Ribbed Collection Fitt Insider",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXNLdHU3SllPME1oUGxkZ2l1cDBrb2xYbXhBbnR3dFlnZ25KcnpTQ3hvZ3lBQy11SGlXTVFvcEtkZVpWY1p1ZU9QWGM2bHBudHc3eUZ2ZUpscTAtSVI2VS1nTVRKX2FRYlpBeWQtbnI2eHZuU2JiY3RlbWFNbS01OUUxRW5FdDd1a21scVYwTUUxNk5TMU1CQTNwQ2xfT0huTjhKTFc5MGN0dW5aV0lDSlc2RFJqVlIt?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 14:06:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXNLdHU3SllPME1oUGxkZ2l1cDBrb2xYbXhBbnR3dFlnZ25KcnpTQ3hvZ3lBQy11SGlXTVFvcEtkZVpWY1p1ZU9QWGM2bHBudHc3eUZ2ZUpscTAtSVI2VS1nTVRKX2FRYlpBeWQtbnI2eHZuU2JiY3RlbWFNbS01OUUxRW5FdDd1a21scVYwTUUxNk5TMU1CQTNwQ2xfT0huTjhKTFc5MGN0dW5aV0lDSlc2RFJqVlIt?oc=5",
+          "summary": "Arid Blayne Brings Its Signature Cooling Technology to a New Ribbed Collection Fitt Insider"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e14e907d8c04",
       "title": "İstanbul Valisi Gül: Enkaz altında 3 kişi olduğunu düşünüyoruz",
       "summary": "Maltepe'de bazı katları çöken 7 katlı binadaki iki kişi hayatını kaybetti. İstanbul Valisi Gül, yaralıların hayati tehlikesinin bulunmadığını, enkaz altında 3 kişi olduğunu düşündüklerini söyledi.",
@@ -4557,19 +4683,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "d56037f3f508",
-      "title": "News-Quiz vom 8. Oktober: Wo war Anne Carson, als sie von ihrer Nobelpreisehrung erfuhr?",
-      "summary": "Quiz des Tages ► Wie gut haben Sie die News von heute verfolgt? Beantworten Sie 5 Fragen & messen Sie sich mit anderen Lesern beim FAZ-Wissenstest!",
-      "link": "https://www.faz.net/aktuell/spiele/news-quiz/news-quiz-des-tages-testen-sie-ihr-wissen-heute-wo-war-anne-carson-als-sie-von-ihrer-nobelpreisehrung-erfuhr-faz-201300634.html",
-      "sourceName": "FAZ",
+      "id": "ecdab483b1d7",
+      "title": "Marktbericht: Samsung setzt mit Rekordgewinn neue Maßstäbe",
+      "summary": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben vom Chip-Geschäft",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
       "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 14:01:15 GMT",
+      "topic": "wirtschaft",
+      "time": "Thu, 08 Oct 2026 14:02:09 +0200",
       "coverage": [
         {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/spiele/news-quiz/news-quiz-des-tages-testen-sie-ihr-wissen-heute-wo-war-anne-carson-als-sie-von-ihrer-nobelpreisehrung-erfuhr-faz-201300634.html",
-          "summary": "Quiz des Tages ► Wie gut haben Sie die News von heute verfolgt? Beantworten Sie 5 Fragen & messen Sie sich mit anderen Lesern beim FAZ-Wissenstest!"
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
+          "summary": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben vom Chip-Geschäft"
         }
       ],
       "sourcesCount": 1
@@ -4642,6 +4768,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/lubnan-cumhurbaskani-anlasma-israille-dusmanligi-bitirmenin-tek-yolu-959535.html",
           "summary": "Lübnan Cumhurbaşkanı Joseph Avn, müzakerelerin savaşa alternatif olduğunu, Lübnan ile İsrail arasındaki düşmanlık halini sona erdirmenin tek yolunun anlaşma olduğunu belirtti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ca482fd58836",
+      "title": "Manus raises more than $500 million after Meta exit - Reuters",
+      "summary": "Manus raises more than $500 million after Meta exit Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:55:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
+          "summary": "Manus raises more than $500 million after Meta exit Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4793,20 +4937,43 @@
     {
       "id": "da590de911d4",
       "title": "Burnham bei Merz: Gemeinsam auch gegen Sabotage und Cyberangriffe",
-      "summary": "Bei seinem ersten Antrittsbesuch in Berlin kann Burnham sich des deutschen Wohlwollens sicher sein – ob das aber auch reicht, um der EU näher zu kommen, ist eine andere Frage.",
+      "summary": "Bei seinem ersten Antrittsbesuch in Berlin kann der britische Premierminister sich des deutschen Wohlwollens sicher sein. Ob das aber auch reicht, um der EU näher zu kommen, ist eine andere Frage.",
       "link": "https://www.faz.net/aktuell/politik/ausland/andrew-burnham-in-berlin-kensington-vertrag-mit-merz-in-kraft-201299132.html",
       "sourceName": "FAZ",
       "region": "germany",
-      "topic": "technologie",
+      "topic": "politik",
       "time": "Thu, 08 Oct 2026 13:30:00 GMT",
       "coverage": [
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/andrew-burnham-in-berlin-kensington-vertrag-mit-merz-in-kraft-201299132.html",
-          "summary": "Bei seinem ersten Antrittsbesuch in Berlin kann Burnham sich des deutschen Wohlwollens sicher sein – ob das aber auch reicht, um der EU näher zu kommen, ist eine andere Frage."
+          "summary": "Bei seinem ersten Antrittsbesuch in Berlin kann der britische Premierminister sich des deutschen Wohlwollens sicher sein. Ob das aber auch reicht, um der EU näher zu kommen, ist eine andere Frage."
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "6eaee522a66f",
+      "title": "Scott F. Gelbard of SGI Global Partners Announces Expansion of International Advisory Practice Into Southeast Asian Markets - Yahoo Finance",
+      "summary": "Scott F. Gelbard of SGI Global Partners Announces Expansion of International Advisory Practice Into Southeast Asian Markets Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDdLSVBJLVpwZTFwRF9mSUtBbXRrSXN3djRJYmE3cnFlZEM0UGR0cUExdzR6LV9IaDFiT19aWUVOU0dvdVdSTzc1dnZ3dHJHN0tRcW1ybWVWSWctQUJPWTd4Y1NabmpoZjc1dkRYYlIzVFQ1ZTFWeUh2NU43aWZablFodldqRThoS1FmeTFVMmRnNzN6aWc?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 08 Oct 2026 13:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDdLSVBJLVpwZTFwRF9mSUtBbXRrSXN3djRJYmE3cnFlZEM0UGR0cUExdzR6LV9IaDFiT19aWUVOU0dvdVdSTzc1dnZ3dHJHN0tRcW1ybWVWSWctQUJPWTd4Y1NabmpoZjc1dkRYYlIzVFQ1ZTFWeUh2NU43aWZablFodldqRThoS1FmeTFVMmRnNzN6aWc?oc=5",
+          "summary": "Scott F. Gelbard of SGI Global Partners Announces Expansion of International Advisory Practice Into Southeast Asian Markets Yahoo Finance"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHB2Nk9lZ21KT2dxUDJPakdTOENHekJrQlNXMzVZY09udEQxZzJseXl0eEdheWJaQXI3NmZZSmNieFQ1NnFjRmVwNloxN2EtTzAzVXpjcC0xWksxVlVRZlRISnlWbEoxVXg5UVdVQ2RjZ0YtaVBHN2FtYm1XVUFTVE05MDM5ZXRsYklRSVNHeXFfRUppREN6eElaRFc0Zw?oc=5",
+          "summary": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 2
     },
     {
       "id": "df3de0c6ca5c",
@@ -4863,24 +5030,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f1301e4f7e6b",
-      "title": "Reiche und Klingbeil: Mehr Wachstum, wenig Entlastung",
-      "summary": "Das Wirtschaftsministerium rechnet mit einem etwas stärkeren Wachstum. Was heißt das für die schwarz-roten Steuerpläne?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/katherina-reiche-wachstumsprognose-und-steuerreform-2026-201298955.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 13:19:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/katherina-reiche-wachstumsprognose-und-steuerreform-2026-201298955.html",
-          "summary": "Das Wirtschaftsministerium rechnet mit einem etwas stärkeren Wachstum. Was heißt das für die schwarz-roten Steuerpläne?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "be8d3132d7fa",
       "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
       "summary": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
@@ -4930,6 +5079,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/polizei-erschiesst-27-jaehrigen-mann-in-tuttlingen-201300422.html",
           "summary": "Der Mann war laut Polizei zuvor mit einer Pistole am Rathaus aufgefallen. Als die Beamten im Innenhof auf ihn trafen, soll er das Feuer auf sie eröffnet haben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2a9ea3474415",
+      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
+      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:06:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
         }
       ],
       "sourcesCount": 1
@@ -5115,24 +5282,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5afbfc45d029",
-      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
-      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:40:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "b869dd15d6f2",
       "title": "Smoke seen rising from aircraft at Riyadh airport - Reuters",
       "summary": "Smoke seen rising from aircraft at Riyadh airport Reuters",
@@ -5164,6 +5313,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/rapor-iran-savasinda-abdnin-81-askeri-hava-araci-ya-kayboldu-ya-da-kalici-hasar-gordu-959529.html",
           "summary": "ABD Kongre Araştırma Hizmetleri raporunda, ülkenin 28 Şubat'tan bu yana İran savaşında 81 hava aracını kaybettiği ya da bu araçlarda kalıcı hasar oluştuğu belirtildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5641cc0720fe",
+      "title": "Raubkatze gesucht: „Es war viel zu groß für eine Hauskatze“",
+      "summary": "Ein Jäger in Oberbayern hatte in der Nacht auf Mittwoch ein verdächtiges Tier entdeckt, das manche für einen Puma hielten. Mehrere Suchaktionen blieben jedoch ohne Erfolg.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/tiere/waermebildkamera-findet-keine-spur-von-mutmasslichem-puma-accg-201298574.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 12:36:42 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/tiere/waermebildkamera-findet-keine-spur-von-mutmasslichem-puma-accg-201298574.html",
+          "summary": "Ein Jäger in Oberbayern hatte in der Nacht auf Mittwoch ein verdächtiges Tier entdeckt, das manche für einen Puma hielten. Mehrere Suchaktionen blieben jedoch ohne Erfolg."
         }
       ],
       "sourcesCount": 1
@@ -5290,168 +5457,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONmJSazhndlpZQi0tTEVXaElQUk9objR1ZTJsZXF0c2V1cjlzSWJBN3RpZEs5Znp1YTBTUkJJdjIxOFJ0ZmxEb21HN2E4OE5oTm5aZG82ZXd2QnJpaEtUcEJ3VzJ0SzNhaFhxUk5Ea3RlYVVLSV9DaEdJMm5EUm1QYU9DbF9uSGNOa0VocjJaRzlnYzA3clQzcmNqLXNxZ2FIeVZQTnlGNmVLaUg1Y1ZGV3cxTVJybnhSaGZLS045T25odVhZV1FYN3RvekFBRG5NZGw1MnVjUG91QUhQRDhhaHVsU0JONUtGbzVxWDNmcXZ2QUZtcXdRa0JEVDBVM3Ru?oc=5",
           "summary": "NSA Releases Zero Trust Guidance for Protecting Operational Technology Systems National Security Agency (NSA) (.gov)"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "13dfa8c1a9cc",
-      "title": "Su ürünleri ihracatı 9 ayda 1,8 milyar dolara ulaştı",
-      "summary": "Türkiye'nin su ürünleri ihracatı, ocak-eylül döneminde geçen yılın aynı dönemine göre yüzde 16,5 artarak 1,8 milyar dolara ulaştı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/su-urunleri-ihracati-9-ayda-18-milyar-dolara-ulasti-959527.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:18:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/su-urunleri-ihracati-9-ayda-18-milyar-dolara-ulasti-959527.html",
-          "summary": "Türkiye'nin su ürünleri ihracatı, ocak-eylül döneminde geçen yılın aynı dönemine göre yüzde 16,5 artarak 1,8 milyar dolara ulaştı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "eae686b831cd",
-      "title": "Italy's Meloni forces through new electoral law ahead of vote, opposition cries foul - Reuters",
-      "summary": "Italy's Meloni forces through new electoral law ahead of vote, opposition cries foul Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUhlUmF3Z2otcW1nUC1KRWxhTVItZkczamwwLWxwQS0tS0drS2VhaVc1Z29SRnVDNF9ZX19JY05pdVE0OHJma1lGRU1NbGdXSklydDRfc0JLT1ZLczJlaHpoejhEUUhHQUVSb2Q3aGlSLV9uSEoyby1WMGEzaUpSZ0hYZXJVZ3BqWks2ZmZOUnIxdlo0Y1BRaWJZSV96MVo1c1NhdEg0X2U?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 12:17:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUhlUmF3Z2otcW1nUC1KRWxhTVItZkczamwwLWxwQS0tS0drS2VhaVc1Z29SRnVDNF9ZX19JY05pdVE0OHJma1lGRU1NbGdXSklydDRfc0JLT1ZLczJlaHpoejhEUUhHQUVSb2Q3aGlSLV9uSEoyby1WMGEzaUpSZ0hYZXJVZ3BqWks2ZmZOUnIxdlo0Y1BRaWJZSV96MVo1c1NhdEg0X2U?oc=5",
-          "summary": "Italy's Meloni forces through new electoral law ahead of vote, opposition cries foul Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "19d730b4ec8f",
-      "title": "India's TCS marginally beats second-quarter revenue view as AI demand grows - Reuters",
-      "summary": "India's TCS marginally beats second-quarter revenue view as AI demand grows Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDFMc2VuQ241aHc2WXZxa0tmOVp4UVNuVDlIbjViQ3VFWUFfWWNRT2M5S3BGbkNNSGhqclpoRU1ha2Y5VkxMNkxBb1h6cjlUZHViM0V5ODNRSzJQd3NmNkIyWkN1R3lOOGdVOC1VWEhDNUdHcm1aT0RlNzJfVmZpTzEwVXNZMlc5ZXpvVjNPTmtjUWd2OVUtcWE2aFBfUmJ5VDZudFQycXJLVmVp?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:15:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDFMc2VuQ241aHc2WXZxa0tmOVp4UVNuVDlIbjViQ3VFWUFfWWNRT2M5S3BGbkNNSGhqclpoRU1ha2Y5VkxMNkxBb1h6cjlUZHViM0V5ODNRSzJQd3NmNkIyWkN1R3lOOGdVOC1VWEhDNUdHcm1aT0RlNzJfVmZpTzEwVXNZMlc5ZXpvVjNPTmtjUWd2OVUtcWE2aFBfUmJ5VDZudFQycXJLVmVp?oc=5",
-          "summary": "India's TCS marginally beats second-quarter revenue view as AI demand grows Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4d97f9f6ffcc",
-      "title": "Unbeliebte Mitbewohner: Warum die Nosferatu-Spinne im Herbst öfter zu finden ist",
-      "summary": "In den Herbstmonaten werden besonders viele Spinnen gesichtet. Invasive Arten wie die Nosferatu-Spinne erschrecken manchen Hausbewohner.",
-      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/nosferatu-spinne-warum-sie-im-herbst-oefter-in-wohnungen-zu-finden-ist-201296325.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 12:15:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/nosferatu-spinne-warum-sie-im-herbst-oefter-in-wohnungen-zu-finden-ist-201296325.html",
-          "summary": "In den Herbstmonaten werden besonders viele Spinnen gesichtet. Invasive Arten wie die Nosferatu-Spinne erschrecken manchen Hausbewohner."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6c3e10e27423",
-      "title": "Deutschland liveblog: Linke, Grüne und SPD wollen Sondierungen aufnehmen",
-      "summary": "Parteien in Berlin einigen sich auf Umgang mit Antisemitismus und Organisierter Kriminalität +++ Grüne wollen AfD ihren „Plan für Deutschland“ entgegensetzen +++ alle Entwicklungen im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-gruene-und-spd-in-berlin-wollen-sondierungen-aufnehmen-faz-110093143.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 12:14:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-gruene-und-spd-in-berlin-wollen-sondierungen-aufnehmen-faz-110093143.html",
-          "summary": "Parteien in Berlin einigen sich auf Umgang mit Antisemitismus und Organisierter Kriminalität +++ Grüne wollen AfD ihren „Plan für Deutschland“ entgegensetzen +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d39fe87ab9ef",
-      "title": "Güney Kore, Kuzey Koreli askerler konusunda anlaşmazlık yaşadığı Ukrayna'dan büyükelçisini çekiyor",
-      "summary": "Güney Kore, Rusya-Ukrayna Savaşı'nda yakalanan iki Kuzey Koreli askerin Güney Kore'ye transferinin gizlilik anlaşması ihlal edilerek duyurulduğu gerekçesiyle uzun süredir anlaşmazlık yaşadığı Ukrayna'dan büyükelçisini çekme kararı aldı.",
-      "link": "https://www.trthaber.com/haber/dunya/guney-kore-kuzey-koreli-askerler-konusunda-anlasmazlik-yasadigi-ukraynadan-buyukelcisini-cekiyor-959526.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:13:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/guney-kore-kuzey-koreli-askerler-konusunda-anlasmazlik-yasadigi-ukraynadan-buyukelcisini-cekiyor-959526.html",
-          "summary": "Güney Kore, Rusya-Ukrayna Savaşı'nda yakalanan iki Kuzey Koreli askerin Güney Kore'ye transferinin gizlilik anlaşması ihlal edilerek duyurulduğu gerekçesiyle uzun süredir anlaşmazlık yaşadığı Ukrayna'dan büyükelçisini çekme kararı aldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "be550bae64bd",
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 12:11:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-          "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e7d8a6d4c490",
-      "title": "AI is changing pilgrims’ journeys, but sacred journeys have always adapted to new technology - The Conversation",
-      "summary": "AI is changing pilgrims’ journeys, but sacred journeys have always adapted to new technology The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ0ZfbjgtakxZMHNJRHVHVFNFNHZ3Zk54TkRFTk1BTVVLWUl2WWVuVzBRNFZmNWp6cFg5MFQ4MHluU2tkRzlfeFZLWlc4c3dCN01abERpQ3kzc215a2JlaGJ0eFNfdHJtNjJsREdfYjgtaFJCdmEySkVHbGFwaWZCbzJRNm1wT2pDYm1FR3F0LXRwcnRqdTMxTkRfZTdGRVg3bVFsRFFkMWJjamcyamQ1R1ptLTJnb0pCZmpMemktYTRndDA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:11:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ0ZfbjgtakxZMHNJRHVHVFNFNHZ3Zk54TkRFTk1BTVVLWUl2WWVuVzBRNFZmNWp6cFg5MFQ4MHluU2tkRzlfeFZLWlc4c3dCN01abERpQ3kzc215a2JlaGJ0eFNfdHJtNjJsREdfYjgtaFJCdmEySkVHbGFwaWZCbzJRNm1wT2pDYm1FR3F0LXRwcnRqdTMxTkRfZTdGRVg3bVFsRFFkMWJjamcyamQ1R1ptLTJnb0pCZmpMemktYTRndDA?oc=5",
-          "summary": "AI is changing pilgrims’ journeys, but sacred journeys have always adapted to new technology The Conversation"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1c9ea8bea836",
-      "title": "Fund Update: 4,900 INTERNATIONAL BUSINESS MACHINES (IBM) shares added to Mn Services Vermogensbeheer B.V. portfolio - Quiver Quantitative",
-      "summary": "Fund Update: 4,900 INTERNATIONAL BUSINESS MACHINES (IBM) shares added to Mn Services Vermogensbeheer B.V. portfolio Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV3NDZkNOTkppU3dLeVNqTGJENmEzeVFyYzV4UHVIXzJTQjlJWGtpTElWNndDV19sVm55WUtfTWZWWjZKMW9jUWdoVEtISG1KdEUxREJnRkRjd2dYQ0pya0hQdV84SnhQMTNJa0FvUk03b1ZyWUdseFdJbEdtZ3BzMUFkWDE0MnV2WU1BdzFDV2ZUZDZlb1ZSVEtKdzNtWW1pYl81RkdkUHhCZnFLdnRpRFEyOFlHOEhyYnhxeXRXUFBpNUw1ZVo3Tkg3SzBZcHYwUkE4R1VIcUlUS3M4SUJGbVFOWjJSNE5ia3RLdA?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 12:10:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV3NDZkNOTkppU3dLeVNqTGJENmEzeVFyYzV4UHVIXzJTQjlJWGtpTElWNndDV19sVm55WUtfTWZWWjZKMW9jUWdoVEtISG1KdEUxREJnRkRjd2dYQ0pya0hQdV84SnhQMTNJa0FvUk03b1ZyWUdseFdJbEdtZ3BzMUFkWDE0MnV2WU1BdzFDV2ZUZDZlb1ZSVEtKdzNtWW1pYl81RkdkUHhCZnFLdnRpRFEyOFlHOEhyYnhxeXRXUFBpNUw1ZVo3Tkg3SzBZcHYwUkE4R1VIcUlUS3M4SUJGbVFOWjJSNE5ia3RLdA?oc=5",
-          "summary": "Fund Update: 4,900 INTERNATIONAL BUSINESS MACHINES (IBM) shares added to Mn Services Vermogensbeheer B.V. portfolio Quiver Quantitative"
         }
       ],
       "sourcesCount": 1
