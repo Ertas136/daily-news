@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:10:32.681847+00:00",
+  "updated": "2026-10-09T13:43:21.843786+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -51,6 +51,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3BfVDlBclVpS3ZLU2V4Zm1qa0tGTWlKbEJ1c1Q1RmlNRGZSYm5jMEhnSXNCN21QQS1UcnFzTjlYc250d0JjT1N5NmVHT1gwclVNWU05M2xNaUhXRVU1T1NOcVNldHRBcEtBZWk5LWNwclBrVlNJVG9oR21yYkJFYVMxXzlLQVpOZFFfNlN5RWhvNVhZR1YyTldmN25NX2JrUjFZZzZISDduVEI0ZDNGcXdLS2U?oc=5",
           "summary": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered NBC News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1b4cc4490429",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 23 Sep 2026 23:12:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
         }
       ],
       "sourcesCount": 1
@@ -348,13 +366,13 @@
       "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
       "summary": "The research found that important guardrails for teens using ChatGPT often failed.",
       "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
       "time": "Wed, 07 Oct 2026 20:34:17 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
+          "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
           "summary": "The research found that important guardrails for teens using ChatGPT often failed."
         }
@@ -475,24 +493,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "71e21d7f25b0",
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "summary": "The sale of the High Street chain was announced on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 17:18:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-          "summary": "The sale of the High Street chain was announced on Wednesday."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f03b0c3a22bf",
       "title": "Rekabet Kurulu hazır noodle üreticisi hakkında soruşturma başlattı",
       "summary": "Rekabet Kurulu, hazır noodle pazarında faaliyet gösteren, Indomie ve Supermi'nin üreticisi Adkoturk Gıda Sanayi ve Ticaret Limited Şirketi (Adkoturk) hakkında soruşturma başlatılmasına karar verdi.",
@@ -565,24 +565,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6966e10daf71",
-      "title": "Bursa'da 6,5 ton sağlıksız gıda imha edildi",
-      "summary": "Bursa'nın Osmangazi ilçesinde ruhsatsız bir depoda sağlıksız koşullarda saklanan ve küflendiği belirlenen yaklaşık 6,5 ton gıda ürünü imha edildi.",
-      "link": "https://www.trthaber.com/haber/turkiye/bursada-65-ton-sagliksiz-gida-imha-edildi-959424.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 15:26:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/bursada-65-ton-sagliksiz-gida-imha-edildi-959424.html",
-          "summary": "Bursa'nın Osmangazi ilçesinde ruhsatsız bir depoda sağlıksız koşullarda saklanan ve küflendiği belirlenen yaklaşık 6,5 ton gıda ürünü imha edildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9f2e60ea350c",
       "title": "So vergibt das IOC die Sommerspiele 2036",
       "summary": "München bewirbt sich um die Olympischen Sommerspiele 2036, 2040 oder 2044. Über die Vergabe entscheidet das Internationale Olympische Komitee - und zwar so.",
@@ -614,24 +596,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/masaktan-kimlik-tespiti-ve-fon-transferlerine-iliskin-parasal-sinir-duzenlemesi-959417.html",
           "summary": "Finans sisteminde müşteriden kimlik bilgilerinin alınması gereken işlem tutarı 185 bin liradan 370 bin liraya yükseltildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dcbc2e2176b3",
-      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 14:33:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat."
         }
       ],
       "sourcesCount": 1
@@ -758,24 +722,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
           "summary": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a71801d2b8f6",
-      "title": "Adesso-Gründer Gruhn: „KI-Agenten können durchdrehen“",
-      "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agenten-koennen-durchdrehen-adesso-gruender-gruhn-ueber-umgang-mit-ki-accg-201292853.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 10:07:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agenten-koennen-durchdrehen-adesso-gruender-gruhn-ueber-umgang-mit-ki-accg-201292853.html",
-          "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte."
         }
       ],
       "sourcesCount": 1
@@ -2053,6 +1999,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "2ca766032048",
+      "title": "Boxing legends unite to celebrate International Boxing Day - IBA - International Boxing Association",
+      "summary": "Boxing legends unite to celebrate International Boxing Day IBA - International Boxing Association",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUk0YXVwQmtaSjBMTDNwTm51U3M5M25mZVJOdWVJREhKTUZDaTlHYWRlMHIzNVd4SWdkNlJIVE8wakxYVFdoUjVJUkZpcUVQWmdsMUsxZl9aMTBURGRtYUhzN1pORE1NVzI0LWMwX3hRb1VkZ0ZDQl80VzFsWUxoVDlBMGNjOGJvNmZqVVJn?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUk0YXVwQmtaSjBMTDNwTm51U3M5M25mZVJOdWVJREhKTUZDaTlHYWRlMHIzNVd4SWdkNlJIVE8wakxYVFdoUjVJUkZpcUVQWmdsMUsxZl9aMTBURGRtYUhzN1pORE1NVzI0LWMwX3hRb1VkZ0ZDQl80VzFsWUxoVDlBMGNjOGJvNmZqVVJn?oc=5",
+          "summary": "Boxing legends unite to celebrate International Boxing Day IBA - International Boxing Association"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "922e9406515b",
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 24 Sep 2026 23:03:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+          "summary": "Where do America's X-plane projects fit in an era of cheap drones?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "01bd2cebeb35",
       "title": "Basketbol Süper Ligi'nde sezon başlıyor",
       "summary": "Türkiye Sigorta Basketbol Süper Ligi'nde 61. sezon yarın başlayacak.",
@@ -2467,6 +2449,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ae65ab80418f",
+      "title": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say - Reuters",
+      "summary": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXhxTExpbjZ2TGxEWFB4SzVMOEZxaXpwQ2ctMkk5bTh6VVFkWG5SNlViM2gzVG1OVUhuUEtxS24xNXI2NmZ6Q09telNRQ09rLVVlX28wWnFGaGxzVEZXLWIyRkhXbVRRSm5leEJmbzNkSWFQamtYR19wRHdCYWZEazhRcDRfTlBCLWE0SmN2ckVXdUZxV1YwZjRLRjYzczJPTzdkSmpyblZ4Qlc0Q01wTmFOd0s3c0VpVE5rM1Jlc1dINUFoNEJDTjVMTzRveTFqdXRHSnEzWQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 22:08:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXhxTExpbjZ2TGxEWFB4SzVMOEZxaXpwQ2ctMkk5bTh6VVFkWG5SNlViM2gzVG1OVUhuUEtxS24xNXI2NmZ6Q09telNRQ09rLVVlX28wWnFGaGxzVEZXLWIyRkhXbVRRSm5leEJmbzNkSWFQamtYR19wRHdCYWZEazhRcDRfTlBCLWE0SmN2ckVXdUZxV1YwZjRLRjYzczJPTzdkSmpyblZ4Qlc0Q01wTmFOd0s3c0VpVE5rM1Jlc1dINUFoNEJDTjVMTzRveTFqdXRHSnEzWQ?oc=5",
+          "summary": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "be8d3132d7fa",
       "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
       "summary": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
@@ -2729,24 +2729,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "825a97b38fe3",
-      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies - NASA (.gov)",
-      "summary": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies NASA (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON25uQ3J4VHM4VVhOLUNhQkNES1V4dGsyY3o5LW9icDk5UEpQMW9Tb211T3dlX0VvalVOMTRrLUxRQXVEZlluSnlaek9qdWRuT1k0aFZjTzdIR21XM3FRa2RELTBUYUdfVGFPMXNtLUFVWlZMWnFVb1JEeFRzRkdINUIwUEFwZUdOdlVySDZqOU5HQW9ubm5hRkp2eHZzRzNuLWkxRE00bmk2dXYtVzdQek5acWFpUkF0dGc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 18:56:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON25uQ3J4VHM4VVhOLUNhQkNES1V4dGsyY3o5LW9icDk5UEpQMW9Tb211T3dlX0VvalVOMTRrLUxRQXVEZlluSnlaek9qdWRuT1k0aFZjTzdIR21XM3FRa2RELTBUYUdfVGFPMXNtLUFVWlZMWnFVb1JEeFRzRkdINUIwUEFwZUdOdlVySDZqOU5HQW9ubm5hRkp2eHZzRzNuLWkxRE00bmk2dXYtVzdQek5acWFpUkF0dGc?oc=5",
-          "summary": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies NASA (.gov)"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "b952add169c9",
       "title": "Festnahme Hannings: Der Staat erlaubt seinen Geheimnisträgern zu viel",
       "summary": "Der Fall des früheren BND-Präsidenten ist Ausdruck von mangelndem Verantwortungsgefühl. Die Reform der Dienste darf jetzt aber nicht scheitern.",
@@ -2760,24 +2742,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/fall-hanning-loyalitaet-darf-im-ruhestand-nicht-enden-201298454.html",
           "summary": "Der Fall des früheren BND-Präsidenten ist Ausdruck von mangelndem Verantwortungsgefühl. Die Reform der Dienste darf jetzt aber nicht scheitern."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4ddbb84e9b85",
-      "title": "Venezuela's Maduro charged in US with ordering torture of opponents, Americans - Reuters",
-      "summary": "Venezuela's Maduro charged in US with ordering torture of opponents, Americans Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMy0wQV9wdjdjVFg3WnoyMVR6NWg1SmZjejZaNUtLR1FtSjJ6dVF4LS0xSTBPa29KSVJFM3Q4dGF5bWtKanNpY1V3RVAwM1lpSUhBN3NoeWY1ZGpVb3BKdzJpNzh2M3RRM0lXWTBHR2JBYWJ0dmpYODFIUnBjWXBaR01YdnBrbEtwbjUwWFltR1FhQzEzMm04dmR1U2N4N3E4TWVqVV9mNUtIS3pq?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 18:53:08 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMy0wQV9wdjdjVFg3WnoyMVR6NWg1SmZjejZaNUtLR1FtSjJ6dVF4LS0xSTBPa29KSVJFM3Q4dGF5bWtKanNpY1V3RVAwM1lpSUhBN3NoeWY1ZGpVb3BKdzJpNzh2M3RRM0lXWTBHR2JBYWJ0dmpYODFIUnBjWXBaR01YdnBrbEtwbjUwWFltR1FhQzEzMm04dmR1U2N4N3E4TWVqVV9mNUtIS3pq?oc=5",
-          "summary": "Venezuela's Maduro charged in US with ordering torture of opponents, Americans Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3112,24 +3076,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5cb4a46a3460",
-      "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
-      "summary": "Trump says US will not attack Iran before midterm elections in November Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 16:23:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
-          "summary": "Trump says US will not attack Iran before midterm elections in November Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e10d2a7a7a0b",
       "title": "Sachsen-Anhalt: Die AfD spielt Katz und Maus",
       "summary": "Wenn es bis Dezember so weitergeht, hat die AfD ihr Ziel erreicht: Die CDU wird zum Prügelknaben und in Magdeburg auseinandergetrieben.",
@@ -3305,24 +3251,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/yahsihan-belediyesine-operasyonda-2-bin-31-tasinmaza-el-konuldu-959543.html",
           "summary": "Kırıkkale'nin Yahşihan Belediyesine yönelik 2 ilde düzenlenen yolsuzluk operasyonunda belediye başkanvekili Aydın Demirdirek'in de aralarında bulunduğu 9 zanlı gözaltına alındı, 2 bin 31 taşınmaza el konuldu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0516859495dc",
-      "title": "Cummins not worried about potential Khawaja revelations",
-      "summary": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 14:38:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations."
         }
       ],
       "sourcesCount": 1
@@ -4012,24 +3940,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ec08155b029c",
-      "title": "Paraguay Climbs To Highest FIFA World Ranking Spot In Over Five Years - The Asunción Times",
-      "summary": "Paraguay Climbs To Highest FIFA World Ranking Spot In Over Five Years The Asunción Times",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXlkWjliVDE1c29xendwMG5XM2Y4T3ZkVDFrYW5Ic21Za3NNbVh5R2Q3UUZkSHYwcDhaTkdoRlY0V01pZlhqMEJwWjN2em4yRzA0LVVVNHVaeG0zR1NjaDBVQmJXN3hqRC1hblE2M042NEU2NWVQcGJGR291azVhRFJIV3NGaGZVV0kycm1BaVdEWEFldzllc1Y4MDZOUTZSRXcxSHZHamZWMGFFcW1UdzR0cHVxNzExLU1aNjJFcw?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 09:58:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXlkWjliVDE1c29xendwMG5XM2Y4T3ZkVDFrYW5Ic21Za3NNbVh5R2Q3UUZkSHYwcDhaTkdoRlY0V01pZlhqMEJwWjN2em4yRzA0LVVVNHVaeG0zR1NjaDBVQmJXN3hqRC1hblE2M042NEU2NWVQcGJGR291azVhRFJIV3NGaGZVV0kycm1BaVdEWEFldzllc1Y4MDZOUTZSRXcxSHZHamZWMGFFcW1UdzR0cHVxNzExLU1aNjJFcw?oc=5",
-          "summary": "Paraguay Climbs To Highest FIFA World Ranking Spot In Over Five Years The Asunción Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4b494b029209",
       "title": "Altın fiyatlarında son durum",
       "summary": "Gram altın, güne yükselişle başlamasının ardından 6 bin 515 liradan işlem görüyor.",
@@ -4354,24 +4264,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1d4d72e564ee",
-      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 05:06:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-          "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a08d21e94db1",
       "title": "Italien: Melonis Machtpoker um das Wahlrecht",
       "summary": "Kann Italiens Ministerpräsidentin Meloni ihr umstrittenes neues Wahlrecht durchsetzen? Die Schlussabstimmung im Abgeordnetenhaus wird zur Zitterpartie.",
@@ -4466,13 +4358,13 @@
       "title": "AI chip boom pushes Samsung profits to record $80bn",
       "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
       "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
       "time": "Thu, 08 Oct 2026 01:59:54 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
+          "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
           "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August."
         }
@@ -4511,42 +4403,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/bandirmada-yag-fabrikasinda-yangin-959468.html",
           "summary": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında çıkan yangın kontrol altına alındı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fee2951f7c22",
-      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-      "summary": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 00:53:46 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d00baa8727dc",
-      "title": "Bezos says Blue Origin likely to pursue IPO in coming years - Yahoo Finance",
-      "summary": "Bezos says Blue Origin likely to pursue IPO in coming years Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTBQaDVWX0dQVkVMVVlYRXppQmhPUzI1QlBjc2lrRHVWX0daSG8yREkwcjVFRXZ2c2RzREUwQ3FxbnFGcUo3Q29iX0N3UjlUTFk0eTA0R00tajBVRUFWcnVnLWZBRHVLckRYbE8zRHpmZ1VfV1RfZGNoSGhDU3M5TTN0d3FqSkxvMHlGV24tRHFycGMzbG9oNWJ3?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 00:28:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTBQaDVWX0dQVkVMVVlYRXppQmhPUzI1QlBjc2lrRHVWX0daSG8yREkwcjVFRXZ2c2RzREUwQ3FxbnFGcUo3Q29iX0N3UjlUTFk0eTA0R00tajBVRUFWcnVnLWZBRHVLckRYbE8zRHpmZ1VfV1RfZGNoSGhDU3M5TTN0d3FqSkxvMHlGV24tRHFycGMzbG9oNWJ3?oc=5",
-          "summary": "Bezos says Blue Origin likely to pursue IPO in coming years Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -5467,6 +5323,150 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html",
           "summary": "Nach Bundeskanzler Merz besucht Bildungsministerin Prien die Ukraine und betont Deutschlands Unterstützung. Die sei auch im eigenen Interesse, betont CDU-Politiker Röttgen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f9e70476c1e3",
+      "title": "Fußballer für Klopp-Fußball gesucht",
+      "summary": "Seinen Fußball hat Jürgen Klopp schnell bei der deutschen Nationalmannschaft eingeführt. Nach mäßigem Erfolg in der Nations League beginnt die Suche nach den Fußballern, die am besten dazu passen.",
+      "link": "https://www.sportschau.de/fussball/nationalmannschaft/fussballer-fuer-klopp-fussball-gesucht,dfb-bilanz-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Mon, 05 Oct 2026 08:25:36 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/nationalmannschaft/fussballer-fuer-klopp-fussball-gesucht,dfb-bilanz-100.html",
+          "summary": "Seinen Fußball hat Jürgen Klopp schnell bei der deutschen Nationalmannschaft eingeführt. Nach mäßigem Erfolg in der Nations League beginnt die Suche nach den Fußballern, die am besten dazu passen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8701525175f3",
+      "title": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
+      "summary": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß.",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "gesellschaft",
+      "time": "Mon, 05 Oct 2026 06:47:41 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html",
+          "summary": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6834eb4c75de",
+      "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
+      "summary": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung?",
+      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Mon, 05 Oct 2026 06:32:01 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
+          "summary": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b7dbcdbd55db",
+      "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+      "summary": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier.",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Mon, 05 Oct 2026 05:00:50 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+          "summary": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9c286befb6d4",
+      "title": "Friedensnobelpreis geht an Südafrikanerin Navanethem Pillay",
+      "summary": "Der Friedensnobelpreis geht in diesem Jahr nach Südafrika. Die Juristin Navanethem \"Navi\" Pillay wird mit der Auszeichnung für ihren Einsatz für die Menschenrechte prämiert.",
+      "link": "https://www.zdfheute.de/panorama/friedensnobelpreis-navanethem-pillay-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "gesellschaft",
+      "time": "Fri, 9 Oct 2026 14:59:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/friedensnobelpreis-navanethem-pillay-100.html",
+          "summary": "Der Friedensnobelpreis geht in diesem Jahr nach Südafrika. Die Juristin Navanethem \"Navi\" Pillay wird mit der Auszeichnung für ihren Einsatz für die Menschenrechte prämiert."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8a75cc1fe244",
+      "title": "Was Chinas Bikini-Stadt mit der EU zu tun hat",
+      "summary": "Ein Viertel der Bademode weltweit kommt aus einer Küstenstadt im Nordosten Chinas. Dort fürchten sie neue Handelsinstrumente der EU - Sorge, die deutsche Firmen in China teilen.",
+      "link": "https://www.zdfheute.de/politik/ausland/china-peking-eu-handelsstreit-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Fri, 9 Oct 2026 14:37:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/china-peking-eu-handelsstreit-100.html",
+          "summary": "Ein Viertel der Bademode weltweit kommt aus einer Küstenstadt im Nordosten Chinas. Dort fürchten sie neue Handelsinstrumente der EU - Sorge, die deutsche Firmen in China teilen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Fri, 9 Oct 2026 14:22:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c985353fab8c",
+      "title": "\"Schande\": Massive Kritik am Putin-Besuch von Schröder",
+      "summary": "Nach dem Besuch der Geburtstagsfeier des russischen Präsidenten in Moskau steht Altkanzler Schröder hierzulande massiv in der Kritik. Von \"Schande\" und \"Frechheit\" ist die Rede.",
+      "link": "https://www.zdfheute.de/politik/ausland/schroeder-ex-kanzler-putin-gratulation-kritik-ukraine-krieg-russland-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Fri, 9 Oct 2026 13:44:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/schroeder-ex-kanzler-putin-gratulation-kritik-ukraine-krieg-russland-100.html",
+          "summary": "Nach dem Besuch der Geburtstagsfeier des russischen Präsidenten in Moskau steht Altkanzler Schröder hierzulande massiv in der Kritik. Von \"Schande\" und \"Frechheit\" ist die Rede."
         }
       ],
       "sourcesCount": 1
