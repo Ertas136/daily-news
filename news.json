@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T03:43:02.132503+00:00",
+  "updated": "2026-10-09T04:06:23.370070+00:00",
   "articles": [
     {
       "id": "bd40a5ddffd4",
@@ -1763,24 +1763,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "cf3d7bfa151b",
-      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-      "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
-      "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 23:01:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "088e8ea07528",
       "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
       "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
@@ -2557,6 +2539,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Thu, 8 Oct 2026 22:25:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "006f5e006984",
       "title": "Ermittlungen gegen SPD-Abgeordneten Ahmetovic",
       "summary": "Gegen den Vorsitzenden der SPD Hannover, Adis Ahmetovic, wird ermittelt, wie die Staatsanwaltschaft bestätigte. Zu den Vorwürfen wollte sie keine Angaben machen.",
@@ -2786,14 +2786,9 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-cdu-afd-landtag-abstimmung-100.html",
           "summary": "Deutschland rätselt, wer die Abgeordneten sind, die für den AfD-Politiker Tobias Rausch als Landtagspräsident gestimmt haben. Einige CDUler widersprechen nun vehement dem Vorwurf."
-        },
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/cdu-afd-abstimmung-abgeordnete-parteiausschluss-radtke-100.html",
-          "summary": "Haben CDU-Abgeordnete in Sachsen-Anhalt den AfD-Politiker Rausch zum Landtagspräsidenten gewählt? Der Chef des CDU-Arbeitnehmerflügels fordert dafür ein Parteiausschlussverfahren."
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "34f0a93c6081",
@@ -2863,24 +2858,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/essen-light-festival-100.html",
           "summary": "Essens Innenstadt verwandelt sich in eine Welt aus Licht, Kunst und Farben – und das for free. Das Essen Light Festival vom 2."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9dc93a8cc0db",
-      "title": "SPD-Politiker Ralf Stegner zur AfD: \"So reden Faschisten\"",
-      "summary": "SPD-Politiker Ralf Stegner wirbt beim Talk mit Jan Fleischhauer für ein AfD-Verbotsverfahren und die Brandmauer: Mit Faschisten dürfe es keine Zusammenarbeit geben.",
-      "link": "https://www.zdfheute.de/politik/deutschland/keine-talkshow-fleischhauer-stegner-afd-verbot-brandmauer-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 10:27:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/keine-talkshow-fleischhauer-stegner-afd-verbot-brandmauer-100.html",
-          "summary": "SPD-Politiker Ralf Stegner wirbt beim Talk mit Jan Fleischhauer für ein AfD-Verbotsverfahren und die Brandmauer: Mit Faschisten dürfe es keine Zusammenarbeit geben."
         }
       ],
       "sourcesCount": 1
@@ -3143,24 +3120,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "45e7279fe06e",
-      "title": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech - U.S. Department of War (.gov)",
-      "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 23:36:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5",
-          "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech U.S. Department of War (.gov)"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a3084471943b",
       "title": "Kırşehir'de 20 yıl önceki kayıp dosyasıyla ilgili 7 kişi gözaltında",
       "summary": "İçişleri Bakanı Mustafa Çiftçi, Kırşehir'de 2006 yılında kaybolan Rıza Güzel'in akıbetinin araştırılmasına yönelik yürütülen soruşturma kapsamında, Güzel'in eşi ve 6 çocuğunun gözaltına alındığını açıkladı.",
@@ -3297,14 +3256,9 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZEQwOXdHWjVKWjE4UXhudDFCcEtnVWlYUG14aFJJSTRSZUJQRzQ4RlI5aGlXcFNPTDJZT0ZUYXlPUGRlWlNQOHdwWnlVeHBNOEpFQ0xYb0IxR01vaWRuclhyaVcyUkZwU1hBS25PeHl4UEE1Vmk5SUo1NHN5U2dsNWRhQUl4V1p0ZDMycEFyNWhCaWJDaW9xV0lqVGhOU2VXNUx1c3JwTTIzNWgtaXBlUTkxZlRBUlJacVFMR2dILUJWTGI5YmRmWWk0Q19XdkMzX0lNWUdrYUs2Unh0ZnM0ZG1BRGdueUk?oc=5",
           "summary": "International Business Machines Corporation $IBM Shares Sold by Congress Asset Management Co. MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZW41d0l1QzZ5YTZRQm1yVTN3c0QtZzNMbzBWM21wRkdCbjRZNDdxd1ZweFpRMVNIa3ZoYlRVYUJZNkJDaGhzNjFpMUt3d3NXa0xaUU9YZTk2SGswMjdyTndKV2xteEEzU1YzaF9xV3pmQ2t4UGd4Z1NqY2Mxc0lfRkNHRW53bUR6ODlWTjJuTE1sMDZGOVVVNnhmaXRMYzZ3OHhpU3llSWZKMTFxTl9KYUdvZ24xVTNSTjNGVmtxVzVPYjM5VEt0aVdWLTFtOVRKSmxPTl9WNFFUQmlVMjR2TmdmUmZ3bENfZTdLMXo1bw?oc=5",
-          "summary": "International Business Machines Corporation (NYSE:IBM) Stock Has Consensus Price Target of $253.52 MarketBeat"
         }
       ],
-      "sourcesCount": 5
+      "sourcesCount": 4
     },
     {
       "id": "84b5c8a1ead3",
@@ -3452,8 +3406,8 @@
     },
     {
       "id": "543aacf2a8cf",
-      "title": "EuroLeague im Basketball: Fehlstart verursacht Bayern-Pleite gegen Bologna",
-      "summary": "Fünf Europameister unterliegen dem Bundestrainer: Die Basketballer von Bayern München haben das EuroLeague-Duell mit DBB-Coach Álex Mumbrú nach einem kompletten Fehlstart verloren.",
+      "title": "Euroleague im Basketball: Fehlstart verursacht Bayern-Pleite gegen Bologna",
+      "summary": "Fünf Europameister unterliegen dem Bundestrainer: Die Basketballer von Bayern München haben das Euroleague-Duell mit DBB-Coach Álex Mumbrú nach einem kompletten Fehlstart verloren.",
       "link": "https://www.sportschau.de/basketball/fehlstart-verursacht-bayern-pleite-gegen-bologna,bayern-basketball-bologna-100.html",
       "sourceName": "Tagesschau Sport",
       "region": "international",
@@ -3463,7 +3417,7 @@
         {
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/basketball/fehlstart-verursacht-bayern-pleite-gegen-bologna,bayern-basketball-bologna-100.html",
-          "summary": "Fünf Europameister unterliegen dem Bundestrainer: Die Basketballer von Bayern München haben das EuroLeague-Duell mit DBB-Coach Álex Mumbrú nach einem kompletten Fehlstart verloren."
+          "summary": "Fünf Europameister unterliegen dem Bundestrainer: Die Basketballer von Bayern München haben das Euroleague-Duell mit DBB-Coach Álex Mumbrú nach einem kompletten Fehlstart verloren."
         }
       ],
       "sourcesCount": 1
@@ -3595,6 +3549,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "93932f0258aa",
+      "title": "U.S. Chief Technology Officer Ethan Klein: We are ushering in a golden age of American science - CNBC",
+      "summary": "U.S. Chief Technology Officer Ethan Klein: We are ushering in a golden age of American science CNBC",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVdjTDJuS3ZHdFZzY3hrbFBtYm5lWDFNQTVrVF9ZRk12eFR6N0o2dzQtTmtrTldKNEs1eFdib0tzc2ZjckZoVU5OX0FQRGF2MjVmRVZwSk52SDlEVXpoTFpGQ1dpX2QwdHRTZ2FYZnhibmFVQnNMV1M4a3h2cXp3b3NsU0pUaGFMTFYwc3ByZEZiVDBoRWhfNXJ6RUxrLTJ2VkVQbm9BdzZKSGNEdU1rNXl5SnhQZG92anFzVUpIRDFHVXk1Vk92SUVaVkFBX00?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 21:56:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVdjTDJuS3ZHdFZzY3hrbFBtYm5lWDFNQTVrVF9ZRk12eFR6N0o2dzQtTmtrTldKNEs1eFdib0tzc2ZjckZoVU5OX0FQRGF2MjVmRVZwSk52SDlEVXpoTFpGQ1dpX2QwdHRTZ2FYZnhibmFVQnNMV1M4a3h2cXp3b3NsU0pUaGFMTFYwc3ByZEZiVDBoRWhfNXJ6RUxrLTJ2VkVQbm9BdzZKSGNEdU1rNXl5SnhQZG92anFzVUpIRDFHVXk1Vk92SUVaVkFBX00?oc=5",
+          "summary": "U.S. Chief Technology Officer Ethan Klein: We are ushering in a golden age of American science CNBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "befc2d29f2be",
       "title": "Port talks new radar technology in San Diego harbor - inewsource",
       "summary": "Port talks new radar technology in San Diego harbor inewsource",
@@ -3626,24 +3598,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
           "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "93932f0258aa",
-      "title": "U.S. Chief Technology Officer Ethan Klein: We are ushering in a golden age of American science - CNBC",
-      "summary": "U.S. Chief Technology Officer Ethan Klein: We are ushering in a golden age of American science CNBC",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVdjTDJuS3ZHdFZzY3hrbFBtYm5lWDFNQTVrVF9ZRk12eFR6N0o2dzQtTmtrTldKNEs1eFdib0tzc2ZjckZoVU5OX0FQRGF2MjVmRVZwSk52SDlEVXpoTFpGQ1dpX2QwdHRTZ2FYZnhibmFVQnNMV1M4a3h2cXp3b3NsU0pUaGFMTFYwc3ByZEZiVDBoRWhfNXJ6RUxrLTJ2VkVQbm9BdzZKSGNEdU1rNXl5SnhQZG92anFzVUpIRDFHVXk1Vk92SUVaVkFBX00?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 21:32:34 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVdjTDJuS3ZHdFZzY3hrbFBtYm5lWDFNQTVrVF9ZRk12eFR6N0o2dzQtTmtrTldKNEs1eFdib0tzc2ZjckZoVU5OX0FQRGF2MjVmRVZwSk52SDlEVXpoTFpGQ1dpX2QwdHRTZ2FYZnhibmFVQnNMV1M4a3h2cXp3b3NsU0pUaGFMTFYwc3ByZEZiVDBoRWhfNXJ6RUxrLTJ2VkVQbm9BdzZKSGNEdU1rNXl5SnhQZG92anFzVUpIRDFHVXk1Vk92SUVaVkFBX00?oc=5",
-          "summary": "U.S. Chief Technology Officer Ethan Klein: We are ushering in a golden age of American science CNBC"
         }
       ],
       "sourcesCount": 1
@@ -3688,6 +3642,24 @@
         }
       ],
       "sourcesCount": 2
+    },
+    {
+      "id": "1869eafe6137",
+      "title": "Apple Set to Launch Its First Touchscreen MacBook Pro and Redesigned iPad Mini Later This Month: Report - International Business Times",
+      "summary": "Apple Set to Launch Its First Touchscreen MacBook Pro and Redesigned iPad Mini Later This Month: Report International Business Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFVmTWxsYXVxaTlMTmppRXdhSFhka3pZYkhsY3VJMlRsVU5wZW4yUEVwVC0tYmlRZUJvcnZOVTQ1MHExdkM5VXpIZ2JHb3pyb3EwWDVlZnBVaHEtX2h1TC1CR3VIN1BjbXVGWjE2MllEcWVTNnhZWUEyWE5KOE9YODRSbzV0Z0l4WU12RDEtdkdoWmZQaWJTeVBRaVcxLVBia29qWEg0OWhVMmhySGROLU10OXdlTkwzWVZ6eENxSGloRUtCTWc?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 08 Oct 2026 21:14:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFVmTWxsYXVxaTlMTmppRXdhSFhka3pZYkhsY3VJMlRsVU5wZW4yUEVwVC0tYmlRZUJvcnZOVTQ1MHExdkM5VXpIZ2JHb3pyb3EwWDVlZnBVaHEtX2h1TC1CR3VIN1BjbXVGWjE2MllEcWVTNnhZWUEyWE5KOE9YODRSbzV0Z0l4WU12RDEtdkdoWmZQaWJTeVBRaVcxLVBia29qWEg0OWhVMmhySGROLU10OXdlTkwzWVZ6eENxSGloRUtCTWc?oc=5",
+          "summary": "Apple Set to Launch Its First Touchscreen MacBook Pro and Redesigned iPad Mini Later This Month: Report International Business Times"
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "a1a324de9ede",
@@ -3929,19 +3901,19 @@
       "sourcesCount": 2
     },
     {
-      "id": "820f32a3cbe4",
-      "title": "A Practical Path to Post-Quantum Readiness in Operational Technology - Foundation for Defense of Democracies",
-      "summary": "A Practical Path to Post-Quantum Readiness in Operational Technology Foundation for Defense of Democracies",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGFWSlp2QmRCZjkzenNGU2tDWEI5ZFFMUjJiM1ZSbVIzNmpocGZlakhyWFRneC0tM09sOEJERUEwbjc1SWJLRHBTcVdTdGx3LXhpN0ZSSHhucmlzaFk3Tkl3MlhfMjZEV09SaGN1RGVpVm1ReThMUGs3V3dzYWxiR3RXYVpGRkJMa0drSjhDbjJzZVBWVGtvOVAzaG5fdi1RNW1LYkZ6cjVXb2dlQWc?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "b7269744bd0c",
+      "title": "OpenAI's Revenue Was Lower Than Previously Reported. Stocks Dropped Dragged by AI Names. - International Business Times",
+      "summary": "OpenAI's Revenue Was Lower Than Previously Reported. Stocks Dropped Dragged by AI Names.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnJzaGFnajdvZHJVeTdsTldxZ3Jwb1lKRmIxa1Rza2s0MkQ1RlAxLVd0QlJYc2psYi1fVTVRdW1za0R4N1ZWV29FWVYyX0lGMWFuN1dOYUhBVWhvV2luenZpeGxENFpCV2N1N0F3YkhZQ29NaS1aSmFmVUthWE9GZFQ1bGs5T29mUUtqZnk0Nlh4YmpnYUNtLWFVM2t4Tnl4RWlwYUZnNUNBYjdMZmc?oc=5",
+      "sourceName": "Google News – International Business",
       "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 20:28:09 GMT",
+      "topic": "wirtschaft",
+      "time": "Thu, 08 Oct 2026 20:21:29 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGFWSlp2QmRCZjkzenNGU2tDWEI5ZFFMUjJiM1ZSbVIzNmpocGZlakhyWFRneC0tM09sOEJERUEwbjc1SWJLRHBTcVdTdGx3LXhpN0ZSSHhucmlzaFk3Tkl3MlhfMjZEV09SaGN1RGVpVm1ReThMUGs3V3dzYWxiR3RXYVpGRkJMa0drSjhDbjJzZVBWVGtvOVAzaG5fdi1RNW1LYkZ6cjVXb2dlQWc?oc=5",
-          "summary": "A Practical Path to Post-Quantum Readiness in Operational Technology Foundation for Defense of Democracies"
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnJzaGFnajdvZHJVeTdsTldxZ3Jwb1lKRmIxa1Rza2s0MkQ1RlAxLVd0QlJYc2psYi1fVTVRdW1za0R4N1ZWV29FWVYyX0lGMWFuN1dOYUhBVWhvV2luenZpeGxENFpCV2N1N0F3YkhZQ29NaS1aSmFmVUthWE9GZFQ1bGs5T29mUUtqZnk0Nlh4YmpnYUNtLWFVM2t4Tnl4RWlwYUZnNUNBYjdMZmc?oc=5",
+          "summary": "OpenAI's Revenue Was Lower Than Previously Reported. Stocks Dropped Dragged by AI Names."
         }
       ],
       "sourcesCount": 1
@@ -4037,24 +4009,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "cad021b6356a",
-      "title": "ACC opens expanded automotive technology facility at Round Rock campus - KXAN Austin",
-      "summary": "ACC opens expanded automotive technology facility at Round Rock campus KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXN3ZUNLazFnU2JrNExIUGZFNmVZM3NELUJrX3VfblJkRk5WQjF6SXMwU3pSLUlyM01tZUZMblV3dENFRXV5S04zdXdRRkpYN2JpVUIya3Zxekk1NG44THZuRmxlTF9mMlhxTmY2SzlvRWlDYTZhM3lISHNsSTU1OVRrbWc0ZkhGZWFOOE9Kc3JlNkpOOXBTQlNrREhYRVJQMmJfdndGck1UOU3SAbABQVVfeXFMUFZEc3BpSWhfVWRTc1RTWDRSdERQOHV2NmZGWU1TMU9yX3EzVmhJMUN1MUNmV3FZMHlCaXpnNHV2MFhwQUp4Q1VpbHZvNWZPYm11aVRLQVM1a1RmVGtGcVpPRFFvRmxERVA2dER3YW9FWVVoSG9HYkhnYkdSUUo4VzdrRG4zM0lJOFZBc1pIb1BBV3MyU3hLbFpRaEF1YnF6Q0c3UDNRZERZc091X0RFcWs?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 19:48:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXN3ZUNLazFnU2JrNExIUGZFNmVZM3NELUJrX3VfblJkRk5WQjF6SXMwU3pSLUlyM01tZUZMblV3dENFRXV5S04zdXdRRkpYN2JpVUIya3Zxekk1NG44THZuRmxlTF9mMlhxTmY2SzlvRWlDYTZhM3lISHNsSTU1OVRrbWc0ZkhGZWFOOE9Kc3JlNkpOOXBTQlNrREhYRVJQMmJfdndGck1UOU3SAbABQVVfeXFMUFZEc3BpSWhfVWRTc1RTWDRSdERQOHV2NmZGWU1TMU9yX3EzVmhJMUN1MUNmV3FZMHlCaXpnNHV2MFhwQUp4Q1VpbHZvNWZPYm11aVRLQVM1a1RmVGtGcVpPRFFvRmxERVA2dER3YW9FWVVoSG9HYkhnYkdSUUo4VzdrRG4zM0lJOFZBc1pIb1BBV3MyU3hLbFpRaEF1YnF6Q0c3UDNRZERZc091X0RFcWs?oc=5",
-          "summary": "ACC opens expanded automotive technology facility at Round Rock campus KXAN Austin"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "350ff93994ba",
       "title": "Witkoff, Kushner to meet Ukrainians for talks on the war, says US source - Reuters",
       "summary": "Witkoff, Kushner to meet Ukrainians for talks on the war, says US source Reuters",
@@ -4086,24 +4040,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
           "summary": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9b4b52f1a94c",
-      "title": "Liveblog Ukrainekrieg: Selenskyj kritisiert Rubio: „Das nennt man Unwillen!“",
-      "summary": "Selenskyj fordert Starlink-Freigabe und mehr Druck auf Russland +++ 30 Tote nach Angriff auf zwei Linienbusse in Kramatorsk +++ Zahl der Todesopfer in ukrainischer Stadt Pryluky steigt auf 22 +++ alle Neuigkeiten im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-kritisiert-rubio-das-nennt-man-unwillen-faz-110683325.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 19:27:14 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-kritisiert-rubio-das-nennt-man-unwillen-faz-110683325.html",
-          "summary": "Selenskyj fordert Starlink-Freigabe und mehr Druck auf Russland +++ 30 Tote nach Angriff auf zwei Linienbusse in Kramatorsk +++ Zahl der Todesopfer in ukrainischer Stadt Pryluky steigt auf 22 +++ alle Neuigkeiten im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -4181,24 +4117,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6335af12d735",
-      "title": "Gartner's top technology trends for 2026, explained - qz.com",
-      "summary": "Gartner's top technology trends for 2026, explained qz.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WcnV6NmQyWk83cnFpcDFBSUFENGlfMnNWMDRhamxxTnVnZlZjMTdKNmZGR09zd1JwdzQ4U0daYUp6OHc2V09Bd2JhWHpJdE9nUjdLNTY4TWVsOU5PMFE?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 19:19:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WcnV6NmQyWk83cnFpcDFBSUFENGlfMnNWMDRhamxxTnVnZlZjMTdKNmZGR09zd1JwdzQ4U0daYUp6OHc2V09Bd2JhWHpJdE9nUjdLNTY4TWVsOU5PMFE?oc=5",
-          "summary": "Gartner's top technology trends for 2026, explained qz.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "36da381167f3",
       "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
       "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
@@ -4230,24 +4148,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyada-omsk-petrol-rafinerisine-saldiri-duzenledik-959564.html",
           "summary": "Ukrayna ordusu, Rusya'daki Omsk Petrol Rafinerisi'ne yönelik saldırı düzenlediklerini bildirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2c9b93268f5e",
-      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets - Reuters",
-      "summary": "Euro zone ministers tell France to pass 2027 budget to calm markets Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1JMSXB2aERESElBa2JCX0tZUDZJQ2NhWTFacEM3NTE5QmtjcjNlM2RoMHppNVpyc0VfYWFCQVQ2Qml2ZU9mS0RvVDRfY1BmSnEzbHotaXV6MFVBblVkTjVqQ0JIRC03UDgyd1RLd3BtdWZmODg5cTFVNWswQ3k5WnR1ZUR3TWY5VjJiem9memp6VXFpNFQzOHcyNjNTaE9nUERUSUZ1akh3WGZXQTRQN3RMTHA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 18:57:49 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1JMSXB2aERESElBa2JCX0tZUDZJQ2NhWTFacEM3NTE5QmtjcjNlM2RoMHppNVpyc0VfYWFCQVQ2Qml2ZU9mS0RvVDRfY1BmSnEzbHotaXV6MFVBblVkTjVqQ0JIRC03UDgyd1RLd3BtdWZmODg5cTFVNWswQ3k5WnR1ZUR3TWY5VjJiem9memp6VXFpNFQzOHcyNjNTaE9nUERUSUZ1akh3WGZXQTRQN3RMTHA?oc=5",
-          "summary": "Euro zone ministers tell France to pass 2027 budget to calm markets Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4374,6 +4274,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/uefa-praesentiert-strategie-aber-keinen-kandidaten,uefa-treffen-berlin-fifa-infantino-102.html",
           "summary": "Die UEFA steht im FIFA-Machtkampf weiter ohne einen Gegenkandidaten für Gianni Infantino da, präsentierte dafür aber eine Strategie im Machtkampf. Die Opposition bekommt derweil Risse."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "366abb6c985e",
+      "title": "AkzoNobel, Axalta set to win EU antitrust nod for $25 billion deal, sources say - Reuters",
+      "summary": "AkzoNobel, Axalta set to win EU antitrust nod for $25 billion deal, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXhNTjhLSmI1NTZVMGszNVhsdXFqSVFET190Ym5DTUVHbW82d2VOMHpIRG1ubzdSX2xnWkxBTHA0VmRFN1dXVWZlV0dKbW5FejdxNlc0NWtSVUlHZ3hNazAtcFdWb0xoZHJ4YUc0SVhNWDJuazB0Z0ROdkJGQUlsU3FGbm54bm04aUUwVmJDSjBFVDcxWGJiUlNUb1dGV2xHRUxuY0FYMW5ycDNtSm5qWGQ1SUZpZDdYOHc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 18:48:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXhNTjhLSmI1NTZVMGszNVhsdXFqSVFET190Ym5DTUVHbW82d2VOMHpIRG1ubzdSX2xnWkxBTHA0VmRFN1dXVWZlV0dKbW5FejdxNlc0NWtSVUlHZ3hNazAtcFdWb0xoZHJ4YUc0SVhNWDJuazB0Z0ROdkJGQUlsU3FGbm54bm04aUUwVmJDSjBFVDcxWGJiUlNUb1dGV2xHRUxuY0FYMW5ycDNtSm5qWGQ1SUZpZDdYOHc?oc=5",
+          "summary": "AkzoNobel, Axalta set to win EU antitrust nod for $25 billion deal, sources say Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4577,14 +4495,9 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1g2N0ZEbmxqaE11R0lYUng2cXFyMEVBSmNubFdYV0VQU1ZXclJLeldGSlJ0OTlWeHFXLW9pdl9jUWFlMUh1V3ZRbC1BOGZpUklEQnJMbXJ4OEJ5bVZaeXV4dnVaR2RQRE1zdkhDYk9mR0p6YW4zUDhRRjFMbWgwMDFqcTNFYnFyVzEyWlBhY3MzTnhqc3VvQWZMSk5QYVRPVncwYXYwUS1iQkFvREJOX3l2ck5hMFdDNlZfUGlZSktyclFfekEtTVhiWUFxTWFwS3d3OXkxQnFsTERGRFhZeTdCd25UdHNNX0lSbEZVVTlMTERmRmc?oc=5",
           "summary": "Hamlin Capital Management LLC Boosts Stock Holdings in International Business Machines Corporation $IBM MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYVBMRE5RV1EwUGlvVjdaZlVPODRGX1EzdFV3Rk5BTGxFbzd6ZUJqRFVGdWdLSzVqU0dHdG8waWZVblNRWWdmX2xUVDVETXpRSVM5RG40ZkZ5TkFZWC1kYzU4TXBnNUEzblFaNnpjbUZHd21uSGMtNERZempndm4zZjRqU2FhSDJDcjM2Rjk3eThuMDlDemNOalo0cHJFZmFGemQ1Mm9SNVc3R3FFaVFTemhEc2ZLZjM1dlRqb1FlR19zb256R1pScDdtYm1oSUhxYjYybWJHQjVNVXVvN0pJQl9uNld1TGFTdFNFcXVoQQ?oc=5",
-          "summary": "American National Bank & Trust Sells 4,702 Shares of International Business Machines Corporation $IBM MarketBeat"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "13be4c3bb4cb",
@@ -5186,14 +5099,9 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-yolcu-otobusune-duzenledigi-saldirida-30-kisi-hayatini-kaybetti-959549.html",
           "summary": "Ukrayna Devlet Acil Durum Servisi (DSNS), Rus ordusunun Donetsk bölgesindeki Kramatorsk şehrinde yolcu otobüsünü hedef alması sonucu 30 kişinin yaşamını yitirdiğini ve 18 kişinin yaralandığını duyurdu."
-        },
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-kieve-duzenledigi-hava-saldirilarinda-3-sivil-hayatini-kaybetti-959521.html",
-          "summary": "Rus ordusunun Ukrayna'nın başkenti Kiev'e yönelik dün geceden itibaren düzenlediği hava saldırılarında 3 sivilin hayatını kaybettiği ve 33 kişinin yaralandığı duyuruldu."
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "4236b2526c6f",
@@ -5245,24 +5153,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-abdnin-teklifini-incelediklerini-soyledi-959547.html",
           "summary": "İran Dışişleri Bakanı Abbas Arakçi, müzakerelerin devam ettiğini, ABD’nin önerisini değerlendirdiklerini ve birkaç gün içinde cevap vereceklerini söyledi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0a443d584be4",
-      "title": "ITB Americas reaches 85% occupancy and moves towards its first edition in Guadalajara - Travel2Latam",
-      "summary": "ITB Americas reaches 85% occupancy and moves towards its first edition in Guadalajara Travel2Latam",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdEFweWxDWnJJVFVrdWpUcG9ScTVYR3cwVU9TckJkMzhlMFdQeTkzenJIcWUzOW5zUUJ6aWdhV0NpRDh3ZHA0Qm15WTNrSGJ6WVpVa3M3UEd3eXNITEY1NkVTNG5LOHEzeTJxVkhjY3djODZjalJuNnlYYjdac0VnQzBhc1Y0SEJKS21PRGVJNWNnVV94SEdrZk1JZEZwam9NMVZ6czQ2UU10bm9KMF9oanM3M2c0TkZGa0c0ZWloSjRKenBoZXdPZg?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 15:35:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdEFweWxDWnJJVFVrdWpUcG9ScTVYR3cwVU9TckJkMzhlMFdQeTkzenJIcWUzOW5zUUJ6aWdhV0NpRDh3ZHA0Qm15WTNrSGJ6WVpVa3M3UEd3eXNITEY1NkVTNG5LOHEzeTJxVkhjY3djODZjalJuNnlYYjdac0VnQzBhc1Y0SEJKS21PRGVJNWNnVV94SEdrZk1JZEZwam9NMVZ6czQ2UU10bm9KMF9oanM3M2c0TkZGa0c0ZWloSjRKenBoZXdPZg?oc=5",
-          "summary": "ITB Americas reaches 85% occupancy and moves towards its first edition in Guadalajara Travel2Latam"
         }
       ],
       "sourcesCount": 1
@@ -5500,6 +5390,101 @@
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "a6626f50a3e2",
+      "title": "Wales target clean sheet in World Cup play-off first leg",
+      "summary": "Rhian Wilkinson makes a clean sheet the first target for Wales in Friday's Women's World Cup play-off semi-final first leg against Albania.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwr7yv4yl59do?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 14:38:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwr7yv4yl59do?at_medium=RSS&at_campaign=rss",
+          "summary": "Rhian Wilkinson makes a clean sheet the first target for Wales in Friday's Women's World Cup play-off semi-final first leg against Albania."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0516859495dc",
+      "title": "Cummins not worried about potential Khawaja revelations",
+      "summary": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 14:38:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
+          "summary": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "98cdc5bcf151",
+      "title": "PepsiCo slashes forecast, deepens cost cuts as N.America recovery drags - Reuters",
+      "summary": "PepsiCo slashes forecast, deepens cost cuts as N.America recovery drags Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHltelZJVGJtWi1ueVRYa1Y0VHR1TG4tRTN4M1JIS29vSHE3V1VVWEJNQURYUlBBbGk5X2tYNFphZ0JvWnUxVUlkdGJjd1FjZFJLeDRvVWdhdjRIZmNJSjFDODZlWWktaERJQUliOFp4U0ZqRW13ZGZRQjBFTHlIbm43NzZWaU1WRmNnOXk4TnVzUWpRWUg3OHd4ZGdzYWhjMFVZLUhnZlRUVDhoNm9DN0F2REVpdy1XdjJ3cHBiLXQ3OFBtc2c?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:36:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHltelZJVGJtWi1ueVRYa1Y0VHR1TG4tRTN4M1JIS29vSHE3V1VVWEJNQURYUlBBbGk5X2tYNFphZ0JvWnUxVUlkdGJjd1FjZFJLeDRvVWdhdjRIZmNJSjFDODZlWWktaERJQUliOFp4U0ZqRW13ZGZRQjBFTHlIbm43NzZWaU1WRmNnOXk4TnVzUWpRWUg3OHd4ZGdzYWhjMFVZLUhnZlRUVDhoNm9DN0F2REVpdy1XdjJ3cHBiLXQ3OFBtc2c?oc=5",
+          "summary": "PepsiCo slashes forecast, deepens cost cuts as N.America recovery drags Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8ce82ad50fee",
+      "title": "AB: Rusya salgın şüphesi hakkında bilgi paylaşmalı",
+      "summary": "Avrupa Birliği (AB), Rusya'da ortaya çıkan salgın şüphesi hakkında en kısa sürede doğru ve kesin bilgi paylaşılması gerektiğini bildirdi.",
+      "link": "https://www.trthaber.com/haber/dunya/ab-rusya-salgin-suphesi-hakkinda-bilgi-paylasmali-959541.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:34:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/ab-rusya-salgin-suphesi-hakkinda-bilgi-paylasmali-959541.html",
+          "summary": "Avrupa Birliği (AB), Rusya'da ortaya çıkan salgın şüphesi hakkında en kısa sürede doğru ve kesin bilgi paylaşılması gerektiğini bildirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b68c227f1559",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:33:23 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship."
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5",
+          "summary": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature Reuters"
+        }
+      ],
+      "sourcesCount": 2
     }
   ]
 }
