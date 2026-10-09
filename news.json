@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:07:35.560496+00:00",
+  "updated": "2026-10-09T15:42:51.622429+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -15,6 +15,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
           "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f08430fb801a",
+      "title": "Nach Cornell-VorFall: Gibt es eine „rape culture“ an amerikanischen Universitäten?",
+      "summary": "Ein Fall von mutmaßlicher sexueller Gewalt an der Elite-Universität Cornell zeigt nicht nur, wie schädlich frauenfeindliche Gruppendynamiken sind. Auch die Diskussionen über den Fall im Netz haben ihre Schattenseiten.",
+      "link": "https://www.faz.net/aktuell/feuilleton/debatten/cornell-co-gibt-es-eine-rape-culture-an-amerikanischen-universitaeten-201273977.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 30 Sep 2026 17:31:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/debatten/cornell-co-gibt-es-eine-rape-culture-an-amerikanischen-universitaeten-201273977.html",
+          "summary": "Ein Fall von mutmaßlicher sexueller Gewalt an der Elite-Universität Cornell zeigt nicht nur, wie schädlich frauenfeindliche Gruppendynamiken sind. Auch die Diskussionen über den Fall im Netz haben ihre Schattenseiten."
         }
       ],
       "sourcesCount": 1
@@ -853,6 +871,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5258ae96e7a2",
+      "title": "Watch: Every Messi World Cup goal for Argentina",
+      "summary": "Watch every World Cup goal scored by Lionel Messi, as the Argentina forward retires from international football.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c61kdn0nwld4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 05:24:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c61kdn0nwld4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Watch every World Cup goal scored by Lionel Messi, as the Argentina forward retires from international football."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "7772c2ac26c4",
       "title": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota - Fox News",
       "summary": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota Fox News",
@@ -1205,6 +1241,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ab2f9e68fb78",
+      "title": "Scotland let lead slip in abject defeat by Slovenia",
+      "summary": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 06 Oct 2026 21:23:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&at_campaign=rss",
+          "summary": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "08d9b8376eca",
       "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
       "summary": "Im neuen \"Infraplan\" legt der Bund konkrete Ziele für Sanierung und Ausbau des Bahnnetzes fest. Doch die Branche mahnt: Ohne gesicherte Finanzierung droht auch dieser Plan in der Schublade zu verschwinden.",
@@ -1290,24 +1344,6 @@
         }
       ],
       "sourcesCount": 4
-    },
-    {
-      "id": "cd3810fc08c5",
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 17:50:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm."
-        }
-      ],
-      "sourcesCount": 1
     },
     {
       "id": "24977b9dc394",
@@ -1567,24 +1603,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "2d16bcad82b4",
-      "title": "IPC brings flagship sport science conference to Tokyo - Inside The Games",
-      "summary": "IPC brings flagship sport science conference to Tokyo Inside The Games",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEVfYnVTRmFPX0VjQndhY1IxR1ZudllBY09CbTQ2RDhHalRFckpMRjFRQTdLY3VXRXRkZnRWNDZxdzA2X19IZExhQWdWNF9vMkdveGh0Ni1RZlBNVElscklJTnpHSDBqTTcxcnJhMlBOR3dNMng3UWxNTkExN1NKeU9OZUs1VzRJc2NpV1pGbG9JenBGZC1mbg?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 09:29:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEVfYnVTRmFPX0VjQndhY1IxR1ZudllBY09CbTQ2RDhHalRFckpMRjFRQTdLY3VXRXRkZnRWNDZxdzA2X19IZExhQWdWNF9vMkdveGh0Ni1RZlBNVElscklJTnpHSDBqTTcxcnJhMlBOR3dNMng3UWxNTkExN1NKeU9OZUs1VzRJc2NpV1pGbG9JenBGZC1mbg?oc=5",
-          "summary": "IPC brings flagship sport science conference to Tokyo Inside The Games"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "17cd5a52cc5b",
       "title": "Freigabe der Ölreserven: Was bringt das für die Preise?",
       "summary": "Im Kampf gegen die hohen Öl- und Kraftstoffpreise geben die G7-Staaten bis zu 100 Millionen Barrel aus strategischen Reserven frei. Zumindest kurzfristig ist mit einer Entlastung zu rechnen - auch an den Tankstellen.",
@@ -1801,24 +1819,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "34f0a93c6081",
-      "title": "Service: ADAC-Winterreifentest",
-      "summary": "Wenn die Temperaturen sinken und es auf den Straßen glatt werden kann, ist es Zeit für Winterreifen. Der ADAC hat 32 verschiedene Winterreifen getestet - mit teilweise ernüchternden Ergebnissen.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/winterreifen-test-adac-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/winterreifen-test-adac-100.html",
-          "summary": "Wenn die Temperaturen sinken und es auf den Straßen glatt werden kann, ist es Zeit für Winterreifen. Der ADAC hat 32 verschiedene Winterreifen getestet - mit teilweise ernüchternden Ergebnissen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8e4669d5a466",
       "title": "Gesundheits-Check für Sibirische Tiger-Drillinge",
       "summary": "Im Tierpark Ströhen sind am 20. August 2026 Amur-Tiger-Drillinge zur Welt gekommen.",
@@ -1832,42 +1832,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
           "summary": "Im Tierpark Ströhen sind am 20. August 2026 Amur-Tiger-Drillinge zur Welt gekommen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "54dd8ecb0d8f",
-      "title": "Freden: Brücke erst saniert, jetzt doch Abriss",
-      "summary": "Viele Brücken in Deutschland müssen saniert werden. Ein Fall aus Niedersachsen zeigt, dass eine Sanierung nicht immer den erhofften Erfolg bringt.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/freden-bruecke-abriss-nach-sanierung-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/freden-bruecke-abriss-nach-sanierung-100.html",
-          "summary": "Viele Brücken in Deutschland müssen saniert werden. Ein Fall aus Niedersachsen zeigt, dass eine Sanierung nicht immer den erhofften Erfolg bringt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "70a7f0ac9dab",
-      "title": "Essen: Light Festival 2026",
-      "summary": "Essens Innenstadt verwandelt sich in eine Welt aus Licht, Kunst und Farben – und das for free. Das Essen Light Festival vom 2.",
-      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/essen-light-festival-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/essen-light-festival-100.html",
-          "summary": "Essens Innenstadt verwandelt sich in eine Welt aus Licht, Kunst und Farben – und das for free. Das Essen Light Festival vom 2."
         }
       ],
       "sourcesCount": 1
@@ -2089,6 +2053,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "d0053941a2ed",
+      "title": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut - CNBC",
+      "summary": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUh0clNJZk5vbVlkTzRwSmZxTmM4b1hRYWlSSms1c3pQWFA5Njd2Ri04U2FhUFFSYmpia1djdTAtWV8xRklkOTR5WkhQVEhaMkpmRzg0cVFuMjFlTFdaRGttbkFnc203NFlTWmxaZlJYcXJGYkhqZ1FvejNXTXNEWENLLU51MVdtNWlNblJCeHpXQdIBlwFBVV95cUxOcHlNQ2ZBUFhYMWxzTWlqMkEzbVVZZmc5SkM4SlptQWhkU081azlDeXNZcGxsX2VGdkdnanQ0RnJ5b05fVU1NSGFYT040MGRzQVU4eHJWa0g1U2VBTk9ZTFNuYW1ZWXlnTGdWNEk4RlpxOFc3aHZIeGl6UERGM2g4bVNkeTM1VHlXQjJRNS0xZUhjeFExM0xz?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUh0clNJZk5vbVlkTzRwSmZxTmM4b1hRYWlSSms1c3pQWFA5Njd2Ri04U2FhUFFSYmpia1djdTAtWV8xRklkOTR5WkhQVEhaMkpmRzg0cVFuMjFlTFdaRGttbkFnc203NFlTWmxaZlJYcXJGYkhqZ1FvejNXTXNEWENLLU51MVdtNWlNblJCeHpXQdIBlwFBVV95cUxOcHlNQ2ZBUFhYMWxzTWlqMkEzbVVZZmc5SkM4SlptQWhkU081azlDeXNZcGxsX2VGdkdnanQ0RnJ5b05fVU1NSGFYT040MGRzQVU4eHJWa0g1U2VBTk9ZTFNuYW1ZWXlnTGdWNEk4RlpxOFc3aHZIeGl6UERGM2g4bVNkeTM1VHlXQjJRNS0xZUhjeFExM0xz?oc=5",
+          "summary": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut CNBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "45e7279fe06e",
       "title": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech - U.S. Department of War (.gov)",
       "summary": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech U.S. Department of War (.gov)",
@@ -2246,42 +2228,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/swr/swr-vereinshistorische-spielzeit-sc-freiburg-stoesst-in-neue-sphaeren-vor-100.html",
           "summary": "Beim SC Freiburg läuft es nicht nur sportlich hervorragend. Der Bundesligist kann den Mitgliedern beeindruckende Zahlen vorlegen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "12a14cd09cb7",
-      "title": "‘Nothing About This Was Inevitable’ - The Atlantic",
-      "summary": "‘Nothing About This Was Inevitable’ The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblZaNXh6YmxHSGZscG11UWxKQ05HX2tXQmtFbExRWVVVOVJ6dzJmLVNUQUNrdnprMC01azBBSkpTRlNJcjlmTE9rbFNncTI4Q2JHYzktcC1DX0dPeTJ4cVlFbF9ua1lVWTU3OWRkdVRuMTkyR3ZKWVdXN1g3YTE0cnhDQ1VxSkVjVW95UWMyRkdWYnVUTnNyZQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 22:38:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblZaNXh6YmxHSGZscG11UWxKQ05HX2tXQmtFbExRWVVVOVJ6dzJmLVNUQUNrdnprMC01azBBSkpTRlNJcjlmTE9rbFNncTI4Q2JHYzktcC1DX0dPeTJ4cVlFbF9ua1lVWTU3OWRkdVRuMTkyR3ZKWVdXN1g3YTE0cnhDQ1VxSkVjVW95UWMyRkdWYnVUTnNyZQ?oc=5",
-          "summary": "‘Nothing About This Was Inevitable’ The Atlantic"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4c63a9db3aa9",
-      "title": "Spurs' Simons enrols at iconic university Harvard",
-      "summary": "Tottenham's Xavi Simons enrols at prestigious American university Harvard as he continues his recovery from a long-term injury.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckpqg9388e7wo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 08 Oct 2026 22:21:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckpqg9388e7wo?at_medium=RSS&at_campaign=rss",
-          "summary": "Tottenham's Xavi Simons enrols at prestigious American university Harvard as he continues his recovery from a long-term injury."
         }
       ],
       "sourcesCount": 1
@@ -2531,19 +2477,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "b952add169c9",
-      "title": "Festnahme Hannings: Der Staat erlaubt seinen Geheimnisträgern zu viel",
-      "summary": "Der Fall des früheren BND-Präsidenten ist Ausdruck von mangelndem Verantwortungsgefühl. Die Reform der Dienste darf jetzt aber nicht scheitern.",
-      "link": "https://www.faz.net/aktuell/politik/inland/fall-hanning-loyalitaet-darf-im-ruhestand-nicht-enden-201298454.html",
-      "sourceName": "FAZ",
+      "id": "825a97b38fe3",
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies - NASA (.gov)",
+      "summary": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies NASA (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON25uQ3J4VHM4VVhOLUNhQkNES1V4dGsyY3o5LW9icDk5UEpQMW9Tb211T3dlX0VvalVOMTRrLUxRQXVEZlluSnlaek9qdWRuT1k0aFZjTzdIR21XM3FRa2RELTBUYUdfVGFPMXNtLUFVWlZMWnFVb1JEeFRzRkdINUIwUEFwZUdOdlVySDZqOU5HQW9ubm5hRkp2eHZzRzNuLWkxRE00bmk2dXYtVzdQek5acWFpUkF0dGc?oc=5",
+      "sourceName": "Google News – International Technology",
       "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 18:54:00 GMT",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 18:56:25 GMT",
       "coverage": [
         {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/fall-hanning-loyalitaet-darf-im-ruhestand-nicht-enden-201298454.html",
-          "summary": "Der Fall des früheren BND-Präsidenten ist Ausdruck von mangelndem Verantwortungsgefühl. Die Reform der Dienste darf jetzt aber nicht scheitern."
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON25uQ3J4VHM4VVhOLUNhQkNES1V4dGsyY3o5LW9icDk5UEpQMW9Tb211T3dlX0VvalVOMTRrLUxRQXVEZlluSnlaek9qdWRuT1k0aFZjTzdIR21XM3FRa2RELTBUYUdfVGFPMXNtLUFVWlZMWnFVb1JEeFRzRkdINUIwUEFwZUdOdlVySDZqOU5HQW9ubm5hRkp2eHZzRzNuLWkxRE00bmk2dXYtVzdQek5acWFpUkF0dGc?oc=5",
+          "summary": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies NASA (.gov)"
         }
       ],
       "sourcesCount": 1
@@ -2616,24 +2562,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkkxWW9uQVQyeXMtLV85WXBvdElXZVRCUFhaam96d1FyVEcyU0pWdXQ1SDlhdWlZVTBYMi13LWd4SEZOSnpLelRpTlZSSjM2TGc4ZTdSYXg2UlVFamtvakhVUkhQRkt5c2E2Zm10YjJSRkxfNW1UdDFTSGZqM3dNR3VjS1hYRUlpQ25JZDZBVUpOV0RtVFlZU09ESHJNalpOMUFzekxCYVZaNnpMV2x1WjJ2RUw0ZXdYSnNEMmtfbkVkUDh3YllxZzVONF9CeldHYWZZNg?oc=5",
           "summary": "Legislation Aims To Overhaul ‘Outdated’ Import Rules For International Racehorses, Sport Horses Paulick Report"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a0d46272c546",
-      "title": "11:11 Systems, Inc. acquired Select IBM VMware Cloud Service Provider enterprise customers from International Business Machines Corporation. - marketscreener.com",
-      "summary": "11:11 Systems, Inc. acquired Select IBM VMware Cloud Service Provider enterprise customers from International Business Machines Corporation.",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT213enZ6Mm5kOXd5WGdKaXFzSzJScmcyM2x1QWdlVTBwUUVkRlJsWU1fQUdpVmhEV0ZUd01leElsTy02QkNEVlRTOFk3VXc4UnI2dlZlenpSLTdXSkxnWDVBb1UwMm5sSEtuZXVkaGlYSWtyZXZUWldaLTI2VDV0NjFubXB2LUFMV2tVdm9RdXQ2Z0ZzZXIyXzdnMFhVR1o4aURKMU1lQVBrekVURnl0RThEclBmekJvWDRfdGNNcklMV1lCRkJwOUIyaVhoRFQ4YmdiYkhpWVl0cjk3RGtwb2hSTXdfUQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 18:20:47 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT213enZ6Mm5kOXd5WGdKaXFzSzJScmcyM2x1QWdlVTBwUUVkRlJsWU1fQUdpVmhEV0ZUd01leElsTy02QkNEVlRTOFk3VXc4UnI2dlZlenpSLTdXSkxnWDVBb1UwMm5sSEtuZXVkaGlYSWtyZXZUWldaLTI2VDV0NjFubXB2LUFMV2tVdm9RdXQ2Z0ZzZXIyXzdnMFhVR1o4aURKMU1lQVBrekVURnl0RThEclBmekJvWDRfdGNNcklMV1lCRkJwOUIyaVhoRFQ4YmdiYkhpWVl0cjk3RGtwb2hSTXdfUQ?oc=5",
-          "summary": "11:11 Systems, Inc. acquired Select IBM VMware Cloud Service Provider enterprise customers from International Business Machines Corporation."
         }
       ],
       "sourcesCount": 1
@@ -3053,24 +2981,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a4880280afea",
-      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 14:10:58 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-          "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e14e907d8c04",
       "title": "İstanbul Valisi Gül: Enkaz altında 3 kişi olduğunu düşünüyoruz",
       "summary": "Maltepe'de bazı katları çöken 7 katlı binadaki iki kişi hayatını kaybetti. İstanbul Valisi Gül, yaralıların hayati tehlikesinin bulunmadığını, enkaz altında 3 kişi olduğunu düşündüklerini söyledi.",
@@ -3143,6 +3053,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "2a9ea3474415",
+      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
+      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:06:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c2658406f9b7",
       "title": "International Business Machines (IBM): New Buy Recommendation for This Technology Giant - The Globe and Mail",
       "summary": "International Business Machines (IBM): New Buy Recommendation for This Technology Giant The Globe and Mail",
@@ -3210,24 +3138,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWRCMnJEN0hfdXA5aS1lVVdWQXB5cE41QThjWURQb19XUGlCUFpUQTNCNWNRWDVrS1N6WWRrdl96QW9OQ2pYSnpkSzlHTjNGZ3VWcm1aYVpZc2M0TlJjQUE0WXB1S1J0NHk2T25yNWQ3d3hXdVY1VlZkclhzdncySFlvdGFiOWJTTjRqVk93NWNQQnJlYjcxQWxjS19zcFlhOHItVVp3aF85a1Z3RnZ3TnN6aWxWcGtDZGJV?oc=5",
           "summary": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5afbfc45d029",
-      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
-      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:40:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
         }
       ],
       "sourcesCount": 1
@@ -3827,24 +3737,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "17d6d69ee9b7",
-      "title": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters - Investing.com",
-      "summary": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1pLM3hEcFJPNEkyZ0xDS2dtMHMtdlRRc2p3MmN0dG03UEFJaFN1UF8xSFJFTWhobzdYS0Q2TmdHNGFEVkdsWmxoS0ExWFNTOFBIc0xDbWVWQjFKWUx2Z2NxUGJ0SzNYWTdDN1VacjBnUjUwb3BMR1BLa3BkUXQxYzB2TWRIMEJQd1BJTGVoWnQ3Z0NWcVlwWDRFamEwQkZqcUZESGlVSzVEM2RRVGU3U3c1NHRXQnMxNDhvcw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 08:10:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1pLM3hEcFJPNEkyZ0xDS2dtMHMtdlRRc2p3MmN0dG03UEFJaFN1UF8xSFJFTWhobzdYS0Q2TmdHNGFEVkdsWmxoS0ExWFNTOFBIc0xDbWVWQjFKWUx2Z2NxUGJ0SzNYWTdDN1VacjBnUjUwb3BMR1BLa3BkUXQxYzB2TWRIMEJQd1BJTGVoWnQ3Z0NWcVlwWDRFamEwQkZqcUZESGlVSzVEM2RRVGU3U3c1NHRXQnMxNDhvcw?oc=5",
-          "summary": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters Investing.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ae1bf8978a92",
       "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
       "summary": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
@@ -3876,24 +3768,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&at_campaign=rss",
           "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are among those hoping to qualify for next year's Women's World Cup. What awaits them in the play-offs?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b428886eb95e",
-      "title": "PepsiCo trying to solve its North America problem - Food Business News",
-      "summary": "PepsiCo trying to solve its North America problem Food Business News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmZGZ3RFU1ZPUHhHdTQwZWRiNEJFd2RLdFk1VXpxVzEyaVY0MG8zaUhxQnJLNE5DNGp6WlFyTS1jelhTUWFsNXBzdzNMcWpteGxTajVIczV0X1Q3VWJBT0R6aFh6RFZIWTVxSFpvUHg4Vy1BT1NRTVZpYlBoU2I4U1ZUTFJTTDUzQTlUNkUxSWNBQk9lZ19ucTdYajZaZw?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmZGZ3RFU1ZPUHhHdTQwZWRiNEJFd2RLdFk1VXpxVzEyaVY0MG8zaUhxQnJLNE5DNGp6WlFyTS1jelhTUWFsNXBzdzNMcWpteGxTajVIczV0X1Q3VWJBT0R6aFh6RFZIWTVxSFpvUHg4Vy1BT1NRTVZpYlBoU2I4U1ZUTFJTTDUzQTlUNkUxSWNBQk9lZ19ucTdYajZaZw?oc=5",
-          "summary": "PepsiCo trying to solve its North America problem Food Business News"
         }
       ],
       "sourcesCount": 1
@@ -4115,6 +3989,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "d00baa8727dc",
+      "title": "Bezos says Blue Origin likely to pursue IPO in coming years - Yahoo Finance",
+      "summary": "Bezos says Blue Origin likely to pursue IPO in coming years Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTBQaDVWX0dQVkVMVVlYRXppQmhPUzI1QlBjc2lrRHVWX0daSG8yREkwcjVFRXZ2c2RzREUwQ3FxbnFGcUo3Q29iX0N3UjlUTFk0eTA0R00tajBVRUFWcnVnLWZBRHVLckRYbE8zRHpmZ1VfV1RfZGNoSGhDU3M5TTN0d3FqSkxvMHlGV24tRHFycGMzbG9oNWJ3?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 08 Oct 2026 00:28:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTBQaDVWX0dQVkVMVVlYRXppQmhPUzI1QlBjc2lrRHVWX0daSG8yREkwcjVFRXZ2c2RzREUwQ3FxbnFGcUo3Q29iX0N3UjlUTFk0eTA0R00tajBVRUFWcnVnLWZBRHVLckRYbE8zRHpmZ1VfV1RfZGNoSGhDU3M5TTN0d3FqSkxvMHlGV24tRHFycGMzbG9oNWJ3?oc=5",
+          "summary": "Bezos says Blue Origin likely to pursue IPO in coming years Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "642e624f0b1e",
       "title": "FIFA: Governance Crisis Reveals Urgent Need for Rights Reform - Amnesty International",
       "summary": "FIFA: Governance Crisis Reveals Urgent Need for Rights Reform Amnesty International",
@@ -4295,24 +4187,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4820f3a9104d",
-      "title": "Neustart bei Porsche: Autos, die keiner braucht",
-      "summary": "Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos. Jetzt lässt der neue Chef mehr Verbrenner-Autos entwickeln.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 04 Oct 2026 10:26:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
-          "summary": "Die Krise von Porsche zeigt: Sportwagenfans haben keine Lust auf Elektroautos. Jetzt lässt der neue Chef mehr Verbrenner-Autos entwickeln."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "66766b4f564b",
       "title": "Çorumlu öğrenciler ödülünü Cumhurbaşkanı Erdoğan'ın elinden aldı",
       "summary": "Çorum Bilim ve Sanat Merkezi bünyesinde kurulan LONGA TEAM, TEKNOFEST 2026'da elde ettiği Türkiye birinciliği ödülünü Şanlıurfa'da düzenlenen törende Cumhurbaşkanı Recep Tayyip Erdoğan'ın elinden aldı.",
@@ -4475,24 +4349,6 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/galatasaray-ve-fenerbahcenin-sampiyonlar-ligi-fiksturu-belli-oldu-955313.html",
           "summary": "UEFA Şampiyonlar Ligi'nde mücadele eden Galatasaray ve Fenerbahçe'nin lig aşaması fikstürü açıklandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8951e04798d5",
-      "title": "Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nın Zafer Kupası etabı yarın yapılacak",
-      "summary": "Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nın üçüncü etabı olan Zafer Kupası, yarın yapılacak.",
-      "link": "https://www.trthaber.com/haber/spor/cumhurbaskanligi-7-uluslararasi-yat-yarislarinin-zafer-kupasi-etabi-yarin-yapilacak-955310.html",
-      "sourceName": "TRT Haber Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 29 Aug 2026 14:42:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Sport",
-          "link": "https://www.trthaber.com/haber/spor/cumhurbaskanligi-7-uluslararasi-yat-yarislarinin-zafer-kupasi-etabi-yarin-yapilacak-955310.html",
-          "summary": "Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nın üçüncü etabı olan Zafer Kupası, yarın yapılacak."
         }
       ],
       "sourcesCount": 1
@@ -5107,6 +4963,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "a195b339d94e",
+      "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün will Regierung bilden",
+      "summary": "SPD, Linke und Grüne in Mecklenburg-Vorpommern haben sich auf Koalitionsverhandlungen geeinigt. Sollten sie erfolgreich verlaufen, wäre die AfD alleinige Opposition im Landtag.",
+      "link": "https://www.zdfheute.de/politik/deutschland/spd-linke-gruene-koalitionsverhandlungen-meckelnburg-vorpommern-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Fri, 9 Oct 2026 17:28:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/spd-linke-gruene-koalitionsverhandlungen-meckelnburg-vorpommern-100.html",
+          "summary": "SPD, Linke und Grüne in Mecklenburg-Vorpommern haben sich auf Koalitionsverhandlungen geeinigt. Sollten sie erfolgreich verlaufen, wäre die AfD alleinige Opposition im Landtag."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "548445d01ebe",
+      "title": "Pillay widmet Nobelpreis Opfern von Gewalt",
+      "summary": "Die südafrikanische Juristin Navi Pillay widmet ihren Friedensnobelpreis den \"Überlebenden internationaler Verbrechen\". Sie warnt vor Angriffen auf das Völkerrecht.",
+      "link": "https://www.zdfheute.de/video/zdfheute-xpress/friedensnobelpreis-navanethem-pillay-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Fri, 9 Oct 2026 17:23:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-xpress/friedensnobelpreis-navanethem-pillay-video-100.html",
+          "summary": "Die südafrikanische Juristin Navi Pillay widmet ihren Friedensnobelpreis den \"Überlebenden internationaler Verbrechen\". Sie warnt vor Angriffen auf das Völkerrecht."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e368510964be",
+      "title": "Friedensnobelpreis, Schröder, Suche nach Motiven - der Tag",
+      "summary": "Der Friedensnobelpreis geht an eine Juristin mit \"außergewöhnlichem Mut\", Altkanzler Schröder steht in der Kritik und eine Routine-Kontrolle endet tödlich - der Tag.",
+      "link": "https://www.zdfheute.de/briefing/friedensnobelpreis-schroeder-waffenkontrolle-zdfheute-update-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Fri, 9 Oct 2026 17:11:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/briefing/friedensnobelpreis-schroeder-waffenkontrolle-zdfheute-update-100.html",
+          "summary": "Der Friedensnobelpreis geht an eine Juristin mit \"außergewöhnlichem Mut\", Altkanzler Schröder steht in der Kritik und eine Routine-Kontrolle endet tödlich - der Tag."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4c49eb54dc5a",
       "title": "Tankrabatt im Check: So stark sinken die Spritpreise",
       "summary": "Der Tankrabatt bringt Autofahrern nur bedingt Entlastung bei Kosten für Benzin und Diesel. In unseren Live-Grafiken können Sie sehen, wie stark die Spritpreise gesunken sind.",
@@ -5269,6 +5179,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "3046008fe0ad",
+      "title": "DFB-Frauen vor Härtetest gegen Australien",
+      "summary": "In Karlsruhe empfangen die DFB-Frauen Australien zum Test-Länderspiel. Bundestrainer Christian Wück freut sich auf die Partie gegen einen \"nicht-europäischen Gegner\".",
+      "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/sport-fussball-dfb-frauen-australien-vorschau-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Fri, 9 Oct 2026 14:18:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/sport-fussball-dfb-frauen-australien-vorschau-100.html",
+          "summary": "In Karlsruhe empfangen die DFB-Frauen Australien zum Test-Länderspiel. Bundestrainer Christian Wück freut sich auf die Partie gegen einen \"nicht-europäischen Gegner\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "501c66b1de39",
       "title": "Roger Schmidt - neuer Steuermann des Red-Bull-Fußballs",
       "summary": "Roger Schmidt soll als Nachfolger von Jürgen Klopp die Red-Bull-Klubs wieder auf Kurs bringen. Schon jetzt zeigt er dabei mehr Präsenz als sein Vorgänger.",
@@ -5359,24 +5287,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8f10c1203918",
-      "title": "Wadephul verschärft Ton gegen Russland deutlich",
-      "summary": "Außenminister Wadephul verschärft den Ton gegen Russland deutlich: \"Putins Grausamkeit kennt keine Grenzen\", sagt er. Doch der Kreml-Chef werde scheitern - aus zwei Gründen.",
-      "link": "https://www.zdfheute.de/politik/ausland/wadephul-putin-tonlage-ukraine-krieg-russland-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Fri, 9 Oct 2026 12:01:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/wadephul-putin-tonlage-ukraine-krieg-russland-100.html",
-          "summary": "Außenminister Wadephul verschärft den Ton gegen Russland deutlich: \"Putins Grausamkeit kennt keine Grenzen\", sagt er. Doch der Kreml-Chef werde scheitern - aus zwei Gründen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4c68f2a9cada",
       "title": "Gedenkfeier nach Moped-Unfall",
       "summary": "Ein Autofahrer überholt auf der Landstraße und kracht mit einer Gruppe von Teenagern auf ihren Mopeds zusammen - vier junge Menschen sterben. Am Abend fand eine Gedenkveranstaltung statt.",
@@ -5431,19 +5341,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "fb7e727b7ef3",
-      "title": "New York: ICE-Beamter schießt bei Festnahme auf Mann",
-      "summary": "Ein ICE-Beamter hat bei einem Einsatz in New York auf einen Mann geschossen. Der Vorfall löste Proteste aus.",
-      "link": "https://www.zdfheute.de/politik/ausland/us-einwanderungsbehoerde-ice-schuesse-festnahme-new-york-100.html",
+      "id": "c99ff3682672",
+      "title": "Frodeno freut sich auf das \"Klassentreffen\"",
+      "summary": "Am Samstag geht die Triathlon-Weltelite beim Ironman auf Hawaii an den Start. Ex-Champion Jan Frodeno, 2023 zurückgetreten, blickt im Interview mit Lena Kesting voraus.",
+      "link": "https://www.zdfheute.de/sport/video/triathlon-ironman-hawaii-frodeno-interview-100.html",
       "sourceName": "ZDF",
       "region": "international",
-      "topic": "politik",
-      "time": "Fri, 9 Oct 2026 08:59:00 +0200",
+      "topic": "technologie",
+      "time": "Fri, 9 Oct 2026 10:15:00 +0200",
       "coverage": [
         {
           "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/us-einwanderungsbehoerde-ice-schuesse-festnahme-new-york-100.html",
-          "summary": "Ein ICE-Beamter hat bei einem Einsatz in New York auf einen Mann geschossen. Der Vorfall löste Proteste aus."
+          "link": "https://www.zdfheute.de/sport/video/triathlon-ironman-hawaii-frodeno-interview-100.html",
+          "summary": "Am Samstag geht die Triathlon-Weltelite beim Ironman auf Hawaii an den Start. Ex-Champion Jan Frodeno, 2023 zurückgetreten, blickt im Interview mit Lena Kesting voraus."
         }
       ],
       "sourcesCount": 1
@@ -5462,6 +5372,96 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/kriminalitaet/bayern-oberpfalz-waffenkontrolle-schuesse-opfer-tote-100.html",
           "summary": "Bei einer Routinekontrolle in der Oberpfalz sind zwei Menschen getötet worden. Der mutmaßliche Täter verschanzte sich am Abend in seiner Wohnung."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "cb09163f6de9",
+      "title": "Altmaier über Schwarz-Rot: \"Pleiten, Pech und Pannen\"",
+      "summary": "Die Bundesregierung habe zu viel gestritten und zu wenig beschlossen, sagt Peter Altmaier bei \"Markus Lanz\". Der Ex-Kanzleramtschef teilt auch gegen Friedrich Merz aus.",
+      "link": "https://www.zdfheute.de/politik/deutschland/lanz-ex-kanzleramtschef-altmaier-schwarz-rot-bundesregierung-merz-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Fri, 9 Oct 2026 02:00:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/lanz-ex-kanzleramtschef-altmaier-schwarz-rot-bundesregierung-merz-100.html",
+          "summary": "Die Bundesregierung habe zu viel gestritten und zu wenig beschlossen, sagt Peter Altmaier bei \"Markus Lanz\". Der Ex-Kanzleramtschef teilt auch gegen Friedrich Merz aus."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ae79af493b89",
+      "title": "Global sport at a turning point: why FIFA and IOC need independent commercial regulation - 3 Wire Sports",
+      "summary": "Global sport at a turning point: why FIFA and IOC need independent commercial regulation 3 Wire Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkJlRlBIMDBhSm1YMU1JbDZxcjJPRE1rM2RVc21yQXRVZ0ZMUFRNcmFPenNCWUxpSDJWb0ZlUGdCWE1RaDZ2Q0RxRGJFMkFESGRiUzN5akJDeGxPSHEzWjNsOUxYU2NPZ0hlS0ZPRlhOVU1JMWlkSGZMX0hYR3hyeGlJbw?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkJlRlBIMDBhSm1YMU1JbDZxcjJPRE1rM2RVc21yQXRVZ0ZMUFRNcmFPenNCWUxpSDJWb0ZlUGdCWE1RaDZ2Q0RxRGJFMkFESGRiUzN5akJDeGxPSHEzWjNsOUxYU2NPZ0hlS0ZPRlhOVU1JMWlkSGZMX0hYR3hyeGlJbw?oc=5",
+          "summary": "Global sport at a turning point: why FIFA and IOC need independent commercial regulation 3 Wire Sports"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "69b8034e646f",
+      "title": "Aktuelle Sendungs-Videos",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen, Hintergründe und Interviews aus den Nachrichtensendungen im ZDF und bei ZDFheute.",
+      "link": "https://www.zdfheute.de/thema/video-150.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Fri, 28 Nov 2025 09:20:16 +0100",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/thema/video-150.html",
+          "summary": "Aktuelle Meldungen, vertiefende Analysen, Hintergründe und Interviews aus den Nachrichtensendungen im ZDF und bei ZDFheute."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d8b0d836df79",
+      "title": "In the Global Sport Lab, students examine international affairs and local impact through the lens of sports. - UW Magazine",
+      "summary": "In the Global Sport Lab, students examine international affairs and local impact through the lens of sports. UW Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObi1IWGppMTJNSGVtQ2VmaTh1XzIzZjFnOVlUejRFSmxFbEJ1ZTFjcUNiT1JzVkJUaHVaMHVtb2JLdU5SUEQ3bjgwRUJ6eG43N0hZVUNjWW5uV2xlQ1ZSLTdEWmlQNVBEMEcxemJ1dnlzSXlOT1RXUVg2S0w1aUpGMDhvckw3NlZiazRJaDRjQ0pmZG1jbXNCSmdoeFhRZ3RmMDBZaWxWWnY2ai1sdmFNOUROWkJpbHpkSklCT3Nib0pydEE0YjJVYXA0dE1oemtaYUxadE4weDJsblkyaENzMTZtYw?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObi1IWGppMTJNSGVtQ2VmaTh1XzIzZjFnOVlUejRFSmxFbEJ1ZTFjcUNiT1JzVkJUaHVaMHVtb2JLdU5SUEQ3bjgwRUJ6eG43N0hZVUNjWW5uV2xlQ1ZSLTdEWmlQNVBEMEcxemJ1dnlzSXlOT1RXUVg2S0w1aUpGMDhvckw3NlZiazRJaDRjQ0pmZG1jbXNCSmdoeFhRZ3RmMDBZaWxWWnY2ai1sdmFNOUROWkJpbHpkSklCT3Nib0pydEE0YjJVYXA0dE1oemtaYUxadE4weDJsblkyaENzMTZtYw?oc=5",
+          "summary": "In the Global Sport Lab, students examine international affairs and local impact through the lens of sports. UW Magazine"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "396ac471d335",
+      "title": "Trump administration begins transfer of $725m to UN, amid billions owed - The Guardian",
+      "summary": "Trump administration begins transfer of $725m to UN, amid billions owed The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlVrYUQwZ1V5NWtjbWNpVUtLSzZOUGVOX1YwUGF2Z0Flakp0ODhuWGkzbFZiNl9TdXBmTWlfVmdZV0N3dFBmcWs3UUk5aklfOUNrM3I1VTdHcmE1NFBZREJZZ0tsZXAwbTRDVnYyZktZZVc3VkNIbTFlbG5PbjJDcWF6YTJEcGZrX3Fhc1NMMlRFelhyS2c?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlVrYUQwZ1V5NWtjbWNpVUtLSzZOUGVOX1YwUGF2Z0Flakp0ODhuWGkzbFZiNl9TdXBmTWlfVmdZV0N3dFBmcWs3UUk5aklfOUNrM3I1VTdHcmE1NFBZREJZZ0tsZXAwbTRDVnYyZktZZVc3VkNIbTFlbG5PbjJDcWF6YTJEcGZrX3Fhc1NMMlRFelhyS2c?oc=5",
+          "summary": "Trump administration begins transfer of $725m to UN, amid billions owed The Guardian"
         }
       ],
       "sourcesCount": 1
