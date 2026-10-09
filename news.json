@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T05:07:16.037890+00:00",
+  "updated": "2026-10-09T05:41:35.405205+00:00",
   "articles": [
     {
       "id": "bd40a5ddffd4",
@@ -889,6 +889,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "88cd12d73294",
+      "title": "Halle 3.0, Stand C 123: Was gibt es am Stand der F.A.Z. zu sehen?",
+      "summary": "Unsere Redakteure im Gespräch mit Dana Vowinckel, Cornelia Funke, Ingo Schulze, Stefanie Stahl und weiteren Autorinnen und Autoren: Das Programm am F.A.Z.-Stand (Halle 3.0, C 123) der Frankfurter Buchmesse 2026.",
+      "link": "https://www.faz.net/aktuell/frankfurter-buchmesse-2026-was-gibt-es-am-f-a-z-stand-zu-sehen-201203810.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 12:38:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/frankfurter-buchmesse-2026-was-gibt-es-am-f-a-z-stand-zu-sehen-201203810.html",
+          "summary": "Unsere Redakteure im Gespräch mit Dana Vowinckel, Cornelia Funke, Ingo Schulze, Stefanie Stahl und weiteren Autorinnen und Autoren: Das Programm am F.A.Z.-Stand (Halle 3.0, C 123) der Frankfurter Buchmesse 2026."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ce24647f4d1c",
       "title": "Bakan Bolat, AB ülkelerinin Ankara büyükelçileriyle buluştu",
       "summary": "Bakan Bolat, Avrupa Birliği (AB) üyesi ülkelerin Ankara büyükelçileriyle bir araya geldi. Bolat, \"İş insanlarının karşı karşıya kaldığı uzun ve zorlu vize süreçleri ile ticareti doğrudan kısıtlayan kara yolu geçiş kotaları, Gümrük Birliği'nin gerçek potansiyeline ulaşmasını zorlaştırıyor\" açıklamasını yaptı.",
@@ -943,24 +961,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a7d00617d4fc",
-      "title": "İstanbul'da çeşitli suçlardan aranan 640 kişi yakalandı",
-      "summary": "İstanbul'da polis ekiplerince gerçekleştirilen denetimde çeşitli suçlardan aranan 640 kişi yakalandı.",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-cesitli-suclardan-aranan-640-kisi-yakalandi-959397.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 12:04:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/istanbulda-cesitli-suclardan-aranan-640-kisi-yakalandi-959397.html",
-          "summary": "İstanbul'da polis ekiplerince gerçekleştirilen denetimde çeşitli suçlardan aranan 640 kişi yakalandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "635f36186c94",
       "title": "Deutsche Unternehmen fahren Produktion überraschend deutlich hoch",
       "summary": "Trotz Behinderungen der Rhein-Schifffahrt durch das Niedrigwasser haben die deutschen Unternehmen ihre Produktion im August stark hochgefahren. Ein kräftigeres Plus gab es zuletzt im März 2025.",
@@ -992,42 +992,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/istanbulda-suc-orgutu-operasyonu-959398.html",
           "summary": "İstanbul'da suç örgütlerine yönelik düzenlenen operasyonda 7 zanlı gözaltına alındı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fd365eea43c7",
-      "title": "Yurdun batı ve kuzey kesimlerinde sıcaklıklar artacak",
-      "summary": "Hava sıcaklıklarının yurdun batı kesimlerinden başlayarak artacağı, hafta sonunda kuzey ve batı kesimlerde mevsim normallerinin biraz üzerinde seyredeceği tahmin ediliyor.",
-      "link": "https://www.trthaber.com/haber/turkiye/yurdun-bati-ve-kuzey-kesimlerinde-sicakliklar-artacak-959392.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 11:53:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/yurdun-bati-ve-kuzey-kesimlerinde-sicakliklar-artacak-959392.html",
-          "summary": "Hava sıcaklıklarının yurdun batı kesimlerinden başlayarak artacağı, hafta sonunda kuzey ve batı kesimlerde mevsim normallerinin biraz üzerinde seyredeceği tahmin ediliyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fa57e34d894b",
-      "title": "Konservative Meinungsmacht: US-Sender Fox News wird 30",
-      "summary": "Vor genau 30 Jahren ging Fox News erstmals auf Sendung. Als Gegengewicht zu den eher linksliberalen Mainstream-Kanälen geplant, stieg der Sender schnell zum Markt- und Meinungsführer auf.",
-      "link": "https://www.tagesschau.de/ausland/amerika/fox-news-usa-medien-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 11:52:01 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/amerika/fox-news-usa-medien-100.html",
-          "summary": "Vor genau 30 Jahren ging Fox News erstmals auf Sendung. Als Gegengewicht zu den eher linksliberalen Mainstream-Kanälen geplant, stieg der Sender schnell zum Markt- und Meinungsführer auf."
         }
       ],
       "sourcesCount": 1
@@ -1136,6 +1100,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-endustrisi-gecen-ay-3-milyar-940-milyon-dolarlik-ihracata-imza-atti-959377.html",
           "summary": "Uludağ Otomotiv Endüstrisi İhracatçıları Birliğinden (OİB) yapılan açıklamaya göre, Türkiye ihracatının lider sektörü otomotiv endüstrisinin eylül ayı dış satımı 3 milyar 940 milyon dolar olarak gerçekleşti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e9ed45ef5ce8",
+      "title": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers - Rimac Newsroom",
+      "summary": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers Rimac Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdE45bEhCSWRUOWNUUTc5SXdKb1hEZ0ItWldGSmRhOFh2NTFrTUgxRDRMZzI5VFpicld1eUdHeE9wczlxQWhULTd3ak9FSXl3RGJXODEtZ2VabEMwaUw3VWZ4dWRJMnA4MnNkWGFFcjZlcHM5NHRMM3FTVEFfMnozZU95N1FjeGlrWDQycF9qYVJ0SU11LWdoc3Y2dmJ4RkY0LXE5R2x6TWtmcVBLWXBWNTBLWTJYWElvRGIyV0I2bE9tMlNVQnVJbVdfMlNHWUI2VlVxaFg5UWVqdWsx?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:31:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdE45bEhCSWRUOWNUUTc5SXdKb1hEZ0ItWldGSmRhOFh2NTFrTUgxRDRMZzI5VFpicld1eUdHeE9wczlxQWhULTd3ak9FSXl3RGJXODEtZ2VabEMwaUw3VWZ4dWRJMnA4MnNkWGFFcjZlcHM5NHRMM3FTVEFfMnozZU95N1FjeGlrWDQycF9qYVJ0SU11LWdoc3Y2dmJ4RkY0LXE5R2x6TWtmcVBLWXBWNTBLWTJYWElvRGIyV0I2bE9tMlNVQnVJbVdfMlNHWUI2VlVxaFg5UWVqdWsx?oc=5",
+          "summary": "Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers Rimac Newsroom"
         }
       ],
       "sourcesCount": 1
@@ -1478,24 +1460,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
           "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7e487eaad062",
-      "title": "Trump approval reaches record low in new survey - The Hill",
-      "summary": "Trump approval reaches record low in new survey The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1p2RElUY0d5X0I1ZEJvZ0t1R0RlT21aVkZhR05NVXVha3BZeEg2Y25PRVNoQkg5SXprNlZFM2VFN3p4LVZhcHZiOW1MaXliWVFpaGY4SEUxanl3SEJUSjQyTFZxYkxXd29Xc1pWYW9JNEM2OG93SjFJd2lHVGlKVTV2Z9IBiAFBVV95cUxNc3c5Q1ZQWktHYVZ2XzcxSDN2UThRbUxKalV3bURfWi0tQ0xvRlVyNElBX21VaWhIaTlaWEFqLXY3cTZZTmJhb1BFbV9DMUt1Zy1NajE1dGJqUGlFazllcnduRU02V0lHYW9RWW5RdXFNUHNDTzMwR3VRWjNIQ0hLcExZM3paMHZ6?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1p2RElUY0d5X0I1ZEJvZ0t1R0RlT21aVkZhR05NVXVha3BZeEg2Y25PRVNoQkg5SXprNlZFM2VFN3p4LVZhcHZiOW1MaXliWVFpaGY4SEUxanl3SEJUSjQyTFZxYkxXd29Xc1pWYW9JNEM2OG93SjFJd2lHVGlKVTV2Z9IBiAFBVV95cUxNc3c5Q1ZQWktHYVZ2XzcxSDN2UThRbUxKalV3bURfWi0tQ0xvRlVyNElBX21VaWhIaTlaWEFqLXY3cTZZTmJhb1BFbV9DMUt1Zy1NajE1dGJqUGlFazllcnduRU02V0lHYW9RWW5RdXFNUHNDTzMwR3VRWjNIQ0hLcExZM3paMHZ6?oc=5",
-          "summary": "Trump approval reaches record low in new survey The Hill"
         }
       ],
       "sourcesCount": 1
@@ -1999,6 +1963,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "13a786b19564",
+      "title": "Bayer to invest $2.2B in Ohio pharmaceutical facility - Manufacturing Dive",
+      "summary": "Bayer to invest $2.2B in Ohio pharmaceutical facility Manufacturing Dive",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDRLQ2NOclBYVG9Qc3JMUGZVRUhCTlU4WUV1UVJTTjdQak5XMV91c3I2YVdZcFdNZENVempLRXlvM2o1WU44UzdZQmJkLTlUajAzNWx4S0JqN0dHSzZVNnJoenVSWGxNSDUybllNZHNWNEkyQ20xMHNGb1pKWDJGaW0xdGhZU09DZDFxUFYwWG1pdWxnamo1NXNXLWJmOUtQYTlUZ3lCMVA?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 06 Oct 2026 15:39:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDRLQ2NOclBYVG9Qc3JMUGZVRUhCTlU4WUV1UVJTTjdQak5XMV91c3I2YVdZcFdNZENVempLRXlvM2o1WU44UzdZQmJkLTlUajAzNWx4S0JqN0dHSzZVNnJoenVSWGxNSDUybllNZHNWNEkyQ20xMHNGb1pKWDJGaW0xdGhZU09DZDFxUFYwWG1pdWxnamo1NXNXLWJmOUtQYTlUZ3lCMVA?oc=5",
+          "summary": "Bayer to invest $2.2B in Ohio pharmaceutical facility Manufacturing Dive"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "474fae5c2d5d",
       "title": "Tankstellen: Verstöße gegen die 12-Uhr-Regel werden weniger",
       "summary": "Die Zahl der Tankstellen, die gegen die 12-Uhr-Regel verstoßen, ist deutlich gesunken. Laut SWR-Analyse konzentrieren sich die verbliebenen Fälle auf wenige auffällige Betreiber.",
@@ -2102,24 +2084,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/hursat-2027de-goreve-baslayacak-959266.html",
           "summary": "TUSAŞ Genel Müdürü Mehmet Demiroğlu, HÜRSAT-1 uydusunun gelecek yılın ortalarında, HÜRSAT-2'nin de ROKETSAN'ın ŞİMŞEK-1 roketiyle 2028-2029 bandında fırlatılmasının planlandığını açıkladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "63e64baa2262",
-      "title": "The 6 next big things in computing, chips, and foundational technology for 2026 - Fast Company",
-      "summary": "The 6 next big things in computing, chips, and foundational technology for 2026 Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmxkS2ZSZDVPeVlvVFNaWFYxSm95em5KT21aM25uRExFS3pUSmhwdVR0cExZTWJMZUFRV25YZkF1Z2hTejJxdFNscHBYblhTamdXNXBZMXdienpFd25OQWFadGl5SFlXcXVuTzY0dXVYWWZiSU1NdnJXdm01MkxjUUN6d0tpUy13TnRZZ19acU91UHp4ZTlkUFhXT0ZYRVhwdmxrZTdxajc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 11:06:54 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmxkS2ZSZDVPeVlvVFNaWFYxSm95em5KT21aM25uRExFS3pUSmhwdVR0cExZTWJMZUFRV25YZkF1Z2hTejJxdFNscHBYblhTamdXNXBZMXdienpFd25OQWFadGl5SFlXcXVuTzY0dXVYWWZiSU1NdnJXdm01MkxjUUN6d0tpUy13TnRZZ19acU91UHp4ZTlkUFhXT0ZYRVhwdmxrZTdxajc?oc=5",
-          "summary": "The 6 next big things in computing, chips, and foundational technology for 2026 Fast Company"
         }
       ],
       "sourcesCount": 1
@@ -2264,6 +2228,24 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
           "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4ad95e916a8b",
+      "title": "Hershey appoints Amanda Almond as president of international business - FoodBev Media",
+      "summary": "Hershey appoints Amanda Almond as president of international business FoodBev Media",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTBTclZPay1EOFQ0U0g4VnN2TlRWcWlwb1J2Nm04QzhiTjI2eU9oYkowYzNzNmswNTljZVBjbGF2NWNNREhxQ1NvbTQ4V2NXVWduRzNOUE9NT0xua1hjOHBoTFpSWElZRlFXS0pncjJJNGtTbHRtX2JmM0ZYM1BjOG9TaXBSTWhEajBINF9YRHptMXUzQTdtYWpSSzg5SEE?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 06 Oct 2026 08:34:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTBTclZPay1EOFQ0U0g4VnN2TlRWcWlwb1J2Nm04QzhiTjI2eU9oYkowYzNzNmswNTljZVBjbGF2NWNNREhxQ1NvbTQ4V2NXVWduRzNOUE9NT0xua1hjOHBoTFpSWElZRlFXS0pncjJJNGtTbHRtX2JmM0ZYM1BjOG9TaXBSTWhEajBINF9YRHptMXUzQTdtYWpSSzg5SEE?oc=5",
+          "summary": "Hershey appoints Amanda Almond as president of international business FoodBev Media"
         }
       ],
       "sourcesCount": 1
@@ -2503,24 +2485,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "cdef312a35f5",
-      "title": "Britischer Premier bietet Merz Kampfjet-Zusammenarbeit an",
-      "summary": "Der britische Premier Burnham hat Kanzler Merz bei seinem Antrittsbesuch angeboten, beim Kampfjet-Projekt GCAP zu kooperieren. Beide lobten den Freundschaftsvertrag beider Länder.",
-      "link": "https://www.zdfheute.de/politik/deutschland/burnham-merz-kensington-vertrag-grossbritannien-kampfjet-gcap-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 18:59:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/burnham-merz-kensington-vertrag-grossbritannien-kampfjet-gcap-100.html",
-          "summary": "Der britische Premier Burnham hat Kanzler Merz bei seinem Antrittsbesuch angeboten, beim Kampfjet-Projekt GCAP zu kooperieren. Beide lobten den Freundschaftsvertrag beider Länder."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a0a8d81f4043",
       "title": "Weg für ein rot-grün-rotes Bündnis in Berlin bleibt weit",
       "summary": "Linke, Grüne und SPD wollen Sondierungen aufnehmen. Sie einigten sich dafür auf Regeln zum Umgang mit Antisemitismus.",
@@ -2642,9 +2606,14 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-cdu-afd-landtag-abstimmung-100.html",
           "summary": "Deutschland rätselt, wer die Abgeordneten sind, die für den AfD-Politiker Tobias Rausch als Landtagspräsident gestimmt haben. Einige CDUler widersprechen nun vehement dem Vorwurf."
+        },
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/cdu-afd-abstimmung-abgeordnete-parteiausschluss-radtke-100.html",
+          "summary": "Haben CDU-Abgeordnete in Sachsen-Anhalt den AfD-Politiker Rausch zum Landtagspräsidenten gewählt? Der Chef des CDU-Arbeitnehmerflügels fordert dafür ein Parteiausschlussverfahren."
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "34f0a93c6081",
@@ -2714,24 +2683,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/essen-light-festival-100.html",
           "summary": "Essens Innenstadt verwandelt sich in eine Welt aus Licht, Kunst und Farben – und das for free. Das Essen Light Festival vom 2."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dc43e47de072",
-      "title": "Mehrheit sieht Reformen der Bundesregierung kritisch",
-      "summary": "Eine Mehrheit sieht die Reformen der Bundesregierung kritisch. Das zeigt das ZDF-Politbarometer.",
-      "link": "https://www.zdfheute.de/politik/deutschland/politbarometer-reformen-umgang-afd-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 8 Oct 2026 08:10:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/politbarometer-reformen-umgang-afd-100.html",
-          "summary": "Eine Mehrheit sieht die Reformen der Bundesregierung kritisch. Das zeigt das ZDF-Politbarometer."
         }
       ],
       "sourcesCount": 1
@@ -2845,24 +2796,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b2e1ff13b3e5",
-      "title": "Ein Tennis-Match ist zu lang für TikTok",
-      "summary": "Um ein junges Publikum zu gewinnen, öffnen Sportverbände ihre Stadien für Influencer und TikTok-Trends. Virale Clips und künstliche Intelligenz lösen das klassische Sporterlebnis auf.",
-      "link": "https://www.sportschau.de/tennis/ein-tennis-spiel-ist-zu-lang-fuer-tiktok,medienwandel-sport-influencer-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Thu, 17 Sep 2026 17:05:06 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/tennis/ein-tennis-spiel-ist-zu-lang-fuer-tiktok,medienwandel-sport-influencer-100.html",
-          "summary": "Um ein junges Publikum zu gewinnen, öffnen Sportverbände ihre Stadien für Influencer und TikTok-Trends. Virale Clips und künstliche Intelligenz lösen das klassische Sporterlebnis auf."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a7bd7549341f",
       "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why - The Conversation",
       "summary": "The International Olympic Committee wants mental health screening in elite sports. Here’s why The Conversation",
@@ -2936,8 +2869,8 @@
     },
     {
       "id": "3846d9cc73be",
-      "title": "Istanbul ready to welcome the global boxing family for IBA Congress 2026 - International Boxing Association (IBA)",
-      "summary": "Istanbul ready to welcome the global boxing family for IBA Congress 2026 International Boxing Association (IBA)",
+      "title": "Istanbul ready to welcome the global boxing family for IBA Congress 2026 - IBA - International Boxing Association",
+      "summary": "Istanbul ready to welcome the global boxing family for IBA Congress 2026 IBA - International Boxing Association",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3JaQmxKb3kyQUxjZGxlYmpXeEZ6ZzZjU2tMSWM2VFhWcnVjSVdyZHBjc2hGZXBzTDFSa216SnY0aHR1MDk3LWwzRTVhZ2IwYWxPNWNycXZINWtzX1pvdDBJUzNFNG52UGp2WmxmN1JXMjgzcVNLXzd4Ni1MWnJtS3VjTUlMaHlhbGNDb2VPX0s4VXRiNFlKeWRhTUFtU0lr?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "turkey",
@@ -2947,7 +2880,25 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3JaQmxKb3kyQUxjZGxlYmpXeEZ6ZzZjU2tMSWM2VFhWcnVjSVdyZHBjc2hGZXBzTDFSa216SnY0aHR1MDk3LWwzRTVhZ2IwYWxPNWNycXZINWtzX1pvdDBJUzNFNG52UGp2WmxmN1JXMjgzcVNLXzd4Ni1MWnJtS3VjTUlMaHlhbGNDb2VPX0s4VXRiNFlKeWRhTUFtU0lr?oc=5",
-          "summary": "Istanbul ready to welcome the global boxing family for IBA Congress 2026 International Boxing Association (IBA)"
+          "summary": "Istanbul ready to welcome the global boxing family for IBA Congress 2026 IBA - International Boxing Association"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a3e4cb46ec0b",
+      "title": "HSG Wetzlar kann einfach nicht gewinnen",
+      "summary": "Es bleibt dabei: Die HSG Wetzlar kann in der Handball-Bundesliga einfach nicht gewinnen. In Stuttgart kostet die Mittelhessen eine zehnminütige Durststrecke die Partie.",
+      "link": "https://www.sportschau.de/regional/hr/hr-niederlage-beim-tvb-stuttgart-hsg-wetzlar-kann-einfach-nicht-gewinnen-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "regional",
+      "topic": "sport",
+      "time": "Thu, 08 Oct 2026 23:43:53 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/hr/hr-niederlage-beim-tvb-stuttgart-hsg-wetzlar-kann-einfach-nicht-gewinnen-100.html",
+          "summary": "Es bleibt dabei: Die HSG Wetzlar kann in der Handball-Bundesliga einfach nicht gewinnen. In Stuttgart kostet die Mittelhessen eine zehnminütige Durststrecke die Partie."
         }
       ],
       "sourcesCount": 1
@@ -2984,24 +2935,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/kirsehirde-20-yil-onceki-kayip-dosyasiyla-ilgili-7-kisi-gozaltinda-959581.html",
           "summary": "İçişleri Bakanı Mustafa Çiftçi, Kırşehir'de 2006 yılında kaybolan Rıza Güzel'in akıbetinin araştırılmasına yönelik yürütülen soruşturma kapsamında, Güzel'in eşi ve 6 çocuğunun gözaltına alındığını açıkladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "57067252ce9a",
-      "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever - Reuters",
-      "summary": "COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 23:30:27 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5",
-          "summary": "COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3220,6 +3153,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "f814c6f48460",
+      "title": "New York City man shot in car with child present by ICE agents, mayor says - Reuters",
+      "summary": "New York City man shot in car with child present by ICE agents, mayor says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGstcXViclZRYnU5UEVHU3NzRzNILVJDTERtQXVyNHpwalQ1WXlTdVNjREJIYmxtNTdPSXJrSDdRNzBnUDB5am5WcEtsSjh1dXI2Zk1LQVNGOXEtUEdDaU9SWllISkNSdE5PQWoxOVRlazI1UDk0bld3V3MzOXV5d0dQMHE4bjFMczVQRTNDUVJpd2o3NjJRUTRIVDUxWUJuWlVnaUZUSEotRE5BRmkwazluS3VlMUZUSUFKWEVwUQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 22:48:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGstcXViclZRYnU5UEVHU3NzRzNILVJDTERtQXVyNHpwalQ1WXlTdVNjREJIYmxtNTdPSXJrSDdRNzBnUDB5am5WcEtsSjh1dXI2Zk1LQVNGOXEtUEdDaU9SWllISkNSdE5PQWoxOVRlazI1UDk0bld3V3MzOXV5d0dQMHE4bjFMczVQRTNDUVJpd2o3NjJRUTRIVDUxWUJuWlVnaUZUSEotRE5BRmkwazluS3VlMUZUSUFKWEVwUQ?oc=5",
+          "summary": "New York City man shot in car with child present by ICE agents, mayor says Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c0d28bf0a663",
+      "title": "\"Vereinshistorische Spielzeit\": SC Freiburg stößt in neue Sphären vor",
+      "summary": "Beim SC Freiburg läuft es nicht nur sportlich hervorragend. Der Bundesligist kann den Mitgliedern beeindruckende Zahlen vorlegen.",
+      "link": "https://www.sportschau.de/regional/swr/swr-vereinshistorische-spielzeit-sc-freiburg-stoesst-in-neue-sphaeren-vor-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Thu, 08 Oct 2026 22:46:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-vereinshistorische-spielzeit-sc-freiburg-stoesst-in-neue-sphaeren-vor-100.html",
+          "summary": "Beim SC Freiburg läuft es nicht nur sportlich hervorragend. Der Bundesligist kann den Mitgliedern beeindruckende Zahlen vorlegen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "39f27ce059b1",
       "title": "Simic sichert der MT Melsungen den Sieg in der Handball Champions League",
       "summary": "Was für eine Leistung! Torwart Nebojsa Simic mauert die MT Melsungen nicht nur zum Champions-League-Sieg gegen Nantes, sondern auch zur Tabellenführung in der Gruppe B.",
@@ -3350,13 +3319,13 @@
       "title": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say - Reuters",
       "summary": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXhxTExpbjZ2TGxEWFB4SzVMOEZxaXpwQ2ctMkk5bTh6VVFkWG5SNlViM2gzVG1OVUhuUEtxS24xNXI2NmZ6Q09telNRQ09rLVVlX28wWnFGaGxzVEZXLWIyRkhXbVRRSm5leEJmbzNkSWFQamtYR19wRHdCYWZEazhRcDRfTlBCLWE0SmN2ckVXdUZxV1YwZjRLRjYzczJPTzdkSmpyblZ4Qlc0Q01wTmFOd0s3c0VpVE5rM1Jlc1dINUFoNEJDTjVMTzRveTFqdXRHSnEzWQ?oc=5",
-      "sourceName": "Google News – International Business",
+      "sourceName": "Google News – Reuters",
       "region": "international",
       "topic": "technologie",
       "time": "Thu, 08 Oct 2026 22:16:08 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Business",
+          "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXhxTExpbjZ2TGxEWFB4SzVMOEZxaXpwQ2ctMkk5bTh6VVFkWG5SNlViM2gzVG1OVUhuUEtxS24xNXI2NmZ6Q09telNRQ09rLVVlX28wWnFGaGxzVEZXLWIyRkhXbVRRSm5leEJmbzNkSWFQamtYR19wRHdCYWZEazhRcDRfTlBCLWE0SmN2ckVXdUZxV1YwZjRLRjYzczJPTzdkSmpyblZ4Qlc0Q01wTmFOd0s3c0VpVE5rM1Jlc1dINUFoNEJDTjVMTzRveTFqdXRHSnEzWQ?oc=5",
           "summary": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say Reuters"
         }
@@ -3455,8 +3424,8 @@
     },
     {
       "id": "ca8873bc6483",
-      "title": "White House blocks Microsoft from foreign worker hiring program",
-      "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "title": "White House blocks Microsoft from foreign worker hiring programme",
+      "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
       "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Business",
       "region": "international",
@@ -3466,15 +3435,10 @@
         {
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-          "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad."
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KN3ZtVzExUms3R3puMmE5OEJXLVVnY0hlaDNVWGkyM0pIblJ6N2xSRURPa2ppaUlhRVJpOWN0REc1bFVIdmlTSUcyVkFUTWh1dWVrenhXcmdGYXc?oc=5",
-          "summary": "White House blocks Microsoft from foreign worker hiring program BBC"
+          "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad."
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "3b069a874365",
@@ -3572,24 +3536,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1022e2d0ec10",
-      "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times",
-      "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 21:07:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
-          "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7a4fb5bffe4c",
       "title": "Ankarada saka kuşu üretip satan kişiye 1,4 milyon lira ceza",
       "summary": "Ankara’da gerçekleştirilen denetimlerde 134 saka kuşu ele geçirildi. Saka kuşlarının yasa dışı üretim ve ticaretini yaptığı belirlenen kişiye 1 milyon 410 bin 665 TL idari işlem uygulandı.",
@@ -3662,6 +3608,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a03d1fd29876",
+      "title": "Sutton's predictions v Starsailor frontman James Walsh",
+      "summary": "BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 08 Oct 2026 20:46:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "fc5d2ef26c01",
       "title": "New, first-of-its-kind international high school basketball league announced - USA Today",
       "summary": "New, first-of-its-kind international high school basketball league announced USA Today",
@@ -3716,60 +3680,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "c7c7547ce331",
-      "title": "İstanbul'da 7 katlı bina kısmen çöktü: 5 kişi hayatını kaybetti",
-      "summary": "İstanbul Maltepe'de kısmi çökme meydana gelen 7 katlı binada arama kurtarma çalışmaları tamamlandı. Çöken binada hayatını kaybedenlerin sayısı 5'e yükseldi.",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-5-kisi-hayatini-kaybetti-959568.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
+      "id": "1022e2d0ec10",
+      "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times",
+      "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
       "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 20:31:00 +0300",
+      "time": "Thu, 08 Oct 2026 20:22:29 GMT",
       "coverage": [
         {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-5-kisi-hayatini-kaybetti-959568.html",
-          "summary": "İstanbul Maltepe'de kısmi çökme meydana gelen 7 katlı binada arama kurtarma çalışmaları tamamlandı. Çöken binada hayatını kaybedenlerin sayısı 5'e yükseldi."
-        },
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-959479.html",
-          "summary": "İstanbul Maltepe'de 7 katlı binanın 3 katı çöktü. Olay yerine çok sayıda arama kurtarma ekibi sevk edildi."
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
-      "id": "b7269744bd0c",
-      "title": "OpenAI's Revenue Was Lower Than Previously Reported. Stocks Dropped Dragged by AI Names. - International Business Times",
-      "summary": "OpenAI's Revenue Was Lower Than Previously Reported. Stocks Dropped Dragged by AI Names.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnJzaGFnajdvZHJVeTdsTldxZ3Jwb1lKRmIxa1Rza2s0MkQ1RlAxLVd0QlJYc2psYi1fVTVRdW1za0R4N1ZWV29FWVYyX0lGMWFuN1dOYUhBVWhvV2luenZpeGxENFpCV2N1N0F3YkhZQ29NaS1aSmFmVUthWE9GZFQ1bGs5T29mUUtqZnk0Nlh4YmpnYUNtLWFVM2t4Tnl4RWlwYUZnNUNBYjdMZmc?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 20:21:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnJzaGFnajdvZHJVeTdsTldxZ3Jwb1lKRmIxa1Rza2s0MkQ1RlAxLVd0QlJYc2psYi1fVTVRdW1za0R4N1ZWV29FWVYyX0lGMWFuN1dOYUhBVWhvV2luenZpeGxENFpCV2N1N0F3YkhZQ29NaS1aSmFmVUthWE9GZFQ1bGs5T29mUUtqZnk0Nlh4YmpnYUNtLWFVM2t4Tnl4RWlwYUZnNUNBYjdMZmc?oc=5",
-          "summary": "OpenAI's Revenue Was Lower Than Previously Reported. Stocks Dropped Dragged by AI Names."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a0ebf31f7015",
-      "title": "„Einstimmig“: Afrikas Verbände stellen sich geschlossen hinter Infantino",
-      "summary": "Alle 54 afrikanischen Verbände unterstützen Infantino bei der Wiederwahl. Europas Verbände fordern dagegen seine Ablösung.",
-      "link": "https://www.faz.net/aktuell/sport/fussball/gianni-infantino-afrikas-verbaende-stehen-hinter-fifa-chef-201301335.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 20:12:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/fussball/gianni-infantino-afrikas-verbaende-stehen-hinter-fifa-chef-201301335.html",
-          "summary": "Alle 54 afrikanischen Verbände unterstützen Infantino bei der Wiederwahl. Europas Verbände fordern dagegen seine Ablösung."
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
+          "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -3842,24 +3765,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2VKbEoxaTRZODNSQmozSkdETnBxZEF6QTFnbktaNFVJSkFyckNwY2Qxd1A4alZqVXJoV3lXRS1TTHA4S0dQSF9Nc2FxTlNFdUJLUnV5R2JSVGpXeV9Bc2JYU0xlT25ZLVk5RXpROUp5aEhrVHo5aUFoWTE5bk5UTFA3cUtQQzZYaUY0Zk5YRG5PODUybHJ0M1laZTduRnhLWlVINXlpTlFqMDJn?oc=5",
           "summary": "Witkoff, Kushner to meet Ukrainians for talks on the war, says US source Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "23ffd50cfdbd",
-      "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
-      "summary": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter?",
-      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Thu, 08 Oct 2026 19:32:20 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
-          "summary": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter?"
         }
       ],
       "sourcesCount": 1
@@ -4297,9 +4202,14 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1g2N0ZEbmxqaE11R0lYUng2cXFyMEVBSmNubFdYV0VQU1ZXclJLeldGSlJ0OTlWeHFXLW9pdl9jUWFlMUh1V3ZRbC1BOGZpUklEQnJMbXJ4OEJ5bVZaeXV4dnVaR2RQRE1zdkhDYk9mR0p6YW4zUDhRRjFMbWgwMDFqcTNFYnFyVzEyWlBhY3MzTnhqc3VvQWZMSk5QYVRPVncwYXYwUS1iQkFvREJOX3l2ck5hMFdDNlZfUGlZSktyclFfekEtTVhiWUFxTWFwS3d3OXkxQnFsTERGRFhZeTdCd25UdHNNX0lSbEZVVTlMTERmRmc?oc=5",
           "summary": "Hamlin Capital Management LLC Boosts Stock Holdings in International Business Machines Corporation $IBM MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYVBMRE5RV1EwUGlvVjdaZlVPODRGX1EzdFV3Rk5BTGxFbzd6ZUJqRFVGdWdLSzVqU0dHdG8waWZVblNRWWdmX2xUVDVETXpRSVM5RG40ZkZ5TkFZWC1kYzU4TXBnNUEzblFaNnpjbUZHd21uSGMtNERZempndm4zZjRqU2FhSDJDcjM2Rjk3eThuMDlDemNOalo0cHJFZmFGemQ1Mm9SNVc3R3FFaVFTemhEc2ZLZjM1dlRqb1FlR19zb256R1pScDdtYm1oSUhxYjYybWJHQjVNVXVvN0pJQl9uNld1TGFTdFNFcXVoQQ?oc=5",
+          "summary": "American National Bank & Trust Sells 4,702 Shares of International Business Machines Corporation $IBM MarketBeat"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "13be4c3bb4cb",
@@ -4315,24 +4225,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/thy-eylulde-9-milyon-yolcu-tasidi-959560.html",
           "summary": "Türk Hava Yolları (THY) eylül ayında 9 milyon yolcuya hizmet verirken, yılın 9 ayında taşıdığı yolcu sayısını 73 milyona yükseltti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "08b907855fde",
-      "title": "Deutschland liveblog: Deutsch-französisches Panzerprojekt MGCS gescheitert",
-      "summary": "Französischer Generalstabschef: Die Deutschen haben entschieden, sich zu verabschieden +++ Wüst ermahnt Politiker: „Reißt euch zusammen“ +++ Linke, Grüne und SPD nehmen Sondierungen auf +++ alle Entwicklungen im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-frankreich-verkuendet-aus-fuer-deutsch-franzoesisches-panzerprojekt-faz-110093143.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 17:43:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-frankreich-verkuendet-aus-fuer-deutsch-franzoesisches-panzerprojekt-faz-110093143.html",
-          "summary": "Französischer Generalstabschef: Die Deutschen haben entschieden, sich zu verabschieden +++ Wüst ermahnt Politiker: „Reißt euch zusammen“ +++ Linke, Grüne und SPD nehmen Sondierungen auf +++ alle Entwicklungen im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -4626,24 +4518,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "226a37b1cce4",
-      "title": "ICF International to lay off 82 employees - Virginia Business",
-      "summary": "ICF International to lay off 82 employees Virginia Business",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MNGlzZXJGN0lqdDdUcWppQWVTN19NcDZlVEVZblVJMlNIMGlIa2VwVnVpa2k0XzdFZDRJcjNzQTNQZzlqaU5naEUxVm5GdjVaVC0wMzVUbnJhR2dWOEVJSVZVUkN4WTB4dUczb3otMTdZUlVvUEVBMGtBVQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 16:30:34 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MNGlzZXJGN0lqdDdUcWppQWVTN19NcDZlVEVZblVJMlNIMGlIa2VwVnVpa2k0XzdFZDRJcjNzQTNQZzlqaU5naEUxVm5GdjVaVC0wMzVUbnJhR2dWOEVJSVZVUkN4WTB4dUczb3otMTdZUlVvUEVBMGtBVQ?oc=5",
-          "summary": "ICF International to lay off 82 employees Virginia Business"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1097aba673ce",
       "title": "Asos hackers took more personal details than first revealed, BBC finds",
       "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
@@ -4788,27 +4662,14 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDdLSVBJLVpwZTFwRF9mSUtBbXRrSXN3djRJYmE3cnFlZEM0UGR0cUExdzR6LV9IaDFiT19aWUVOU0dvdVdSTzc1dnZ3dHJHN0tRcW1ybWVWSWctQUJPWTd4Y1NabmpoZjc1dkRYYlIzVFQ1ZTFWeUh2NU43aWZablFodldqRThoS1FmeTFVMmRnNzN6aWc?oc=5",
           "summary": "Scott F. Gelbard of SGI Global Partners Announces Expansion of International Advisory Practice Into Southeast Asian Markets Yahoo Finance"
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
-      "id": "eddbe952c487",
-      "title": "PepsiCo tops Wall Street expectations for revenue and profit - Mass Market Retailers",
-      "summary": "PepsiCo tops Wall Street expectations for revenue and profit Mass Market Retailers",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTZkOFdRLXZFSGN2a2dZYXpCYWhReFNPNWNQejR0TDJCSlVPNGh2LWJzb3hSRGdwVGVWbkZjWUlJWnhDOUpMZV8wbGo2NmNQdUQwUFVBMDJHR2FkdE9XaDctd3BnRExtZTU0VUtkOWhwZzNOMi1leG1HUzkxUjFJcG5TNmhDQ1NxaDVXdWtfYkQ5X3k4alBMVQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 16:04:55 GMT",
-      "coverage": [
+        },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTZkOFdRLXZFSGN2a2dZYXpCYWhReFNPNWNQejR0TDJCSlVPNGh2LWJzb3hSRGdwVGVWbkZjWUlJWnhDOUpMZV8wbGo2NmNQdUQwUFVBMDJHR2FkdE9XaDctd3BnRExtZTU0VUtkOWhwZzNOMi1leG1HUzkxUjFJcG5TNmhDQ1NxaDVXdWtfYkQ5X3k4alBMVQ?oc=5",
-          "summary": "PepsiCo tops Wall Street expectations for revenue and profit Mass Market Retailers"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHB2Nk9lZ21KT2dxUDJPakdTOENHekJrQlNXMzVZY09udEQxZzJseXl0eEdheWJaQXI3NmZZSmNieFQ1NnFjRmVwNloxN2EtTzAzVXpjcC0xWksxVlVRZlRISnlWbEoxVXg5UVdVQ2RjZ0YtaVBHN2FtYm1XVUFTVE05MDM5ZXRsYklRSVNHeXFfRUppREN6eElaRFc0Zw?oc=5",
+          "summary": "SGI Global Partners Expands Scott Gelbard's International Business Series Into AI for 2027 Yahoo Finance"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 3
     },
     {
       "id": "7d0f2007efd1",
@@ -5302,19 +5163,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "b95cf9fa55e8",
-      "title": "Everton's Sherif fined for breaching betting rules",
-      "summary": "The Football Association fines Everton forward Martin Sherif £5,000 for breaching its betting rules over a 15-month period.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c54g13we4rero?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 08 Oct 2026 14:24:34 GMT",
+      "id": "b3e469bc7158",
+      "title": "Aleksander Ceferin tritt erneut zur Wahl als UEFA-Präsident an",
+      "summary": "Aleksander Ceferin will für eine vierte Amtszeit als UEFA-Präsident kandidieren - obwohl die Statuten maximal drei vorsehen.",
+      "link": "https://www.sportschau.de/fussball/ceferin-tritt-erneut-zur-wahl-als-uefa-praesident-an,ceferin-weitere-amtszeit-uefa-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 14:24:13 +0200",
       "coverage": [
         {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c54g13we4rero?at_medium=RSS&at_campaign=rss",
-          "summary": "The Football Association fines Everton forward Martin Sherif £5,000 for breaching its betting rules over a 15-month period."
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/ceferin-tritt-erneut-zur-wahl-als-uefa-praesident-an,ceferin-weitere-amtszeit-uefa-100.html",
+          "summary": "Aleksander Ceferin will für eine vierte Amtszeit als UEFA-Präsident kandidieren - obwohl die Statuten maximal drei vorsehen."
         }
       ],
       "sourcesCount": 1
@@ -5477,6 +5338,150 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/triathlon/spektakel-garantiert-so-laeuft-die-ironman-wm-auf-hawaii,faq-ironman-wm-106.html",
           "summary": "Die Ironman-WM findet nach vielen Jahren wieder gleichzeitig für Männer und Frauen auf Hawaii statt. Die Superstars der Szene sind mit dabei - auch Deutsche machen sich Medaillenhoffnungen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1d18a013e642",
+      "title": "Lübnan Cumhurbaşkanı: Anlaşma, İsrail'le düşmanlığı bitirmenin tek yolu",
+      "summary": "Lübnan Cumhurbaşkanı Joseph Avn, müzakerelerin savaşa alternatif olduğunu, Lübnan ile İsrail arasındaki düşmanlık halini sona erdirmenin tek yolunun anlaşma olduğunu belirtti.",
+      "link": "https://www.trthaber.com/haber/dunya/lubnan-cumhurbaskani-anlasma-israille-dusmanligi-bitirmenin-tek-yolu-959535.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:56:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/lubnan-cumhurbaskani-anlasma-israille-dusmanligi-bitirmenin-tek-yolu-959535.html",
+          "summary": "Lübnan Cumhurbaşkanı Joseph Avn, müzakerelerin savaşa alternatif olduğunu, Lübnan ile İsrail arasındaki düşmanlık halini sona erdirmenin tek yolunun anlaşma olduğunu belirtti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ca482fd58836",
+      "title": "Manus raises more than $500 million after Meta exit - Reuters",
+      "summary": "Manus raises more than $500 million after Meta exit Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:55:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
+          "summary": "Manus raises more than $500 million after Meta exit Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0a60e03858d7",
+      "title": "Çöken binadaki çatlaklar aylar öncesinden görüntülenmiş",
+      "summary": "Maltepe’de çöken 7 katlı binanın giriş katındaki dükkan kiracısı Fatma Kaya’nın, Nisan ayında duvarlarda oluşan çatlaklardan endişe duyarak kaydettiği ve komşularıyla paylaştığı görüntüler ortaya çıktı.",
+      "link": "https://www.trthaber.com/haber/turkiye/coken-binadaki-catlaklar-aylar-oncesinden-goruntulenmis-959534.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:50:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/coken-binadaki-catlaklar-aylar-oncesinden-goruntulenmis-959534.html",
+          "summary": "Maltepe’de çöken 7 katlı binanın giriş katındaki dükkan kiracısı Fatma Kaya’nın, Nisan ayında duvarlarda oluşan çatlaklardan endişe duyarak kaydettiği ve komşularıyla paylaştığı görüntüler ortaya çıktı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "25f6ec03cc01",
+      "title": "Russell to take further grid penalty this season",
+      "summary": "George Russell says he will be taking a further grid penalty this season in addition to the one he has been hit with for the Singapore Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6y8lyj1pemko?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:48:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c6y8lyj1pemko?at_medium=RSS&at_campaign=rss",
+          "summary": "George Russell says he will be taking a further grid penalty this season in addition to the one he has been hit with for the Singapore Grand Prix."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2bf4fb70997c",
+      "title": "Ironman-WM auf Hawaii: Kristian Blummenfelt vs. Sam Laidlow - das Duell in Kona",
+      "summary": "Kristian Blummenfelt und Sam Laidlow gehören zu den Topfavoriten auf den Titel bei der Ironman-WM. Weltmeister waren beide schon - der Titel auf Hawaii aber fehlt ihnen.",
+      "link": "https://www.sportschau.de/triathlon/blummenfelt-vs-laidlow-showdown-bei-der-ironman-wm,ironman-wm-norwegische-superstars-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:36:51 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/triathlon/blummenfelt-vs-laidlow-showdown-bei-der-ironman-wm,ironman-wm-norwegische-superstars-100.html",
+          "summary": "Kristian Blummenfelt und Sam Laidlow gehören zu den Topfavoriten auf den Titel bei der Ironman-WM. Weltmeister waren beide schon - der Titel auf Hawaii aber fehlt ihnen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "30c691eaffd2",
+      "title": "Rubio says war in Ukraine is at a dangerous stalemate - Reuters",
+      "summary": "Rubio says war in Ukraine is at a dangerous stalemate Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2dOb0hWRm9jbGxxanhVcDJFNjZfblp1aHQwNjhHRzJUT1ZvVTRuTkNxMWJLTUhEcnZQSXFJcTVHMkpzZ0huUUgxcDRyYk5obEhlS0tZaDMwWE5Yemd3S2N5bVBEdVdOUk92ZzcyZ2h1SXN5RE9vYVNrcjlhRXNrcGt5ZlpaTnhJd2l0WklzUl91TTZLRFFzeDdn?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:29:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2dOb0hWRm9jbGxxanhVcDJFNjZfblp1aHQwNjhHRzJUT1ZvVTRuTkNxMWJLTUhEcnZQSXFJcTVHMkpzZ0huUUgxcDRyYk5obEhlS0tZaDMwWE5Yemd3S2N5bVBEdVdOUk92ZzcyZ2h1SXN5RE9vYVNrcjlhRXNrcGt5ZlpaTnhJd2l0WklzUl91TTZLRFFzeDdn?oc=5",
+          "summary": "Rubio says war in Ukraine is at a dangerous stalemate Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e89a8eba2d3a",
+      "title": "Muğla'da kamyonetle otomobil çarpıştı: 1 ölü",
+      "summary": "Muğla'nın Milas ilçesinde kamyonet ile otomobilin çarpışması sonucu 1 kişi hayatını kaybetti, 2 kişi yaralandı.",
+      "link": "https://www.trthaber.com/haber/turkiye/muglada-kamyonetle-otomobil-carpisti-1-olu-959532.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:27:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/muglada-kamyonetle-otomobil-carpisti-1-olu-959532.html",
+          "summary": "Muğla'nın Milas ilçesinde kamyonet ile otomobilin çarpışması sonucu 1 kişi hayatını kaybetti, 2 kişi yaralandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1d9ccc1a7cf3",
+      "title": "Konjunkturelle erholung: Auf unsicherem Grund",
+      "summary": "Wirtschaftsministerin Katherina Reiche will, dass die private Wirtschaft die Wachstumsführerschaft übernimmt. Doch die entscheidende Voraussetzung dafür vernachlässigt die Regierung.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/wachstumsfuehrerschaft-katherina-reiche-und-ihr-plan-201299963.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 13:23:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/wachstumsfuehrerschaft-katherina-reiche-und-ihr-plan-201299963.html",
+          "summary": "Wirtschaftsministerin Katherina Reiche will, dass die private Wirtschaft die Wachstumsführerschaft übernimmt. Doch die entscheidende Voraussetzung dafür vernachlässigt die Regierung."
         }
       ],
       "sourcesCount": 1
