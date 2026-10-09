@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-09T23:06:04.052882+00:00",
+  "updated": "2026-10-09T23:39:14.189864+00:00",
   "articles": [
-    {
-      "id": "fa3f05d9463c",
-      "title": "The AI telling farmers when to harvest",
-      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 30 Sep 2026 23:02:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-          "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
-        }
-      ],
-      "sourcesCount": 1
-    },
     {
       "id": "a728fedb6f47",
       "title": "Pilotprojekt im Osten: Weniger Polizei statt Kostenbeteiligung",
@@ -704,24 +686,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4d6e18a05f6d",
-      "title": "Vance says Iran must cut nuclear enrichment to end seven-month war - New York Post",
-      "summary": "Vance says Iran must cut nuclear enrichment to end seven-month war New York Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcjk0cFRzY3NkRjZqUnJqNkV3TnYyWWpWOHNVdjd6NHB6VmRwekY0LUloVWxuLXRGWFpCbUdHdmRiUzNXa3dMN3BNb0hwNS05bjhRSFdVOVc5V2M5Y2RCN253ODJVNWwwUXg5UGp6eVNUOXpHUTF2aTZrYlI0UXkxMGtSMUJYUmg4Q21yaU92cG4xODhUOEYtTk5BenhoOTdIZlFsemFB?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 08:04:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcjk0cFRzY3NkRjZqUnJqNkV3TnYyWWpWOHNVdjd6NHB6VmRwekY0LUloVWxuLXRGWFpCbUdHdmRiUzNXa3dMN3BNb0hwNS05bjhRSFdVOVc5V2M5Y2RCN253ODJVNWwwUXg5UGp6eVNUOXpHUTF2aTZrYlI0UXkxMGtSMUJYUmg4Q21yaU92cG4xODhUOEYtTk5BenhoOTdIZlFsemFB?oc=5",
-          "summary": "Vance says Iran must cut nuclear enrichment to end seven-month war New York Post"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c253441b11fb",
       "title": "Rainmakers: The drones used to seed clouds",
       "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
@@ -897,6 +861,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1p2RElUY0d5X0I1ZEJvZ0t1R0RlT21aVkZhR05NVXVha3BZeEg2Y25PRVNoQkg5SXprNlZFM2VFN3p4LVZhcHZiOW1MaXliWVFpaGY4SEUxanl3SEJUSjQyTFZxYkxXd29Xc1pWYW9JNEM2OG93SjFJd2lHVGlKVTV2Z9IBiAFBVV95cUxNc3c5Q1ZQWktHYVZ2XzcxSDN2UThRbUxKalV3bURfWi0tQ0xvRlVyNElBX21VaWhIaTlaWEFqLXY3cTZZTmJhb1BFbV9DMUt1Zy1NajE1dGJqUGlFazllcnduRU02V0lHYW9RWW5RdXFNUHNDTzMwR3VRWjNIQ0hLcExZM3paMHZ6?oc=5",
           "summary": "Trump approval reaches record low in new survey The Hill"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "094c92122454",
+      "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing - Al Jazeera",
+      "summary": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT04tdkp1cE9ybmptZWlDY0hsWHo3dGI2XzlkVGQ2U3ZpeF9FMmFzUzc1aGIyYjlZQlRYaTVOYXExSUFWT3J6NzhaMFQ5R0VjNkxFU0Fma1VjeVJ3NkVidzZpQWd0SzRjaWlqM3E5b2JYbGtQTHNQSThTUnpGQl9iVV9WamlJbzNiVTNYTWxNOGp5TEtRNnhLMUpjWnZHYmh0ZVFvNHJ4WjR6SW_SAbABQVVfeXFMTm5iZjR2Z3lIZ09FYVVnQk1iUlhOcEtkd2FaZk9UOV9qSkhiZEZFTVlpOE5JR3c3WTdaZGZlejc0dmdTTkxZYWJvNS16UFgxOVo4QmZBSktTOHB4M1FEd09DZ0dRYXhBczYybnIweFAxUDhPMkJGTG9PZXBiQmxuV2tFZTVNbHlQVDhuYVRzb0xXdHBBZlBFMktGc2U1c0ppR1h5SVIwTHdUVnBwXzMwdlM?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT04tdkp1cE9ybmptZWlDY0hsWHo3dGI2XzlkVGQ2U3ZpeF9FMmFzUzc1aGIyYjlZQlRYaTVOYXExSUFWT3J6NzhaMFQ5R0VjNkxFU0Fma1VjeVJ3NkVidzZpQWd0SzRjaWlqM3E5b2JYbGtQTHNQSThTUnpGQl9iVV9WamlJbzNiVTNYTWxNOGp5TEtRNnhLMUpjWnZHYmh0ZVFvNHJ4WjR6SW_SAbABQVVfeXFMTm5iZjR2Z3lIZ09FYVVnQk1iUlhOcEtkd2FaZk9UOV9qSkhiZEZFTVlpOE5JR3c3WTdaZGZlejc0dmdTTkxZYWJvNS16UFgxOVo4QmZBSktTOHB4M1FEd09DZ0dRYXhBczYybnIweFAxUDhPMkJGTG9PZXBiQmxuV2tFZTVNbHlQVDhuYVRzb0xXdHBBZlBFMktGc2U1c0ppR1h5SVIwTHdUVnBwXzMwdlM?oc=5",
+          "summary": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing Al Jazeera"
         }
       ],
       "sourcesCount": 1
@@ -2107,24 +2089,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1022e2d0ec10",
-      "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times",
-      "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 20:35:36 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
-          "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d52eae7cda83",
       "title": "Steve Homer, AEG President of UK Touring, Leaving For New Business Venture - Pollstar News",
       "summary": "Steve Homer, AEG President of UK Touring, Leaving For New Business Venture Pollstar News",
@@ -2395,24 +2359,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "66d92331ba58",
-      "title": "Scott F. Gelbard Publishes Landmark 100-Article International Business Series Through SGI Global Partners - StreetInsider",
-      "summary": "Scott F. Gelbard Publishes Landmark 100-Article International Business Series Through SGI Global Partners StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbHZOYnNxYVBNTFU2X2h1dEhoU2w2blZzM3pBLXgxQl9zcmh2b2tsZlZkM0t3cklVYlBhSnlOcDh1ZlplTHZ6eTNXMHJ1ODVlbmNoMFozUDJ3UXk5cmdYUXZuVWZCQ19TWEdJelNzeVJlS2hRSHk0U19CWDRudlQ0R1RnTFdFTkpYdncyTzFGNVJYeEJseXNXRDBnUlpxeVRDdmpGZHhTZlJUMXh2SmpITnlWdl9seWtTb1F3QnF0czVIVFc2bnFqRlluTkpQUHVNSGVwenlFcjBMb0hJSkV2UEtBT2dINk8yRnNYdmE3YndOTkp0QWdxeQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 15:14:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbHZOYnNxYVBNTFU2X2h1dEhoU2w2blZzM3pBLXgxQl9zcmh2b2tsZlZkM0t3cklVYlBhSnlOcDh1ZlplTHZ6eTNXMHJ1ODVlbmNoMFozUDJ3UXk5cmdYUXZuVWZCQ19TWEdJelNzeVJlS2hRSHk0U19CWDRudlQ0R1RnTFdFTkpYdncyTzFGNVJYeEJseXNXRDBnUlpxeVRDdmpGZHhTZlJUMXh2SmpITnlWdl9seWtTb1F3QnF0czVIVFc2bnFqRlluTkpQUHVNSGVwenlFcjBMb0hJSkV2UEtBT2dINk8yRnNYdmE3YndOTkp0QWdxeQ?oc=5",
-          "summary": "Scott F. Gelbard Publishes Landmark 100-Article International Business Series Through SGI Global Partners StreetInsider"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1134e9a0c655",
       "title": "IBA Daily News: UK lawyers promote international business and rule of law at IBA conference - The Global Legal Post",
       "summary": "IBA Daily News: UK lawyers promote international business and rule of law at IBA conference The Global Legal Post",
@@ -2575,24 +2521,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "2a9ea3474415",
-      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
-      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 13:06:33 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
-          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "5b99393520ab",
       "title": "Eylülde en yüksek aylık reel getiri devlet iç borçlanma senetlerinde oldu",
       "summary": "Tüketici fiyat endeksi (TÜFE) ile indirgendiğinde eylülde en yüksek aylık reel getiri, yüzde 1,4 ile devlet iç borçlanma senetlerinde (DİBS) gerçekleşti.",
@@ -2642,6 +2570,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWRCMnJEN0hfdXA5aS1lVVdWQXB5cE41QThjWURQb19XUGlCUFpUQTNCNWNRWDVrS1N6WWRrdl96QW9OQ2pYSnpkSzlHTjNGZ3VWcm1aYVpZc2M0TlJjQUE0WXB1S1J0NHk2T25yNWQ3d3hXdVY1VlZkclhzdncySFlvdGFiOWJTTjRqVk93NWNQQnJlYjcxQWxjS19zcFlhOHItVVp3aF85a1Z3RnZ3TnN6aWxWcGtDZGJV?oc=5",
           "summary": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5afbfc45d029",
+      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
+      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 12:40:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
+          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
         }
       ],
       "sourcesCount": 1
@@ -3097,24 +3043,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "17d6d69ee9b7",
-      "title": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters - Investing.com",
-      "summary": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1pLM3hEcFJPNEkyZ0xDS2dtMHMtdlRRc2p3MmN0dG03UEFJaFN1UF8xSFJFTWhobzdYS0Q2TmdHNGFEVkdsWmxoS0ExWFNTOFBIc0xDbWVWQjFKWUx2Z2NxUGJ0SzNYWTdDN1VacjBnUjUwb3BMR1BLa3BkUXQxYzB2TWRIMEJQd1BJTGVoWnQ3Z0NWcVlwWDRFamEwQkZqcUZESGlVSzVEM2RRVGU3U3c1NHRXQnMxNDhvcw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 08:10:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1pLM3hEcFJPNEkyZ0xDS2dtMHMtdlRRc2p3MmN0dG03UEFJaFN1UF8xSFJFTWhobzdYS0Q2TmdHNGFEVkdsWmxoS0ExWFNTOFBIc0xDbWVWQjFKWUx2Z2NxUGJ0SzNYWTdDN1VacjBnUjUwb3BMR1BLa3BkUXQxYzB2TWRIMEJQd1BJTGVoWnQ3Z0NWcVlwWDRFamEwQkZqcUZESGlVSzVEM2RRVGU3U3c1NHRXQnMxNDhvcw?oc=5",
-          "summary": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters Investing.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d258656799e6",
       "title": "Tom Bischof droht beim FC Bayern wieder die Bank",
       "summary": "Tom Bischof brillierte zuletzt in der DFB-Elf. Doch zurück beim FC Bayern wird es für ihn wieder eng: Joshua Kimmich und Aleksandar Pavlović sind im Mittelfeld wohl gesetzt.",
@@ -3308,6 +3236,24 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
           "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1d2c227bcd24",
+      "title": "Dollar edges back from 18-month high after FOMC minutes By Reuters - Investing.com",
+      "summary": "Dollar edges back from 18-month high after FOMC minutes By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFp5N0pSdFowOWkwcHVCcjlWcjA4ektUVm9sR19tLUdYX1VaZ1Y1UDdsVjkwcUFaRE1wSjFkZVZqVWU5Sk9wTG5MZVlpOVlub2VGR1VNOWl6UW5wcHdoQ2Z6T3B1dWVhZGIyYXBGaVVwSEVqTGtDX1V5STQxbk9zdDFkc3FiTkV3cm11bkRQVUo2b25ka0pnWHVLVkI3R05tTV9uUU5VQklFZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 08 Oct 2026 01:01:41 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFp5N0pSdFowOWkwcHVCcjlWcjA4ektUVm9sR19tLUdYX1VaZ1Y1UDdsVjkwcUFaRE1wSjFkZVZqVWU5Sk9wTG5MZVlpOVlub2VGR1VNOWl6UW5wcHdoQ2Z6T3B1dWVhZGIyYXBGaVVwSEVqTGtDX1V5STQxbk9zdDFkc3FiTkV3cm11bkRQVUo2b25ka0pnWHVLVkI3R05tTV9uUU5VQklFZw?oc=5",
+          "summary": "Dollar edges back from 18-month high after FOMC minutes By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -5012,6 +4958,105 @@
       "sourcesCount": 1
     },
     {
+      "id": "daa4e611aee0",
+      "title": "Sound Income Strategies LLC Purchases 4,493 Shares of International Business Machines Corporation $IBM - MarketBeat",
+      "summary": "Sound Income Strategies LLC Purchases 4,493 Shares of International Business Machines Corporation $IBM MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSVg2ZWlsaGluUlkzejhWalE5eFdwSXp4dUFEbWpiMFI2OEVuU0tFaFZVaDRUaXJBSWJqOVluVEV1b2U3eGRkMm91TVBNYUhULV95X3pCNFFaa3dqWk9UNlltUlAyQUFIeVNtOHU3dGoydEFJSklqVHBLem13ZUozakpEM1VKRWZuT1NJRFlOMVJXNWlsMkRMdGFkTDcyd0JMaUhfdEdtMTZqUkhFMHk0SFhxUlhYcVZ0QVpTS3Y2aWJ5X1A3Q1VlM3I5c2taRnRyeVh3RlBQM3pXQ3pPc29lOWZUWlZuVlp5VzJUeko5U1o3dkk?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Fri, 09 Oct 2026 23:34:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSVg2ZWlsaGluUlkzejhWalE5eFdwSXp4dUFEbWpiMFI2OEVuU0tFaFZVaDRUaXJBSWJqOVluVEV1b2U3eGRkMm91TVBNYUhULV95X3pCNFFaa3dqWk9UNlltUlAyQUFIeVNtOHU3dGoydEFJSklqVHBLem13ZUozakpEM1VKRWZuT1NJRFlOMVJXNWlsMkRMdGFkTDcyd0JMaUhfdEdtMTZqUkhFMHk0SFhxUlhYcVZ0QVpTS3Y2aWJ5X1A3Q1VlM3I5c2taRnRyeVh3RlBQM3pXQ3pPc29lOWZUWlZuVlp5VzJUeko5U1o3dkk?oc=5",
+          "summary": "Sound Income Strategies LLC Purchases 4,493 Shares of International Business Machines Corporation $IBM MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYUJYb0s1eC1wNGNwNmxKOXdPdTdBX3F0UXc5Y0tDT3RmOG5VLTFzZml4UTZ0NTNNNTdhdTlFM0tzczdKVkpiSUd2OVlvVGtNQ1J0bXVCbnZTTnhFVnRaV0YySFN4X3RiZjlONkY5U3ZVWkFTU3otczdlWUUyRHdKQVRZeE1TcERZa2VoQUd0SkJCZ096ZGdCbjhucldWRFAybXg2a09pMThOVkpXQ0x0ODQtbXIzd0NTVWJrVTRtX1ZaSjItTGx6RjNxTmhfRDhFYmZYenU4dGFUSUk?oc=5",
+          "summary": "GAMMA Investing LLC Trims Stake in International Business Machines Corporation $IBM MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZjJXZzY3SHJQU3dfX1NSMTdySnMyLUlLVGQxODE1ZFRVUmItNkZPYno1WTEzbEZxVlVvMDBwOXNnWkJsZlhIaTM1VzN5ejR2aGx1WDc0bE1JQlB2SG90dFpNMEpDSGw4TWxjT29YSFBxWlhheFdFZnpfUmhtMjhybUsyNUhueWRneXV1eEQ4TEUtRjNLb1ZBUW5FM21sUkVLM252ZkdPdkN5QmtnbDB4VVdwQ181eWw3Uklsd0VQMDBQVndKWm9KSzR0LURfWDZZckpNMEN4S0NldXZCU0JCQWt2a1ZTOGZMcDVaYW1iZ1I?oc=5",
+          "summary": "Diversified Management Inc. Acquires 3,127 Shares of International Business Machines Corporation $IBM MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1g2N0ZEbmxqaE11R0lYUng2cXFyMEVBSmNubFdYV0VQU1ZXclJLeldGSlJ0OTlWeHFXLW9pdl9jUWFlMUh1V3ZRbC1BOGZpUklEQnJMbXJ4OEJ5bVZaeXV4dnVaR2RQRE1zdkhDYk9mR0p6YW4zUDhRRjFMbWgwMDFqcTNFYnFyVzEyWlBhY3MzTnhqc3VvQWZMSk5QYVRPVncwYXYwUS1iQkFvREJOX3l2ck5hMFdDNlZfUGlZSktyclFfekEtTVhiWUFxTWFwS3d3OXkxQnFsTERGRFhZeTdCd25UdHNNX0lSbEZVVTlMTERmRmc?oc=5",
+          "summary": "Hamlin Capital Management LLC Boosts Stock Holdings in International Business Machines Corporation $IBM MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZEMyc1lYZFViaHVvY19ZT3Vtdjh4UkVaaEkwMGNCZFRxd1lveks3QldPUGRkRDdFYkZNQl8wQmkyaFhUNWJMQkR1Vi1VdWVPS29UZGlDdVNYbjh0ajY0YUZjYTV3V0ZlczZxeWtYSzh3NjZNZjF6NmkyMVh3OVZDemRnV0NPNU1oRE5EamtRdnBEN0xDWXdDOFVTU1ZCSTZIZkVEODRQLTNGY0JmSjhxd3VWQ29xSnN3WE94R2VvenYzeVVpRWc4enpHeGF3eFRMM3AtMEdBelk0dnBRaG9ROGo1eVJGQQ?oc=5",
+          "summary": "2,916 International Business Machines Corporation $IBM Shares Bought by CoreCap Advisors LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYVBMRE5RV1EwUGlvVjdaZlVPODRGX1EzdFV3Rk5BTGxFbzd6ZUJqRFVGdWdLSzVqU0dHdG8waWZVblNRWWdmX2xUVDVETXpRSVM5RG40ZkZ5TkFZWC1kYzU4TXBnNUEzblFaNnpjbUZHd21uSGMtNERZempndm4zZjRqU2FhSDJDcjM2Rjk3eThuMDlDemNOalo0cHJFZmFGemQ1Mm9SNVc3R3FFaVFTemhEc2ZLZjM1dlRqb1FlR19zb256R1pScDdtYm1oSUhxYjYybWJHQjVNVXVvN0pJQl9uNld1TGFTdFNFcXVoQQ?oc=5",
+          "summary": "American National Bank & Trust Sells 4,702 Shares of International Business Machines Corporation $IBM MarketBeat"
+        }
+      ],
+      "sourcesCount": 6
+    },
+    {
+      "id": "4caee7931ee0",
+      "title": "International Business Machines Corporation $IBM Holdings Trimmed by Castle Rock Wealth Management LLC - MarketBeat",
+      "summary": "International Business Machines Corporation $IBM Holdings Trimmed by Castle Rock Wealth Management LLC MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ2pjNTBfSUVhS1hpQ3NJeHNDTkR6UG5aSnNLT3hfaEszelpEMDhsZDFVRTRIUmhGZzNIYklZTU9vWXRGeUJxa2pHbnVRR200Z2pTZkJVd25HQVF6Tk5TMDlBOEdLQ3lGZk80VFA1aTVlQ2dCNW5sdUs4azJpTy1SWFJsYUhxOGNwSzdONzRPbEhxT3gzVmVSblVFMmJmVmtVbTJsT3oxU2VwaE12N2VwNFBmam9LcGo4TmtmaUE0Z1lCUkt2dEtrZGd6c2lzY0ZDc1N3SUN6UUhNTlA0Q1UxRDJTYnVvcVlnOE5jaENldXZycEE4?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Fri, 09 Oct 2026 23:34:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ2pjNTBfSUVhS1hpQ3NJeHNDTkR6UG5aSnNLT3hfaEszelpEMDhsZDFVRTRIUmhGZzNIYklZTU9vWXRGeUJxa2pHbnVRR200Z2pTZkJVd25HQVF6Tk5TMDlBOEdLQ3lGZk80VFA1aTVlQ2dCNW5sdUs4azJpTy1SWFJsYUhxOGNwSzdONzRPbEhxT3gzVmVSblVFMmJmVmtVbTJsT3oxU2VwaE12N2VwNFBmam9LcGo4TmtmaUE0Z1lCUkt2dEtrZGd6c2lzY0ZDc1N3SUN6UUhNTlA0Q1UxRDJTYnVvcVlnOE5jaENldXZycEE4?oc=5",
+          "summary": "International Business Machines Corporation $IBM Holdings Trimmed by Castle Rock Wealth Management LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUV4NUN3RkgxLVlFSEZVQUV4MHhERnBRZ3JRQ182dzhtRWpPUDAyTU1TNk1HRXVCRVVVT1dkejRwR2R2MlNKR3BmckJRTlNVNkJvMnBkeWs0dlcyMm5oTjhNQ0xScVlyZ0lpc0lHeTJxMkd4cTlJQzNBVFlXY2FrQWJKWHYzMzFWbWxhZldQZ0E3WW1TZlBvZWxoNlViVWZrWXU4ZDNRblk0Vm85MjBJdDJralV3cGppX0NlR3NBUHNBU1ZuRFpfbFpyWTF6RlhhV2pjZ2ozenpNcUtiZVpfNw?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Shares Sold Off by Rep. Maria Elvira Salazar MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVl0OFhWd0dpaHZCdWgySWxHUTZENV9KMmVPR25jYTkwaWExdXZYV2d5cU41YVRCZEV5LUI0cTdFcHpEXzU2cFBsS0k0X0x6dHBDM2xpbWFCUjQycnJlZEhHWm0yZUVCN2V2RHduWTl1SEtfa25hdGtqNDBIUDlJWThScTRSYlYyMVVkUTBDSUZwVWo0bHZlZjhSS2ZYeE10ODAwRjdJS1FaaThfU1YzOWdLaE85cWpSYjU0WmpCQmFxWWM?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Shares Up 2.8% - Still a Buy? MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWNBdDM2cjBlNnRMeU55dFg1dVpiZXJMcDZpTV8tRWdjcTFXczNuamVJU18tMGNnQnMybGsxUmFaeEdqUFBZUHo3ZlI2TGFFMUVpX3RGYU9DVVVHNTMxeDBtOUJvOXFHZkZLOS1fUkRpQWtjcE1MTFdzSDNlT0pOY3VsWndiVEZNS3c2RG92V3hrOThHOUNOSk1QOXZpaWpIT05fRVNBelNwV2M2RnZ5cUJPbWdCMVZuVG9uOThTWmdUb3FTOUdOaXJXZVZ1VW5xQXczQ1hackJHUXEtc0k0bi1PUUZBRi1r?oc=5",
+          "summary": "International Business Machines Corporation $IBM Holdings Boosted by Gradient Investments LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZEQwOXdHWjVKWjE4UXhudDFCcEtnVWlYUG14aFJJSTRSZUJQRzQ4RlI5aGlXcFNPTDJZT0ZUYXlPUGRlWlNQOHdwWnlVeHBNOEpFQ0xYb0IxR01vaWRuclhyaVcyUkZwU1hBS25PeHl4UEE1Vmk5SUo1NHN5U2dsNWRhQUl4V1p0ZDMycEFyNWhCaWJDaW9xV0lqVGhOU2VXNUx1c3JwTTIzNWgtaXBlUTkxZlRBUlJacVFMR2dILUJWTGI5YmRmWWk0Q19XdkMzX0lNWUdrYUs2Unh0ZnM0ZG1BRGdueUk?oc=5",
+          "summary": "International Business Machines Corporation $IBM Shares Sold by Congress Asset Management Co. MarketBeat"
+        }
+      ],
+      "sourcesCount": 5
+    },
+    {
+      "id": "e42a21c1b174",
+      "title": "Alumnus Dan Wright Brings Life-Saving AI Technology to the Edge - Pepperdine University",
+      "summary": "Alumnus Dan Wright Brings Life-Saving AI Technology to the Edge Pepperdine University",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVIzRG05bkc3LW9TajVLWHZsWlZFeGV5akJtZkp4QWlxS3Ezc25FV3VEOHBjTWpMUnFFUXJNWVlOSjRyZ1JVUEV2bi0tOXoxU1R2Y3VZcWdTOXRGUmozY0JQZi1uS01Fc1dLelBTTkpiZE9OanBOZFB5dENXZ2xaWnZKZWlSM1JJTnhSV2xKRFF5aGt2WmZUSFBacFpNc2xsZzZBdG41MWRBZE0yVjBQdWdB?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Fri, 09 Oct 2026 23:28:16 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVIzRG05bkc3LW9TajVLWHZsWlZFeGV5akJtZkp4QWlxS3Ezc25FV3VEOHBjTWpMUnFFUXJNWVlOSjRyZ1JVUEV2bi0tOXoxU1R2Y3VZcWdTOXRGUmozY0JQZi1uS01Fc1dLelBTTkpiZE9OanBOZFB5dENXZ2xaWnZKZWlSM1JJTnhSV2xKRFF5aGt2WmZUSFBacFpNc2xsZzZBdG41MWRBZE0yVjBQdWdB?oc=5",
+          "summary": "Alumnus Dan Wright Brings Life-Saving AI Technology to the Edge Pepperdine University"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "d80981aece8d",
       "title": "Fußball-Bundesliga: Werder Bremen punktet dank Füllkrug bei Borussia Dortmund",
       "summary": "Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
@@ -5048,6 +5093,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "7d6648536021",
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+      "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Fri, 09 Oct 2026 23:01:14 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+          "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fd425069178e",
+      "title": "Strong Panama quake shakes nation, but avoids major destruction - Reuters",
+      "summary": "Strong Panama quake shakes nation, but avoids major destruction Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Fri, 09 Oct 2026 23:00:39 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
+          "summary": "Strong Panama quake shakes nation, but avoids major destruction Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "7b135ca86c06",
       "title": "Man City whistleblower to remain in witness protection",
       "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
@@ -5061,6 +5142,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
           "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "970b4455b281",
+      "title": "Trump says Russia to supply diesel to US and global markets - Reuters",
+      "summary": "Trump says Russia to supply diesel to US and global markets Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Fri, 09 Oct 2026 22:46:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+          "summary": "Trump says Russia to supply diesel to US and global markets Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5408,60 +5507,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
           "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dff50eebf3c0",
-      "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
-      "summary": "Ankara Tren Garı önünde yarın düzenlenecek anma programı nedeniyle bazı yollar araç trafiğine kapatılacak.",
-      "link": "https://www.trthaber.com/haber/turkiye/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak-959691.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Fri, 09 Oct 2026 21:27:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak-959691.html",
-          "summary": "Ankara Tren Garı önünde yarın düzenlenecek anma programı nedeniyle bazı yollar araç trafiğine kapatılacak."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "43c553fc6e2c",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Fri, 09 Oct 2026 21:26:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-          "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "df2ba7490291",
-      "title": "NI World Cup hopes gone from 'improbable to impossible'",
-      "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Fri, 09 Oct 2026 21:24:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&at_campaign=rss",
-          "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat."
         }
       ],
       "sourcesCount": 1
