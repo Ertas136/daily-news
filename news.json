@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:39:47.553639+00:00",
+  "updated": "2026-10-10T11:04:42.650910+00:00",
   "articles": [
     {
       "id": "a728fedb6f47",
@@ -218,24 +218,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "211a5bdbcd82",
-      "title": "VfL Bochum ordnet Hüpfverbot an",
-      "summary": "Kuriose Maßnahme beim VfL Bochum vor dem Heimspiel gegen Bielefeld: Verein und Stadt verhängen ein Hüpfverbot für die Ostkurve.",
-      "link": "https://www.sportschau.de/regional/wdr/wdr-vfl-bochum-ordnet-huepfverbot-fuer-die-ostkurve-an-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 22:34:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-vfl-bochum-ordnet-huepfverbot-fuer-die-ostkurve-an-100.html",
-          "summary": "Kuriose Maßnahme beim VfL Bochum vor dem Heimspiel gegen Bielefeld: Verein und Stadt verhängen ein Hüpfverbot für die Ostkurve."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "43dcbd033410",
       "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
       "summary": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen.",
@@ -380,6 +362,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ecbf827b537f",
+      "title": "Ukraine: Viele Tote bei russischen Angriffen",
+      "summary": "Wieder haben russische Raketen, Drohnen und Marschflugkörper Kiew und andere ukrainische Städte getroffen. In der nordukrainischen Stadt Pryluki trafen Raketen ein mehrstöckiges Wohnhaus.",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 17:21:49 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html",
+          "summary": "Wieder haben russische Raketen, Drohnen und Marschflugkörper Kiew und andere ukrainische Städte getroffen. In der nordukrainischen Stadt Pryluki trafen Raketen ein mehrstöckiges Wohnhaus."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "593340331d85",
       "title": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
       "summary": "Die Forscher Henri Kagan und Kenso Soai haben ein grundlegendes Konzept der organischen Chemie entdeckt. Ihre Ergebnisse sind auch für die Entwicklung von Medikamenten wichtig.",
@@ -411,6 +411,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0lqTEpRdU1YQlZDVFNOX0pBWXpVMWlRY0drY05XZEJobVZLS1FlbjFPeTJtWDJ2Q25zbXlyNk9PZlQ2UlB2eGNuem94eGFXUkliUHo5VGJOTDg0WDFlZElHWkhfemhnaWRLejJpa0VxZm5GVDhXREMwV3l4YjIzZFNOdGktUWQyclR5TVR3SHVyS05Icms3YXhoYWY4UE1aby1TX08zd29PNW1NQ2owdVYyaw?oc=5",
           "summary": "Contemporary Sport Management in Africa: Challenges, Opportunities, Nigerian Imperative The Guardian Nigeria News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d1aa5c9208a8",
+      "title": "Most say Trump, Congress not taking AI risk seriously: Survey - The Hill",
+      "summary": "Most say Trump, Congress not taking AI risk seriously: Survey The Hill",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXowZXVvdzU2LUpXX3YwQ2tIRmp6QU5xRTJXTHFNNlJpdWlMOVlKQmFtaW5PRlp5NDlYaEg3SWlhNEFMeUJnY0w5ZmZ2Q1NkdWJCWF96OUJOZUdYTW40bURwYXZQRWF5Z2JlMmJhR0gyYXRXakVUM05nQ3pzMmtmMl9oZ3R5a3lqOWl2WHFKRXdyd1dUSVA2dG1XbTlMdTBLZkp4a1ppOXJEc0RnRUxmVmFB0gG3AUFVX3lxTE9aamlqaU5PTVkxNG1jcHhaU0JoYTBiVDBSQ0dRNk8wSDdKSkRSRFJCVHEwTE05MVRPOThIcHdYX1p0Tk5JOFlYckVEYzhUUzdiQll5M3hRaHhhalE3OW1NeVJjR2VnNmVJWkVKQWZ6M1RBcFpkQW5PZ0thVXpfQkx1Q2FWaWZrcTJueHlobEc0RjgtelM4YVlKSnZGb0F1STVTLXYxNHlmN3BWRW9LVGFXS05zREZKOA?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 16:14:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXowZXVvdzU2LUpXX3YwQ2tIRmp6QU5xRTJXTHFNNlJpdWlMOVlKQmFtaW5PRlp5NDlYaEg3SWlhNEFMeUJnY0w5ZmZ2Q1NkdWJCWF96OUJOZUdYTW40bURwYXZQRWF5Z2JlMmJhR0gyYXRXakVUM05nQ3pzMmtmMl9oZ3R5a3lqOWl2WHFKRXdyd1dUSVA2dG1XbTlMdTBLZkp4a1ppOXJEc0RnRUxmVmFB0gG3AUFVX3lxTE9aamlqaU5PTVkxNG1jcHhaU0JoYTBiVDBSQ0dRNk8wSDdKSkRSRFJCVHEwTE05MVRPOThIcHdYX1p0Tk5JOFlYckVEYzhUUzdiQll5M3hRaHhhalE3OW1NeVJjR2VnNmVJWkVKQWZ6M1RBcFpkQW5PZ0thVXpfQkx1Q2FWaWZrcTJueHlobEc0RjgtelM4YVlKSnZGb0F1STVTLXYxNHlmN3BWRW9LVGFXS05zREZKOA?oc=5",
+          "summary": "Most say Trump, Congress not taking AI risk seriously: Survey The Hill"
         }
       ],
       "sourcesCount": 1
@@ -501,24 +519,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/konjunktur/produktion-industrie-bau-august-plus-100.html",
           "summary": "Trotz Behinderungen der Rhein-Schifffahrt durch das Niedrigwasser haben die deutschen Unternehmen ihre Produktion im August stark hochgefahren. Ein kräftigeres Plus gab es zuletzt im März 2025."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c4747e2f02c6",
-      "title": "Could Manchester City be expelled from the Premier League?",
-      "summary": "A panel of BBC Sport correspondents explore what sanctions Manchester City could face after being found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm70p48l9v8vo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 11:44:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cm70p48l9v8vo?at_medium=RSS&at_campaign=rss",
-          "summary": "A panel of BBC Sport correspondents explore what sanctions Manchester City could face after being found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons."
         }
       ],
       "sourcesCount": 1
@@ -722,24 +722,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5258ae96e7a2",
-      "title": "Watch: Every Messi World Cup goal for Argentina",
-      "summary": "Watch every World Cup goal scored by Lionel Messi, as the Argentina forward retires from international football.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c61kdn0nwld4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 07 Oct 2026 05:24:54 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c61kdn0nwld4o?at_medium=RSS&at_campaign=rss",
-          "summary": "Watch every World Cup goal scored by Lionel Messi, as the Argentina forward retires from international football."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7772c2ac26c4",
       "title": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota - Fox News",
       "summary": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota Fox News",
@@ -776,6 +758,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "1e3d18fc81aa",
+      "title": "The intricate web Man City spun to con the Premier League",
+      "summary": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 29 Sep 2026 20:58:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+          "summary": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8ddddb5211f9",
+      "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
+      "summary": "It has taken more than two years, but a judgement has finally been made on the 115 charges levelled against Manchester City. Here's what it means.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 29 Sep 2026 17:37:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+          "summary": "It has taken more than two years, but a judgement has finally been made on the 115 charges levelled against Manchester City. Here's what it means."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "80737cd9b2f6",
       "title": "Schuldspruch wegen Finanzvergehen: Mögliche Folgen für Manchester City",
       "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt.",
@@ -807,24 +825,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMW5LdHBqV1dQRDBzMXYwb0x2V0ZWa05UMGpfSjNsMTNFb2NmYkd0VlhVTE9IMFF5OEMxSFdfbGI3dUJTZU1iRV9ZRkFKWTk1Mi03SjFtT3AxWEZFdUtIRGhCekVtYncy?oc=5",
           "summary": "Inside Liverpool's increasing global investment in youth BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7e487eaad062",
-      "title": "Trump approval reaches record low in new survey - The Hill",
-      "summary": "Trump approval reaches record low in new survey The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1p2RElUY0d5X0I1ZEJvZ0t1R0RlT21aVkZhR05NVXVha3BZeEg2Y25PRVNoQkg5SXprNlZFM2VFN3p4LVZhcHZiOW1MaXliWVFpaGY4SEUxanl3SEJUSjQyTFZxYkxXd29Xc1pWYW9JNEM2OG93SjFJd2lHVGlKVTV2Z9IBiAFBVV95cUxNc3c5Q1ZQWktHYVZ2XzcxSDN2UThRbUxKalV3bURfWi0tQ0xvRlVyNElBX21VaWhIaTlaWEFqLXY3cTZZTmJhb1BFbV9DMUt1Zy1NajE1dGJqUGlFazllcnduRU02V0lHYW9RWW5RdXFNUHNDTzMwR3VRWjNIQ0hLcExZM3paMHZ6?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1p2RElUY0d5X0I1ZEJvZ0t1R0RlT21aVkZhR05NVXVha3BZeEg2Y25PRVNoQkg5SXprNlZFM2VFN3p4LVZhcHZiOW1MaXliWVFpaGY4SEUxanl3SEJUSjQyTFZxYkxXd29Xc1pWYW9JNEM2OG93SjFJd2lHVGlKVTV2Z9IBiAFBVV95cUxNc3c5Q1ZQWktHYVZ2XzcxSDN2UThRbUxKalV3bURfWi0tQ0xvRlVyNElBX21VaWhIaTlaWEFqLXY3cTZZTmJhb1BFbV9DMUt1Zy1NajE1dGJqUGlFazllcnduRU02V0lHYW9RWW5RdXFNUHNDTzMwR3VRWjNIQ0hLcExZM3paMHZ6?oc=5",
-          "summary": "Trump approval reaches record low in new survey The Hill"
         }
       ],
       "sourcesCount": 1
@@ -1002,24 +1002,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "afbae82acdda",
-      "title": "SpaceX seeks $40 billion financing to buy Nvidia chips, sources say By Reuters - Investing.com",
-      "summary": "SpaceX seeks $40 billion financing to buy Nvidia chips, sources say By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmNWNjlWajgtTmtlM09wbWhiOTNXd3BHOTBnWUl6cEpOT2hsUlFLcWdSaDd1bVBUMEJUUF93b3pXdmp5QkhDRl9Vc2daWl8zLXNTU3BkMWlNTWdUTDN1S0xEem1VRnFhdGNLMjZWeG9HNzRLdFZabUw4ZGo0WXIxMkhDNWFEcHhMSVZxaC12akpOb293SEpxajhVVVkxemo4d2UwcW1WNXg0eHBDMmNUVQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 22:49:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmNWNjlWajgtTmtlM09wbWhiOTNXd3BHOTBnWUl6cEpOT2hsUlFLcWdSaDd1bVBUMEJUUF93b3pXdmp5QkhDRl9Vc2daWl8zLXNTU3BkMWlNTWdUTDN1S0xEem1VRnFhdGNLMjZWeG9HNzRLdFZabUw4ZGo0WXIxMkhDNWFEcHhMSVZxaC12akpOb293SEpxajhVVVkxemo4d2UwcW1WNXg0eHBDMmNUVQ?oc=5",
-          "summary": "SpaceX seeks $40 billion financing to buy Nvidia chips, sources say By Reuters Investing.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e2e8552763e4",
       "title": "England: What has boss Thomas Tuchel learned during international break? - BBC",
       "summary": "England: What has boss Thomas Tuchel learned during international break? BBC",
@@ -1051,24 +1033,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
           "summary": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ab2f9e68fb78",
-      "title": "Scotland let lead slip in abject defeat by Slovenia",
-      "summary": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 21:23:34 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden."
         }
       ],
       "sourcesCount": 1
@@ -1814,29 +1778,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "df85d7b5dd15",
-      "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-      "summary": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 21:16:45 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
-          "summary": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden."
-        },
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html",
-          "summary": "Wieder haben russische Raketen, Drohnen und Marschflugkörper Kiew und andere ukrainische Städte getroffen. In der nordukrainischen Stadt Pryluki trafen Raketen ein mehrstöckiges Wohnhaus."
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
       "id": "a6b4220c0495",
       "title": "[Form 3] INTERNATIONAL BUSINESS MACHINES CORP Initial Statement of Beneficial Ownership - Stock Titan",
       "summary": "[Form 3] INTERNATIONAL BUSINESS MACHINES CORP Initial Statement of Beneficial Ownership Stock Titan",
@@ -2012,24 +1953,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkkxWW9uQVQyeXMtLV85WXBvdElXZVRCUFhaam96d1FyVEcyU0pWdXQ1SDlhdWlZVTBYMi13LWd4SEZOSnpLelRpTlZSSjM2TGc4ZTdSYXg2UlVFamtvakhVUkhQRkt5c2E2Zm10YjJSRkxfNW1UdDFTSGZqM3dNR3VjS1hYRUlpQ25JZDZBVUpOV0RtVFlZU09ESHJNalpOMUFzekxCYVZaNnpMV2x1WjJ2RUw0ZXdYSnNEMmtfbkVkUDh3YllxZzVONF9CeldHYWZZNg?oc=5",
           "summary": "Legislation Aims To Overhaul ‘Outdated’ Import Rules For International Racehorses, Sport Horses Paulick Report"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2c854584a04e",
-      "title": "2030 in Ruanda: Regierung bestätigt Formel-1-Rückkehr nach Afrika",
-      "summary": "Die Formel 1 steht laut der Regierung von Ruanda vor einer Rückkehr nach Afrika. Zuletzt gab es 1993 ein Rennen im südafrikanischen Kyalami.",
-      "link": "https://www.sportschau.de/motorsport/regierung-bestaetigt-formel-1-rueckkehr-nach-afrika,formel-1-afrika-rueckkehr-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 18:06:54 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/motorsport/regierung-bestaetigt-formel-1-rueckkehr-nach-afrika,formel-1-afrika-rueckkehr-100.html",
-          "summary": "Die Formel 1 steht laut der Regierung von Ruanda vor einer Rückkehr nach Afrika. Zuletzt gab es 1993 ein Rennen im südafrikanischen Kyalami."
         }
       ],
       "sourcesCount": 1
@@ -2305,24 +2228,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e14e907d8c04",
-      "title": "İstanbul Valisi Gül: Enkaz altında 3 kişi olduğunu düşünüyoruz",
-      "summary": "Maltepe'de bazı katları çöken 7 katlı binadaki iki kişi hayatını kaybetti. İstanbul Valisi Gül, yaralıların hayati tehlikesinin bulunmadığını, enkaz altında 3 kişi olduğunu düşündüklerini söyledi.",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gul-enkaz-altinda-3-kisi-oldugunu-dusunuyoruz-959536.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 14:06:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gul-enkaz-altinda-3-kisi-oldugunu-dusunuyoruz-959536.html",
-          "summary": "Maltepe'de bazı katları çöken 7 katlı binadaki iki kişi hayatını kaybetti. İstanbul Valisi Gül, yaralıların hayati tehlikesinin bulunmadığını, enkaz altında 3 kişi olduğunu düşündüklerini söyledi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "42415c31d518",
       "title": "Ironman auf Hawaii: Alle Infos zur Ironman-WM auf Hawaii",
       "summary": "Die Ironman-WM findet nach vielen Jahren wieder gleichzeitig für Männer und Frauen auf Hawaii statt. Die Superstars der Szene sind mit dabei - auch Deutsche machen sich Medaillenhoffnungen.",
@@ -2336,6 +2241,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/triathlon/spektakel-garantiert-so-laeuft-die-ironman-wm-auf-hawaii,faq-ironman-wm-106.html",
           "summary": "Die Ironman-WM findet nach vielen Jahren wieder gleichzeitig für Männer und Frauen auf Hawaii statt. Die Superstars der Szene sind mit dabei - auch Deutsche machen sich Medaillenhoffnungen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2a9ea3474415",
+      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
+      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:06:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
         }
       ],
       "sourcesCount": 1
@@ -2426,27 +2349,14 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONmJSazhndlpZQi0tTEVXaElQUk9objR1ZTJsZXF0c2V1cjlzSWJBN3RpZEs5Znp1YTBTUkJJdjIxOFJ0ZmxEb21HN2E4OE5oTm5aZG82ZXd2QnJpaEtUcEJ3VzJ0SzNhaFhxUk5Ea3RlYVVLSV9DaEdJMm5EUm1QYU9DbF9uSGNOa0VocjJaRzlnYzA3clQzcmNqLXNxZ2FIeVZQTnlGNmVLaUg1Y1ZGV3cxTVJybnhSaGZLS045T25odVhZV1FYN3RvekFBRG5NZGw1MnVjUG91QUhQRDhhaHVsU0JONUtGbzVxWDNmcXZ2QUZtcXdRa0JEVDBVM3Ru?oc=5",
           "summary": "NSA Releases Zero Trust Guidance for Protecting Operational Technology Systems National Security Agency (NSA) (.gov)"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5afbfc45d029",
-      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
-      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:40:59 GMT",
-      "coverage": [
+        },
         {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXJvMkVoYjZlQmJ6N3J6UkRoTWMxVVNzcFMxQ05UaTRhR0xOMEhXQkFHbGJldzdxVGZZN185M0ZpVE9WZUlpZHlPNk0yUzhLWE8zV2tsMHFoaHQzRVRuSlpEVElZUjBrMU9NSUU0d0hNaXlna2tpc2s0RUhJdVM0NnVPUlRfdGtuOUhtTTlsMEpLQUNV?oc=5",
+          "summary": "NSA Outlines Zero Trust Model for Operational Technology ExecutiveGov"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "f233af736c3c",
@@ -2881,6 +2791,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f1f0f5cc9b1c",
+      "title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters",
+      "summary": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 01:30:25 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
+          "summary": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "1d2c227bcd24",
       "title": "Dollar edges back from 18-month high after FOMC minutes By Reuters - Investing.com",
       "summary": "Dollar edges back from 18-month high after FOMC minutes By Reuters Investing.com",
@@ -3043,24 +2971,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8aefabaf804d",
-      "title": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
-      "summary": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj.",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 04 Oct 2026 11:39:12 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html",
-          "summary": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "66766b4f564b",
       "title": "Çorumlu öğrenciler ödülünü Cumhurbaşkanı Erdoğan'ın elinden aldı",
       "summary": "Çorum Bilim ve Sanat Merkezi bünyesinde kurulan LONGA TEAM, TEKNOFEST 2026'da elde ettiği Türkiye birinciliği ödülünü Şanlıurfa'da düzenlenen törende Cumhurbaşkanı Recep Tayyip Erdoğan'ın elinden aldı.",
@@ -3210,6 +3120,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ce275e90f595",
+      "title": "München ist Olympiabewerber: Schwieriger Prozess mit ulkigem Ende",
+      "summary": "Das klare Votum für Münchens Olympia-Konzept hilft dem DOSB, Streitthemen zu überdecken. Doch ob es alle Wunden heilt, bleibt abzuwarten.",
+      "link": "https://www.sportschau.de/olympia/ein-schwieriger-prozess-mit-ulkigem-ende,olympia-muenchen-wahlsieger-analyse-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sat, 26 Sep 2026 22:46:47 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/olympia/ein-schwieriger-prozess-mit-ulkigem-ende,olympia-muenchen-wahlsieger-analyse-100.html",
+          "summary": "Das klare Votum für Münchens Olympia-Konzept hilft dem DOSB, Streitthemen zu überdecken. Doch ob es alle Wunden heilt, bleibt abzuwarten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "798d09b55243",
       "title": "Fenerbahçe'den transfer yasağı açıklaması",
       "summary": "Fenerbahçe Kulübü, FIFA tarafından uygulanan 3 dönemlik transfer yasağının geçici olduğunu, hükmedilen ödemenin pazartesi günü yapılmasıyla yasağın kaldırılacağını bildirdi.",
@@ -3228,6 +3156,83 @@
       "sourcesCount": 1
     },
     {
+      "id": "e43e1b2cc9c6",
+      "title": "Yüksek limitli kredi kartı vaadine kandı, 412 bin lirasından oldu",
+      "summary": "Ankara'da piknik ve mangal ürünleri satışı yapan 52 yaşındaki Murat Em, sosyal medyada gördüğü \"yüksek limitli kredi kartı\" başvuru ilanının ardından irtibata geçtiği kişiler tarafından 412 bin lira dolandırıldığını iddia ederek suç duyurusunda bulundu.",
+      "link": "https://www.trthaber.com/haber/turkiye/yuksek-limitli-kredi-karti-vaadine-kandi-412-bin-lirasindan-oldu-959743.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 13:57:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/yuksek-limitli-kredi-karti-vaadine-kandi-412-bin-lirasindan-oldu-959743.html",
+          "summary": "Ankara'da piknik ve mangal ürünleri satışı yapan 52 yaşındaki Murat Em, sosyal medyada gördüğü \"yüksek limitli kredi kartı\" başvuru ilanının ardından irtibata geçtiği kişiler tarafından 412 bin lira dolandırıldığını iddia ederek suç duyurusunda bulundu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "81f34ec4e99d",
+      "title": "Live: Win-Win durch Diesel-Deal?",
+      "summary": "Kurz vor den Midterms macht Trump einen Deal – mit Putin. Die USA lockern ihre Sanktionen gegen Russland, damit Moskau große Mengen Diesel liefern kann.",
+      "link": "https://www.zdfheute.de/video/zdfheute-live/diesel-deal-russland-usa-ukraine-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 13:00:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-live/diesel-deal-russland-usa-ukraine-video-100.html",
+          "summary": "Kurz vor den Midterms macht Trump einen Deal – mit Putin. Die USA lockern ihre Sanktionen gegen Russland, damit Moskau große Mengen Diesel liefern kann."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e4600eb98ab5",
+      "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+      "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer und Verletzte.",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 12:54:13 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+          "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer und Verletzte."
+        },
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
+          "summary": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden."
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
+      "id": "b435a76f5274",
+      "title": "Formel 1: Sprint-Sieg für Verstappen - weil Russell spektakulär patzt",
+      "summary": "Nach 38 Minuten Verzögerung wegen Starkregens hat sich Max Verstappen im Red Bull den Sprint-Sieg in Singapur gesichert. George Russell patzte spektakulär.",
+      "link": "https://www.sportschau.de/motorsport/formel1/sprint-sieg-fuer-verstappen-weil-russell-spektakulaer-patzt,sprint-singapur-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "local",
+      "topic": "sport",
+      "time": "Sat, 10 Oct 2026 12:52:06 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/motorsport/formel1/sprint-sieg-fuer-verstappen-weil-russell-spektakulaer-patzt,sprint-singapur-102.html",
+          "summary": "Nach 38 Minuten Verzögerung wegen Starkregens hat sich Max Verstappen im Red Bull den Sprint-Sieg in Singapur gesichert. George Russell patzte spektakulär."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "084ae7bca121",
       "title": "Ukrayna: Rusya'nın Zaporijya kentine düzenlediği saldırıda 8 kişi öldü",
       "summary": "Rus ordusunun Zaporijya kentine düzenlediği hava saldırısı sonucu en az 8 sivilin hayatını kaybettiği, 12 kişinin de yaralandığı bildirildi.",
@@ -3241,6 +3246,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-zaporijya-kentine-duzenledigi-saldirida-8-kisi-oldu-959740.html",
           "summary": "Rus ordusunun Zaporijya kentine düzenlediği hava saldırısı sonucu en az 8 sivilin hayatını kaybettiği, 12 kişinin de yaralandığı bildirildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c9a552a3c937",
+      "title": "Sorge vor Künstlicher Intelligenz: Das kann die EU tun",
+      "summary": "Die Sorge um Künstliche Intelligenz, ihre Risiken und die zunehmenden Zwischenfälle steigt. Welche Handlungsmöglichkeiten hat die EU?",
+      "link": "https://www.zdfheute.de/wirtschaft/unternehmen/ki-eu-sorge-moeglichkeiten-kontrolle-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 12:41:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wirtschaft/unternehmen/ki-eu-sorge-moeglichkeiten-kontrolle-100.html",
+          "summary": "Die Sorge um Künstliche Intelligenz, ihre Risiken und die zunehmenden Zwischenfälle steigt. Welche Handlungsmöglichkeiten hat die EU?"
         }
       ],
       "sourcesCount": 1
@@ -3513,6 +3536,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "33f3728b6c31",
+      "title": "Verstappen wins sprint after Russell crashes out",
+      "summary": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 10 Oct 2026 10:53:03 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+          "summary": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9298c256c692",
       "title": "WNBA, Playoffs: Fiebich verpasst das Finale mit New York Liberty",
       "summary": "Basketball-Nationalspielerin Leonie Fiebich hat mit New York Liberty den Sprung in die Finalserie der WNBA verpasst - zum Abschluss der Serie gegen Atlanta Dream gab es eine knappe Niederlage.",
@@ -3621,6 +3662,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "50497a545d15",
+      "title": "Deutschland liveblog: Brantner fordert von SPD Ausschluss Schröders",
+      "summary": "Früherer Bundeskanzler hatte Wladimir Putin zu dessen Geburtstag getroffen +++ Kretschmann: Demokratie enorm „gefährdet“ +++ Hubig will Verfassungsfeinde als Schöffen ausschließen +++ alle Entwicklungen im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-brantner-fordert-von-spd-ausschluss-schroeders-faz-110093143.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 10:33:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-brantner-fordert-von-spd-ausschluss-schroeders-faz-110093143.html",
+          "summary": "Früherer Bundeskanzler hatte Wladimir Putin zu dessen Geburtstag getroffen +++ Kretschmann: Demokratie enorm „gefährdet“ +++ Hubig will Verfassungsfeinde als Schöffen ausschließen +++ alle Entwicklungen im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "3a8c7a214d13",
       "title": "Kolumne Geschmackssache: Liebe kocht am besten",
       "summary": "Sigi Schelling hat im „Werneckhof“ in München ihren Weg und ihr Glück gefunden – und teilt es nicht nur bei ihren sensationellen Saucen großherzig mit den Gästen.",
@@ -3675,19 +3734,37 @@
       "sourcesCount": 1
     },
     {
-      "id": "33f3728b6c31",
-      "title": "Verstappen wins sprint after Russell crashes out",
-      "summary": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
+      "id": "4861e98b7b37",
+      "title": "CCIEE 2026 Data Center Intelligent Construction Technology Forum Held in Malaysia - Yahoo Finance",
+      "summary": "CCIEE 2026 Data Center Intelligent Construction Technology Forum Held in Malaysia Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObGUwY3lsM21qLTNKZFdjeHc5VXVWb2tId3M4MTlRXzAycDlNR1RmUkVJTkprY1huQndoaUxhZ3JlcDBqcWl3c0pFd0FLTHd6UFROOUttMzFKd3Ytc2l1VEZ1a1FBLXliZ2tEQlVoelhpTks1clQ3c0xBUkdyQ2R1QXVaVkhsUWIyTGdCT0JTZjRVYl8xbXBGMGl5QQ?oc=5",
+      "sourceName": "Google News – International Technology",
       "region": "international",
-      "topic": "sport",
-      "time": "Sat, 10 Oct 2026 10:22:22 GMT",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 10:26:00 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
-          "summary": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead."
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObGUwY3lsM21qLTNKZFdjeHc5VXVWb2tId3M4MTlRXzAycDlNR1RmUkVJTkprY1huQndoaUxhZ3JlcDBqcWl3c0pFd0FLTHd6UFROOUttMzFKd3Ytc2l1VEZ1a1FBLXliZ2tEQlVoelhpTks1clQ3c0xBUkdyQ2R1QXVaVkhsUWIyTGdCT0JTZjRVYl8xbXBGMGl5QQ?oc=5",
+          "summary": "CCIEE 2026 Data Center Intelligent Construction Technology Forum Held in Malaysia Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3f9fb53cb8ec",
+      "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance UK",
+      "summary": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOajZRTS1zTG5QSWlXVnBDV2ZMOTduRDZtbzRubFBrdGRRd1ZkblNmVllnN1dVQ1FCYTdDaHVjeVp5ZmV1LXd3OUpneDlZWmZTTDRnQW1YMXNqQ3kzVmhwbEI4Ny1EczNCTDFYQmI0WUxHY2Z0M0sxckd2QWNHYl9MOHdldldVb0k?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 10:09:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOajZRTS1zTG5QSWlXVnBDV2ZMOTduRDZtbzRubFBrdGRRd1ZkblNmVllnN1dVQ1FCYTdDaHVjeVp5ZmV1LXd3OUpneDlZWmZTTDRnQW1YMXNqQ3kzVmhwbEI4Ny1EczNCTDFYQmI0WUxHY2Z0M0sxckd2QWNHYl9MOHdldldVb0k?oc=5",
+          "summary": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? Yahoo Finance UK"
         }
       ],
       "sourcesCount": 1
@@ -3778,6 +3855,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3ZZVGp0NnVEbEwyN3lJeUFnVHRkNW9oRnZDQk15SmhZWEJLNThBWXhZaG5HOFFwRXBKR0h2SDRkdGI3MFpaM1ZVaTdrTjBVQzdmVFNhWlJVTXlxLXBiV1BvRWdRampPdUFyaV9ITGhkUjRNRXRQVFh6SVJUZFdaeE9LQUJwM09SdVBBZWFvWHl5VXlxQkhNTHZOLXZCVjhURnFIUGVRWFFMWkwyNHc?oc=5",
           "summary": "UK must not be beholden to foreign AI, says head of Alan Turing Institute The Guardian"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e98b7ecc75a8",
+      "title": "Dortmunder Rückschlag gegen Füllkrug und Co.",
+      "summary": "Beím BVB sah es gegen Werder Bremen nach einem gelungenen Start aus, bis in kurzer Zeit mal wieder das System zusammenbrach.",
+      "link": "https://www.sportschau.de/regional/wdr/wdr-dortmunder-rueckschlag-gegen-fuellkrug-und-co-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 10 Oct 2026 09:57:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/wdr/wdr-dortmunder-rueckschlag-gegen-fuellkrug-und-co-100.html",
+          "summary": "Beím BVB sah es gegen Werder Bremen nach einem gelungenen Start aus, bis in kurzer Zeit mal wieder das System zusammenbrach."
         }
       ],
       "sourcesCount": 1
@@ -3994,6 +4089,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
           "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0c08bb7c862f",
+      "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
+      "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus.",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 09:15:42 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
+          "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus."
         }
       ],
       "sourcesCount": 1
@@ -4274,29 +4387,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "d242f43b8e1c",
-      "title": "Lebensgefahr droht: Wirbelsturm „Isaias“ trifft auf die US-Golfküste",
-      "summary": "Mit zerstörerischen Winden trifft „Isaias“ auf die US-Golfküste. 500.000 Menschen haben keinen Strom.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/hurrikan-isaias-trifft-auf-us-golfkueste-accg-201305247.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 08:26:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/hurrikan-isaias-trifft-auf-us-golfkueste-accg-201305247.html",
-          "summary": "Mit zerstörerischen Winden trifft „Isaias“ auf die US-Golfküste. 500.000 Menschen haben keinen Strom."
-        },
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
-          "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus."
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
       "id": "a8c985878af9",
       "title": "neue Handelsrouten: Die Türkei will zum Drehkreuz werden",
       "summary": "Die EU investiert Milliarden in eine neue Handelsroute nach Zentralasien. Die Türkei will davon profitieren.",
@@ -4554,6 +4644,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "fd9a48f62ea9",
+      "title": "Anthropic AI agents took ‘unintended’ actions on government sites - The Washington Post",
+      "summary": "Anthropic AI agents took ‘unintended’ actions on government sites The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2V1ZnA4a2RIbllCWVFuZDA0ellKck0teFdTaEZZV3lYeDZXenZVdWN4aElzZWxYNUZxcXlkWHhrUVJVN2gyY0pZOHRiS0hMQzV0QUU2bllGbDFCV3JNaVJaTFhhUTlXblQ0aG1QcEVRNzRDbW9xRDRRek5MU3dUMnpjQ2pmOFQ1SjlPOUZZdndrOGhCRGxwRTZnem9VaHBVRTdqTXczQkw5RHhWVXdKaFZZQk5qd2hnelplNGdfd1I?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 06:22:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2V1ZnA4a2RIbllCWVFuZDA0ellKck0teFdTaEZZV3lYeDZXenZVdWN4aElzZWxYNUZxcXlkWHhrUVJVN2gyY0pZOHRiS0hMQzV0QUU2bllGbDFCV3JNaVJaTFhhUTlXblQ0aG1QcEVRNzRDbW9xRDRRek5MU3dUMnpjQ2pmOFQ1SjlPOUZZdndrOGhCRGxwRTZnem9VaHBVRTdqTXczQkw5RHhWVXdKaFZZQk5qd2hnelplNGdfd1I?oc=5",
+          "summary": "Anthropic AI agents took ‘unintended’ actions on government sites The Washington Post"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0e228388d44c",
       "title": "Medikamente gegen Depressionen richtig absetzen",
       "summary": "Wer versucht, Antidepressiva abzusetzen, kämpft oft mit unerwünschten Nebenwirkungen. Wie die Medikamente richtig reduziert werden und warum ärztliche Begleitung dabei nötig ist.",
@@ -4585,24 +4693,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHl6SHlJTVNheFJ6OFJldVVpYWxNRXJoVzRBX2hzN004MDc2YkpWelhPLUsxSkJRUmQtcm96Q19lVDNqZFViMzl0aVoxdU5SZDBSZDc2UTVydnVRMDBURzFBbFMwRmEwLS1HRk53M0ZoY2tpNU5NUGpSTUx4blUtWWI5R1ZIZVJoZlFaYS1RRGpmbHFnVHlUVFhrYTM2ektFM3BDN2V3?oc=5",
           "summary": "French policing under scrutiny as student protest injuries mount Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3e7be2eccafe",
-      "title": "Germany's firewall against the far-right AfD feels the heat - Reuters",
-      "summary": "Germany's firewall against the far-right AfD feels the heat Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3hEd2d2NktMOUQ3NVFzTk5DNVMwREdPUGh2TFU4SjNIU3hVN3pfbFRkaUp4MlR6cjZhc25RU2JCeHByek1scWJ0YkJqRmlhUEFNRWUzQUVwV1k3ejZ3TV9GYjZQbFFkbTdONWZ4dVJYWGRJT2JXZnV1a3JMeXBBOVY2RjVmRmZmdWQtaWFYR0dFODAzYnM3Z25PXzRBYndi?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 06:04:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3hEd2d2NktMOUQ3NVFzTk5DNVMwREdPUGh2TFU4SjNIU3hVN3pfbFRkaUp4MlR6cjZhc25RU2JCeHByek1scWJ0YkJqRmlhUEFNRWUzQUVwV1k3ejZ3TV9GYjZQbFFkbTdONWZ4dVJYWGRJT2JXZnV1a3JMeXBBOVY2RjVmRmZmdWQtaWFYR0dFODAzYnM3Z25PXzRBYndi?oc=5",
-          "summary": "Germany's firewall against the far-right AfD feels the heat Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4919,6 +5009,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b2a55e5042ba",
+      "title": "Taiwan cherishes peace but will not give up freedom, president says - Reuters",
+      "summary": "Taiwan cherishes peace but will not give up freedom, president says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVV5bTZUVDZIbTlnMDVQTTZNOTc0VjdQbU01N3lMVWZtZ0FSc2tKUl9OamUxRFRPalkxUVF4My11NEJneThMZU5peG11ME02THMxampQdi1MVzhvSHJSV3NMMnpsWTdEc0ZUMzBfVWFoc1FjenQ5dFBhZEwtalBzbTFPNnZkTVJBNGw0em5xM0FVZWxTZzh1RldmZ3d3TW1GcS1GaGIzYXM1VUl6SFpTb29pMkw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 03:13:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVV5bTZUVDZIbTlnMDVQTTZNOTc0VjdQbU01N3lMVWZtZ0FSc2tKUl9OamUxRFRPalkxUVF4My11NEJneThMZU5peG11ME02THMxampQdi1MVzhvSHJSV3NMMnpsWTdEc0ZUMzBfVWFoc1FjenQ5dFBhZEwtalBzbTFPNnZkTVJBNGw0em5xM0FVZWxTZzh1RldmZ3d3TW1GcS1GaGIzYXM1VUl6SFpTb29pMkw?oc=5",
+          "summary": "Taiwan cherishes peace but will not give up freedom, president says Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "139ab63617a4",
       "title": "Katie Zacharia: Trump ernennt neue Sprecherin",
       "summary": "Wochenlang wurde in Washington gerätselt, wer die Nachfolgerin von Karoline Leavitt wird. Nun verkündet Trump eine Entscheidung.",
@@ -4991,19 +5099,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "bcdcb63d730e",
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times",
-      "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "f72ee21798a0",
+      "title": "Sequoia-backed Nuvacore seeks $2.5bn valuation in funding round - Reuters - Investing.com",
+      "summary": "Sequoia-backed Nuvacore seeks $2.5bn valuation in funding round - Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHB0RTBjNWxhSS1oWExoUTBDTXFHR3d1NUNOMENIeXpHX0lZalR4S0ZCUFFWZDI5T1M3ZE9pLXFyMmdXaWJPdGVNbmxOZHhSWWFmZDZXQzR2Vy1BQnBkR1JTZ01BQWMxWVFrQ3hCeGFEcHNRTmZ6ajZvaVgtRnczREotRWtoSnlwNWpqb2pCbmxpd1lBMmE2aTltMWg2dTNNdGhOdlFWUHV2eUV1bklHMXhnZ0xCemhSQzdXUjN0REtucGo0?oc=5",
+      "sourceName": "Google News – Reuters",
       "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 01:19:55 GMT",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 01:18:23 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-          "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times"
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHB0RTBjNWxhSS1oWExoUTBDTXFHR3d1NUNOMENIeXpHX0lZalR4S0ZCUFFWZDI5T1M3ZE9pLXFyMmdXaWJPdGVNbmxOZHhSWWFmZDZXQzR2Vy1BQnBkR1JTZ01BQWMxWVFrQ3hCeGFEcHNRTmZ6ajZvaVgtRnczREotRWtoSnlwNWpqb2pCbmxpd1lBMmE2aTltMWg2dTNNdGhOdlFWUHV2eUV1bklHMXhnZ0xCemhSQzdXUjN0REtucGo0?oc=5",
+          "summary": "Sequoia-backed Nuvacore seeks $2.5bn valuation in funding round - Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -5133,12 +5241,12 @@
     },
     {
       "id": "e0969a38aaa1",
-      "title": "Renshaw hits century for Australia to thwart South Africa - scorecard",
+      "title": "Centurion Renshaw puts Australia on top against South Africa - scorecard",
       "summary": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
       "region": "international",
-      "topic": "sport",
+      "topic": "technologie",
       "time": "Sat, 10 Oct 2026 00:00:00 GMT",
       "coverage": [
         {
@@ -5379,114 +5487,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/tusas-ve-roketsan-hursat-icin-imzalari-atti-959188.html",
           "summary": "TUSAŞ ve ROKETSAN, HÜRSAT-2 proje sözleşmesini 77. Uluslararası Uzay Kongresi (IAC) kapsamında Antalya'da imzaladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f65004597216",
-      "title": "England's greatest international? Kane is now a serious contender - BBC",
-      "summary": "England's greatest international? Kane is now a serious contender BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSjRCNFZ1OEhkUXBGNnpyM1lQSDVDdmdWWHUzV3hZUDJrcFV0eHluc1UxYmF6Vi1TMXdpZ0d2SXU0SVJZYzdzWC1rVzl0a2xpRWx2RVVEU3Z0ZW94VFJ5M09FcHZxc0Z1?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 19:05:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSjRCNFZ1OEhkUXBGNnpyM1lQSDVDdmdWWHUzV3hZUDJrcFV0eHluc1UxYmF6Vi1TMXdpZ0d2SXU0SVJZYzdzWC1rVzl0a2xpRWx2RVVEU3Z0ZW94VFJ5M09FcHZxc0Z1?oc=5",
-          "summary": "England's greatest international? Kane is now a serious contender BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "354d93a5afa7",
-      "title": "IFHA Chair Urges Global Racing Leadership To Unite At 60th IFHA Conference - Yahoo Sports",
-      "summary": "IFHA Chair Urges Global Racing Leadership To Unite At 60th IFHA Conference Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUk3VExHNWtLdkhsRDUtc0dGdlZST29XWExnbExsbXd4R3lFbGFGQ0FUUkJoVHFHeVR2UXJmeVNSZXI1NkxxQjlOU2Y2eVZnRlJNYW8zMUI3dGJDcjdiSV9PSXNqd2VjRHU1d1FLTWZEczh6Tk9aRjJVOU1YVXhWM3o4LWFXUQ?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 05 Oct 2026 17:31:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUk3VExHNWtLdkhsRDUtc0dGdlZST29XWExnbExsbXd4R3lFbGFGQ0FUUkJoVHFHeVR2UXJmeVNSZXI1NkxxQjlOU2Y2eVZnRlJNYW8zMUI3dGJDcjdiSV9PSXNqd2VjRHU1d1FLTWZEczh6Tk9aRjJVOU1YVXhWM3o4LWFXUQ?oc=5",
-          "summary": "IFHA Chair Urges Global Racing Leadership To Unite At 60th IFHA Conference Yahoo Sports"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bb906bd034b3",
-      "title": "Optogenetik: Medizin-Nobelpreis für den Lichtschalter im Gehirn",
-      "summary": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern. Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis.",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/optogenetik-nobelpreis-100.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "international",
-      "topic": "wissenschaft",
-      "time": "Mon, 05 Oct 2026 16:53:43 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/wissen/gesundheit/optogenetik-nobelpreis-100.html",
-          "summary": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern. Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "69a1930e6ae2",
-      "title": "Tote nach Schiffsunglück im Schwarzen Meer - Drohnenangriff?",
-      "summary": "Im Schwarzen Meer ist ein Schiff nach einem Brand an Bord gesunken. Berichten zufolge wurde der Frachter von einer Drohne getroffen.",
-      "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-schiff-verunglueckt-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 05 Oct 2026 16:33:37 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-schiff-verunglueckt-100.html",
-          "summary": "Im Schwarzen Meer ist ein Schiff nach einem Brand an Bord gesunken. Berichten zufolge wurde der Frachter von einer Drohne getroffen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4ff974ebe039",
-      "title": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
-      "summary": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
-      "link": "https://www.tagesschau.de/video/video-1660770.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "germany",
-      "topic": "wissenschaft",
-      "time": "Mon, 05 Oct 2026 16:09:06 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1660770.html",
-          "summary": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "315858957a63",
-      "title": "Energy Technology Innovation Partnership Project - Department of Energy (.gov)",
-      "summary": "Energy Technology Innovation Partnership Project Department of Energy (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2pIaDFOb19IREtLOHJBTGtMQUlCSDMyV2JxWnlQeFplbklRZXczTUtWamFPTklzRmJMZWdxSGxSTzBCaTcyazY3SzlMXzdLQ1dHbXJWNS14aUNVX3NhUC1UTW9PZUVrR3lHOTNaeVo4VlBaSEVsZ25vR0J6d0R2YzZB?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 05 Oct 2026 15:48:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2pIaDFOb19IREtLOHJBTGtMQUlCSDMyV2JxWnlQeFplbklRZXczTUtWamFPTklzRmJMZWdxSGxSTzBCaTcyazY3SzlMXzdLQ1dHbXJWNS14aUNVX3NhUC1UTW9PZUVrR3lHOTNaeVo4VlBaSEVsZ25vR0J6d0R2YzZB?oc=5",
-          "summary": "Energy Technology Innovation Partnership Project Department of Energy (.gov)"
         }
       ],
       "sourcesCount": 1
