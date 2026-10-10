@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T02:41:11.760842+00:00",
+  "updated": "2026-10-10T03:06:12.585411+00:00",
   "articles": [
     {
       "id": "a728fedb6f47",
@@ -195,24 +195,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
           "summary": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "01feb4feae90",
-      "title": "International experience gives business leaders an edge, study finds - Phys.org",
-      "summary": "International experience gives business leaders an edge, study finds Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kN3lPTUZkRklvaFM5YVpBNkpqVjBpa09IeDdzNXlQOWJCUEtNNmZ2NUFvcnZwbEhSZ3l6bHVWbHNJX3c1djN4bkJiMVk3dzNXamdseFEzN1F5RkNjalM5NGthQVlpOXhRUzF6VGFFS1B2cEY5UjVSWUJ3?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 23:00:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kN3lPTUZkRklvaFM5YVpBNkpqVjBpa09IeDdzNXlQOWJCUEtNNmZ2NUFvcnZwbEhSZ3l6bHVWbHNJX3c1djN4bkJiMVk3dzNXamdseFEzN1F5RkNjalM5NGthQVlpOXhRUzF6VGFFS1B2cEY5UjVSWUJ3?oc=5",
-          "summary": "International experience gives business leaders an edge, study finds Phys.org"
         }
       ],
       "sourcesCount": 1
@@ -3642,6 +3624,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "af8af66bc78d",
+      "title": "Trump kündigt russische Diesel-Lieferungen an",
+      "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst.",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 04:43:04 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+          "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e8d783cdbb70",
+      "title": "Ermittler: Flydubai-Pilot wollte Flughafen Tel Aviv treffen",
+      "summary": "Der Copilot der in Saudi-Arabien notgelandeten Flydubai-Maschine wollte nach Angaben der emiratischen Ermittler einen Selbstmordanschlag auf den Flughafen in Tel Aviv verüben.",
+      "link": "https://www.zdfheute.de/politik/ausland/vae-flydubai-copilot-flughafen-tel-aviv-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 04:39:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/vae-flydubai-copilot-flughafen-tel-aviv-100.html",
+          "summary": "Der Copilot der in Saudi-Arabien notgelandeten Flydubai-Maschine wollte nach Angaben der emiratischen Ermittler einen Selbstmordanschlag auf den Flughafen in Tel Aviv verüben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0ad283a3b116",
       "title": "Kuzey Marmara Otoyolu'nda feci kaza: Araçtan savrulan sürücü hayatını kaybetti",
       "summary": "İstanbul Başakşehir'de önce bariyerlere ardından otomobile çarpan hafif ticari aracın sürücüsü, çarpmanın şiddetiyle yola savrularak olay yerinde hayatını kaybetti.",
@@ -3681,6 +3699,24 @@
         }
       ],
       "sourcesCount": 2
+    },
+    {
+      "id": "5c547b61b04a",
+      "title": "Deutschland liveblog: CDA-Chef Radtke warnt vor Zerbrechen der Koalition: „Das Zündeln macht mich fassungslos“",
+      "summary": "Bericht wirft Fragen zum CDU‑Abstimmungsverhalten bei Wahl des Landtagspräsidenten auf: Drei CDU-Abgeordnete müssen laut „taz“ gelogen haben +++ SPD, Linke und Grüne in Mecklenburg-Vorpommern verhandeln über Koalition +++ alle Entwicklungen im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-wirft-fragen-zum-cduabstimmungsverhalten-bei-wahl-des-landtagspraesidenten-auf-faz-110093143.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 02:41:56 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-wirft-fragen-zum-cduabstimmungsverhalten-bei-wahl-des-landtagspraesidenten-auf-faz-110093143.html",
+          "summary": "Bericht wirft Fragen zum CDU‑Abstimmungsverhalten bei Wahl des Landtagspräsidenten auf: Drei CDU-Abgeordnete müssen laut „taz“ gelogen haben +++ SPD, Linke und Grüne in Mecklenburg-Vorpommern verhandeln über Koalition +++ alle Entwicklungen im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "139ab63617a4",
@@ -3750,42 +3786,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMm5RTDFkUzd6Qk85dURHODRzRXJWSVZRUlFwNUZEWU15LUJfUmdNOFIyWW5IMGlwb2dHME44b1ZPZXAtQXd5OEU1STBTcmRvNjlyd3Ezd3Y3UlJUdE01SzZXVDhCd0tIclBvV01taXQ5WlUxMVIzanpRMnNsalRoQ2FBejlZLU1KUS1TQVB4bFBRZk1UUmJIczRmLXA3VEh5djNyeU5OZWk5czhxSnhlZ3dXYkl3QzlZNzJ1ZlE1Sk0yTFNmZTlWTExscGlwRzJmdTAwSkhnSjUzNjZJRFRUa21ib25abndJREE?oc=5",
           "summary": "Free Saturday STEAM (Science, Technology, Engineering, Arts and Math) plus Literacy programs being offered for Prek-12 graders Flint Courier News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ad736e14c4f3",
-      "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize - Reuters",
-      "summary": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 01:32:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5",
-          "summary": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e8d783cdbb70",
-      "title": "Ermittler: Flydubai-Pilot wollte Flughafen Tel Aviv treffen",
-      "summary": "Der Copilot der in Saudi-Arabien notgelandeten Flydubai-Maschine wollte nach Angaben der emiratischen Ermittler einen Selbstmordanschlag auf den Flughafen in Tel Aviv verüben.",
-      "link": "https://www.zdfheute.de/politik/ausland/vae-flydubai-copilot-flughafen-tel-aviv-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 01:16:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/vae-flydubai-copilot-flughafen-tel-aviv-100.html",
-          "summary": "Der Copilot der in Saudi-Arabien notgelandeten Flydubai-Maschine wollte nach Angaben der emiratischen Ermittler einen Selbstmordanschlag auf den Flughafen in Tel Aviv verüben."
         }
       ],
       "sourcesCount": 1
@@ -3909,24 +3909,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti-959701.html",
           "summary": "Rusya Devlet Başkanı Vladimir Putin, ABD ve küresel piyasalara petrol ve petrol ürünleri tedarik etmeye hazır olduklarını bildirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "af8af66bc78d",
-      "title": "Trump kündigt russische Diesel-Lieferungen an",
-      "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst.",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 00:19:16 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-          "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst."
         }
       ],
       "sourcesCount": 1
@@ -5507,6 +5489,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajE2MkttNW5tNERUN1hfMHdRUDV6dkItc0RDXzktdDJJbmtyM04tWjNhNEpCdnBVQzBnNHBhbHpMekZnZlBYb1hZY2ZLRGpsVTFqUGtNWlpKWDNxYlpPNXdzOHBrSHJqRjBsblFfdnpVcmp3WXR3M0hpZ19tMWhNMEJVSVo5T0prV3RKWXFTNFItNV9p0gGoAUFVX3lxTE5Fa0hBanBDaVRnaWRUVnFwTWlxNG9USGRsQjRCcExLdWcwZVQ0UGJ6bUpfd2Z0VzViRno4bUZMOFFjUDlXTG9OWlluMXo3TjNocTBjLURUWDlrTllpMzZzRmU0QnR2TnBqX1YwZUJWbUZ4NTEzN1VDeVY0ejIxaDF0aGNoelZ3WE9hVS1VdW5jUV9aMjdGYmRzQlZ2cFFFcTdVWEhQVjVDMQ?oc=5",
           "summary": "NASA partners with farmers on remote-sensing crop technology KCBD"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0d4d72fcc660",
+      "title": "World Wide Technology to Expand Technology Collaboration with Saint Louis University and Become Official Jersey Partner of Billiken Athletics | Newswise - Newswise",
+      "summary": "World Wide Technology to Expand Technology Collaboration with Saint Louis University and Become Official Jersey Partner of Billiken Athletics | Newswise Newswise",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMjRibGF0M3pONFhDTzdoTWFZRkF6T25MbkpTSjlHZlROQ0U4RElKekVMNXFocDBoUkRhOHRXbkYyNW1lX29ya3Z4a0NTLUFMMzhHWnlnVW9ZN3NSSnYtcDJMUzBHeUYwQUxkcHo2elFTUklDdktTUWJYVTg5bXhwX0REYnhUS2ZYZnZ5RlVCcFdDR2hfUlZRaWxQNTJzRDljcGNVakZWR3h4am5pVFlremV5MmdYaWhzcFYxV3pZaTB0UUZwV0NwQ2dRa3d2UGRscHg3Q1ZqMEVRVDdZSHhtck5pc2xZTXgteFE3WFJIYzFxbFFNRDRBODJRNk5FWDZodVAwc3NB0gGGAkFVX3lxTE4yNGJsYXQzek40WENPN2hNYVlGQXpPbkxuSlNKOUdmVE5DRThESUp6RUw1cWhwMGhSRGE4dFduRjI1bWVfb3JrdnhrQ1MtQUwzOEdaeWdVb1k3c1JKdi1wMkxTMEd5RjBBTGRwejZ6UVNSSUN2S1NRYlhVODlteHBfRERieFRLZlhmdnlGVUJwV0NHaF9SVlFpbFA1MnNEOWNwY1VqRlZHeHhqbmlUWWt6ZXkyZ1hpaHNwVjFXellpMHRRRnBXQ3BDZ1Frd3ZQZGxweDdDVmowRVFUN1lIeG1yTmlzbFlNeC14UTdYUkhjMXFsUU1ENEE4MlE2TkVYNmh1UDBzc0E?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Fri, 09 Oct 2026 22:20:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMjRibGF0M3pONFhDTzdoTWFZRkF6T25MbkpTSjlHZlROQ0U4RElKekVMNXFocDBoUkRhOHRXbkYyNW1lX29ya3Z4a0NTLUFMMzhHWnlnVW9ZN3NSSnYtcDJMUzBHeUYwQUxkcHo2elFTUklDdktTUWJYVTg5bXhwX0REYnhUS2ZYZnZ5RlVCcFdDR2hfUlZRaWxQNTJzRDljcGNVakZWR3h4am5pVFlremV5MmdYaWhzcFYxV3pZaTB0UUZwV0NwQ2dRa3d2UGRscHg3Q1ZqMEVRVDdZSHhtck5pc2xZTXgteFE3WFJIYzFxbFFNRDRBODJRNk5FWDZodVAwc3NB0gGGAkFVX3lxTE4yNGJsYXQzek40WENPN2hNYVlGQXpPbkxuSlNKOUdmVE5DRThESUp6RUw1cWhwMGhSRGE4dFduRjI1bWVfb3JrdnhrQ1MtQUwzOEdaeWdVb1k3c1JKdi1wMkxTMEd5RjBBTGRwejZ6UVNSSUN2S1NRYlhVODlteHBfRERieFRLZlhmdnlGVUJwV0NHaF9SVlFpbFA1MnNEOWNwY1VqRlZHeHhqbmlUWWt6ZXkyZ1hpaHNwVjFXellpMHRRRnBXQ3BDZ1Frd3ZQZGxweDdDVmowRVFUN1lIeG1yTmlzbFlNeC14UTdYUkhjMXFsUU1ENEE4MlE2TkVYNmh1UDBzc0E?oc=5",
+          "summary": "World Wide Technology to Expand Technology Collaboration with Saint Louis University and Become Official Jersey Partner of Billiken Athletics | Newswise Newswise"
         }
       ],
       "sourcesCount": 1
