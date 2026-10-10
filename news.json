@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:04:38.177359+00:00",
+  "updated": "2026-10-10T17:38:15.468357+00:00",
   "articles": [
     {
       "id": "bb6c4ad22c88",
@@ -357,6 +357,24 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
           "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9f2e60ea350c",
+      "title": "So vergibt das IOC die Sommerspiele 2036",
+      "summary": "München bewirbt sich um die Olympischen Sommerspiele 2036, 2040 oder 2044. Über die Vergabe entscheidet das Internationale Olympische Komitee - und zwar so.",
+      "link": "https://www.sportschau.de/olympia/so-vergibt-ioc-die-sommerspiele-2036,ioc-prozedere-olympia-vergabe-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 14:49:49 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/olympia/so-vergibt-ioc-die-sommerspiele-2036,ioc-prozedere-olympia-vergabe-100.html",
+          "summary": "München bewirbt sich um die Olympischen Sommerspiele 2036, 2040 oder 2044. Über die Vergabe entscheidet das Internationale Olympische Komitee - und zwar so."
         }
       ],
       "sourcesCount": 1
@@ -1310,24 +1328,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a3084471943b",
-      "title": "Kırşehir'de 20 yıl önceki kayıp dosyasıyla ilgili 7 kişi gözaltında",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Kırşehir'de 2006 yılında kaybolan Rıza Güzel'in akıbetinin araştırılmasına yönelik yürütülen soruşturma kapsamında, Güzel'in eşi ve 6 çocuğunun gözaltına alındığını açıkladı.",
-      "link": "https://www.trthaber.com/haber/turkiye/kirsehirde-20-yil-onceki-kayip-dosyasiyla-ilgili-7-kisi-gozaltinda-959581.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 23:33:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/kirsehirde-20-yil-onceki-kayip-dosyasiyla-ilgili-7-kisi-gozaltinda-959581.html",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, Kırşehir'de 2006 yılında kaybolan Rıza Güzel'in akıbetinin araştırılmasına yönelik yürütülen soruşturma kapsamında, Güzel'in eşi ve 6 çocuğunun gözaltına alındığını açıkladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "148d33ec138b",
       "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
       "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
@@ -1341,24 +1341,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
           "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9dcf0fb57977",
-      "title": "Afyonkarahisar Vali Yardımcısı İhsan Ayrancı vefat etti",
-      "summary": "Afyonkarahisar Vali Yardımcısı ve İl Özel İdaresi Genel Sekreteri İhsan Ayrancı vefat etti.",
-      "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisar-vali-yardimcisi-ihsan-ayranci-vefat-etti-959580.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Thu, 08 Oct 2026 23:14:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisar-vali-yardimcisi-ihsan-ayranci-vefat-etti-959580.html",
-          "summary": "Afyonkarahisar Vali Yardımcısı ve İl Özel İdaresi Genel Sekreteri İhsan Ayrancı vefat etti."
         }
       ],
       "sourcesCount": 1
@@ -1598,6 +1580,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "724b30be9fc1",
+      "title": "So arbeitet das IOC an Russlands Rückkehr in den Weltsport",
+      "summary": "Seit dem Sommer ist Russland zurück auf der internationalen Sportbühne. Das IOC hat die Sperre aufgehoben, Weltverbände geben Flagge und Hymne zurück, und hinter den Kulissen arbeitet das IOC daran, dass russische Athleten überall einreisen können.",
+      "link": "https://www.sportschau.de/investigativ/freie-fahrt-fuer-moskau,russland-rueckkehr-sport-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 08 Oct 2026 17:18:55 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/investigativ/freie-fahrt-fuer-moskau,russland-rueckkehr-sport-100.html",
+          "summary": "Seit dem Sommer ist Russland zurück auf der internationalen Sportbühne. Das IOC hat die Sperre aufgehoben, Weltverbände geben Flagge und Hymne zurück, und hinter den Kulissen arbeitet das IOC daran, dass russische Athleten überall einreisen können."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "82f663e7edc4",
       "title": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
       "summary": "Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Verteidigungsbereich.",
@@ -1814,24 +1814,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0a21f09500e6",
-      "title": "Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) - Department of Energy (.gov)",
-      "summary": "Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) Department of Energy (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVJqcnRUeENTWEN0eDkyZjAtRnVCQW9YZEJoZFIyV2J3RzA2LXJYZENaODNnQlhoZUh2VHhpQVFLYUFjWW5vci1PTFZJeWplT0RsUklBNTJXVWRtZ19EalhGSzJFZXRqRDBGMVhJUXhRZERFbHR3djhmTUk0aXF1OHo4S1puelNHY19zOW1uVXg1UGdpdmpHOVNqTmxQYzVsNFlLOW9iUU1wUFowTjNPSmh5OElDSW5KcW9Z?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 13:13:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVJqcnRUeENTWEN0eDkyZjAtRnVCQW9YZEJoZFIyV2J3RzA2LXJYZENaODNnQlhoZUh2VHhpQVFLYUFjWW5vci1PTFZJeWplT0RsUklBNTJXVWRtZ19EalhGSzJFZXRqRDBGMVhJUXhRZERFbHR3djhmTUk0aXF1OHo4S1puelNHY19zOW1uVXg1UGdpdmpHOVNqTmxQYzVsNFlLOW9iUU1wUFowTjNPSmh5OElDSW5KcW9Z?oc=5",
-          "summary": "Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) Department of Energy (.gov)"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c2658406f9b7",
       "title": "International Business Machines (IBM): New Buy Recommendation for This Technology Giant - The Globe and Mail",
       "summary": "International Business Machines (IBM): New Buy Recommendation for This Technology Giant The Globe and Mail",
@@ -1917,24 +1899,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONmJSazhndlpZQi0tTEVXaElQUk9objR1ZTJsZXF0c2V1cjlzSWJBN3RpZEs5Znp1YTBTUkJJdjIxOFJ0ZmxEb21HN2E4OE5oTm5aZG82ZXd2QnJpaEtUcEJ3VzJ0SzNhaFhxUk5Ea3RlYVVLSV9DaEdJMm5EUm1QYU9DbF9uSGNOa0VocjJaRzlnYzA3clQzcmNqLXNxZ2FIeVZQTnlGNmVLaUg1Y1ZGV3cxTVJybnhSaGZLS045T25odVhZV1FYN3RvekFBRG5NZGw1MnVjUG91QUhQRDhhaHVsU0JONUtGbzVxWDNmcXZ2QUZtcXdRa0JEVDBVM3Ru?oc=5",
           "summary": "NSA Releases Zero Trust Guidance for Protecting Operational Technology Systems National Security Agency (NSA) (.gov)"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5afbfc45d029",
-      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
-      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:40:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
         }
       ],
       "sourcesCount": 1
@@ -2282,24 +2246,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a886169fd5ae",
-      "title": "President Trump Remarks at Science and Technology Summit in Washington, D.C. - C-SPAN",
-      "summary": "President Trump Remarks at Science and Technology Summit in Washington, D.C. C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanNSeHFWbUNmLV8yMW1mZjdCSl9Qdl9RT2Nna0x0QllmRERqdWVMaHVfOXNXRjFGbnhhaGd5X1p3MGxWYmZVeWtNanV3OG1VMXllcjVLd1R4RC1mRFRHeGxfbU0tMGJiVzdOd0FxVzR5YVBZUTRET3pmcFl5ZlNnTFozbXp1WU1ueDR0czVRSGlkZUZwWGdYdUJSMUVsYVVsWkFaaFR1eEpybldDUm1TSzlXY0xXdXRJbS02aHZXVS1MaFdla0E?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 04:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanNSeHFWbUNmLV8yMW1mZjdCSl9Qdl9RT2Nna0x0QllmRERqdWVMaHVfOXNXRjFGbnhhaGd5X1p3MGxWYmZVeWtNanV3OG1VMXllcjVLd1R4RC1mRFRHeGxfbU0tMGJiVzdOd0FxVzR5YVBZUTRET3pmcFl5ZlNnTFozbXp1WU1ueDR0czVRSGlkZUZwWGdYdUJSMUVsYVVsWkFaaFR1eEpybldDUm1TSzlXY0xXdXRJbS02aHZXVS1MaFdla0E?oc=5",
-          "summary": "President Trump Remarks at Science and Technology Summit in Washington, D.C. C-SPAN"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c58b684d988a",
       "title": "Astronotlar Antalya'da öğrencilerle buluştu",
       "summary": "77. Uluslararası Uzay Kongresi için Antalya'ya gelen astronotlar, Aksu Uçak Bakım Teknolojisi Mesleki ve Teknik Anadolu Lisesi öğrencileriyle bir araya geldi.",
@@ -2367,6 +2313,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1USHdWcjd0dUxVQkhOOEJlTEF5MUVWMDR6bzdMamNZSTNscTM1NjdfQjkydGFaNENrWjVXU3JPclVOMGdobHFYN09MMnFUZndYdTRVNURpTXUxbWU4c1RoM080TjByeUpRWm9pdWRVdzUybEV4aVFNQ1J3?oc=5",
           "summary": "FIFA: Governance Crisis Reveals Urgent Need for Rights Reform Amnesty International"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b3f053066b27",
+      "title": "Debatte um Sicherheit: Die KI-Angriffswelle rollt",
+      "summary": "Ob absichtlich oder nicht: Künstliche Intelligenz bedroht global zunehmend wichtige IT-Systeme. Aber es gibt technische Schutzmöglichkeiten – und selbst in den USA politischen Widerstand.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-vorfaellen-mit-open-ai-und-anthropic-die-ki-angriffswelle-rollt-201279763.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 01 Oct 2026 18:08:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-vorfaellen-mit-open-ai-und-anthropic-die-ki-angriffswelle-rollt-201279763.html",
+          "summary": "Ob absichtlich oder nicht: Künstliche Intelligenz bedroht global zunehmend wichtige IT-Systeme. Aber es gibt technische Schutzmöglichkeiten – und selbst in den USA politischen Widerstand."
         }
       ],
       "sourcesCount": 1
@@ -2665,6 +2629,83 @@
       "sourcesCount": 1
     },
     {
+      "id": "ca5d21e8c402",
+      "title": "İzmir açıklarında 13 düzensiz göçmen yakalandı",
+      "summary": "İzmir'in Seferihisar ilçesi açıklarında 5'i çocuk 13 düzensiz göçmen yakalandı.",
+      "link": "https://www.trthaber.com/haber/turkiye/izmir-aciklarinda-13-duzensiz-gocmen-yakalandi-959770.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 20:21:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/izmir-aciklarinda-13-duzensiz-gocmen-yakalandi-959770.html",
+          "summary": "İzmir'in Seferihisar ilçesi açıklarında 5'i çocuk 13 düzensiz göçmen yakalandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "155eb95f55d5",
+      "title": "Ankara'da bazı yollar trafiğe kapatılacak",
+      "summary": "Ankara'da yarın düzenlenecek \"Cumhurbaşkanlığı Yarı Maratonu\" nedeniyle bazı yollar araç trafiğine kapalı olacak.",
+      "link": "https://www.trthaber.com/haber/turkiye/ankarada-bazi-yollar-trafige-kapatilacak-959768.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 20:17:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/ankarada-bazi-yollar-trafige-kapatilacak-959768.html",
+          "summary": "Ankara'da yarın düzenlenecek \"Cumhurbaşkanlığı Yarı Maratonu\" nedeniyle bazı yollar araç trafiğine kapalı olacak."
+        },
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak-959691.html",
+          "summary": "Ankara Tren Garı önünde yarın düzenlenecek anma programı nedeniyle bazı yollar araç trafiğine kapatılacak."
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
+      "id": "4c9caecca677",
+      "title": "Nobel Barış Ödüllü Pillay'den ABD'nin UCM yaptırımlarına tepki",
+      "summary": "Nobel Barış Ödülü'nü alan Güney Afrikalı hukukçu Navanethem Navi Pillay, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yaptırım uygulama kararının \"kabul edilemez\" olduğunu belirtti.",
+      "link": "https://www.trthaber.com/haber/dunya/nobel-baris-odullu-pillayden-abdnin-ucm-yaptirimlarina-tepki-959769.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 20:17:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/nobel-baris-odullu-pillayden-abdnin-ucm-yaptirimlarina-tepki-959769.html",
+          "summary": "Nobel Barış Ödülü'nü alan Güney Afrikalı hukukçu Navanethem Navi Pillay, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yaptırım uygulama kararının \"kabul edilemez\" olduğunu belirtti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "45ab1caa3a3f",
+      "title": "Bakan Kacır: IAC 2026, bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi oldu",
+      "summary": "Bakan Kacır, 77. Uluslararası Uzay Kongresi'nin (IAC 2026) kapanış etkinliğini Aspendos Antik Tiyatrosu'nda gerçekleştirdiklerini belirterek, kongrenin bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi olduğunu söyledi.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-iac-2026-bugune-kadarki-en-buyuk-ve-en-gorkemli-uluslararasi-uzay-kongresi-oldu-959767.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 20:02:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-iac-2026-bugune-kadarki-en-buyuk-ve-en-gorkemli-uluslararasi-uzay-kongresi-oldu-959767.html",
+          "summary": "Bakan Kacır, 77. Uluslararası Uzay Kongresi'nin (IAC 2026) kapanış etkinliğini Aspendos Antik Tiyatrosu'nda gerçekleştirdiklerini belirterek, kongrenin bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi olduğunu söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ce457209406c",
       "title": "Yahşihan Belediye Başkan Vekili görevden uzaklaştırıldı",
       "summary": "Yahşihan Belediye Başkan Vekili Aydın Demirdirek, 'Rüşvet, İhaleye Fesat Karıştırma, Suç Örgütüne Yardım Etme' suçlamalarıyla tutuklanması üzerine İçişleri Bakanlığınca görevinden uzaklaştırıldı.",
@@ -2678,6 +2719,60 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/yahsihan-belediye-baskan-vekili-gorevden-uzaklastirildi-959765.html",
           "summary": "Yahşihan Belediye Başkan Vekili Aydın Demirdirek, 'Rüşvet, İhaleye Fesat Karıştırma, Suç Örgütüne Yardım Etme' suçlamalarıyla tutuklanması üzerine İçişleri Bakanlığınca görevinden uzaklaştırıldı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "dee435639b82",
+      "title": "Jüngster Sieger der Geschichte: Paul Seixas gewinnt Lombardei-Rundfahrt",
+      "summary": "Das französische Ausnahmetalent Paul Seixas hat im Alter von gerade mal 20 Jahren die Lombardei-Rundfahrt gewonnen und ist damit der jüngste Sieger der Geschichte.",
+      "link": "https://www.sportschau.de/radsport/seixas-juengster-sieger-der-lombardei-rundfahrt,rennbericht-lombardei-rundfahrt-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 19:15:44 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/radsport/seixas-juengster-sieger-der-lombardei-rundfahrt,rennbericht-lombardei-rundfahrt-100.html",
+          "summary": "Das französische Ausnahmetalent Paul Seixas hat im Alter von gerade mal 20 Jahren die Lombardei-Rundfahrt gewonnen und ist damit der jüngste Sieger der Geschichte."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "90608c0f4056",
+      "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
+      "summary": "Der FC Augsburg trifft gegen den FC Bayern nach acht Sekunden. Manuel Neuer ermöglichte das schnellste Tor der Bundesliga-Geschichte mit einem Patzer.",
+      "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sat, 10 Oct 2026 19:08:54 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
+          "summary": "Der FC Augsburg trifft gegen den FC Bayern nach acht Sekunden. Manuel Neuer ermöglichte das schnellste Tor der Bundesliga-Geschichte mit einem Patzer."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "76d59893795d",
+      "title": "Hinrichtung im Livestream? Darüber streiten die USA",
+      "summary": "Die mögliche Live-Übertragung einer Militärhinrichtung sorgt in den USA für heftigen Streit. Kritiker warnen vor einer öffentlichen Inszenierung staatlicher Gewalt.",
+      "link": "https://www.zdfheute.de/politik/ausland/usa-todesstrafe-livestream-debatte-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 19:04:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/usa-todesstrafe-livestream-debatte-100.html",
+          "summary": "Die mögliche Live-Übertragung einer Militärhinrichtung sorgt in den USA für heftigen Streit. Kritiker warnen vor einer öffentlichen Inszenierung staatlicher Gewalt."
         }
       ],
       "sourcesCount": 1
@@ -2702,8 +2797,8 @@
     },
     {
       "id": "9eb3febf31a7",
-      "title": "Bundesliga: Stuttgart feiert Arbeitssieg in Paderborn",
-      "summary": "Der VfB Stuttgart dominierte beim SC Paderborn diue erste Halbzeit, musste dann aber noch um den Sieg zittern.",
+      "title": "Stuttgart reicht gegen Paderborn eine starke Halbzeit",
+      "summary": "Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
       "link": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
       "sourceName": "Tagesschau Sport",
       "region": "regional",
@@ -2713,7 +2808,7 @@
         {
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-          "summary": "Der VfB Stuttgart dominierte beim SC Paderborn diue erste Halbzeit, musste dann aber noch um den Sieg zittern."
+          "summary": "Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern."
         }
       ],
       "sourcesCount": 1
@@ -2816,7 +2911,7 @@
       "sourceName": "Tagesschau Sport",
       "region": "germany",
       "topic": "sport",
-      "time": "Sat, 10 Oct 2026 18:26:55 +0200",
+      "time": "Sat, 10 Oct 2026 18:23:00 +0200",
       "coverage": [
         {
           "sourceName": "Tagesschau Sport",
@@ -2828,8 +2923,8 @@
     },
     {
       "id": "ffd217154492",
-      "title": "Fußball-Bundesliga: Union Berlin besiegt die SV Elversberg",
-      "summary": "Joker Livan Burcu bricht gegen Elversberg den Bann und ermöglicht Union Berlin den lang ersehnten ersten Saisonsieg.",
+      "title": "Union feiert erlösenden Sieg gegen Elversberg",
+      "summary": "Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
       "link": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
       "sourceName": "Tagesschau Sport",
       "region": "local",
@@ -2839,7 +2934,7 @@
         {
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-          "summary": "Joker Livan Burcu bricht gegen Elversberg den Bann und ermöglicht Union Berlin den lang ersehnten ersten Saisonsieg."
+          "summary": "Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg."
         }
       ],
       "sourcesCount": 1
@@ -3030,6 +3125,114 @@
       "sourcesCount": 1
     },
     {
+      "id": "8fd635139c0b",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 17:31:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+          "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b3c41f94268f",
+      "title": "Hackerangriffe: Das Dilemma der Digitalisierung",
+      "summary": "Die digitale Verwaltung soll dem Bürger das Leben leichter machen. Aber sie eröffnet Hackern auch die Chance, persönliche Informationen zu stehlen oder ganze Städte lahmzulegen.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hackerangriffe-auf-die-verwaltung-das-dilemma-mit-der-digitalisierung-201300619.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 17:23:03 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hackerangriffe-auf-die-verwaltung-das-dilemma-mit-der-digitalisierung-201300619.html",
+          "summary": "Die digitale Verwaltung soll dem Bürger das Leben leichter machen. Aber sie eröffnet Hackern auch die Chance, persönliche Informationen zu stehlen oder ganze Städte lahmzulegen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6dd8467d34f8",
+      "title": "Liveblog Ukrainekrieg: Trump: „Es ist Zeit, dass die Ukraine einen neuen Präsidenten bekommt“",
+      "summary": "US-Präsident: „Das ist ein Krieg, der nie hätte ausbrechen sollen“ +++ Gespräche zwischen Ukraine und USA enden vorzeitig +++ Bundesregierung hält an Russland-Sanktionen fest +++ alle Neuigkeiten im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-es-ist-zeit-dass-die-ukraine-einen-neuen-praesidenten-bekommt-faz-110683325.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 17:21:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-es-ist-zeit-dass-die-ukraine-einen-neuen-praesidenten-bekommt-faz-110683325.html",
+          "summary": "US-Präsident: „Das ist ein Krieg, der nie hätte ausbrechen sollen“ +++ Gespräche zwischen Ukraine und USA enden vorzeitig +++ Bundesregierung hält an Russland-Sanktionen fest +++ alle Neuigkeiten im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1251c927f870",
+      "title": "Men’s Cross Country wins Highlander Invitational - Rochester Institute of Technology Athletics",
+      "summary": "Men’s Cross Country wins Highlander Invitational Rochester Institute of Technology Athletics",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXRLWWRwQnNvczhPOWx2Z0R4NnMxV25Pa1FsWlhQVUt0c2pOYlVKRGJlRTB6Y2VtTUhnbzdJd2N1NUNRUjVFQlpqRkJWY0dOMVUyTTktbzk3Q0dUaS1HWndRcVMzb0w0ZDllckYtMVVuQzRxQmIxMlN6UHRJaXlTbnRLWmpNcmhWT0JNNkdVNHdzVzdzYmhIWk0xT3lCNS1yQzNxNnc2Vm02REZRZDJtaE1R?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 17:12:56 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXRLWWRwQnNvczhPOWx2Z0R4NnMxV25Pa1FsWlhQVUt0c2pOYlVKRGJlRTB6Y2VtTUhnbzdJd2N1NUNRUjVFQlpqRkJWY0dOMVUyTTktbzk3Q0dUaS1HWndRcVMzb0w0ZDllckYtMVVuQzRxQmIxMlN6UHRJaXlTbnRLWmpNcmhWT0JNNkdVNHdzVzdzYmhIWk0xT3lCNS1yQzNxNnc2Vm02REZRZDJtaE1R?oc=5",
+          "summary": "Men’s Cross Country wins Highlander Invitational Rochester Institute of Technology Athletics"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a73b11bcc739",
+      "title": "Google, Meta oder Tiktok: Wie Misstrauen die Sprache vergiftet",
+      "summary": "Ein Stolperstein in Kopenhagen führt zu Niels Bohr und einem verhängnisvollen Gespräch mit Werner Heisenberg. Es ist eine Warnung für unsere Gegenwart – und den Umgang mit Social Media.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/google-meta-oder-tiktok-wie-misstrauen-die-sprache-vergiftet-201296354.html",
+      "sourceName": "FAZ",
+      "region": "local",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 17:09:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/google-meta-oder-tiktok-wie-misstrauen-die-sprache-vergiftet-201296354.html",
+          "summary": "Ein Stolperstein in Kopenhagen führt zu Niels Bohr und einem verhängnisvollen Gespräch mit Werner Heisenberg. Es ist eine Warnung für unsere Gegenwart – und den Umgang mit Social Media."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b3f20b5f66ec",
+      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
+      "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 10 Oct 2026 17:07:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
+          "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "98fbc08f17fb",
       "title": "Hammer der Woche aus Mönchengladbach",
       "summary": "Ein Ehepaar in Mönchengladbach möchte den Bordstein absenken, um an die Wallbox für ihr E-Auto zu kommen, so wie bei ihren Nachbarn. Doch das untersagt ihnen die Stadt.",
@@ -3061,6 +3264,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/krause-ob-gruene-muenchen-soeder-herausforderungen-100.html",
           "summary": "Seit einem knappen halben Jahr ist Münchens erster grüner Oberbürgermeister im Amt. Der Start verlief relativ reibungslos."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8f9c941d9b2b",
+      "title": "Die Macht in der CDU: Ein Kanzler von Gnaden der Landesfürsten",
+      "summary": "Kanzleramt, Adenauer-Haus, Fraktion, Ministerpräsidenten: Wo liegt das Machtzentrum der CDU?",
+      "link": "https://www.faz.net/aktuell/politik/inland/wo-liegt-gerade-das-machtzentrum-der-cdu-201254968.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 17:00:19 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/wo-liegt-gerade-das-machtzentrum-der-cdu-201254968.html",
+          "summary": "Kanzleramt, Adenauer-Haus, Fraktion, Ministerpräsidenten: Wo liegt das Machtzentrum der CDU?"
         }
       ],
       "sourcesCount": 1
@@ -3156,24 +3377,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a73b11bcc739",
-      "title": "Google, Meta oder Tiktok: Wie Misstrauen die Sprache vergiftet",
-      "summary": "Ein Stolperstein in Kopenhagen führt zu Niels Bohr und einem verhängnisvollen Gespräch mit Werner Heisenberg. Es ist eine Warnung für unsere Gegenwart – und den Umgang mit Social Media.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/google-meta-oder-tiktok-wie-misstrauen-die-sprache-vergiftet-201296354.html",
-      "sourceName": "FAZ",
-      "region": "local",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 16:39:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/google-meta-oder-tiktok-wie-misstrauen-die-sprache-vergiftet-201296354.html",
-          "summary": "Ein Stolperstein in Kopenhagen führt zu Niels Bohr und einem verhängnisvollen Gespräch mit Werner Heisenberg. Es ist eine Warnung für unsere Gegenwart – und den Umgang mit Social Media."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1e7d82bbf437",
       "title": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
       "summary": "Die irische EU-Ratspräsidentschaft hat einen neuen Vorschlag für den nächsten EU-Haushalt vorgelegt. Die Reaktion aus Deutschland darauf ist verhalten.",
@@ -3205,6 +3408,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/bundesliga2/albtraum-start-fuer-sandro-wagner-bei-hannover-96,spielbericht-magdeburg-hannover-96-102.html",
           "summary": "Hannovers neuer Trainer Sandro Wagner hat einen Albtraum-Start bei den 96ern hingelegt. In Magdeburg war sein Team komplett chancenlos - der FCM hingegen ist oben dran."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "16b923ca6c36",
+      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
+      "summary": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 16:31:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
+          "summary": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3431,24 +3652,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "90608c0f4056",
-      "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
-      "summary": "Der FC Augsburg trifft gegen den FC Bayern nach acht Sekunden. Das heißt: Manuel Neuer kassiert das schnellste Tor der Bundesliga-Geschichte.",
-      "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Sat, 10 Oct 2026 16:03:30 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga/neuer-kassiert-schnellstes-tor-der-bundesliga-geschichte,neuer-tor-100.html",
-          "summary": "Der FC Augsburg trifft gegen den FC Bayern nach acht Sekunden. Das heißt: Manuel Neuer kassiert das schnellste Tor der Bundesliga-Geschichte."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7b07fcbf5e1c",
       "title": "What to know about ‘NAZA,’ a documentary that looks at Israeli war technology - The Washington Post",
       "summary": "What to know about ‘NAZA,’ a documentary that looks at Israeli war technology The Washington Post",
@@ -3503,27 +3706,45 @@
       "sourcesCount": 1
     },
     {
-      "id": "16b923ca6c36",
-      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
-      "summary": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
+      "id": "b2c69612eb24",
+      "title": "China outlines policy priorities for quantum technology, AI, and the digital economy - Digital Watch Observatory",
+      "summary": "China outlines policy priorities for quantum technology, AI, and the digital economy Digital Watch Observatory",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LUzVLRkNsMmZLMHJJUW5ybDZYZHRvaWRwRjhZUEdNZWNiUWRvTjVxeEFraG15U2E5cUJDTUExMDhVOUt0UDBzWkhRaUI3STM1c3hoejl4dGc5X05rS2hyaGRvUmpsaERTTnNFejE5SFBYLTJla1YyMw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 15:53:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LUzVLRkNsMmZLMHJJUW5ybDZYZHRvaWRwRjhZUEdNZWNiUWRvTjVxeEFraG15U2E5cUJDTUExMDhVOUt0UDBzWkhRaUI3STM1c3hoejl4dGc5X05rS2hyaGRvUmpsaERTTnNFejE5SFBYLTJla1YyMw?oc=5",
+          "summary": "China outlines policy priorities for quantum technology, AI, and the digital economy Digital Watch Observatory"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c27c357c05f9",
+      "title": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters",
+      "summary": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
       "sourceName": "Google News – Reuters",
       "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 15:54:05 GMT",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 15:47:22 GMT",
       "coverage": [
         {
           "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
-          "summary": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 Reuters"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+          "summary": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses Reuters"
         }
       ],
       "sourcesCount": 1
     },
     {
       "id": "75248556df3c",
-      "title": "Fast 30 Torschüsse: Nach Neuer-Patzer und Rekordtor: Turbulentes Remis in Augsburg",
-      "summary": "Der FC Bayern erzielt in Augsburg fünf Tore – am Ende sind davon jedoch nur zwei regelkonform. Dem FCA gelingt in diesem wilden Spiel nach wenigen Sekunden ein Bundesliga-Rekord und eine doppelte Führung.",
+      "title": "Zwei Neuer-Patzer: Ein Rekordtor gegen die Münchner Dominanz",
+      "summary": "Der FC Bayern erzielt in Augsburg sechs Tore – am Ende sind davon jedoch nur zwei regelkonform. Mangelnde Chancenverwertung und ein Bundesliga-Rekord bescheren dem FCA daher am Ende einen Punkt.",
       "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-fc-bayern-muenchen-spielt-unentschieden-beim-fc-augsburg-201251258.html",
       "sourceName": "FAZ",
       "region": "germany",
@@ -3533,7 +3754,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-fc-bayern-muenchen-spielt-unentschieden-beim-fc-augsburg-201251258.html",
-          "summary": "Der FC Bayern erzielt in Augsburg fünf Tore – am Ende sind davon jedoch nur zwei regelkonform. Dem FCA gelingt in diesem wilden Spiel nach wenigen Sekunden ein Bundesliga-Rekord und eine doppelte Führung."
+          "summary": "Der FC Bayern erzielt in Augsburg sechs Tore – am Ende sind davon jedoch nur zwei regelkonform. Mangelnde Chancenverwertung und ein Bundesliga-Rekord bescheren dem FCA daher am Ende einen Punkt."
         }
       ],
       "sourcesCount": 1
@@ -3593,24 +3814,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c27c357c05f9",
-      "title": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters",
-      "summary": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 15:30:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-          "summary": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "75b67858ba79",
       "title": "Billie Lourd Reveals Why She Sends Her Kids to a School Without Much Technology (Exclusive) - People.com",
       "summary": "Billie Lourd Reveals Why She Sends Her Kids to a School Without Much Technology (Exclusive) People.com",
@@ -3649,7 +3852,7 @@
     {
       "id": "c6c003fddc01",
       "title": "Deutschland liveblog: Weimer: Rot-Grün-Rot wäre „ein Misstrauensvotum gegen unsere Koalition“",
-      "summary": "SPD kritisiert Kulturstaatsminister: „Ernst der Lage nicht verstanden“ +++ Politiker fordern Parteiausschluss von Gerhard Schröder +++ Kretschmann hält Demokratie für enorm „gefährdet“ +++ alle Entwicklungen im Liveblog",
+      "summary": "SPD kritisiert Kulturstaatsminister: „Ernst der Lage nicht verstanden“ +++ Politiker fordern Parteiausschluss von Gerhard Schröder +++ alle Entwicklungen im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-weimer-rot-gruen-rot-waere-ein-misstrauensvotum-gegen-unsere-koalition-faz-110093143.html",
       "sourceName": "FAZ",
       "region": "international",
@@ -3659,7 +3862,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-weimer-rot-gruen-rot-waere-ein-misstrauensvotum-gegen-unsere-koalition-faz-110093143.html",
-          "summary": "SPD kritisiert Kulturstaatsminister: „Ernst der Lage nicht verstanden“ +++ Politiker fordern Parteiausschluss von Gerhard Schröder +++ Kretschmann hält Demokratie für enorm „gefährdet“ +++ alle Entwicklungen im Liveblog"
+          "summary": "SPD kritisiert Kulturstaatsminister: „Ernst der Lage nicht verstanden“ +++ Politiker fordern Parteiausschluss von Gerhard Schröder +++ alle Entwicklungen im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -3684,7 +3887,7 @@
     },
     {
       "id": "be03f60cfd01",
-      "title": "Nach Ceuta-Krise: Marokko will Kampf gegen irreguläre Migration neu ausrichten",
+      "title": "Nach Ceuta-Krise: Marokko will Kampf gegen irreguläre Migration forcieren",
       "summary": "König Mohamed VI. warnt Spanien nach der Ceuta-Krise vor „Druck und Erpressung“.",
       "link": "https://www.faz.net/aktuell/politik/ausland/ceuta-marokko-will-kampf-gegen-irregulaere-migration-neu-ausrichten-accg-201305998.html",
       "sourceName": "FAZ",
@@ -3737,6 +3940,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "bd6dd50c646c",
+      "title": "Wie geht gutes, gesundes und bezahlbares Essen?",
+      "summary": "Steigende Lebensmittelkosten bestimmen unseren Alltag. Clever Einkaufen im Supermarkt wird deshalb immer wichtiger.",
+      "link": "https://www.zdfheute.de/panorama/ernaehrungsarmut-lebensmittel-preise-gesund-guenstig-ernaehrung-plan-b-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 15:13:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/ernaehrungsarmut-lebensmittel-preise-gesund-guenstig-ernaehrung-plan-b-100.html",
+          "summary": "Steigende Lebensmittelkosten bestimmen unseren Alltag. Clever Einkaufen im Supermarkt wird deshalb immer wichtiger."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "02d0c49f7ebe",
       "title": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
       "summary": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst.",
@@ -3768,24 +3989,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/trumps-diesel-deal-duerfte-die-preise-kaum-aendern-accg-201306126.html",
           "summary": "Der US-Präsident verkündet eine Diesel-Vereinbarung mit Putin. Auf die Preise am Weltmarkt wird das Abkommen laut Fachleuten kaum Auswirkungen haben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bfe0c053e57a",
-      "title": "Riyadh’s King Khalid International Airport has come under another attack, reports say - BBC",
-      "summary": "Riyadh’s King Khalid International Airport has come under another attack, reports say BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNm8zRGJqcUNiY05QN1Y0MHN1QnJVV0IzNTl2OHY2T3NEdlVkanBTUWFlVEprZVZrLXNvbVFtMWxxeXRreFZmRDFRY0lUbWdtcENxXzBMMm9LNm8?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 15:05:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNm8zRGJqcUNiY05QN1Y0MHN1QnJVV0IzNTl2OHY2T3NEdlVkanBTUWFlVEprZVZrLXNvbVFtMWxxeXRreFZmRDFRY0lUbWdtcENxXzBMMm9LNm8?oc=5",
-          "summary": "Riyadh’s King Khalid International Airport has come under another attack, reports say BBC"
         }
       ],
       "sourcesCount": 1
@@ -3953,73 +4156,37 @@
       "sourcesCount": 1
     },
     {
-      "id": "28ed686e25b5",
-      "title": "EU's Irish presidency wants 8% cut to proposed 2028-2034 budget plan - Reuters",
-      "summary": "EU's Irish presidency wants 8% cut to proposed 2028-2034 budget plan Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1mcnlsQnJRNG5KbnVpYl9QenRyNWJpTHp1UnRVVTBOcXdCQ1JzQUFIbGVkeDNJblFMMXB1ZTdMLTlsSzZHVFJwWVdBYlBsOFNvNDgyaWI0blA3a21ScFFXYUpsOG1pR21aVU9kNjE3b3JVdi1jNVdBeVgyNXpxLXhFYUNhTzJKT1lMdHhBbnFreDl1OGNxOW9uNVVlaU9kZUh5ekhxMHUyNE1lTGtZcjdoTWNoZkE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 14:37:16 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1mcnlsQnJRNG5KbnVpYl9QenRyNWJpTHp1UnRVVTBOcXdCQ1JzQUFIbGVkeDNJblFMMXB1ZTdMLTlsSzZHVFJwWVdBYlBsOFNvNDgyaWI0blA3a21ScFFXYUpsOG1pR21aVU9kNjE3b3JVdi1jNVdBeVgyNXpxLXhFYUNhTzJKT1lMdHhBbnFreDl1OGNxOW9uNVVlaU9kZUh5ekhxMHUyNE1lTGtZcjdoTWNoZkE?oc=5",
-          "summary": "EU's Irish presidency wants 8% cut to proposed 2028-2034 budget plan Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9099b09cf9b8",
-      "title": "Frankfurter Buchmesse: Gibt es noch eine Branche, in der solche Freundschaften fürs Leben entstehen?",
-      "summary": "Mein Vater hat bis ins hohe Alter keine Buchmesse ausgelassen: Auch ich war mit 20 zum ersten Mal da, nächtigte bei entfernten Bekannten auf dem Sofa, um dabei sein zu können. Ich werde seinen Rekord schon noch knacken!",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-tanja-graf-ueber-ihren-vater-accg-201244642.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 14:34:26 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-tanja-graf-ueber-ihren-vater-accg-201244642.html",
-          "summary": "Mein Vater hat bis ins hohe Alter keine Buchmesse ausgelassen: Auch ich war mit 20 zum ersten Mal da, nächtigte bei entfernten Bekannten auf dem Sofa, um dabei sein zu können. Ich werde seinen Rekord schon noch knacken!"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5d4e729fc362",
-      "title": "Trump: Russland wird Diesel an USA und Weltmarkt liefern",
-      "summary": "US-Präsident Donald Trump setzt im Kampf gegen die hohen Treibstoffpreise vor den Midterms auf eine überraschende Kooperation mit Moskau und lockert bestehende Sanktionen.",
-      "link": "https://www.zdfheute.de/politik/ausland/trump-putin-diesel-usa-russland-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 14:26:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/trump-putin-diesel-usa-russland-100.html",
-          "summary": "US-Präsident Donald Trump setzt im Kampf gegen die hohen Treibstoffpreise vor den Midterms auf eine überraschende Kooperation mit Moskau und lockert bestehende Sanktionen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2b3762f9568b",
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
+      "sourceName": "BBC Business",
       "region": "international",
       "topic": "politik",
       "time": "Sat, 10 Oct 2026 14:24:14 GMT",
       "coverage": [
         {
-          "sourceName": "BBC World",
+          "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
           "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "cde0843d0d3b",
+      "title": "Three injured in Poland's third youth stabbing attack in four days - Reuters",
+      "summary": "Three injured in Poland's third youth stabbing attack in four days Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 10 Oct 2026 14:21:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5",
+          "summary": "Three injured in Poland's third youth stabbing attack in four days Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4074,24 +4241,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
           "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7da5f113ad59",
-      "title": "Kontrolleure getötet: Schütze von Berngau war früher Polizist in Ausbildung",
-      "summary": "Der Mann soll zwei Landratsamt-Mitarbeiter erschossen haben, als diese bei ihm eine Waffenkontrolle durchführen wollten. Sein Motiv ist weiterhin unklar.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schuetze-von-berngau-war-frueher-polizist-in-ausbildung-accg-201306071.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Sat, 10 Oct 2026 14:16:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schuetze-von-berngau-war-frueher-polizist-in-ausbildung-accg-201306071.html",
-          "summary": "Der Mann soll zwei Landratsamt-Mitarbeiter erschossen haben, als diese bei ihm eine Waffenkontrolle durchführen wollten. Sein Motiv ist weiterhin unklar."
         }
       ],
       "sourcesCount": 1
@@ -4493,24 +4642,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-zaporijya-kentine-duzenledigi-saldirida-8-kisi-oldu-959740.html",
           "summary": "Rus ordusunun Zaporijya kentine düzenlediği hava saldırısı sonucu en az 8 sivilin hayatını kaybettiği, 12 kişinin de yaralandığı bildirildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c3480be8ef78",
-      "title": "Buchmesse 2026: „Alle, wirklich alle freuen sich über die Buchpreisträgerin“",
-      "summary": "Eine Buchpreisträgerin, über die sich alle freuen und die zum Ernst der Lage passt, KI, Warnhinweise für „Dark Romance“, Boykotte und performende WG-Bewohner: Die ersten Tage der Frankfurter Buchmesse 2026 in Szenen.",
-      "link": "https://www.faz.net/aktuell/feuilleton/frankfurter-buchmesse-2026-eine-bilanz-der-ersten-tag-accg-201287938.html",
-      "sourceName": "FAZ",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 12:40:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/frankfurter-buchmesse-2026-eine-bilanz-der-ersten-tag-accg-201287938.html",
-          "summary": "Eine Buchpreisträgerin, über die sich alle freuen und die zum Ernst der Lage passt, KI, Warnhinweise für „Dark Romance“, Boykotte und performende WG-Bewohner: Die ersten Tage der Frankfurter Buchmesse 2026 in Szenen."
         }
       ],
       "sourcesCount": 1
@@ -4977,24 +5108,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "9298c256c692",
-      "title": "WNBA, Playoffs: Fiebich verpasst das Finale mit New York Liberty",
-      "summary": "Basketball-Nationalspielerin Leonie Fiebich hat mit New York Liberty den Sprung in die Finalserie der WNBA verpasst. Zum Abschluss der Serie gegen Atlanta Dream gab es eine knappe Niederlage.",
-      "link": "https://www.sportschau.de/basketball/fiebich-verpasst-wnba-finale-mit-new-york-liberty,wnba-fiebich-liberty-halbfinale-aus-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 10 Oct 2026 10:50:27 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/basketball/fiebich-verpasst-wnba-finale-mit-new-york-liberty,wnba-fiebich-liberty-halbfinale-aus-100.html",
-          "summary": "Basketball-Nationalspielerin Leonie Fiebich hat mit New York Liberty den Sprung in die Finalserie der WNBA verpasst. Zum Abschluss der Serie gegen Atlanta Dream gab es eine knappe Niederlage."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "004a16b52f82",
       "title": "'Okul Gıdası' uygulamasına geçiş süresi güncellendi",
       "summary": "Okullarda faaliyet gösteren kantin, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde satışa sunulacak hazır ambalajlı gıdalara yönelik \"Okul Gıdası\" uygulamasına geçiş için yeni tarih 13 Eylül 2027 olarak güncellendi.",
@@ -5008,24 +5121,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/okul-gidasi-uygulamasina-gecis-suresi-guncellendi-959722.html",
           "summary": "Okullarda faaliyet gösteren kantin, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde satışa sunulacak hazır ambalajlı gıdalara yönelik \"Okul Gıdası\" uygulamasına geçiş için yeni tarih 13 Eylül 2027 olarak güncellendi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dbdbf5c1ad38",
-      "title": "Klaus Bresser war mein Vorbild als Journalist",
-      "summary": "Zwölf Jahre lang war Klaus Bresser ZDF-Chefredakteur. Seine Arbeit prägt das ZDF bis heute.",
-      "link": "https://www.zdfheute.de/in-eigener-sache/peter-frey-nachruf-klaus-bresser-zdf-chefredakteur-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 10:44:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/in-eigener-sache/peter-frey-nachruf-klaus-bresser-zdf-chefredakteur-100.html",
-          "summary": "Zwölf Jahre lang war Klaus Bresser ZDF-Chefredakteur. Seine Arbeit prägt das ZDF bis heute."
         }
       ],
       "sourcesCount": 1
@@ -5062,24 +5157,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/edirnede-hizli-tren-heyecani-959720.html",
           "summary": "Cumhurbaşkanı Erdoğan'ın açılışını yaptığı Çerkezköy-Kapıkule Hızlı Tren Hattı'nda ilk yolcu seferleri başladı. Edirne Garı'ndan 09.00'da hareket eden tren, bölge halkı için ulaşımı saatlerden dakikalara indirerek konforlu bir dönemin kapısını araladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9eb750069abd",
-      "title": "Sekretärin Monika Kunz: Die Legende lebt",
-      "summary": "Während die Redakteurinnen und Redakteure der F.A.Z. täglich auf die Frankfurter Buchmesse gingen, blieb sie im Büro und hielt „Stallwache“.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-buchmesse-2026-erinnerung-einer-f-a-z-sekretaerin-accg-201218788.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 10:26:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-buchmesse-2026-erinnerung-einer-f-a-z-sekretaerin-accg-201218788.html",
-          "summary": "Während die Redakteurinnen und Redakteure der F.A.Z. täglich auf die Frankfurter Buchmesse gingen, blieb sie im Büro und hielt „Stallwache“."
         }
       ],
       "sourcesCount": 1
@@ -5355,24 +5432,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ad0571b614d2",
-      "title": "Liveblog Ukrainekrieg: Gespräche zwischen Ukraine und USA enden vorzeitig",
-      "summary": "Medienbericht: Amerikaner drohen Kiew mit Zurückhaltung von Geheimdienstinformationen +++ Bundesregierung hält an Russland-Sanktionen fest +++ alle Neuigkeiten im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-gespraeche-zwischen-ukraine-und-usa-enden-wohl-frueher-faz-110683325.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 09:01:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-gespraeche-zwischen-ukraine-und-usa-enden-wohl-frueher-faz-110683325.html",
-          "summary": "Medienbericht: Amerikaner drohen Kiew mit Zurückhaltung von Geheimdienstinformationen +++ Bundesregierung hält an Russland-Sanktionen fest +++ alle Neuigkeiten im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0e43ba0bec75",
       "title": "Zukunft der Nationalelf: Der Fall Kimmich",
       "summary": "Es geht nicht mehr um die Frage, wo Jürgen Klopps Team den besten Ballverteiler dringender braucht, sondern ob es ihn noch nötig hat. Findet der Bundestrainer eine Antwort auf die K-Frage?",
@@ -5432,6 +5491,24 @@
       "sourcesCount": 2
     },
     {
+      "id": "230b6e4e2f5f",
+      "title": "Thailand prepares to host IMF-World Bank meetings - Reuters",
+      "summary": "Thailand prepares to host IMF-World Bank meetings Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0drc0JrMzlLLTRTODZsS04wQ0Q5aEZ5SXdkeWZnNWRuWkNpeGxxVEVGdmdtTFQ0RVR4OTJ1N2duazRHRUFXTzBCTXdVcmZkMW9GUG9CWHNybXhpbFRIc3VMRVlzdDhZem15S0NKMmx1QzFDMGVlNHQzZUsyQ09udExXVURyb0VsN25ab2JqSzJxTmNoVTlsVzByR2xFYmdCT24w?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sat, 10 Oct 2026 08:44:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0drc0JrMzlLLTRTODZsS04wQ0Q5aEZ5SXdkeWZnNWRuWkNpeGxxVEVGdmdtTFQ0RVR4OTJ1N2duazRHRUFXTzBCTXdVcmZkMW9GUG9CWHNybXhpbFRIc3VMRVlzdDhZem15S0NKMmx1QzFDMGVlNHQzZUsyQ09udExXVURyb0VsN25ab2JqSzJxTmNoVTlsVzByR2xFYmdCT24w?oc=5",
+          "summary": "Thailand prepares to host IMF-World Bank meetings Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f4a02eaf77fc",
       "title": "Kapadokya'da gökyüzünden Gazze'ye destek mesajı",
       "summary": "Kapadokya'nın eşsiz manzarası, bu kez Gazze'deki insanlık dramına karşı yükselen tepkilere sahne oldu. Soykırımı protesto etmek amacıyla düzenlenen etkinlikte bazı sıcak hava balonları, sepetlerine asılan kefiyelerle uçuş gerçekleştirdi.",
@@ -5445,78 +5522,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/kapadokyada-gokyuzunden-gazzeye-destek-mesaji-959709.html",
           "summary": "Kapadokya'nın eşsiz manzarası, bu kez Gazze'deki insanlık dramına karşı yükselen tepkilere sahne oldu. Soykırımı protesto etmek amacıyla düzenlenen etkinlikte bazı sıcak hava balonları, sepetlerine asılan kefiyelerle uçuş gerçekleştirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c158b3060d25",
-      "title": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
-      "summary": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Sat, 10 Oct 2026 08:32:43 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
-          "summary": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fac69bdad735",
-      "title": "Landtagspräsident: Wird Tobias Rausch halten, was er verspricht?",
-      "summary": "Der neue Landtagspräsident von Sachsen-Anhalt versichert, sein Amt fair und gewissenhaft auszuüben. Das müssen alle loben.",
-      "link": "https://www.faz.net/aktuell/politik/inland/tobias-rausch-als-landtagspraesident-haelt-er-sein-versprechen-201293841.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 08:29:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/tobias-rausch-als-landtagspraesident-haelt-er-sein-versprechen-201293841.html",
-          "summary": "Der neue Landtagspräsident von Sachsen-Anhalt versichert, sein Amt fair und gewissenhaft auszuüben. Das müssen alle loben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b2c96ee1b5f6",
-      "title": "Delight for Scotland's Cuthbert after long summer of recovery",
-      "summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 08:28:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo?at_medium=RSS&at_campaign=rss",
-          "summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b33c966f55cc",
-      "title": "Raphinha's brilliant Barcelona start interrupted by injury concerns",
-      "summary": "Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 10 Oct 2026 08:27:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo?at_medium=RSS&at_campaign=rss",
-          "summary": "Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury."
         }
       ],
       "sourcesCount": 1
