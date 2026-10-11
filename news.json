@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-11T11:39:42.160508+00:00",
+  "updated": "2026-10-11T12:06:31.492790+00:00",
   "articles": [
+    {
+      "id": "a728fedb6f47",
+      "title": "Pilotprojekt im Osten: Weniger Polizei statt Kostenbeteiligung",
+      "summary": "Sollten Amateurklubs sich in Zukunft an Polizeikosten beteiligen müssen, wäre das für viele existenzbedrohend. In der Regionalliga Nordost testet man nun ein Modell mit weniger Polizei.",
+      "link": "https://www.sportschau.de/fussball/pilotprojekt-im-osten-weniger-polizei-statt-kostenbeteiligung,polizeikosten-dfb-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 30 Sep 2026 11:34:08 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/pilotprojekt-im-osten-weniger-polizei-statt-kostenbeteiligung,polizeikosten-dfb-100.html",
+          "summary": "Sollten Amateurklubs sich in Zukunft an Polizeikosten beteiligen müssen, wäre das für viele existenzbedrohend. In der Regionalliga Nordost testet man nun ein Modell mit weniger Polizei."
+        }
+      ],
+      "sourcesCount": 1
+    },
     {
       "id": "9c28d76e9e9a",
       "title": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered - NBC News",
@@ -236,24 +254,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "43dcbd033410",
-      "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-      "summary": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen.",
-      "link": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 21:38:22 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-          "summary": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "806bdf811140",
       "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News",
       "summary": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 MIT News",
@@ -483,6 +483,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVpFVnRZWi1ObTcxdHBSTDBqR2FPdVZmTHdzMElINW8yYW5lNUFobXNBNnVIMVk5UFVJSXVEYlFfUURISjhxampKTF8wV0MydFNFM2p2QlJhSmd3SFVnZFl5akFfN2Q1dm5YX09mNkVfSzVrd1BjbjVwTU9iRlZiaFJBclprZzdEMEc5T1M4Q0lMZS1m?oc=5",
           "summary": "IBSA World Games 2027: Sports Programme Takes Shape in Tashkent International Blind Sports Federation"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e2fafc4143c8",
+      "title": "Scientists who put faith in technology less likely to take climate action - The Guardian",
+      "summary": "Scientists who put faith in technology less likely to take climate action The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 06:56:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
+          "summary": "Scientists who put faith in technology less likely to take climate action The Guardian"
         }
       ],
       "sourcesCount": 1
@@ -750,10 +768,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "257bafaba4b6",
+      "id": "54c1d68c878b",
       "title": "Tech Life",
       "summary": "What is a supercomputer for? How does it work?",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
@@ -761,7 +779,7 @@
       "coverage": [
         {
           "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
           "summary": "What is a supercomputer for? How does it work?"
         },
         {
@@ -1621,6 +1639,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "0a21f09500e6",
+      "title": "Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) - Department of Energy (.gov)",
+      "summary": "Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVJqcnRUeENTWEN0eDkyZjAtRnVCQW9YZEJoZFIyV2J3RzA2LXJYZENaODNnQlhoZUh2VHhpQVFLYUFjWW5vci1PTFZJeWplT0RsUklBNTJXVWRtZ19EalhGSzJFZXRqRDBGMVhJUXhRZERFbHR3djhmTUk0aXF1OHo4S1puelNHY19zOW1uVXg1UGdpdmpHOVNqTmxQYzVsNFlLOW9iUU1wUFowTjNPSmh5OElDSW5KcW9Z?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:13:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVJqcnRUeENTWEN0eDkyZjAtRnVCQW9YZEJoZFIyV2J3RzA2LXJYZENaODNnQlhoZUh2VHhpQVFLYUFjWW5vci1PTFZJeWplT0RsUklBNTJXVWRtZ19EalhGSzJFZXRqRDBGMVhJUXhRZERFbHR3djhmTUk0aXF1OHo4S1puelNHY19zOW1uVXg1UGdpdmpHOVNqTmxQYzVsNFlLOW9iUU1wUFowTjNPSmh5OElDSW5KcW9Z?oc=5",
+          "summary": "Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) Department of Energy (.gov)"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2a9ea3474415",
+      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
+      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 08 Oct 2026 13:06:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDI1TlE1aGJudWVjbm8yblp3Um11YmkwSnRRRTNzdENYNGk4MTJsNnQyRXJ3QkdGMGlEYTM2TngwQ243TDMtckFGM0wweDU0VE9hYXY0QzNSYUdJZnlsTVQ3YV9wS240dFRsMXNjMzNNaUlwcm9Gb3RWRGpnc1NFdk15QzB3QTdwSnBRRHFjNDU2cGVjWVhIM3pVeDJhNGdhY0dhWUdoZV9kMjdsWFVJUmRyYXFmZF9RVVZGOUxWcTFwOU5TRkhrMUJQUC1Rd0s0dTZQbFRTWTN1cTJmNmdUelU2NmtzS1IwZHZLTUlCQXc4Y0th?oc=5",
+          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c2658406f9b7",
       "title": "International Business Machines (IBM): New Buy Recommendation for This Technology Giant - The Globe and Mail",
       "summary": "International Business Machines (IBM): New Buy Recommendation for This Technology Giant The Globe and Mail",
@@ -1688,24 +1742,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWRCMnJEN0hfdXA5aS1lVVdWQXB5cE41QThjWURQb19XUGlCUFpUQTNCNWNRWDVrS1N6WWRrdl96QW9OQ2pYSnpkSzlHTjNGZ3VWcm1aYVpZc2M0TlJjQUE0WXB1S1J0NHk2T25yNWQ3d3hXdVY1VlZkclhzdncySFlvdGFiOWJTTjRqVk93NWNQQnJlYjcxQWxjS19zcFlhOHItVVp3aF85a1Z3RnZ3TnN6aWxWcGtDZGJV?oc=5",
           "summary": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5afbfc45d029",
-      "title": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) - The Globe and Mail",
-      "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 12:40:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnY4d0lmTHFoeHJSSXFweTh1RFJRanZBbkNaMTBjOXJvX3F1X2xFb0V3NWZMQ0Z6bjA1NWZZaU1wNGV6MFZ0eE5XNHYyZkx1RlZaODFWX3R5bXh6cmpuaEpGR0txNVJOaUI2c0hpaHowNXg0QU5SM1BnbkVpWUE1SU9ESUMxSHk4OENaaC0wOHVCZDFUU0JsWXl2d3c4R1RaWTI1Z3ZhSzhUd1RWdXoxY1NtalpvUnhfcEV5YUxTT0ptRlpodk5rbkE3WVpqV2sxZG5rNnVObk1yeWl2cnM1b1loc0JZWnY1UHhqY18zUmE?oc=5",
-          "summary": "Analysts’ Top Technology Picks: International Business Machines (IBM), Zscaler (ZS) The Globe and Mail"
         }
       ],
       "sourcesCount": 1
@@ -1963,24 +1999,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "07d7b77ca4ff",
-      "title": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources - Reuters",
-      "summary": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 05:04:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5",
-          "summary": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a08d21e94db1",
       "title": "Italien: Melonis Machtpoker um das Wahlrecht",
       "summary": "Kann Italiens Ministerpräsidentin Meloni ihr umstrittenes neues Wahlrecht durchsetzen? Die Schlussabstimmung im Abgeordnetenhaus wird zur Zitterpartie.",
@@ -2182,6 +2200,42 @@
         }
       ],
       "sourcesCount": 2
+    },
+    {
+      "id": "dc2964d9b3b0",
+      "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+      "summary": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz.",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 11 Oct 2026 13:48:54 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+          "summary": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7576a530b56f",
+      "title": "Angriff auf Flughafen: \"Entscheidend, ob USA eingreifen\"",
+      "summary": "Nach dem Angriff auf Riad droht im Nahen Osten eine Eskalation. Laut ZDF-Korrespondentin Golineh Atai hängt der weitere Verlauf des Konflikts nun von einer US-Entscheidung ab.",
+      "link": "https://www.zdfheute.de/politik/ausland/flughafen-angriff-riad-huthi-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 11 Oct 2026 13:47:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/flughafen-angriff-riad-huthi-100.html",
+          "summary": "Nach dem Angriff auf Riad droht im Nahen Osten eine Eskalation. Laut ZDF-Korrespondentin Golineh Atai hängt der weitere Verlauf des Konflikts nun von einer US-Entscheidung ab."
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "bc6af096dd36",
@@ -2387,6 +2441,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "0db1cf89e89e",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 11 Oct 2026 11:55:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+          "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e8a56120e278",
+      "title": "Pope Leo says he will undergo surgery for small growth on lung - Reuters",
+      "summary": "Pope Leo says he will undergo surgery for small growth on lung Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 11 Oct 2026 11:53:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw?oc=5",
+          "summary": "Pope Leo says he will undergo surgery for small growth on lung Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "47ea434b5e64",
       "title": "Vincent Luis ist neuer Ironman-Weltmeister",
       "summary": "Vincent Luis ist Ironman-Weltmeister. Der Franzose gewann völlig überraschend auf Hawaii.",
@@ -2424,8 +2514,8 @@
     },
     {
       "id": "756011f8287a",
-      "title": "INTERNATIONAL KEYNOTE SPEAKER AND FUTURIST FOR HIRE: BOOK TOP EXPERT FOR CORPORATE EVENTS - www.futuristsspeakers.com",
-      "summary": "INTERNATIONAL KEYNOTE SPEAKER AND FUTURIST FOR HIRE: BOOK TOP EXPERT FOR CORPORATE EVENTS www.futuristsspeakers.com",
+      "title": "INTERNATIONAL KEYNOTE SPEAKER AND FUTURIST FOR HIRE: BOOK TOP EXPERT FOR CORPORATE EVENTS - https://www.futuristsspeakers.com/",
+      "summary": "INTERNATIONAL KEYNOTE SPEAKER AND FUTURIST FOR HIRE: BOOK TOP EXPERT FOR CORPORATE EVENTS https://www.futuristsspeakers.com/",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3JHUVItb29UeXNzdVFVZWN2aGdTeG9taFc0T09vN1hMSnV3dUlHeGN3YkEtc3BlNUJla3pCSW9uRzdkdkhOMy1MOVB5bkltVDdWemwzRmdPRTkySGY2MklPRmF4NHBfczFUYzVLb0xiVkhoRmQ0Y2dlZFE4X0cxR093djE1Zw?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
@@ -2435,7 +2525,7 @@
         {
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3JHUVItb29UeXNzdVFVZWN2aGdTeG9taFc0T09vN1hMSnV3dUlHeGN3YkEtc3BlNUJla3pCSW9uRzdkdkhOMy1MOVB5bkltVDdWemwzRmdPRTkySGY2MklPRmF4NHBfczFUYzVLb0xiVkhoRmQ0Y2dlZFE4X0cxR093djE1Zw?oc=5",
-          "summary": "INTERNATIONAL KEYNOTE SPEAKER AND FUTURIST FOR HIRE: BOOK TOP EXPERT FOR CORPORATE EVENTS www.futuristsspeakers.com"
+          "summary": "INTERNATIONAL KEYNOTE SPEAKER AND FUTURIST FOR HIRE: BOOK TOP EXPERT FOR CORPORATE EVENTS https://www.futuristsspeakers.com/"
         }
       ],
       "sourcesCount": 1
@@ -2454,24 +2544,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/cdu-fuehrung-konsequenzen-wahl-debakel-100.html",
           "summary": "Die CDU steckt in einer der schwersten Krisen ihrer Geschichte. Nun sucht das Parteipräsidium in einer Klausurtagung nach Lösungen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0db1cf89e89e",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 11 Oct 2026 11:27:51 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-          "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
         }
       ],
       "sourcesCount": 1
@@ -2508,6 +2580,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-chef-will-notbremse-in-kuenstlicher-intelligenz-faz-200452404.html",
           "summary": "Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI +++ Tesla benennt nach Kritik Assistenzsystem in Europa um +++ Bahn saniert bis 2031 deutlich weniger wichtige Strecken +++ Neuigkeiten im Unternehmen-Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3f18249596d6",
+      "title": "109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN agency says - Reuters",
+      "summary": "109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN agency says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3otdUpMV081a0ZSLTRCeHRwM2ZRV05qYi1nUHgtSHpjMnVPU2FXUV9jZ0JCYjFsTC1xN2lBUzNGTE9JeFNUMmlpV01pcnNkejk2TFdSMkp2WURRRWhNZloyRVRaTEYzamRTNXUwTV80ZkhoUE9OR1gwYWJVMUpwemhuMkVZT2dYLVF5NVUwSnJWNngtRFhJcDFHWkxjNmlDSDZEUlJ4R0hSQTBtN2JXb2s3MmUyaFBMSlJmNHc1WGdJVXEt?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 11 Oct 2026 11:23:31 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3otdUpMV081a0ZSLTRCeHRwM2ZRV05qYi1nUHgtSHpjMnVPU2FXUV9jZ0JCYjFsTC1xN2lBUzNGTE9JeFNUMmlpV01pcnNkejk2TFdSMkp2WURRRWhNZloyRVRaTEYzamRTNXUwTV80ZkhoUE9OR1gwYWJVMUpwemhuMkVZT2dYLVF5NVUwSnJWNngtRFhJcDFHWkxjNmlDSDZEUlJ4R0hSQTBtN2JXb2s3MmUyaFBMSlJmNHc1WGdJVXEt?oc=5",
+          "summary": "109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN agency says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2566,7 +2656,7 @@
         {
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/papst-muss-operiert-werden-100.html",
-          "summary": "\"Knoten in der Lunge\": Papst muss operiert werden"
+          "summary": "Während des Sonntagsgebets im Vatikan wandte sich Papst Leo XIV. mit einer beunruhigenden Nachricht an die Gläubigen: Er habe einen Knoten in der Lunge, der operiert werden müsse."
         }
       ],
       "sourcesCount": 2
@@ -2860,24 +2950,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "042219029b6a",
-      "title": "Indonesia moves 8 endangered orangutans to safety after Borneo fires - Reuters",
-      "summary": "Indonesia moves 8 endangered orangutans to safety after Borneo fires Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3gtLWRwQm9panpkR3gyb0Jic0JnUzhERzBLV3hDcm40eWZaM2lfd2gxenRIaUNRUWlTYU96MnpReC0xNTkyNVdHMUhWNEJaN3dRSUxSenVjXzNDdzNjZjVUUXRlZ1Zkc1JEMDY1VUQtYmdLZDJYRW1tV3U2cG15MXM0Z2dzMjl5eWgyZC1xcTZxWnZUNUtYeUhiSnlMTXRJRV9RRnh6TklrUGJDUk1aZlhLajJ2ZG41S0k5ZmJkQQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 11 Oct 2026 10:19:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3gtLWRwQm9panpkR3gyb0Jic0JnUzhERzBLV3hDcm40eWZaM2lfd2gxenRIaUNRUWlTYU96MnpReC0xNTkyNVdHMUhWNEJaN3dRSUxSenVjXzNDdzNjZjVUUXRlZ1Zkc1JEMDY1VUQtYmdLZDJYRW1tV3U2cG15MXM0Z2dzMjl5eWgyZC1xcTZxWnZUNUtYeUhiSnlMTXRJRV9RRnh6TklrUGJDUk1aZlhLajJ2ZG41S0k5ZmJkQQ?oc=5",
-          "summary": "Indonesia moves 8 endangered orangutans to safety after Borneo fires Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a8c1ddc277bc",
       "title": "Polish security services meet following threat to PM and defence minister - Reuters",
       "summary": "Polish security services meet following threat to PM and defence minister Reuters",
@@ -2955,10 +3027,10 @@
       "sourcesCount": 2
     },
     {
-      "id": "2bd92551d084",
+      "id": "64ab2e280c6d",
       "title": "Iranian nuclear technology safe from US attacks, says atomic energy chief - Middle East Eye",
       "summary": "Iranian nuclear technology safe from US attacks, says atomic energy chief Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRW1DZGJuYnV3M2xjZDFqemNoTFBEYmdGZTZpQjFVUkFGQ3FGUEt6VG9ldFJKd3c3OEI1Y2Z0Nmdva1dlNmRVR0pxQktFTjdud2x2NTlLam9rNzFMZXA3TlJsdUZ0a2RkLV93UTg4NW9zeFpYWkNiN0JwQzFET0pxbmpRUmNMMmF6c2kxbEduNlplWEdHSUNISnJIblpUQklNYUNCY3k4ckVvb1lfVWhLREZGa0M2M0s5Y001RUtUUzduQnlHYjZEbFVYZ1pzVDVtbWRUblVkaElvbWU0dDhzS0lJbEhlYlRlUml4bDRwUjZPQVgwbnFBWHlVXzlTLXpRWkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGVPWHgyMlBmTXJkdVJkOFppVzlMUEtBb3BEdndpU0RjYUhnOEdDaDRDRXp2SGhnMzFGU0hlUmE5aGdoYlRxb0Zvay1MZVk2OEhRbWR2cFNyWm43aVpEYXhWYnNQTjdQY2R3MUZjODNFU3NmWW5DTzhSdEozbjBBcDhreFhhR2VKZWUzWnFwWE9JZmdUMl9zMi1iZnRKMFk2b2JxNlBac0Izb1JGRTVZal9nTDlOUFRxa3U1TVNnM3Vwdw?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
@@ -2966,7 +3038,7 @@
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRW1DZGJuYnV3M2xjZDFqemNoTFBEYmdGZTZpQjFVUkFGQ3FGUEt6VG9ldFJKd3c3OEI1Y2Z0Nmdva1dlNmRVR0pxQktFTjdud2x2NTlLam9rNzFMZXA3TlJsdUZ0a2RkLV93UTg4NW9zeFpYWkNiN0JwQzFET0pxbmpRUmNMMmF6c2kxbEduNlplWEdHSUNISnJIblpUQklNYUNCY3k4ckVvb1lfVWhLREZGa0M2M0s5Y001RUtUUzduQnlHYjZEbFVYZ1pzVDVtbWRUblVkaElvbWU0dDhzS0lJbEhlYlRlUml4bDRwUjZPQVgwbnFBWHlVXzlTLXpRWkE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGVPWHgyMlBmTXJkdVJkOFppVzlMUEtBb3BEdndpU0RjYUhnOEdDaDRDRXp2SGhnMzFGU0hlUmE5aGdoYlRxb0Zvay1MZVk2OEhRbWR2cFNyWm43aVpEYXhWYnNQTjdQY2R3MUZjODNFU3NmWW5DTzhSdEozbjBBcDhreFhhR2VKZWUzWnFwWE9JZmdUMl9zMi1iZnRKMFk2b2JxNlBac0Izb1JGRTVZal9nTDlOUFRxa3U1TVNnM3Vwdw?oc=5",
           "summary": "Iranian nuclear technology safe from US attacks, says atomic energy chief Middle East Eye"
         }
       ],
@@ -3124,7 +3196,7 @@
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Sun, 11 Oct 2026 08:50:37 GMT",
+      "time": "Sun, 11 Oct 2026 08:50:02 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
@@ -3364,9 +3436,14 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUlyV0IybXFzanN6N1FSS3JuaEljNFhGMWtwXzJwR3g0S0NTVkNvUW1CSW4tSWxzY2txeTAxZGxvR2Y2RW53cklmbF8tNGVpaEFTRXlMeW15RkpkVGQ3clNwejJoOXBmQnhYd1ZXWGFJMVVBZ1hpUGFPWDdXeWV4LU1ORFVoekJleFlnOHFRenp4d29OVmV4U0c4eUJJY051RGFna01qMUJ2WFp3cGdHUm5kV0lSZ1hMMFJpdExQN21wMkJHcm1GU01yWQ?oc=5",
           "summary": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports Reuters"
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
+          "summary": "Yemen's Houthis renew warning over Saudi airports after deadly Riyadh attack Reuters"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "b48c7bed88b6",
@@ -3495,24 +3572,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f736d0853480",
-      "title": "World Bank in talks with dozens of countries about crisis aid, Banga says - Reuters",
-      "summary": "World Bank in talks with dozens of countries about crisis aid, Banga says Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUk05OEhXNFVFX2p1ck9TcEpMa0pFUjYzN2xqVUNhLTY1OV9PSnMtTWp6cE84cUhodjMtUUdzb3BtYjU5cEcydW1aYVNNR1AtRXhVdkpiQ1UxSnZYNkdvMHFUTkQtX3pvOW9NVG1EREZqRFl0UDdPeHhFUzJCQUoyMndqX1BXbDFaMlRUUGNDd2tjUjBJWDdvcWRRMXBmM2hXSzZWc2Vxd0VJU21GR1ZrZlpGQmpUa2JEQVNn?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Sun, 11 Oct 2026 06:07:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUk05OEhXNFVFX2p1ck9TcEpMa0pFUjYzN2xqVUNhLTY1OV9PSnMtTWp6cE84cUhodjMtUUdzb3BtYjU5cEcydW1aYVNNR1AtRXhVdkpiQ1UxSnZYNkdvMHFUTkQtX3pvOW9NVG1EREZqRFl0UDdPeHhFUzJCQUoyMndqX1BXbDFaMlRUUGNDd2tjUjBJWDdvcWRRMXBmM2hXSzZWc2Vxd0VJU21GR1ZrZlpGQmpUa2JEQVNn?oc=5",
-          "summary": "World Bank in talks with dozens of countries about crisis aid, Banga says Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "261b40ad42fa",
       "title": "Taugt Dosenfisch als Fitnessfood?",
       "summary": "Auf TikTok und in der Fitness-Bubble werden Fischkonserven als Nährstoff-Kraftpakete gefeiert. Doch was ist dran an dem Hype um Dosenfisch und wie gesund ist er wirklich?",
@@ -3544,6 +3603,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEhPZ3VuSUMzcXU1aEdQMXdneUZiSWhTalNmRDgyRkxaZ1JNYjVwYURmNVNZdFRwYjNrdURhN0pSX2ZmMFhWN0w1T1JTZFRwZHdycjEyVng3NEJ0STRqZG5fTzJ5d2lBbnd2c19udTlsMVRNTGNLVnlHZlhUVzZHUC1SbVJqVFpmZExLSzFNaE8tbDF2Z3FXVExkSk1sUlU3QnJ2M2JoUmFYMjJUTE9aWXdyU3Rxc1VhaWhZdXFXYW02b3PSAcMBQVVfeXFMUEd0NkNuMjJEa18wWXYwclV5d1RMX1A1MldxeWNBTDRhcFA5VnU0ZHBJN2F0M3ozM001cWNXSVZTLWFCV2F0bzBTenhObkhIa1R6SzFBNkhONUc2Rkpyc1kwb2JpQ2gtcHhVVm9id2hiZ08zUWgzVWl2Rk1pM2xNVnFTcTBlbHlTam9MbVVMejA5WHFmWFY4YVQwTXpWekVEa21oVDFsNHY2cnNTLVNnVkdaOGFHTnh2VjJUaGRleEdORDVF?oc=5",
           "summary": "What’s in a name? Trump calls it ‘SI’."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "61d8fcda873d",
+      "title": "Business People Northwest Arkansas - Northwest Arkansas Democrat-Gazette",
+      "summary": "Business People Northwest Arkansas Northwest Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sYWc5SHVRUnhHcmFwbTNtYU1xekt5ZGtPQnZkcE1tbGFKMTFuZVV6RjFSQUpxaUZ5RUllQjVQZXpya3RkdjJXa0tYdVMwNERpaVNLZlY3OXYtLVVNYndHYVp5S1RCY19KQ0tlNW13?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 11 Oct 2026 06:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sYWc5SHVRUnhHcmFwbTNtYU1xekt5ZGtPQnZkcE1tbGFKMTFuZVV6RjFSQUpxaUZ5RUllQjVQZXpya3RkdjJXa0tYdVMwNERpaVNLZlY3OXYtLVVNYndHYVp5S1RCY19KQ0tlNW13?oc=5",
+          "summary": "Business People Northwest Arkansas Northwest Arkansas Democrat-Gazette"
         }
       ],
       "sourcesCount": 1
@@ -3788,24 +3865,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ecf374c9093a",
-      "title": "Wegen Sende-Stopps: Untersuchung gegen CNN, Fox News & Co.",
-      "summary": "Der Medienkampf in Washington geht weiter: Nachdem das Weiße Haus mehrere TV-Sender ausgeschlossen hatte, soll laut einem Bericht nun das Justizministerium ermitteln.",
-      "link": "https://www.zdfheute.de/politik/ausland/cnn-klage-kartell-trump-usa-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 11 Oct 2026 04:29:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/cnn-klage-kartell-trump-usa-100.html",
-          "summary": "Der Medienkampf in Washington geht weiter: Nachdem das Weiße Haus mehrere TV-Sender ausgeschlossen hatte, soll laut einem Bericht nun das Justizministerium ermitteln."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a0b165924ace",
       "title": "Israel Used AI-Assisted Technology to Destroy Infrastructure in Gaza - Genocide Watch",
       "summary": "Israel Used AI-Assisted Technology to Destroy Infrastructure in Gaza Genocide Watch",
@@ -3837,6 +3896,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5",
           "summary": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fa46fb349a88",
+      "title": "Nanotechnology expert Antonio Facchetti joins HKUST from Georgia Tech - South China Morning Post",
+      "summary": "Nanotechnology expert Antonio Facchetti joins HKUST from Georgia Tech South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSUW9yZktxWWN6dGlGUkZ3aHVTQ1hSbzFvUjIxZnkwc3lwc3VtbzFUS2J1OEtzQ04xR2xRQTJ1SEJINFJVYWJCYmJFX19EZHNGbEZBQzJPaFhleU5IWGdNNTFZSHRncDNnSEtCc2tGYjh3ZnYyeXk4aFc3emxaVFpObXZqdzNmc3VNWEdoNlM3SUMyVFVkN1lJV0dJWVE1dVQ2NkJONURpNHZ5TTVTS2I2V2NfWWpEbXgyejdURzfSAcABQVVfeXFMT0U4YmR2cHhXTXE3ajl1ODNHMF9pWVRnd192MFhhLU1TMTZGUGVvYTB0STNfU1RDVDB6M25ydzlIN01iRUtJdHZGZjFsd3YzUVp0SVdvSGZiSWlsdU9ZYjR2RU40a1l5MzlpV1JiaGZSVEttandfN1ljbFlZLVRZTUpQdWFudTh1YkxiR3pFSFQ3RGxUblZkLTNBREZJY0wtZmo0YVprQzloNTRrVEVZamhOdkhYejhBSlpTdkFkT3lW?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 11 Oct 2026 04:00:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSUW9yZktxWWN6dGlGUkZ3aHVTQ1hSbzFvUjIxZnkwc3lwc3VtbzFUS2J1OEtzQ04xR2xRQTJ1SEJINFJVYWJCYmJFX19EZHNGbEZBQzJPaFhleU5IWGdNNTFZSHRncDNnSEtCc2tGYjh3ZnYyeXk4aFc3emxaVFpObXZqdzNmc3VNWEdoNlM3SUMyVFVkN1lJV0dJWVE1dVQ2NkJONURpNHZ5TTVTS2I2V2NfWWpEbXgyejdURzfSAcABQVVfeXFMT0U4YmR2cHhXTXE3ajl1ODNHMF9pWVRnd192MFhhLU1TMTZGUGVvYTB0STNfU1RDVDB6M25ydzlIN01iRUtJdHZGZjFsd3YzUVp0SVdvSGZiSWlsdU9ZYjR2RU40a1l5MzlpV1JiaGZSVEttandfN1ljbFlZLVRZTUpQdWFudTh1YkxiR3pFSFQ3RGxUblZkLTNBREZJY0wtZmo0YVprQzloNTRrVEVZamhOdkhYejhBSlpTdkFkT3lW?oc=5",
+          "summary": "Nanotechnology expert Antonio Facchetti joins HKUST from Georgia Tech South China Morning Post"
         }
       ],
       "sourcesCount": 1
@@ -4351,24 +4428,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/israil-basini-trump-ve-netanyahu-son-haftalarda-irana-saldiri-konusunda-gorusmeler-yurutuyor-959782.html",
           "summary": "İsrail basını, ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında son haftalarda İran'a saldırılar konusunda yoğun görüşme trafiği yapıldığını ileri sürdü."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "18c23e10484c",
-      "title": "Pittsburgh Regional Transit plans temporary technology systems outage - WPXI",
-      "summary": "Pittsburgh Regional Transit plans temporary technology systems outage WPXI",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUtHanJaUGxVSllnNTdmSEVmemlwYnhrTG8wRXg4a1NnVHo4d3dRLUI3OHJaaU5wcVVwVmQ2WjRqRUkyd1NZTVBnSGhCNVctbFEtWXc1ck1iYjVxUmo4UmVGRF9KRWlVMHJuYm9wb3dqZzZhdGlBbVVnbnFRdUVpM2FyeHNOZjdjMi1XaDJDYjEyZ3N2aXY4WVdMOEFFbmRUeVpwVFpOTTJsd2ZJSDRfa3h3Y2U3MXpQU2VyOEJQRHZDZ2o0U2IwVNIB3AFBVV95cUxQTVJOVVIxcS1VTkVQVmQyanctQWY4TUYxWnBzcElLSjVRMFhUaEZ6Wm5NUHdWdEhKaTdURFpkTGV6eUljZThsYmNKVG9lXzlwbDJ4NTV5QnJFZlhrVzJHLWhDVlMyWDItSWo4d245YlVLdzRQYnB6aE5JbXFabDZDandqUTMxZXVuNVJ1VHNRVERUSGxqWi1iRUZzMWd5U2ctdFZBbW1ydXJHX2FOcjJKTE1VbFlwZXVzT1F4SnRld2lNNC02S0ZMeF80ZDQ5MkZKUUhNcDd2SDJYeEZW?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 23:37:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUtHanJaUGxVSllnNTdmSEVmemlwYnhrTG8wRXg4a1NnVHo4d3dRLUI3OHJaaU5wcVVwVmQ2WjRqRUkyd1NZTVBnSGhCNVctbFEtWXc1ck1iYjVxUmo4UmVGRF9KRWlVMHJuYm9wb3dqZzZhdGlBbVVnbnFRdUVpM2FyeHNOZjdjMi1XaDJDYjEyZ3N2aXY4WVdMOEFFbmRUeVpwVFpOTTJsd2ZJSDRfa3h3Y2U3MXpQU2VyOEJQRHZDZ2o0U2IwVNIB3AFBVV95cUxQTVJOVVIxcS1VTkVQVmQyanctQWY4TUYxWnBzcElLSjVRMFhUaEZ6Wm5NUHdWdEhKaTdURFpkTGV6eUljZThsYmNKVG9lXzlwbDJ4NTV5QnJFZlhrVzJHLWhDVlMyWDItSWo4d245YlVLdzRQYnB6aE5JbXFabDZDandqUTMxZXVuNVJ1VHNRVERUSGxqWi1iRUZzMWd5U2ctdFZBbW1ydXJHX2FOcjJKTE1VbFlwZXVzT1F4SnRld2lNNC02S0ZMeF80ZDQ5MkZKUUhNcDd2SDJYeEZW?oc=5",
-          "summary": "Pittsburgh Regional Transit plans temporary technology systems outage WPXI"
         }
       ],
       "sourcesCount": 1
@@ -5114,24 +5173,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e11261628949",
-      "title": "Men's Swimming Edged by Rowan, 135-127 - Stevens Institute of Technology Athletics",
-      "summary": "Men's Swimming Edged by Rowan, 135-127 Stevens Institute of Technology Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFpjYTRnZHhvWFpnZjFSYW9rdjBtd3E5Qk1MdzNVaWdWdEhXMVlTT0V1aWJRSTVxNGxsLXVsU193eXVCU1JuV201ek0zemV4SXh2QVNLdFpRakdJRHgyUGllVlhZU2xPRjVyTnF0TDA1YmNKUHZHMk1jcmVQVnNENjl0ellYOWF1cmc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 19:27:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFpjYTRnZHhvWFpnZjFSYW9rdjBtd3E5Qk1MdzNVaWdWdEhXMVlTT0V1aWJRSTVxNGxsLXVsU193eXVCU1JuV201ek0zemV4SXh2QVNLdFpRakdJRHgyUGllVlhZU2xPRjVyTnF0TDA1YmNKUHZHMk1jcmVQVnNENjl0ellYOWF1cmc?oc=5",
-          "summary": "Men's Swimming Edged by Rowan, 135-127 Stevens Institute of Technology Athletics"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ce457209406c",
       "title": "Yahşihan Belediye Başkan Vekili görevden uzaklaştırıldı",
       "summary": "Yahşihan Belediye Başkan Vekili Aydın Demirdirek, 'Rüşvet, İhaleye Fesat Karıştırma, Suç Örgütüne Yardım Etme' suçlamalarıyla tutuklanması üzerine İçişleri Bakanlığınca görevinden uzaklaştırıldı.",
@@ -5456,42 +5497,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/riyaddaki-havalimanina-yeniden-saldiri-duzenlendi-959760.html",
           "summary": "Suudi Arabistan'ın başkenti Riyad'daki havalimanının biri pilot, üç kişinin hayatını kaybettiği saldırıdan iki gün sonra tekrar saldırıya uğradığı bildirildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1ffc0602c8a3",
-      "title": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg",
-      "summary": "Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren.",
-      "link": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 10 Oct 2026 17:54:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-          "summary": "Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1e727d2a9be7",
-      "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
-      "summary": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
-      "link": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Sat, 10 Oct 2026 17:49:44 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-          "summary": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles."
         }
       ],
       "sourcesCount": 1
