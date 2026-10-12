@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T18:06:06.721167+00:00",
+  "updated": "2026-10-12T18:47:30.459840+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -87,6 +87,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
           "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f0497d903225",
+      "title": "Berlin zieht Olympia-Bewerbung zurück",
+      "summary": "Zuletzt waren Berlin ohnehin nur noch Außenseiterchancen eingeräumt worden. Nun will die Stadt ihre Bewerbung für die Olympischen Spiele zurückziehen.",
+      "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 23 Sep 2026 18:23:08 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html",
+          "summary": "Zuletzt waren Berlin ohnehin nur noch Außenseiterchancen eingeräumt worden. Nun will die Stadt ihre Bewerbung für die Olympischen Spiele zurückziehen."
         }
       ],
       "sourcesCount": 1
@@ -429,24 +447,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
           "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in fast allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "81c1c1d580b2",
-      "title": "Inside Liverpool's increasing global investment in youth - BBC",
-      "summary": "Inside Liverpool's increasing global investment in youth BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMW5LdHBqV1dQRDBzMXYwb0x2V0ZWa05UMGpfSjNsMTNFb2NmYkd0VlhVTE9IMFF5OEMxSFdfbGI3dUJTZU1iRV9ZRkFKWTk1Mi03SjFtT3AxWEZFdUtIRGhCekVtYncy?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMW5LdHBqV1dQRDBzMXYwb0x2V0ZWa05UMGpfSjNsMTNFb2NmYkd0VlhVTE9IMFF5OEMxSFdfbGI3dUJTZU1iRV9ZRkFKWTk1Mi03SjFtT3AxWEZFdUtIRGhCekVtYncy?oc=5",
-          "summary": "Inside Liverpool's increasing global investment in youth BBC"
         }
       ],
       "sourcesCount": 1
@@ -999,24 +999,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/american-football/ein-kniefall-und-seine-folgen,colin-kaepernick-kniefall-zehn-jahre-100.html",
           "summary": "Vor zehn Jahren versetzte Colin Kaepernick mit seinem Kniefall-Protest die Sportwelt in Aufruhr. Sein Protest stößt eine Debatte über Rassismus, Polizeigewalt und politischen Protest im US-Sport an."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fffaa82fa51f",
-      "title": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies - Pollstar News",
-      "summary": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies Pollstar News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlNqSXJuSW9lVE94MjRrZ3JVNXZ4WldHV1dXTkFBMngtNGhjbUZ4eTNsaE9jaHVwdlZPNXJsWmtqR1dYMFI4X2c3aDdqZENqd0RhUUpsYmRFNXIxZl81MnJWVkhqdFZLTExKcWEtSmR0c1RUd29NYTM3aF94ZDJYUkZiaW1MRmMxZzgxOTBDcVBxSERRV2ctU3pEYVJsdXkwZlN6b2NlbUVtdWRkU0RXMHBQbG1NVGpKeXhHdGt3?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlNqSXJuSW9lVE94MjRrZ3JVNXZ4WldHV1dXTkFBMngtNGhjbUZ4eTNsaE9jaHVwdlZPNXJsWmtqR1dYMFI4X2c3aDdqZENqd0RhUUpsYmRFNXIxZl81MnJWVkhqdFZLTExKcWEtSmR0c1RUd29NYTM3aF94ZDJYUkZiaW1MRmMxZzgxOTBDcVBxSERRV2ctU3pEYVJsdXkwZlN6b2NlbUVtdWRkU0RXMHBQbG1NVGpKeXhHdGt3?oc=5",
-          "summary": "VNC Panel Preview: International Business – Market Conditions, Opportunities & Strategies Pollstar News"
         }
       ],
       "sourcesCount": 1
@@ -1634,24 +1616,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "34cfbf4f7328",
-      "title": "Suudi Arabistan'daki havalimanlarına düzenlenen 10 saldırıda 19 kişi öldü",
-      "summary": "Suudi Arabistan'da bir haftada 5 havalimanının hedef alındığı 10 saldırıda 19 kişi yaşamını yitirdi, yüzlerce kişi yaralandı.",
-      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistandaki-havalimanlarina-duzenlenen-10-saldirida-19-kisi-oldu-959838.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sun, 11 Oct 2026 23:25:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/suudi-arabistandaki-havalimanlarina-duzenlenen-10-saldirida-19-kisi-oldu-959838.html",
-          "summary": "Suudi Arabistan'da bir haftada 5 havalimanının hedef alındığı 10 saldırıda 19 kişi yaşamını yitirdi, yüzlerce kişi yaralandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7d79cf1d27b2",
       "title": "'It's a bad situation' - Why Man City win creates uncertainty",
       "summary": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the club awaits a potential punishment, which could include a points deduction, after they were found guilty of financial breaches.",
@@ -1665,24 +1629,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss",
           "summary": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the club awaits a potential punishment, which could include a points deduction, after they were found guilty of financial breaches."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4b1f442b5cbf",
-      "title": "Suudi Arabistan, Kral Fahd Havalimanı'na yeni saldırı düzenlendiğini duyurdu",
-      "summary": "Suudi Arabistan, ülkenin doğusundaki Dammam kentinde bulunan Kral Fahd Uluslararası Havalimanı'na yeni saldırı düzenlendiğini duyurdu.",
-      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-kral-fahd-havalimanina-yeni-saldiri-duzenlendigini-duyurdu-959837.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 11 Oct 2026 23:21:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-kral-fahd-havalimanina-yeni-saldiri-duzenlendigini-duyurdu-959837.html",
-          "summary": "Suudi Arabistan, ülkenin doğusundaki Dammam kentinde bulunan Kral Fahd Uluslararası Havalimanı'na yeni saldırı düzenlendiğini duyurdu."
         }
       ],
       "sourcesCount": 1
@@ -1755,24 +1701,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
           "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bc8af660b442",
-      "title": "Cow 'Fitbit' helps pastoralists care for newborn calves - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "Cow 'Fitbit' helps pastoralists care for newborn calves ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVBOV2V0YWdrZVdTalVKTzlhemY3R1BkbU5UZnN0NV9rLTdKaDZJVms2UG13Qk90LW9ma2Q5OUU4VWFhZV91RmUtdW5fMjdOOFJ6UUtFR0NDZGZ1TjQxb00xWVl1bHdHSkpaUGJHTTdMeXhWTFhhSTBzOG0xam9Bb3NuYXpKcUNLRGJRRU12UlROSnBsNXFIcS14TlllWDhTQV9NS244bzJNYkd0bkE?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 11 Oct 2026 22:55:36 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVBOV2V0YWdrZVdTalVKTzlhemY3R1BkbU5UZnN0NV9rLTdKaDZJVms2UG13Qk90LW9ma2Q5OUU4VWFhZV91RmUtdW5fMjdOOFJ6UUtFR0NDZGZ1TjQxb00xWVl1bHdHSkpaUGJHTTdMeXhWTFhhSTBzOG0xam9Bb3NuYXpKcUNLRGJRRU12UlROSnBsNXFIcS14TlllWDhTQV9NS244bzJNYkd0bkE?oc=5",
-          "summary": "Cow 'Fitbit' helps pastoralists care for newborn calves ABC News & Headlines – Australian Broadcasting Corporation"
         }
       ],
       "sourcesCount": 1
@@ -2403,24 +2331,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/panorama-wasserbueffel-moore-klima-100.html",
           "summary": "Landwirt Jochen Fritz setzt auf die Haltung von Wasserbüffeln, um wiedervernässte Moore zu bewirtschaften. Denn die Feuchtgebiete speichern CO₂."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c22c4106e5d8",
-      "title": "New Technology Allows Release of Sensitive Rebbe Videos - Anash.org",
-      "summary": "New Technology Allows Release of Sensitive Rebbe Videos Anash.org",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05QUNRSDV0ZWs1aWVqSEJhY2JUNU1ueEtHeDdUX3dFLUxQU3ZCVExpQmpmVXB3TnFQVk5BZU9IWUVldmVWSVNSamJkMHdaaVRlcEVMcFQteDdJZ0pRMDk5aFVVMnBuQ0tIZ0pTRzFna29NS3FZTXVUSGJTTzRKS2M?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 11 Oct 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05QUNRSDV0ZWs1aWVqSEJhY2JUNU1ueEtHeDdUX3dFLUxQU3ZCVExpQmpmVXB3TnFQVk5BZU9IWUVldmVWSVNSamJkMHdaaVRlcEVMcFQteDdJZ0pRMDk5aFVVMnBuQ0tIZ0pTRzFna29NS3FZTXVUSGJTTzRKS2M?oc=5",
-          "summary": "New Technology Allows Release of Sensitive Rebbe Videos Anash.org"
         }
       ],
       "sourcesCount": 1
@@ -3094,24 +3004,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4a8c6a4156e2",
-      "title": "Skydance Will Focus on ‘Embracing Technology’ as SKYD Stock Debuts After Merger. Is It Enough? - Barchart.com",
-      "summary": "Skydance Will Focus on ‘Embracing Technology’ as SKYD Stock Debuts After Merger. Is It Enough?",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUF1RFl4UzJhUENKOFNiZHhBem1rSVc1dEdHY0YyQW1qMnpDY0tWSERPcUJMdDhscXBidktSQmQ4SVVyTWFSX3BwZjRjSGJOemJEQVl4TV9ib1M0WGY2aGpUdzJEY3o3LUUwMGUwYld6cTUtNGFpZUtmSVBvSUFTRF9ZVDNsckN5cnFCZl9rWHFoeU5Lc0dZWnFTMnJJNGNoX3hYMnl1MHBKMEdLbndvUFVYWmMwRld5VVdZSWZGOXVacmVpN2w3bEg5b3BYYnM?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 12:23:51 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUF1RFl4UzJhUENKOFNiZHhBem1rSVc1dEdHY0YyQW1qMnpDY0tWSERPcUJMdDhscXBidktSQmQ4SVVyTWFSX3BwZjRjSGJOemJEQVl4TV9ib1M0WGY2aGpUdzJEY3o3LUUwMGUwYld6cTUtNGFpZUtmSVBvSUFTRF9ZVDNsckN5cnFCZl9rWHFoeU5Lc0dZWnFTMnJJNGNoX3hYMnl1MHBKMEdLbndvUFVYWmMwRld5VVdZSWZGOXVacmVpN2w3bEg5b3BYYnM?oc=5",
-          "summary": "Skydance Will Focus on ‘Embracing Technology’ as SKYD Stock Debuts After Merger. Is It Enough?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4a38bdf79976",
       "title": "Türk dünyasından gelen futbolcular Türk statüsünde sayılacak",
       "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk dünyasından Türkiye'ye gelen futbolcuların yabancı değil \"Türk statüsünde\" oynaması ve iki yılda bir \"Türk Kupası\" futbol turnuvası düzenlenmesi için çalışma başlatıldığını söyledi.",
@@ -3274,24 +3166,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/sermaye-kaybi-olan-sirketlere-saglanan-kolayligin-suresi-uzatildi-959721.html",
           "summary": "Sermaye kaybı yaşayan veya borca batık şirketlerin durumuna ilişkin yapılan hesaplamalarda, henüz ifa edilmemiş yabancı para cinsinden yükümlülüklerden doğan kur farkı zararlarının tamamı ile 2020 ve 2021 yıllarında tahakkuk eden bazı giderlerinin hesaplamalarda dikkate alınmaması imkanının süresi 1 Ocak 2028'e kadar uzatıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "54122f07e7b6",
-      "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance",
-      "summary": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXlFcXRPbktDQ1hqekFyaTlVRFhYdmk4RV9IUE8zMzZYOU42RkQ4MEprQVlzNm5CZ1ZjRTEycVV4RTB5REhKcDdZVVBMdWVGcXlWcDNSRUdJM3hONWY5SHdIeTg4Z0N6d0lDcklMNXktRzE3ZE1CQ1FLRHF2bHdaZG5nOXkwakotbng0SXFzN2JZY1ZHcWp0dnNvVEs?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 10:09:44 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXlFcXRPbktDQ1hqekFyaTlVRFhYdmk4RV9IUE8zMzZYOU42RkQ4MEprQVlzNm5CZ1ZjRTEycVV4RTB5REhKcDdZVVBMdWVGcXlWcDNSRUdJM3hONWY5SHdIeTg4Z0N6d0lDcklMNXktRzE3ZE1CQ1FLRHF2bHdaZG5nOXkwakotbng0SXFzN2JZY1ZHcWp0dnNvVEs?oc=5",
-          "summary": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -3690,6 +3564,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "635378eeb674",
+      "title": "How will Premier League and Championship clubs train during three-week international break? - BBC",
+      "summary": "How will Premier League and Championship clubs train during three-week international break? BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45cnE3dWJPYjFsXy1NTDhtYVZzUDk1SkY3WFJjUXplZC04V2pGUnAxSnVyUkktVlZMdU1BNThTb2s2OUt4X3Z4d3FoMzQtNWRSZzZGOVFPbFBXUHQ3U3dtT0E4TkJNTWc?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45cnE3dWJPYjFsXy1NTDhtYVZzUDk1SkY3WFJjUXplZC04V2pGUnAxSnVyUkktVlZMdU1BNThTb2s2OUt4X3Z4d3FoMzQtNWRSZzZGOVFPbFBXUHQ3U3dtT0E4TkJNTWc?oc=5",
+          "summary": "How will Premier League and Championship clubs train during three-week international break? BBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e04318e5ecc9",
       "title": "Will three-week break put more pressure on managers? - BBC",
       "summary": "Will three-week break put more pressure on managers? BBC",
@@ -3703,6 +3595,96 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWXhUdHpTSTVSaEtiUnRvRG9ZYnhWazVzZ28teWF3MGE2VlEwYThjMTYzZk0zaEF0TWFlSi1KSFpEUjNOcmQ1M05VYzJDTFFwTXI3OEFDVDR5Yk5RZ3ZFSGZSVHlPeVJn?oc=5",
           "summary": "Will three-week break put more pressure on managers? BBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9d796ce2c97d",
+      "title": "Endonezya'daki Semeru Yanardağı'nda patlama yaşandı",
+      "summary": "Endonezya'ya bağlı Java Adası'nın doğusunda bulunan Semeru Yanardağı, 900 metre yüksekliğe kadar kül püskürttü.",
+      "link": "https://www.trthaber.com/haber/dunya/endonezyadaki-semeru-yanardaginda-patlama-yasandi-959934.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 21:38:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/endonezyadaki-semeru-yanardaginda-patlama-yasandi-959934.html",
+          "summary": "Endonezya'ya bağlı Java Adası'nın doğusunda bulunan Semeru Yanardağı, 900 metre yüksekliğe kadar kül püskürttü."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2737c8969cbc",
+      "title": "Norveç'teki askeri tatbikatta kiralık araçların hassas bilgileri kaydettiği ileri sürüldü",
+      "summary": "Norveç'teki askeri tatbikatta kullanılan kiralık araçların hassas bilgileri kaydettiği öne sürüldü, askerlerin rotalarının ve şifrelerinin kayıt altına alınması ülkede güvenlik endişesini gündeme getirdi.",
+      "link": "https://www.trthaber.com/haber/dunya/norvecteki-askeri-tatbikatta-kiralik-araclarin-hassas-bilgileri-kaydettigi-ileri-suruldu-959933.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 21:25:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/norvecteki-askeri-tatbikatta-kiralik-araclarin-hassas-bilgileri-kaydettigi-ileri-suruldu-959933.html",
+          "summary": "Norveç'teki askeri tatbikatta kullanılan kiralık araçların hassas bilgileri kaydettiği öne sürüldü, askerlerin rotalarının ve şifrelerinin kayıt altına alınması ülkede güvenlik endişesini gündeme getirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "769868c900c8",
+      "title": "Suudi Arabistan'da patlama sesleri duyuldu",
+      "summary": "Suudi Arabistan'ın başkenti Riyad'da üç patlama sesi duyuldu.",
+      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-patlama-sesleri-duyuldu-959930.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Mon, 12 Oct 2026 21:12:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-patlama-sesleri-duyuldu-959930.html",
+          "summary": "Suudi Arabistan'ın başkenti Riyad'da üç patlama sesi duyuldu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1a2f069041b7",
+      "title": "Katil İsrail'in Gazze'de Sarı Hat çevresindeki binaları patlatması Filistinlileri bir kez daha yerinden ediyor",
+      "summary": "Gazze Şeridi’ndeki Sivil Savunma Teşkilatı, İsrail ordusunun \"Sarı Hat\" çevresindeki binaları patlatarak yıkma operasyonları nedeniyle zorunlu göçün tırmanmasından derin endişe duyulduğunu bildirdi.",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-sari-hat-cevresindeki-binalari-patlatmasi-filistinlileri-bir-kez-daha-yerinden-ediyor-959931.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 21:05:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-sari-hat-cevresindeki-binalari-patlatmasi-filistinlileri-bir-kez-daha-yerinden-ediyor-959931.html",
+          "summary": "Gazze Şeridi’ndeki Sivil Savunma Teşkilatı, İsrail ordusunun \"Sarı Hat\" çevresindeki binaları patlatarak yıkma operasyonları nedeniyle zorunlu göçün tırmanmasından derin endişe duyulduğunu bildirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "022d2966037f",
+      "title": "İran'ın Londra Büyükelçisi Mousavi, İngiltere Dışişleri Bakanlığına çağrıldı",
+      "summary": "İran'ın Londra Büyükelçisi Seyed Ali Mousavi, Tahran'ın \"ülke güvenliğini tehdit eden faaliyetlerde bulunduğu gerekçesiyle\" İngiltere Dışişleri Bakanlığına çağrıldı.",
+      "link": "https://www.trthaber.com/haber/dunya/iranin-londra-buyukelcisi-mousavi-ingiltere-disisleri-bakanligina-cagrildi-959929.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 12 Oct 2026 20:55:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/iranin-londra-buyukelcisi-mousavi-ingiltere-disisleri-bakanligina-cagrildi-959929.html",
+          "summary": "İran'ın Londra Büyükelçisi Seyed Ali Mousavi, Tahran'ın \"ülke güvenliğini tehdit eden faaliyetlerde bulunduğu gerekçesiyle\" İngiltere Dışişleri Bakanlığına çağrıldı."
         }
       ],
       "sourcesCount": 1
@@ -3726,6 +3708,29 @@
       "sourcesCount": 1
     },
     {
+      "id": "896d1a7851d5",
+      "title": "Wirtschaft vor acht vom 12.10.2026",
+      "summary": "Wirtschaft vor acht vom 12.10.2026",
+      "link": "https://www.tagesschau.de/video/video-1665082.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "germany",
+      "topic": "wirtschaft",
+      "time": "Mon, 12 Oct 2026 20:29:55 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/video/video-1665082.html",
+          "summary": "Wirtschaft vor acht vom 12.10.2026"
+        },
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1664688.html",
+          "summary": "Update Wirtschaft vom 12.10.2026"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "cbf3250046ac",
       "title": "İsrailli işgalciler Batı Şeria'da bu ay zeytin hasadını hedef alan 136 saldırı düzenledi",
       "summary": "Filistin Ayrım Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Konseyi, Batı Şeria'da ekim ayının başından bu yana işgalci İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler tarafından zeytin hasadı sezonuyla bağlantılı 136 saldırı ve ihlal gerçekleştirildiğini bildirdi.",
@@ -3739,6 +3744,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/israilli-isgalciler-bati-seriada-bu-ay-zeytin-hasadini-hedef-alan-136-saldiri-duzenledi-959928.html",
           "summary": "Filistin Ayrım Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Konseyi, Batı Şeria'da ekim ayının başından bu yana işgalci İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler tarafından zeytin hasadı sezonuyla bağlantılı 136 saldırı ve ihlal gerçekleştirildiğini bildirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fafa515eefb3",
+      "title": "Der Fall Bas stürzt die CDU noch tiefer in die Krise",
+      "summary": "Die SPD gibt der CDU eine Mitschuld am Ausscheiden von Bärbel Bas. Bundeskanzler Friedrich Merz weist das zurück.",
+      "link": "https://www.zdfheute.de/politik/deutschland/cdu-spd-merz-krise-bas-ruecktritt-schweitzer-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 12 Oct 2026 20:09:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/cdu-spd-merz-krise-bas-ruecktritt-schweitzer-100.html",
+          "summary": "Die SPD gibt der CDU eine Mitschuld am Ausscheiden von Bärbel Bas. Bundeskanzler Friedrich Merz weist das zurück."
         }
       ],
       "sourcesCount": 1
@@ -3916,6 +3939,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "8eb16a0d74b1",
+      "title": "NASA demonstrates next-generation heat shield technologies - Phys.org",
+      "summary": "NASA demonstrates next-generation heat shield technologies Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBTHdka2x0VmNneDZ0OS1yS0FNS01uU3cxOFdyWnQtNWZhMkptZG4xeGVHcXktWWRUZks3R2todXFKcGlSM1E2ZHJiSlRnX2pzR2tQVzJKcGdmZjVzVEt1Zl9zakFMOFR0aHpNQm43LTBQUWFkZWpTVzRR?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 18:40:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBTHdka2x0VmNneDZ0OS1yS0FNS01uU3cxOFdyWnQtNWZhMkptZG4xeGVHcXktWWRUZks3R2todXFKcGlSM1E2ZHJiSlRnX2pzR2tQVzJKcGdmZjVzVEt1Zl9zakFMOFR0aHpNQm43LTBQUWFkZWpTVzRR?oc=5",
+          "summary": "NASA demonstrates next-generation heat shield technologies Phys.org"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "cf8be1e47617",
       "title": "İran Devrim Muhafızları Ordusu: Hürmüz'de 2 gün içinde üçüncü süper tanker vuruldu",
       "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’ndan geçmeye çalışan üçüncü süper tankerin bu sabah vurulduğunu duyurdu.",
@@ -3970,6 +4011,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "1fae22144c3f",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Mon, 12 Oct 2026 18:31:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+          "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "97d8e95818bc",
+      "title": "Academy player Auvaa leaves Saracens after latest incident",
+      "summary": "Saracens confirm that academy player Totoa Auvaa has left the English Prem club with immediate effect.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Mon, 12 Oct 2026 18:26:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&at_campaign=rss",
+          "summary": "Saracens confirm that academy player Totoa Auvaa has left the English Prem club with immediate effect."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a4dc8fc0f11f",
+      "title": "Should Quantum Benchmarking Progress Require Action From IBM (IBM) Investors? - Simply Wall Street",
+      "summary": "Should Quantum Benchmarking Progress Require Action From IBM (IBM) Investors? Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY3l6ZUo4Q09RNWlHN1N0S0ZvTGs2Tzhkd3lNNWxYV243N0JDeW83NnpneTNWcEJhbGtmMFl4NDZnR1UxYXFUWGcxT25ieXQ5R3U5VFFiSUtWNWR0YU9KVEFsc1JSaHotQnFyT3pfR2F4NVNtMjdTN1Bydk1OaWlrQ3B3NXdhWGtmYnp3M0ZlS2l4UEh0Z0s4dFpQSlZ4TXkyaTU3dUo2MWJxRlU2MWNOcThHUFIzMHdoOTJrM1I2MFU5bnN0dk9zQU5RenN2bHFIVzQ2WlZBNnhzVDAtdEhjSNIB5gFBVV95cUxNS29UcXZNYy1nblpvMlFNam5NSFFZQkNaTzFVZ1dGc1FYbjMwb2paRnNJdmRnMnhnLWJoVTBLYlpXVTh1TVBfc1lnSmVMREFYRmhnOGU3M2NZaTFmSFdzcnhOSE42STVjZ29VNUlqVU1vd1RDLTExa0NkME5wNXkxcFZiSGxOU0JyTnFQM0s2VEZxcHZMMENMcG4wSUxLY1l1ZXBoYWlnWTYyMzM5UExYMDFfa1J2cmFycnJaZ1FyTDhHRk1XeXluRkdCcUhlNkU3MG12QXh2UG51bUVHam9VRVEtTFYyUQ?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 18:24:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY3l6ZUo4Q09RNWlHN1N0S0ZvTGs2Tzhkd3lNNWxYV243N0JDeW83NnpneTNWcEJhbGtmMFl4NDZnR1UxYXFUWGcxT25ieXQ5R3U5VFFiSUtWNWR0YU9KVEFsc1JSaHotQnFyT3pfR2F4NVNtMjdTN1Bydk1OaWlrQ3B3NXdhWGtmYnp3M0ZlS2l4UEh0Z0s4dFpQSlZ4TXkyaTU3dUo2MWJxRlU2MWNOcThHUFIzMHdoOTJrM1I2MFU5bnN0dk9zQU5RenN2bHFIVzQ2WlZBNnhzVDAtdEhjSNIB5gFBVV95cUxNS29UcXZNYy1nblpvMlFNam5NSFFZQkNaTzFVZ1dGc1FYbjMwb2paRnNJdmRnMnhnLWJoVTBLYlpXVTh1TVBfc1lnSmVMREFYRmhnOGU3M2NZaTFmSFdzcnhOSE42STVjZ29VNUlqVU1vd1RDLTExa0NkME5wNXkxcFZiSGxOU0JyTnFQM0s2VEZxcHZMMENMcG4wSUxLY1l1ZXBoYWlnWTYyMzM5UExYMDFfa1J2cmFycnJaZ1FyTDhHRk1XeXluRkdCcUhlNkU3MG12QXh2UG51bUVHam9VRVEtTFYyUQ?oc=5",
+          "summary": "Should Quantum Benchmarking Progress Require Action From IBM (IBM) Investors? Simply Wall Street"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9afe0704ae54",
       "title": "Husilerin hedef aldığı Suudi Arabistan'daki havalimanı 17 Ekim'e kadar kapalı kalacak",
       "summary": "Yemen'deki İran destekli Husilerin hedef aldığı Suudi Arabistan’ın başkenti Riyad’daki Kral Halid Uluslararası Havalimanı'nın 17 Ekim'e kadar operasyonlarını durdurduğu açıklandı.",
@@ -3988,6 +4083,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b1c9e887bade",
+      "title": "Liveblog Ukrainekrieg: Tusk gibt nach Brand an Starlink-Anlage Festnahmen in Deutschland bekannt",
+      "summary": "Zwei türkische Staatsbürger im Auftrag Polens festgenommen +++ Kreml bestätigt Trumps Energie-Waffenruhe nicht ‌+++ Angriffe auf ukrainische Energieinfrastruktur +++ alle Neuigkeiten im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tusk-gibt-nach-brand-an-starlink-anlage-festnahmen-in-deutschland-bekannt-faz-110683325.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 18:15:41 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tusk-gibt-nach-brand-an-starlink-anlage-festnahmen-in-deutschland-bekannt-faz-110683325.html",
+          "summary": "Zwei türkische Staatsbürger im Auftrag Polens festgenommen +++ Kreml bestätigt Trumps Energie-Waffenruhe nicht ‌+++ Angriffe auf ukrainische Energieinfrastruktur +++ alle Neuigkeiten im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "532c045a783e",
       "title": "Israel verweigert taz-Korrespondentin die Einreise",
       "summary": "Offenbar in Verbindung mit ihrer kritischen Berichterstattung verweigert Israel der taz-Journalistin Bilanceri die Einreise. Sie spricht von einer schlechten Nachricht für die Pressefreiheit.",
@@ -4001,6 +4114,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
           "summary": "Offenbar in Verbindung mit ihrer kritischen Berichterstattung verweigert Israel der taz-Journalistin Bilanceri die Einreise. Sie spricht von einer schlechten Nachricht für die Pressefreiheit."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4163057797e1",
+      "title": "Köln: Roboter belästigt Mädchen",
+      "summary": "Ein Roboter hat ein 16-jähriges Mädchen sexuell belästigt. Die zwei jugendlichen Verdächtigen sollen die Tat gefilmt haben.",
+      "link": "https://www.zdfheute.de/video/zdfheute-xpress/roboter-belaestigung-jugendliche-video-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 18:03:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-xpress/roboter-belaestigung-jugendliche-video-100.html",
+          "summary": "Ein Roboter hat ein 16-jähriges Mädchen sexuell belästigt. Die zwei jugendlichen Verdächtigen sollen die Tat gefilmt haben."
         }
       ],
       "sourcesCount": 1
@@ -4042,6 +4173,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "696dc43640d3",
+      "title": "Price rules out Shields but hints at big fight in 2027",
+      "summary": "Lauren Price will fight Michaela Kotaskova in Cardiff in November with \"exciting\" plans for early 2027, but rules out facing American star Claressa Shields.",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cm79pzv8rrg8o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Mon, 12 Oct 2026 17:59:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/cm79pzv8rrg8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Lauren Price will fight Michaela Kotaskova in Cardiff in November with \"exciting\" plans for early 2027, but rules out facing American star Claressa Shields."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b4589fcced94",
       "title": "Man City bananas 'brought fun back', says Varadi",
       "summary": "Former Manchester City striker Imre Varadi says it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield and feels it \"brought a lot of fun back\".",
@@ -4055,6 +4204,78 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cmvgx7e5y5gxo?at_medium=RSS&at_campaign=rss",
           "summary": "Former Manchester City striker Imre Varadi says it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield and feels it \"brought a lot of fun back\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e93b11122a46",
+      "title": "Pope Leo to be hospitalised on Tuesday ahead of lung surgery - Reuters",
+      "summary": "Pope Leo to be hospitalised on Tuesday ahead of lung surgery Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNGOWNSenFBYjAtV0g2OTlkYmFYdlcwdmY2VlpfR092cmo5MlBST3dCbXpJQzZCemNxVHFwQ1ZELV93YkFybl9CNThmQUNUNFNBaFQzOFo4cm9KNmNteEpGRjIzMF9zZzV2SjVqTWJoREZESS0ySHVhTUZVNTBPdG5YdXFWMFNtSGpZNDZSSTFKcFVlVk1XZFBBejZxTm5uVUVuM2k0SmpoNmFuaHdweTZfOA?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 12 Oct 2026 17:54:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNGOWNSenFBYjAtV0g2OTlkYmFYdlcwdmY2VlpfR092cmo5MlBST3dCbXpJQzZCemNxVHFwQ1ZELV93YkFybl9CNThmQUNUNFNBaFQzOFo4cm9KNmNteEpGRjIzMF9zZzV2SjVqTWJoREZESS0ySHVhTUZVNTBPdG5YdXFWMFNtSGpZNDZSSTFKcFVlVk1XZFBBejZxTm5uVUVuM2k0SmpoNmFuaHdweTZfOA?oc=5",
+          "summary": "Pope Leo to be hospitalised on Tuesday ahead of lung surgery Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "528c10021388",
+      "title": "Applying technology to understand and treat disease - blog.google",
+      "summary": "Applying technology to understand and treat disease blog.google",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 17:45:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5",
+          "summary": "Applying technology to understand and treat disease blog.google"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a4688ec2a8ba",
+      "title": "AI’s mathematics blitz pushes science into strange new territory - The Economist",
+      "summary": "AI’s mathematics blitz pushes science into strange new territory The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xkTTk5TzZPSFVTcU9vdklZbEdGZFM4LUY5R2U0ZnN1T1ZHZE5ZSUlwaEMxOHBVR2VOR0xUbU5YUUR2T0lMS3N5NFFWRGRnUGhmdUFtbjlWMzhYU1VJNUlSbU9SN3Y4VGNvRDlvNVVjN0Q4WFQ0ckQ3YkJmU1NFUVhsTDdKMHBqZnV1RWJOYm5WcWFFanZKRHhJM1JaLVZ0ZEdUVXRzNmxMQVpneUR6MXNGU0lvV1BzWmp4YTVVVkM?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 17:43:28 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xkTTk5TzZPSFVTcU9vdklZbEdGZFM4LUY5R2U0ZnN1T1ZHZE5ZSUlwaEMxOHBVR2VOR0xUbU5YUUR2T0lMS3N5NFFWRGRnUGhmdUFtbjlWMzhYU1VJNUlSbU9SN3Y4VGNvRDlvNVVjN0Q4WFQ0ckQ3YkJmU1NFUVhsTDdKMHBqZnV1RWJOYm5WcWFFanZKRHhJM1JaLVZ0ZEdUVXRzNmxMQVpneUR6MXNGU0lvV1BzWmp4YTVVVkM?oc=5",
+          "summary": "AI’s mathematics blitz pushes science into strange new territory The Economist"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "82f0aa4d6e47",
+      "title": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses? - The New York Times",
+      "summary": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses? The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3l1SGRCY3FkaUNyS0dpWHNkTEQwaHpMQ0pNRTNNRDEzN1p6X1l1YmU0WTZVelV1Y01BdjJFRXdTeU1XVF9abFhDVGlyYS1xa1RjaFVWQ2VEaW9NV2dDRTVJb1Njbzl6T0JYUFd0bTcyMUlOOVhMZURicnAtWWpIS3ZqMEllRVo2ZDJxaG9DU3hRQQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 17:40:28 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3l1SGRCY3FkaUNyS0dpWHNkTEQwaHpMQ0pNRTNNRDEzN1p6X1l1YmU0WTZVelV1Y01BdjJFRXdTeU1XVF9abFhDVGlyYS1xa1RjaFVWQ2VEaW9NV2dDRTVJb1Njbzl6T0JYUFd0bTcyMUlOOVhMZURicnAtWWpIS3ZqMEllRVo2ZDJxaG9DU3hRQQ?oc=5",
+          "summary": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses? The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -4132,24 +4353,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "97d8e95818bc",
-      "title": "Saracens investigate incident involving academy player",
-      "summary": "Saracens say they have launched an investigation into an incident involving a player from the men's senior academy in St Albans.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 12 Oct 2026 17:24:49 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&at_campaign=rss",
-          "summary": "Saracens say they have launched an investigation into an incident involving a player from the men's senior academy in St Albans."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2c4241962618",
       "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food - Reuters",
       "summary": "Hackers heat French supermarket fridges, sparking fires and spoiling food Reuters",
@@ -4199,24 +4402,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutsche-fans-allein-in-belgrad,nations-league-fans-serbien-100.html",
           "summary": "Der europäische Fußballverband UEFA hat Serbien zu einem Fanausschluss wegen rassistischem und diskriminierendem Verhalten verurteilt. Möglicherweise dürfen aber deutsche Fans beim Spiel gegen die DFB-Elf ins Stadion nach Belgrad."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "aa0ac076db0e",
-      "title": "SPD-Beben, Rekord-Sanktionen und der Wirtschaftsnobelpreis",
-      "summary": "Bärbel Bas tritt als SPD-Chefin und Arbeitsministerin zurück, große Sanktionsrunde im Ukraine-Krieg und der Wirtschaftsnobelpreis.",
-      "link": "https://www.zdfheute.de/briefing/bas-ruecktritt-russland-sanktionen-wirtschaftsnobelpreis-zdfheute-update-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 17:20:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/briefing/bas-ruecktritt-russland-sanktionen-wirtschaftsnobelpreis-zdfheute-update-100.html",
-          "summary": "Bärbel Bas tritt als SPD-Chefin und Arbeitsministerin zurück, große Sanktionsrunde im Ukraine-Krieg und der Wirtschaftsnobelpreis."
         }
       ],
       "sourcesCount": 1
@@ -4314,7 +4499,7 @@
     {
       "id": "d7320b9b78a9",
       "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and that she \"will not be silenced\".",
+      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
       "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
       "region": "international",
@@ -4324,7 +4509,7 @@
         {
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-          "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and that she \"will not be silenced\"."
+          "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\"."
         },
         {
           "sourceName": "Google News – Reuters",
@@ -4366,24 +4551,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/christina-block-prozess-landgericht-hamburg-beschlagnahmt-audioaufnahmen-der-zeit-201311857.html",
           "summary": "Für die Ermittlungen im Fall Block hat das Landgericht Hamburg Audioaufnahmen der „Zeit“ beschlagnahmt. Darin spricht die Tochter der Angeklagten."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "737a73293198",
-      "title": "Meta Unveils New Series of Advanced A.I. Models - The New York Times",
-      "summary": "Meta Unveils New Series of Advanced A.I. Models The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 17:00:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5",
-          "summary": "Meta Unveils New Series of Advanced A.I. Models The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -4677,6 +4844,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "dcd9da19a1b3",
+      "title": "Harnessing technology to help farmers assess crop health earlier - Penn Today",
+      "summary": "Harnessing technology to help farmers assess crop health earlier Penn Today",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1k1UHRQbVBORUNNdXR6eHhNWTZNbEMyNjhiZldjczdJUGpvdXEtTFJzSjV6QTRNTU03dF94U2ppcmFobmN5eVVHV0RkNjVHOXJZS2Z1Vnhka2NsSnFpSkpOWTlleGR6YW9adVdaUU93empfVjhWWEI1UlpNOTRxODR2UG9BZmd0Mk9tV3M3UE55UmJHdm1jdmdR?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 16:26:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1k1UHRQbVBORUNNdXR6eHhNWTZNbEMyNjhiZldjczdJUGpvdXEtTFJzSjV6QTRNTU03dF94U2ppcmFobmN5eVVHV0RkNjVHOXJZS2Z1Vnhka2NsSnFpSkpOWTlleGR6YW9adVdaUU93empfVjhWWEI1UlpNOTRxODR2UG9BZmd0Mk9tV3M3UE55UmJHdm1jdmdR?oc=5",
+          "summary": "Harnessing technology to help farmers assess crop health earlier Penn Today"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0d457670b2e6",
       "title": "Kyiv says Russia hits energy targets despite Trump ceasefire announcement - Reuters",
       "summary": "Kyiv says Russia hits energy targets despite Trump ceasefire announcement Reuters",
@@ -4708,24 +4893,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/istanbulda-ele-gecirilen-134-egzotik-hayvan-koruma-altina-alindi-959915.html",
           "summary": "Tarım ve Orman Bakanlığı Doğa Koruma ve Milli Parklar (DKMP) Genel Müdürlüğü ekipleri, İstanbul'un Kartal ilçesinde yaptıkları denetimler sonucu yasa dışı hayvan ticaretine konu 134 canlıya el koydu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e93b11122a46",
-      "title": "Pope Leo to be hospitalised on Tuesday ahead of lung surgery - Reuters",
-      "summary": "Pope Leo to be hospitalised on Tuesday ahead of lung surgery Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNGOWNSenFBYjAtV0g2OTlkYmFYdlcwdmY2VlpfR092cmo5MlBST3dCbXpJQzZCemNxVHFwQ1ZELV93YkFybl9CNThmQUNUNFNBaFQzOFo4cm9KNmNteEpGRjIzMF9zZzV2SjVqTWJoREZESS0ySHVhTUZVNTBPdG5YdXFWMFNtSGpZNDZSSTFKcFVlVk1XZFBBejZxTm5uVUVuM2k0SmpoNmFuaHdweTZfOA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 16:21:26 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNGOWNSenFBYjAtV0g2OTlkYmFYdlcwdmY2VlpfR092cmo5MlBST3dCbXpJQzZCemNxVHFwQ1ZELV93YkFybl9CNThmQUNUNFNBaFQzOFo4cm9KNmNteEpGRjIzMF9zZzV2SjVqTWJoREZESS0ySHVhTUZVNTBPdG5YdXFWMFNtSGpZNDZSSTFKcFVlVk1XZFBBejZxTm5uVUVuM2k0SmpoNmFuaHdweTZfOA?oc=5",
-          "summary": "Pope Leo to be hospitalised on Tuesday ahead of lung surgery Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4780,24 +4947,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/icisleri-bakanligindan-bazi-iller-icin-sari-uyari-959914.html",
           "summary": "İçişleri Bakanlığı, sağanak nedeniyle bazı iller için \"sarı\" kodlu meteorolojik uyarıda bulundu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1fae22144c3f",
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Mon, 12 Oct 2026 16:17:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-          "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros."
         }
       ],
       "sourcesCount": 1
@@ -4983,42 +5132,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "643bf99fc66b",
-      "title": "How Blockchain-Based Technologies Could Affect Automotive Supply Chains - The Detroit News",
-      "summary": "How Blockchain-Based Technologies Could Affect Automotive Supply Chains The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEpSSVV5bzdxdWdVTElZVDViN29ZV1ZwQVVTUzZLRmlpTl9uT2VBU0lRVlBNWW1EX2x2MVg5OEduaHg4OG5fMGFLV3hQeURfX1VHMmxtVWs5cVliaE93TVE5V1czaUNaajZMblNOa3htSDFlZG5aZzdrTXAxUGtUMXZ2Y2NwWWVFMU81UXNub2NaX2JuY1BhYW82ZnJGdjB1anVBNDd0XzM2QkJRa2NiVWUwc1l1LWt0OUZ2R2dPcks5MTVyS05kMkZmcFBZNWZsUldnbjlqd0toT0dsRFNRSlJCR0NqdGJib08za1JB?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 16:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEpSSVV5bzdxdWdVTElZVDViN29ZV1ZwQVVTUzZLRmlpTl9uT2VBU0lRVlBNWW1EX2x2MVg5OEduaHg4OG5fMGFLV3hQeURfX1VHMmxtVWs5cVliaE93TVE5V1czaUNaajZMblNOa3htSDFlZG5aZzdrTXAxUGtUMXZ2Y2NwWWVFMU81UXNub2NaX2JuY1BhYW82ZnJGdjB1anVBNDd0XzM2QkJRa2NiVWUwc1l1LWt0OUZ2R2dPcks5MTVyS05kMkZmcFBZNWZsUldnbjlqd0toT0dsRFNRSlJCR0NqdGJib08za1JB?oc=5",
-          "summary": "How Blockchain-Based Technologies Could Affect Automotive Supply Chains The Detroit News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c814dd5f5bac",
-      "title": "AI cameras on Dallas trash trucks flag code violations - Spectrum News",
-      "summary": "AI cameras on Dallas trash trucks flag code violations Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDhPdW9ZMmhoZHVYOFUtRmJwT1RkOEVNUDg3ajdBTm1LSHZDWUVxVldxYWZoRDdtRlFCRU8yRW5kNE8tZXE4YjluaDFqLTdtc1VPZk1VR28yNHpJZE4zQmhyb1U0NTdfQzRlOHYzZFRqV0oyWTJ4MU80SmY5Q3pVcE9ibkZLb0NSMUJwdVpBenBjR2dhdkZ6V0VtaUctQkw4cXhCUHo4TW1ZOTE2ZlZyb0Z5UmhUdw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 16:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDhPdW9ZMmhoZHVYOFUtRmJwT1RkOEVNUDg3ajdBTm1LSHZDWUVxVldxYWZoRDdtRlFCRU8yRW5kNE8tZXE4YjluaDFqLTdtc1VPZk1VR28yNHpJZE4zQmhyb1U0NTdfQzRlOHYzZFRqV0oyWTJ4MU80SmY5Q3pVcE9ibkZLb0NSMUJwdVpBenBjR2dhdkZ6V0VtaUctQkw4cXhCUHo4TW1ZOTE2ZlZyb0Z5UmhUdw?oc=5",
-          "summary": "AI cameras on Dallas trash trucks flag code violations Spectrum News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f7894c359cf5",
       "title": "Patrick Lange über \"das bitterste Aus der Karriere\"",
       "summary": "Es sollte der letzte Tanz auf Hawaii und der große Abschied von der WM-Bühne im Triathlon werden. Doch so bitter wie das frühe Aus für Patrick Lange war, so schön möchte er die Pazifik-Insel in Erinnerung behalten.",
@@ -5104,24 +5217,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
           "summary": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dcd9da19a1b3",
-      "title": "Harnessing technology to help farmers assess crop health earlier - Penn Today",
-      "summary": "Harnessing technology to help farmers assess crop health earlier Penn Today",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1k1UHRQbVBORUNNdXR6eHhNWTZNbEMyNjhiZldjczdJUGpvdXEtTFJzSjV6QTRNTU03dF94U2ppcmFobmN5eVVHV0RkNjVHOXJZS2Z1Vnhka2NsSnFpSkpOWTlleGR6YW9adVdaUU93empfVjhWWEI1UlpNOTRxODR2UG9BZmd0Mk9tV3M3UE55UmJHdm1jdmdR?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 15:50:26 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1k1UHRQbVBORUNNdXR6eHhNWTZNbEMyNjhiZldjczdJUGpvdXEtTFJzSjV6QTRNTU03dF94U2ppcmFobmN5eVVHV0RkNjVHOXJZS2Z1Vnhka2NsSnFpSkpOWTlleGR6YW9adVdaUU93empfVjhWWEI1UlpNOTRxODR2UG9BZmd0Mk9tV3M3UE55UmJHdm1jdmdR?oc=5",
-          "summary": "Harnessing technology to help farmers assess crop health earlier Penn Today"
         }
       ],
       "sourcesCount": 1
@@ -5392,96 +5487,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnBCaFpKR1lWaVh4a241MWNjNkxmaGlXc0VLQUtPNFZTN3lKM0puQ3QxUnhodFRQLUJfU3dnZll3VkNqNTJMM3QtZFNqTGJGTF9ndUZ1bWFPaUViYXV3RFFlclM2SzBkdHc2T1FBY3VMdmM1el9nWVZxYkFlbnJHNm9vUjZmV1gxbmptT3RHLXpQUEdKUXNqUmRydDF0NzF5cTdVRXR3RndHTGxzdFdxbjJZTGdiZG5LajdNekw1cF9TS1d5?oc=5",
           "summary": "MIT files patent lawsuit against Amazon over cloud security technology Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2b73b70f6f88",
-      "title": "Sheriff Department Claims 'Deputies Located a Woman Deceased' Amid the Search for Nancy Guthrie - inkl",
-      "summary": "Sheriff Department Claims 'Deputies Located a Woman Deceased' Amid the Search for Nancy Guthrie inkl",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWE55c1JIVndFSElUT1pORjNfLU5oLVNGbjFzZ24zMURubzh2Skx1YVlCUmxfem1Vcko5ZHV6MlFrSXVvcU13ZHBJSE5qSzNvam03UDZ3QVUwVEw4Tm14QS1tRnF5clBCVExocXhHc1hXM2JQYkhCbkJvVWJzcUZhVkZnaGVGN3pEUGV3MFFFeW84dkJXd2tXR0lLNGt1dzU0b3g3SXJaWmFQdzlqOWZtUGtCMDk4dEV5em9Z?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 15:10:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWE55c1JIVndFSElUT1pORjNfLU5oLVNGbjFzZ24zMURubzh2Skx1YVlCUmxfem1Vcko5ZHV6MlFrSXVvcU13ZHBJSE5qSzNvam03UDZ3QVUwVEw4Tm14QS1tRnF5clBCVExocXhHc1hXM2JQYkhCbkJvVWJzcUZhVkZnaGVGN3pEUGV3MFFFeW84dkJXd2tXR0lLNGt1dzU0b3g3SXJaWmFQdzlqOWZtUGtCMDk4dEV5em9Z?oc=5",
-          "summary": "Sheriff Department Claims 'Deputies Located a Woman Deceased' Amid the Search for Nancy Guthrie inkl"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9e3505f584b6",
-      "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters",
-      "summary": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 15:06:26 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
-          "summary": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "00cb745b87c8",
-      "title": "10 Start-Ups to Watch 2026: Alta Resource Technologies refines rare earths using proteins - Chemical & Engineering News",
-      "summary": "10 Start-Ups to Watch 2026: Alta Resource Technologies refines rare earths using proteins Chemical & Engineering News",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMEd2Ty16bzVkeVg1RFE1c0ZOVkxvT3d0WHV5TWNKRTlKZjlGOTlIZmFSWUllM0VKSWI3YUV1eXBJcURiWDV5WHdFQ0N1a1ZSWFlvc1c3aHNpQ1JmWTNkYkhORnNub0NQbFJWVnhIRTFUc3I1dGlweGtKNHZPUzkyTkVNOGlhU1JGaUtGcVFJY0pKMk03S1ZVMUh0WEpTdVU1YTl2OUd6QV96bk5VNzdPMW9HVEFWVGQzd25rMWhLdktWY3J1anVHdHNRYWNIRFN6aXlPTEJCLTA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 15:04:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMEd2Ty16bzVkeVg1RFE1c0ZOVkxvT3d0WHV5TWNKRTlKZjlGOTlIZmFSWUllM0VKSWI3YUV1eXBJcURiWDV5WHdFQ0N1a1ZSWFlvc1c3aHNpQ1JmWTNkYkhORnNub0NQbFJWVnhIRTFUc3I1dGlweGtKNHZPUzkyTkVNOGlhU1JGaUtGcVFJY0pKMk03S1ZVMUh0WEpTdVU1YTl2OUd6QV96bk5VNzdPMW9HVEFWVGQzd25rMWhLdktWY3J1anVHdHNRYWNIRFN6aXlPTEJCLTA?oc=5",
-          "summary": "10 Start-Ups to Watch 2026: Alta Resource Technologies refines rare earths using proteins Chemical & Engineering News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4bc06747523b",
-      "title": "İstanbul'da 198 bin dolarlık varlığı gasbedilerek kaçırılan yabancı uyruklu kurtarıldı",
-      "summary": "Sarıyer'de 198 bin dolar değerindeki varlığı gasbedilerek kaçırılan yabancı uyruklu, alıkonulduğu Başakşehir'de polisin düzenlediği operasyonla kurtarıldı.",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-198-bin-dolarlik-varligi-gasbedilerek-kacirilan-yabanci-uyruklu-kurtarildi-959906.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 15:04:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/istanbulda-198-bin-dolarlik-varligi-gasbedilerek-kacirilan-yabanci-uyruklu-kurtarildi-959906.html",
-          "summary": "Sarıyer'de 198 bin dolar değerindeki varlığı gasbedilerek kaçırılan yabancı uyruklu, alıkonulduğu Başakşehir'de polisin düzenlediği operasyonla kurtarıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f7a56ebdc96f",
-      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 15:03:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-          "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks."
         }
       ],
       "sourcesCount": 1
