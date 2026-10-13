@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T01:13:29.814172+00:00",
+  "updated": "2026-10-13T01:44:35.548779+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -516,24 +516,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "567246dad595",
-      "title": "Spain battles climate change on several fronts",
-      "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 22 Sep 2026 09:11:48 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0313b19e120a",
       "title": "Am Ende wieder am Anfang",
       "summary": "Das Bundeskartellamt hat die 50+1-Regel im deutschen Fußball im August für rechtens erklärt, aber die einheitliche Anwendung gefordert. Am Ende des Verfahrens steht damit alles wieder auf Anfang.",
@@ -547,6 +529,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/bundesliga/am-ende-wieder-am-anfang,50plus1-regel-100.html",
           "summary": "Das Bundeskartellamt hat die 50+1-Regel im deutschen Fußball im August für rechtens erklärt, aber die einheitliche Anwendung gefordert. Am Ende des Verfahrens steht damit alles wieder auf Anfang."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0328c8d7e4e4",
+      "title": "Nations League: How do players withdraw from an international squad? - BBC",
+      "summary": "Nations League: How do players withdraw from an international squad? BBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOWNwYmhCS1pQeVo5YkJrUWpYUkZiLVhXSnBtSHEtZGNvNW5xWURLWWd5a2tyalhHQlFrTWl2Q3R0M011YVdmd0VHWnh3dkhLb2xuNjNPbFo3MlRLUkw5TkR2QjdRczhT?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOWNwYmhCS1pQeVo5YkJrUWpYUkZiLVhXSnBtSHEtZGNvNW5xWURLWWd5a2tyalhHQlFrTWl2Q3R0M011YVdmd0VHWnh3dkhLb2xuNjNPbFo3MlRLUkw5TkR2QjdRczhT?oc=5",
+          "summary": "Nations League: How do players withdraw from an international squad? BBC"
         }
       ],
       "sourcesCount": 1
@@ -601,6 +601,42 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
           "summary": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f89ae431d317",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 13 Oct 2026 01:36:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+          "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c146a77e72f0",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 01:26:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+          "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
         }
       ],
       "sourcesCount": 1
@@ -1323,24 +1359,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/burnham-besuch-berlin-kooperation-100.html",
           "summary": "Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Verteidigungsbereich."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1097aba673ce",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 08 Oct 2026 16:29:33 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-          "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\""
         }
       ],
       "sourcesCount": 1
@@ -2896,24 +2914,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "090c4f5768f6",
-      "title": "Insider trades: P&G, Marvell Technology, TSMC among notable names (PG:NYSE) - Seeking Alpha",
-      "summary": "Insider trades: P&G, Marvell Technology, TSMC among notable names (PG:NYSE) Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2Z0YTk1XzJmU0hJcmlfZ0dpWS1EeUVFc3ZpZUllWXdyeUxnU1NtdWl6NXBnU2tXcGdHV2xRN010bi1wVTI3SzJtbGVxeXBoTDZ6V3lSMzA4cHhOREpsb3BweS1hNWpXdjFCdXhpU0IzcGpzVUROWTNtX2ZlaldwTFBDcHp1bU9iOWZzYUJ5VkI1dmZFb1NFOW1TaW1ZUTJy?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 10 Oct 2026 15:03:46 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2Z0YTk1XzJmU0hJcmlfZ0dpWS1EeUVFc3ZpZUllWXdyeUxnU1NtdWl6NXBnU2tXcGdHV2xRN010bi1wVTI3SzJtbGVxeXBoTDZ6V3lSMzA4cHhOREpsb3BweS1hNWpXdjFCdXhpU0IzcGpzVUROWTNtX2ZlaldwTFBDcHp1bU9iOWZzYUJ5VkI1dmZFb1NFOW1TaW1ZUTJy?oc=5",
-          "summary": "Insider trades: P&G, Marvell Technology, TSMC among notable names (PG:NYSE) Seeking Alpha"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "435f4c1b0bc9",
       "title": "TFF'den Montella'ya teşekkür mesajı",
       "summary": "Türkiye Futbol Federasyonu (TFF), dün gerçekleştirilen toplantıda yolları ayırma kararı aldığı A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella için teşekkür mesajı yayımladı.",
@@ -3618,24 +3618,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e04318e5ecc9",
-      "title": "Will three-week break put more pressure on managers? - BBC",
-      "summary": "Will three-week break put more pressure on managers? BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWXhUdHpTSTVSaEtiUnRvRG9ZYnhWazVzZ28teWF3MGE2VlEwYThjMTYzZk0zaEF0TWFlSi1KSFpEUjNOcmQ1M05VYzJDTFFwTXI3OEFDVDR5Yk5RZ3ZFSGZSVHlPeVJn?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWXhUdHpTSTVSaEtiUnRvRG9ZYnhWazVzZ28teWF3MGE2VlEwYThjMTYzZk0zaEF0TWFlSi1KSFpEUjNOcmQ1M05VYzJDTFFwTXI3OEFDVDR5Yk5RZ3ZFSGZSVHlPeVJn?oc=5",
-          "summary": "Will three-week break put more pressure on managers? BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "334175dbedc8",
       "title": "Mobilya atölyesinde yangın",
       "summary": "İstanbul Esenyurt'ta mobilya atölyesinde yangın çıktı. İtfaiye ekipleri yangını söndürmek için yoğun çalışma yürütüyor.",
@@ -3726,6 +3708,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "4aedc77895ea",
+      "title": "Indian opposition marches to Supreme Court, seeks suspension of voter list changes - Reuters",
+      "summary": "Indian opposition marches to Supreme Court, seeks suspension of voter list changes Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3RjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 12 Oct 2026 23:40:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3RjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
+          "summary": "Indian opposition marches to Supreme Court, seeks suspension of voter list changes Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "d53f3c18a5b0",
       "title": "Publicly owned rail is popular. But is it making the trains run on time?",
       "summary": "Meeting travellers' expectations could be challenging, experts warn.",
@@ -3793,24 +3793,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/polonya-basbakani-casus-yazilimla-hassas-verilerin-israile-aktarilmasi-devlete-karsi-suc-959939.html",
           "summary": "Polonya Başbakanı Donald Tusk, önceki hükümet döneminde kullanılan Pegasus casus yazılımı aracılığıyla Polonya vatandaşlarına ait hassas verilerin, İsrail tarafına aktarılmasını \"devlete karşı işlenmiş ağır bir suç\" ve \"Polonya tarihinin en büyük skandallarından biri\" olarak nitelendirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4aedc77895ea",
-      "title": "Indian opposition marches to Supreme Court, seeks suspension of voter list changes - Reuters",
-      "summary": "Indian opposition marches to Supreme Court, seeks suspension of voter list changes Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3RjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 23:02:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3RjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
-          "summary": "Indian opposition marches to Supreme Court, seeks suspension of voter list changes Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4027,6 +4009,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExzNEpwd2tTaHNpTFBJSTRhQ2p1X0lFQXdQT2hNOEdTQVI1aXljMUVZTEYxTlpJTTdmWkh2ZzNnbTBaQ2NqRlAyVzUwNmRrUkk5WXV0b1BmdlUyekxnVkhjUXhhaDV3N2FTa1ZQQl9HajlTUEZ2Rzc5aE1TTEtScnVJTG5PSkI3ZTU5ZS03enNjbjdfMUxLS0xsOHEzUmJrOUhUdzRwZUc5SGdSZ2o2aHl4T21OTllXd1Aw?oc=5",
           "summary": "Wilson Sonsini Advises Microchip Technology on Acquisition of VORAGO Technologies Wilson Sonsini"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "25ee5413c256",
+      "title": "City of Greenville to utilize new technology to hear from residents - WNCT",
+      "summary": "City of Greenville to utilize new technology to hear from residents WNCT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3o4TjVhUkN4d1pnTG9UWWJVMnBwTm9aNjVuX3NtNC1nMXNXSzJDRExrbVotUmJ2RGRoVVVEeEJqc19PcGVCb2J1MGkzX3NLX1k3Vy1ubkxLZjQ4ZFpGb2VEMTE2SWg0YUFqeHhQMGNBYlRMM294RkRBQi1fZXNfR2lvb3B5dklRUkZoQUtJamExckk3QU83bEhHNllIOVkxckxrSDV4TQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 22:07:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3o4TjVhUkN4d1pnTG9UWWJVMnBwTm9aNjVuX3NtNC1nMXNXSzJDRExrbVotUmJ2RGRoVVVEeEJqc19PcGVCb2J1MGkzX3NLX1k3Vy1ubkxLZjQ4ZFpGb2VEMTE2SWg0YUFqeHhQMGNBYlRMM294RkRBQi1fZXNfR2lvb3B5dklRUkZoQUtJamExckk3QU83bEhHNllIOVkxckxrSDV4TQ?oc=5",
+          "summary": "City of Greenville to utilize new technology to hear from residents WNCT"
         }
       ],
       "sourcesCount": 1
@@ -4482,24 +4482,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c146a77e72f0",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 20:54:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "37759b7859a4",
       "title": "Pfaffensteigtunnel: Ein überflüssiges Milliardenprojekt?",
       "summary": "Der Pfaffensteigtunnel soll die Stuttgart-21-Infrastruktur mit der Bahnstrecke Richtung Schweiz verbinden. Gegner kritisieren das milliardenschwere Bahnprojekt als Fehlplanung.",
@@ -4621,6 +4603,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/bingolde-bariyere-carpan-otomobildeki-2-kisi-oldu-959927.html",
           "summary": "Bingöl'ün Genç ilçesinde, bariyere çarpan otomobildeki 2 kişi hayatını kaybetti, 2 kişi yaralandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1dcd36b665a9",
+      "title": "Memory chip stocks slide as China’s CXMT advances chip technology - Fox Business",
+      "summary": "Memory chip stocks slide as China’s CXMT advances chip technology Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZUJuT0syWDItMGNZbEhKcGpuazEtRGVESlJmYmt3aG1od3JISlEtcEZHMzFpNjRlZmZ3M1oyUkI2SEdFWFlLU0NQZU8zdlFfaW9Oc3FHeHpaR3M?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 20:33:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZUJuT0syWDItMGNZbEhKcGpuazEtRGVESlJmYmt3aG1od3JISlEtcEZHMzFpNjRlZmZ3M1oyUkI2SEdFWFlLU0NQZU8zdlFfaW9Oc3FHeHpaR3M?oc=5",
+          "summary": "Memory chip stocks slide as China’s CXMT advances chip technology Fox Business"
         }
       ],
       "sourcesCount": 1
@@ -4829,19 +4829,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "99fdd6216e0b",
-      "title": "How is technology changing talk therapy? - WHYY",
-      "summary": "How is technology changing talk therapy? WHYY",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZTmIzbk9aSXJOTHZTR1FxTmdjMF9WUWpvcGhvWFoxRVBRZ0xRSl9RZUVPbzNGMFBGVmZ0YVlJcDJBN0xJWmpZeHlYbzN0c0FpRmtTTzAtcjVtczNQVnZNYXZzVFhPcHgwbXVidHFtbXM5NHpa?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "16bc95f61736",
+      "title": "One More International Opens Business Development Center in Monterrey - Direct Selling News",
+      "summary": "One More International Opens Business Development Center in Monterrey Direct Selling News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjlTU25Ic1hyUDh1Y2ZaT19IVWpET2ZBNE5BWmJXQlV1c0gwMUR1ejJIM3Z2dVVpT2FJclh2UG1qRy1ULWtTMGZsTDlqN2R2N2k4T2VSTldBd3U1MjR4QkhDOEZaamxVUEZMSFMtNlV1M2plYVBGNVVicUxzTGZscmY5VkxzV1NwNTVOWVVzRzFITHRodzY2d2FwOE1YcmV6ZllqVHR0MHJ3T3FYMEpGU2V1RHpsUQ?oc=5",
+      "sourceName": "Google News – International Business",
       "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 19:50:20 GMT",
+      "topic": "wirtschaft",
+      "time": "Mon, 12 Oct 2026 19:45:41 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZTmIzbk9aSXJOTHZTR1FxTmdjMF9WUWpvcGhvWFoxRVBRZ0xRSl9RZUVPbzNGMFBGVmZ0YVlJcDJBN0xJWmpZeHlYbzN0c0FpRmtTTzAtcjVtczNQVnZNYXZzVFhPcHgwbXVidHFtbXM5NHpa?oc=5",
-          "summary": "How is technology changing talk therapy? WHYY"
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjlTU25Ic1hyUDh1Y2ZaT19IVWpET2ZBNE5BWmJXQlV1c0gwMUR1ejJIM3Z2dVVpT2FJclh2UG1qRy1ULWtTMGZsTDlqN2R2N2k4T2VSTldBd3U1MjR4QkhDOEZaamxVUEZMSFMtNlV1M2plYVBGNVVicUxzTGZscmY5VkxzV1NwNTVOWVVzRzFITHRodzY2d2FwOE1YcmV6ZllqVHR0MHJ3T3FYMEpGU2V1RHpsUQ?oc=5",
+          "summary": "One More International Opens Business Development Center in Monterrey Direct Selling News"
         }
       ],
       "sourcesCount": 1
@@ -4896,6 +4896,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
           "summary": "Nach dem Fund eines Knotens in der Lunge will sich Papst Leo operieren lassen. Morgen begibt er sich ins Krankenhaus."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e5c93ca2d649",
+      "title": "ABS, U.S. DOE To Advance Maritime Nuclear Technology - Marine Link",
+      "summary": "ABS, U.S. DOE To Advance Maritime Nuclear Technology Marine Link",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aUy1PcVN6dlNDTURrTnBuSEVUNmRfSXNORzRVTzVzamtBQnBEUzdXcEdTUkJ3N3AzLUVzOWo0WGdaYlRNSTZ2Y2VCZVZmY3ZwVDY1M2Z0eFFkQllzSXBGdE1TcUZReVhvRzg3Z1NORk1BQmx5WGMyVXFiT3l3U2M?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 12 Oct 2026 19:30:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aUy1PcVN6dlNDTURrTnBuSEVUNmRfSXNORzRVTzVzamtBQnBEUzdXcEdTUkJ3N3AzLUVzOWo0WGdaYlRNSTZ2Y2VCZVZmY3ZwVDY1M2Z0eFFkQllzSXBGdE1TcUZReVhvRzg3Z1NORk1BQmx5WGMyVXFiT3l3U2M?oc=5",
+          "summary": "ABS, U.S. DOE To Advance Maritime Nuclear Technology Marine Link"
         }
       ],
       "sourcesCount": 1
@@ -5454,24 +5472,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/nationalmannschaft/deutsche-fans-allein-in-belgrad,nations-league-fans-serbien-100.html",
           "summary": "Der europäische Fußballverband UEFA hat Serbien zu einem Fanausschluss wegen rassistischem und diskriminierendem Verhalten verurteilt. Möglicherweise dürfen aber deutsche Fans beim Spiel gegen die DFB-Elf ins Stadion nach Belgrad."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "45902a5a73ad",
-      "title": "Nach Bas' Rücktritt: Über welche Namen in der SPD jetzt gesprochen wird",
-      "summary": "Führt nach dem Rücktritt von Bärbel Bas kein Weg vorbei an Manuela Schwesig? Noch hält sie sich zurück.",
-      "link": "https://www.faz.net/aktuell/politik/inland/wer-folgt-auf-baerbel-bas-an-der-spitze-der-spd-201310902.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 17:17:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/wer-folgt-auf-baerbel-bas-an-der-spitze-der-spd-201310902.html",
-          "summary": "Führt nach dem Rücktritt von Bärbel Bas kein Weg vorbei an Manuela Schwesig? Noch hält sie sich zurück."
         }
       ],
       "sourcesCount": 1
