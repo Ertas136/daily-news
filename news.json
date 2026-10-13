@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T06:53:41.976767+00:00",
+  "updated": "2026-10-13T07:14:48.024512+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -33,6 +33,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/pilotprojekt-im-osten-weniger-polizei-statt-kostenbeteiligung,polizeikosten-dfb-100.html",
           "summary": "Sollten Amateurklubs sich in Zukunft an Polizeikosten beteiligen müssen, wäre das für viele existenzbedrohend. In der Regionalliga Nordost testet man nun ein Modell mit weniger Polizei."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1922f6b1105b",
+      "title": "Reuters/Ipsos October Survey - Ipsos",
+      "summary": "Reuters/Ipsos October Survey Ipsos",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR3NLUGlwbDdUa2ladmJ5Mm1ZWVpYeGdmc2NOSlU1WjZfaDQ4eTFCSGRCT3JMM0JuREJCM2FESzJUY2wxR3lhRjR0VlFyVXl2RjNPZlB6eVg3NXpadkxCV2stMlF2dw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR3NLUGlwbDdUa2ladmJ5Mm1ZWVpYeGdmc2NOSlU1WjZfaDQ4eTFCSGRCT3JMM0JuREJCM2FESzJUY2wxR3lhRjR0VlFyVXl2RjNPZlB6eVg3NXpadkxCV2stMlF2dw?oc=5",
+          "summary": "Reuters/Ipsos October Survey Ipsos"
         }
       ],
       "sourcesCount": 1
@@ -624,6 +642,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "4bd7a9b4b80e",
+      "title": "Brent petrolün varili 105,37 dolardan işlem görüyor",
+      "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 105,37 dolardan işlem görüyor.",
+      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10537-dolardan-islem-goruyor-959970.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 09:54:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10537-dolardan-islem-goruyor-959970.html",
+          "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 105,37 dolardan işlem görüyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d070032ed9cd",
+      "title": "ABD'nin Georgia eyaletinde eğlence merkezindeki kazada 1 kişi öldü",
+      "summary": "ABD'nin Georgia eyaletinde bir eğlence merkezinde meydana gelen kazada 1 kişinin hayatını kaybettiği, pek çok kişinin yaralandığı açıklandı.",
+      "link": "https://www.trthaber.com/haber/dunya/abdnin-georgia-eyaletinde-eglence-merkezindeki-kazada-1-kisi-oldu-959969.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 09:39:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/abdnin-georgia-eyaletinde-eglence-merkezindeki-kazada-1-kisi-oldu-959969.html",
+          "summary": "ABD'nin Georgia eyaletinde bir eğlence merkezinde meydana gelen kazada 1 kişinin hayatını kaybettiği, pek çok kişinin yaralandığı açıklandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0eb2f87ef4cc",
       "title": "Elektrikli skuterlere yeni düzenleme: İhlale 170 bin TL ceza",
       "summary": "Elektrikli skuter işletmecisi firmalara aykırılık durumunda uygulanacak idari para cezaları artırıldı.",
@@ -701,10 +755,10 @@
       "sourcesCount": 2
     },
     {
-      "id": "fd64a5b76e2d",
-      "title": "İstanbul merkezli 4 ilde change araç operasyonu: 23 gözaltı kararı",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığı, ağır hasarlı araçların seri numaralarını hacizli veya yakalamalı araçlara uyarlayarak üçüncü kişilere satan şüphelilere yönelik soruşturmada 23 şüpheli hakkında gözaltı talimatı verildiğini açıkladı.",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-4-ilde-change-arac-operasyonu-23-gozalti-karari-959963.html",
+      "id": "ad4cd3683adb",
+      "title": "İstanbul merkezli 4 ilde change araç operasyonu: 17 gözaltı",
+      "summary": "Ağır hasarlı araçların seri numaralarını hacizli veya yakalamalı araçlara uyarlayarak üçüncü kişilere satan şüphelilere yönelik soruşturmada haklarında gözaltı kararı verilen 23 şüpheliden 17'si yakalandı.",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-4-ilde-change-arac-operasyonu-17-gozalti-959963.html",
       "sourceName": "TRT Haber Türkei",
       "region": "turkey",
       "topic": "technologie",
@@ -712,8 +766,8 @@
       "coverage": [
         {
           "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-4-ilde-change-arac-operasyonu-23-gozalti-karari-959963.html",
-          "summary": "Bakırköy Cumhuriyet Başsavcılığı, ağır hasarlı araçların seri numaralarını hacizli veya yakalamalı araçlara uyarlayarak üçüncü kişilere satan şüphelilere yönelik soruşturmada 23 şüpheli hakkında gözaltı talimatı verildiğini açıkladı."
+          "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-4-ilde-change-arac-operasyonu-17-gozalti-959963.html",
+          "summary": "Ağır hasarlı araçların seri numaralarını hacizli veya yakalamalı araçlara uyarlayarak üçüncü kişilere satan şüphelilere yönelik soruşturmada haklarında gözaltı kararı verilen 23 şüpheliden 17'si yakalandı."
         },
         {
           "sourceName": "TRT Haber Türkei",
@@ -1030,6 +1084,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "58d42373bee3",
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 06:58:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "56fdb8b80a74",
+      "title": "Bochum: Drei Menschen sterben bei Brand in Wohnhaus",
+      "summary": "Zunächst konnten Einsatzkräfte fünf Menschen retten. Erst später entdeckten sie die drei leblosen Körper in einer Wohnung des Mehrfamilienhauses.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/wohnhausbrand-in-bochum-drei-tote-und-fuenf-verletzte-accg-201312609.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "gesellschaft",
+      "time": "Tue, 13 Oct 2026 06:57:31 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/wohnhausbrand-in-bochum-drei-tote-und-fuenf-verletzte-accg-201312609.html",
+          "summary": "Zunächst konnten Einsatzkräfte fünf Menschen retten. Erst später entdeckten sie die drei leblosen Körper in einer Wohnung des Mehrfamilienhauses."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "53c0cf9ef1ba",
+      "title": "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
+      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Singapore Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 13 Oct 2026 06:54:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Singapore Grand Prix."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6d6977d793f0",
       "title": "Moskova, Trumpın enerji ateşkesi açıklamasına neden sessiz kalıyor?",
       "summary": "Trump, Rusya ve Ukrayna’nın enerji altyapısına yönelik saldırıları durdurmak için ateşkeste anlaştığını duyurdu. Ancak Kremlin anlaşmayı doğrulamadı.",
@@ -1066,13 +1174,31 @@
       "sourcesCount": 1
     },
     {
+      "id": "6148025914cd",
+      "title": "Frankfurt: „Wir müssen Großprojekte realistischer planen“",
+      "summary": "Frankfurt droht 2026 ein Rekorddefizit von 440 Millionen Euro. Die neue Kämmerin Susanne Serke (CDU) über den Umgang mit hohen Fehlbeträgen und die positive Bedeutung des Sparens.",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/kaemmerin-susanne-serke-frankfurt-muss-grossprojekte-realistischer-planen-accg-201309781.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 06:44:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/kaemmerin-susanne-serke-frankfurt-muss-grossprojekte-realistischer-planen-accg-201309781.html",
+          "summary": "Frankfurt droht 2026 ein Rekorddefizit von 440 Millionen Euro. Die neue Kämmerin Susanne Serke (CDU) über den Umgang mit hohen Fehlbeträgen und die positive Bedeutung des Sparens."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5ea309c5947b",
-      "title": "Liveblog Ukrainekrieg: Mutmaßliche Saboteure offenbar in Nürtingen festgenommen",
+      "title": "Liveblog Ukrainekrieg: Mutmaßliche Saboteure in Nürtingen festgenommen",
       "summary": "Festnahmen in Deutschland nach Anschlag auf Starlink-Station in Polen +++ Wadephul will Zeichen der Geschlossenheit an Moskau senden +++ Trump verteidigt Diesel-Abkommen mit Russland +++ alle Neuigkeiten im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-mutmassliche-saboteure-offenbar-in-nuertingen-festgenommen-faz-110683325.html",
       "sourceName": "FAZ",
       "region": "international",
-      "topic": "sport",
+      "topic": "technologie",
       "time": "Tue, 13 Oct 2026 06:42:50 GMT",
       "coverage": [
         {
@@ -1104,7 +1230,7 @@
     {
       "id": "fcd31c587131",
       "title": "Festnahme nach Ausraster: Selma Blair hat Flugpersonal offenbar gebissen und geschlagen",
-      "summary": "Geschlagen, gebissen, versucht, eine Tür zu öffnen: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben. Ihr Management hat eine Begründung dafür.",
+      "summary": "Ihr Manaement spricht von einem „gesundheitlichen Notfall“: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben.",
       "link": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
       "sourceName": "FAZ",
       "region": "international",
@@ -1114,7 +1240,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
-          "summary": "Geschlagen, gebissen, versucht, eine Tür zu öffnen: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben. Ihr Management hat eine Begründung dafür."
+          "summary": "Ihr Manaement spricht von einem „gesundheitlichen Notfall“: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben."
         }
       ],
       "sourcesCount": 1
@@ -1266,7 +1392,7 @@
     {
       "id": "33196b13f5ed",
       "title": "Liveblog Irankrieg: Riad abermals von Explosionen erschüttert",
-      "summary": "Sperrung des Flughafens bis Samstag verlängert +++ Mehrere Fluggesellschaften streichen Flüge nach Saudi-Arabien +++ Zuvor 13 Tote nach Angriff auf Flughafen am Wochenende +++ alle Entwicklungen im Liveblog",
+      "summary": "Sperrung des Flughafens bis Samstag verlängert +++ Mehrere Fluggesellschaften streichen Flüge nach Saudi-Arabien +++ alle Entwicklungen im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-riad-abermals-von-explosionen-erschuettert-faz-200583539.html",
       "sourceName": "FAZ",
       "region": "international",
@@ -1276,25 +1402,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-riad-abermals-von-explosionen-erschuettert-faz-200583539.html",
-          "summary": "Sperrung des Flughafens bis Samstag verlängert +++ Mehrere Fluggesellschaften streichen Flüge nach Saudi-Arabien +++ Zuvor 13 Tote nach Angriff auf Flughafen am Wochenende +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3c9bb6ea7b9b",
-      "title": "Digitalminister: Wildberger will KI-Umsätze in Deutschland besteuern",
-      "summary": "Microsoft-Gründer Bill Gates fordert schon länger, Roboter und KI zu besteuern. Der deutsche Digitalminister hat ähnliche Vorstellungen.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wildberger-will-ki-umsaetze-in-deutschland-besteuern-accg-201312507.html",
-      "sourceName": "FAZ",
-      "region": "local",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 06:07:04 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wildberger-will-ki-umsaetze-in-deutschland-besteuern-accg-201312507.html",
-          "summary": "Microsoft-Gründer Bill Gates fordert schon länger, Roboter und KI zu besteuern. Der deutsche Digitalminister hat ähnliche Vorstellungen."
+          "summary": "Sperrung des Flughafens bis Samstag verlängert +++ Mehrere Fluggesellschaften streichen Flüge nach Saudi-Arabien +++ alle Entwicklungen im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -1869,7 +1977,7 @@
     },
     {
       "id": "fb4a61f73c9f",
-      "title": "Egal, welche Diät: Wer gesund isst, kann das biologische Altern verlangsamen",
+      "title": "Egal, welche Diät?: Wer gesund isst, kann das biologische Altern verlangsamen",
       "summary": "Eine Studie mit 7500 Teilnehmern belegt: Gesunde Ernährung lässt uns länger leben. Und: Vergleicht man verschiedene Ernährungsweisen, kommt man zu einem überraschenden Ergebnis.",
       "link": "https://www.faz.net/aktuell/besser-leben/essen/wie-gesunde-ernaehrung-das-biologisches-altern-verlangsamen-kann-accg-201297331.html",
       "sourceName": "FAZ",
@@ -5192,7 +5300,7 @@
     },
     {
       "id": "607a5ca135dc",
-      "title": "Coventry declare themselves back in the big time",
+      "title": "Back in the big time - Coventry end 25-year wait for top-flight home win",
       "summary": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -5389,114 +5497,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o?at_medium=RSS&at_campaign=rss",
           "summary": "Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6e8dfe285365",
-      "title": "İşgalci İsrail'in Lübnan'a düzenlediği saldırılarda can kaybı 4 bin 389'a ulaştı",
-      "summary": "Lübnan Sağlık Bakanlığı, İsrail'in 2 Mart'tan bu yana düzenlediği saldırılarda yaşamını yitirenlerin sayısının 4 bin 389'a yükseldiğini bildirdi.",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-duzenledigi-saldirilarda-can-kaybi-4-bin-389a-ulasti-959935.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 21:43:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-duzenledigi-saldirilarda-can-kaybi-4-bin-389a-ulasti-959935.html",
-          "summary": "Lübnan Sağlık Bakanlığı, İsrail'in 2 Mart'tan bu yana düzenlediği saldırılarda yaşamını yitirenlerin sayısının 4 bin 389'a yükseldiğini bildirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ced2af7a28fb",
-      "title": "Tresoldi mit Brügge gegen die zukünftigen Kollegen",
-      "summary": "Wenn Deutschlands U21-Goalgetter Nicolo Tresoldi am Dienstag mit seinem FC Brügge auf Inter Mailand trifft, wird er dort wohl zukünftigen Nationalmannschaftskollegen begegnen.",
-      "link": "https://www.sportschau.de/fussball/championsleague/tresoldi-mit-bruegge-gegen-die-zukuenftigen-kollegen,tresoldi-inter-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 21:41:39 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/championsleague/tresoldi-mit-bruegge-gegen-die-zukuenftigen-kollegen,tresoldi-inter-100.html",
-          "summary": "Wenn Deutschlands U21-Goalgetter Nicolo Tresoldi am Dienstag mit seinem FC Brügge auf Inter Mailand trifft, wird er dort wohl zukünftigen Nationalmannschaftskollegen begegnen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9d796ce2c97d",
-      "title": "Endonezya'daki Semeru Yanardağı'nda patlama yaşandı",
-      "summary": "Endonezya'ya bağlı Java Adası'nın doğusunda bulunan Semeru Yanardağı, 900 metre yüksekliğe kadar kül püskürttü.",
-      "link": "https://www.trthaber.com/haber/dunya/endonezyadaki-semeru-yanardaginda-patlama-yasandi-959934.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 21:38:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/endonezyadaki-semeru-yanardaginda-patlama-yasandi-959934.html",
-          "summary": "Endonezya'ya bağlı Java Adası'nın doğusunda bulunan Semeru Yanardağı, 900 metre yüksekliğe kadar kül püskürttü."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "08d00a34df7f",
-      "title": "Coventry thrash Newcastle to claim first home win of season",
-      "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 21:35:07 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e9a414ea21d3",
-      "title": "Beşiktaş'ta altyapı çalışması sırasında su borusu patladı",
-      "summary": "İstanbul Beşiktaş'ta altyapı çalışması sırasında ana su hattı borusunun patlaması nedeniyle Zincirlikuyu alt geçidini su bastı.",
-      "link": "https://www.trthaber.com/haber/turkiye/besiktasta-altyapi-calismasi-sirasinda-su-borusu-patladi-959932.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 21:35:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/besiktasta-altyapi-calismasi-sirasinda-su-borusu-patladi-959932.html",
-          "summary": "İstanbul Beşiktaş'ta altyapı çalışması sırasında ana su hattı borusunun patlaması nedeniyle Zincirlikuyu alt geçidini su bastı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2c4241962618",
-      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food - Reuters",
-      "summary": "Hackers heat French supermarket fridges, sparking fires and spoiling food Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Mon, 12 Oct 2026 21:34:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF?oc=5",
-          "summary": "Hackers heat French supermarket fridges, sparking fires and spoiling food Reuters"
         }
       ],
       "sourcesCount": 1
