@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:52:46.023078+00:00",
+  "updated": "2026-10-13T19:20:36.184201+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -624,6 +624,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "3c663893a617",
+      "title": "Muğla'da 18 düzensiz göçmen yakalandı",
+      "summary": "Muğla'nın Marmaris ilçesinde 18 düzensiz göçmen yakalandı.",
+      "link": "https://www.trthaber.com/haber/turkiye/muglada-18-duzensiz-gocmen-yakalandi-960037.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 21:54:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/muglada-18-duzensiz-gocmen-yakalandi-960037.html",
+          "summary": "Muğla'nın Marmaris ilçesinde 18 düzensiz göçmen yakalandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "212fcfc1b367",
       "title": "Suudi Arabistan'ın Doğu Bölgesi'nde erken uyarı sistemi devreye alındı",
       "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, Doğu Bölgesi için erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
@@ -655,6 +673,78 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/kocaelide-motosikletlerin-trafige-cikisi-yasaklandi-960035.html",
           "summary": "Kocaeli’de olumsuz hava koşulları nedeniyle motosiklet, scooter, elektrikli scooter ve motokuryelerin trafiğe çıkışı 2 gün yasaklandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c1d58d39ef8c",
+      "title": "Rot-Weiss Essen kontert harmloses Fortuna Köln aus",
+      "summary": "Rot-Weiss Essen bleibt auch im achten Spiel in Folge ungeschlagen. Der Sieg gegen Fortuna Köln geriet selten in Gefahr.",
+      "link": "https://www.sportschau.de/regional/wdr/wdr-rot-weiss-essen-kontert-harmloses-fortuna-koeln-aus-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 13 Oct 2026 21:19:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/wdr/wdr-rot-weiss-essen-kontert-harmloses-fortuna-koeln-aus-100.html",
+          "summary": "Rot-Weiss Essen bleibt auch im achten Spiel in Folge ungeschlagen. Der Sieg gegen Fortuna Köln geriet selten in Gefahr."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b1fcd2b3c9a8",
+      "title": "Eisschnelllauf: Präsident Matthias Große bekommt Herausforderer",
+      "summary": "Der Sportfunktionär Andreas Minschke will DESG-Präsident werden. Amtsinhaber Matthias Große versucht offenbar, das Vorhaben im Keim zu ersticken.",
+      "link": "https://www.sportschau.de/wintersport/eisschnelllauf/kampf-ums-praesidenten-amt-grosse-bekommt-herausforderer,herausforderer-fuer-praesident-grosse-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 21:12:42 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/wintersport/eisschnelllauf/kampf-ums-praesidenten-amt-grosse-bekommt-herausforderer,herausforderer-fuer-praesident-grosse-100.html",
+          "summary": "Der Sportfunktionär Andreas Minschke will DESG-Präsident werden. Amtsinhaber Matthias Große versucht offenbar, das Vorhaben im Keim zu ersticken."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9a19c046252a",
+      "title": "Bitterer Flutlichtabend - FCS unterliegt Tabellenführer Duisburg",
+      "summary": "Der MSV Duisburg bleibt in der 3. Liga auch nach dem Spiel beim 1.",
+      "link": "https://www.sportschau.de/regional/sr/sr-bitterer-flutlichtabend-fcs-unterliegt-tabellenfuehrer-duisburg-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Tue, 13 Oct 2026 21:04:37 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/sr/sr-bitterer-flutlichtabend-fcs-unterliegt-tabellenfuehrer-duisburg-100.html",
+          "summary": "Der MSV Duisburg bleibt in der 3. Liga auch nach dem Spiel beim 1."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0563c0969fef",
+      "title": "Zuckersteuer: Bundesregierung einigt sich",
+      "summary": "Union und SPD haben sich auf die Einführung einer Steuer auf zuckerhaltige Getränke geeinigt. Eine Ausnahme könnte es für kleinere Hersteller geben.",
+      "link": "https://www.zdfheute.de/politik/deutschland/zuckersteuer-einigung-bundesregierung-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 20:57:03 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/zuckersteuer-einigung-bundesregierung-100.html",
+          "summary": "Union und SPD haben sich auf die Einführung einer Steuer auf zuckerhaltige Getränke geeinigt. Eine Ausnahme könnte es für kleinere Hersteller geben."
         }
       ],
       "sourcesCount": 1
@@ -935,6 +1025,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b91386fcbef1",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 19:13:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+          "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "49de80e70609",
       "title": "NATO Genel Sekreter Yardımcısı Shekerinska: Türkiye'de uzun süredir fiili bir sanayi devrimine tanık oluyoruz",
       "summary": "NATO Genel Sekreter Yardımcısı Radmila Shekerinska, \"Türk savunma sanayisinde mükemmel örneklere sahibiz; zira orada (Türkiye'de) sadece son birkaç yılda değil, uzun süredir fiili bir sanayi devrimine tanık oluyoruz.\" dedi.",
@@ -953,6 +1061,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "baab8b14d9b2",
+      "title": "NATO-Strategie: Was die „Theorie des Sieges“ für die Allianz bedeutet",
+      "summary": "Der NATO-Oberbefehlshaber will russische Truppen aufhalten, abwehren und vernichten, wenn sie angreifen. Aber er will den Kreml nicht in die Knie zwingen.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/angriff-russlands-zurueckschlagen-was-die-plaene-des-nato-oberbefehlshabers-bedeuten-201313415.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 19:05:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/angriff-russlands-zurueckschlagen-was-die-plaene-des-nato-oberbefehlshabers-bedeuten-201313415.html",
+          "summary": "Der NATO-Oberbefehlshaber will russische Truppen aufhalten, abwehren und vernichten, wenn sie angreifen. Aber er will den Kreml nicht in die Knie zwingen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8ba8da2582bc",
+      "title": "Deutschland liveblog: Koalition legt Streit um Zuckersteuer bei",
+      "summary": "Grüne und SPD in Berlin unterbrechen Sondierungen mit der Linken +++ Vanessa Emde in Linksfraktion aufgenommen +++ alle Entwicklungen im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-koalition-legt-streit-um-zuckersteuer-bei-faz-110093143.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 19:01:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-koalition-legt-streit-um-zuckersteuer-bei-faz-110093143.html",
+          "summary": "Grüne und SPD in Berlin unterbrechen Sondierungen mit der Linken +++ Vanessa Emde in Linksfraktion aufgenommen +++ alle Entwicklungen im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "349d8265b430",
+      "title": "Classic Chronicle: How the US Postal Service adapted to technology in 1993 - WCVB",
+      "summary": "Classic Chronicle: How the US Postal Service adapted to technology in 1993 WCVB",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnJSRXN2Mi1KQ3Q5YmstMnFZbGNFcVFOaUYxb3B2S2JpYkRWR2pNTndLZThPRlVabTZqMTVIc0hTeUc4QnN2bFpHLUVfbS0tUV9RaFRJUGgwMWc3M2J4RksxbkJKMGdaR1Vra2R2QjR4T3UySGZUYm95NlNOMmYxS1kwNVk5NWhwZTlQQjBOMkN4LWh1V0FYblVtR1ZCc3FXMDRN?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 19:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnJSRXN2Mi1KQ3Q5YmstMnFZbGNFcVFOaUYxb3B2S2JpYkRWR2pNTndLZThPRlVabTZqMTVIc0hTeUc4QnN2bFpHLUVfbS0tUV9RaFRJUGgwMWc3M2J4RksxbkJKMGdaR1Vra2R2QjR4T3UySGZUYm95NlNOMmYxS1kwNVk5NWhwZTlQQjBOMkN4LWh1V0FYblVtR1ZCc3FXMDRN?oc=5",
+          "summary": "Classic Chronicle: How the US Postal Service adapted to technology in 1993 WCVB"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "59d83208909b",
       "title": "Arda Turan'dan A Milli Takım açıklaması",
       "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, adının A Milli Takım teknik direktörlüğü için anılmasıyla ilgili olarak, \"Milli takımın daha önce her seviyesinde oynamış biri olarak yaşadığım onuru, hissiyatları anlatmam mümkün değil. Bir başka şey de uzun zaman sonra ismimin üzerinde insanların birleştiğini görmek gerçekten heyecan verici\" dedi.",
@@ -966,6 +1128,78 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/arda-turandan-a-milli-takim-aciklamasi-960023.html",
           "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, adının A Milli Takım teknik direktörlüğü için anılmasıyla ilgili olarak, \"Milli takımın daha önce her seviyesinde oynamış biri olarak yaşadığım onuru, hissiyatları anlatmam mümkün değil. Bir başka şey de uzun zaman sonra ismimin üzerinde insanların birleştiğini görmek gerçekten heyecan verici\" dedi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a8608ca9a0bb",
+      "title": "Saudi coalition strikes fuel depot near Yemen's capital",
+      "summary": "The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam.",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 18:55:50 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a985ef434a00",
+      "title": "EmDE in Linksfraktion: Wie die Berliner Sondierungen aus den Fugen gerieten",
+      "summary": "Die Berliner Linksfraktion hat die radikale Abgeordnete Vanessa Emde in ihre Reihen aufgenommen. Grüne und SPD ziehen Konsequenzen.",
+      "link": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-in-der-linksfraktion-spd-und-gruene-unterbrechen-sondierungen-201315220.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 18:54:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-in-der-linksfraktion-spd-und-gruene-unterbrechen-sondierungen-201315220.html",
+          "summary": "Die Berliner Linksfraktion hat die radikale Abgeordnete Vanessa Emde in ihre Reihen aufgenommen. Grüne und SPD ziehen Konsequenzen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8cd415cc4ee6",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 18:54:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+          "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3a3ae584b1ba",
+      "title": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters",
+      "summary": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 18:50:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
+          "summary": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1115,6 +1349,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0cf039433eed",
+      "title": "Nvidia invests in four French technology startups, Les Echos reports - Yahoo Finance",
+      "summary": "Nvidia invests in four French technology startups, Les Echos reports Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemlFR1B4bTg0WVN0UTBIZVkyb2dEMkFZSU5YYTFNdWJiTVJDYU12ZG91ZklCMUtJT1Y1WmIySzhnN1F4c1BlaDk2TTc0VGk1Z1NyLW5OS05wZXpzTVZ5cnhFWm5pVXphV3k1QU1JWmlmdUE3QjlidmlVYjNJQzdENWs5NkVjRXhMYVA1c0lKbVI0YlB6MkE0cWwtLUM4QzA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 18:26:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemlFR1B4bTg0WVN0UTBIZVkyb2dEMkFZSU5YYTFNdWJiTVJDYU12ZG91ZklCMUtJT1Y1WmIySzhnN1F4c1BlaDk2TTc0VGk1Z1NyLW5OS05wZXpzTVZ5cnhFWm5pVXphV3k1QU1JWmlmdUE3QjlidmlVYjNJQzdENWs5NkVjRXhMYVA1c0lKbVI0YlB6MkE0cWwtLUM4QzA?oc=5",
+          "summary": "Nvidia invests in four French technology startups, Les Echos reports Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "da927edfb908",
       "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
@@ -1187,6 +1439,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ffecd40c5d99",
+      "title": "AI researchers are taking up smoking for bizarre reason, tech exec claims - New York Post",
+      "summary": "AI researchers are taking up smoking for bizarre reason, tech exec claims New York Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjBnczdHQ2J3MGczZFF6Y1NUNXlNZVcxOFNBbTJSQkNnNnFINTdrM0pJU09ZcUNib18wQTNaN3FTU1JNVm5JaGNOZXpsbzROdUNpYzJIejZkbnBhWVhnZjYwRFdjcVlpUG9UbWlhNGtmNVdnUjh4bEFnd05QcmtYY28wTXl4V29vOHNzTnA0bkEwcHhuamRvSGtaUGFwRVNmeW81VUh2Zm1LUlBVMzFTMVJB?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 18:16:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjBnczdHQ2J3MGczZFF6Y1NUNXlNZVcxOFNBbTJSQkNnNnFINTdrM0pJU09ZcUNib18wQTNaN3FTU1JNVm5JaGNOZXpsbzROdUNpYzJIejZkbnBhWVhnZjYwRFdjcVlpUG9UbWlhNGtmNVdnUjh4bEFnd05QcmtYY28wTXl4V29vOHNzTnA0bkEwcHhuamRvSGtaUGFwRVNmeW81VUh2Zm1LUlBVMzFTMVJB?oc=5",
+          "summary": "AI researchers are taking up smoking for bizarre reason, tech exec claims New York Post"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "dc9a84baf4d6",
       "title": "Allies gave Ukraine no warning of impending missile attack, Zelenskiy says - Reuters",
       "summary": "Allies gave Ukraine no warning of impending missile attack, Zelenskiy says Reuters",
@@ -1218,6 +1488,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-wurde-erfolgreich-an-der-lunge-operiert-201315196.html",
           "summary": "Bei einer Routineuntersuchung wurde ein Knoten in der Lunge des Pontifex entdeckt. Um welche Art von Knoten es sich handelt, wurde nicht bekannt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "82139ffba0d2",
+      "title": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says - Reuters",
+      "summary": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOel94VDNzeEx1LXhzdm9vX0xSSUhyQUswNTAwUWhsVklGcEtQRm1KYlpUWXhKOUo5cE1tdTJXQV85eVZic05iV3gyVXNIZTJwV2xCRmo0QkFtMDFXMWNWR3lhaS05dHN2UVNtREJodXZLMllfOTBYdUpHelFKS1JQbUVxUFU4NzhTTUswVVlvX21QcXByY0F4akJ1ZGNtSDZ0aExrZHBYVlR4aGlCYTJz?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 18:14:42 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOel94VDNzeEx1LXhzdm9vX0xSSUhyQUswNTAwUWhsVklGcEtQRm1KYlpUWXhKOUo5cE1tdTJXQV85eVZic05iV3gyVXNIZTJwV2xCRmo0QkFtMDFXMWNWR3lhaS05dHN2UVNtREJodXZLMllfOTBYdUpHelFKS1JQbUVxUFU4NzhTTUswVVlvX21QcXByY0F4akJ1ZGNtSDZ0aExrZHBYVlR4aGlCYTJz?oc=5",
+          "summary": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1295,19 +1583,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "88b9117436b1",
-      "title": "Europe trails the US on AI because of how firms work, Sifted report says - The Next Web",
-      "summary": "Europe trails the US on AI because of how firms work, Sifted report says The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvQklUdmtxYzBScXVPWXJDeFdDSzRPUW82Sllkc1dFR20yUFRoZlVXZFYwdHVzTDZ6Mkw0emk2MVpPdXJqc05QcUVLenZSZGEzMXJrSjFxN083V0ItV2dVQUhwdUNaODZmNjJ1Y2piUnpZWGV5WnBJ?oc=5",
+      "id": "bd552674fc42",
+      "title": "Five things to know about the new UNT Science and Technology Building - Denton Record-Chronicle",
+      "summary": "Five things to know about the new UNT Science and Technology Building Denton Record-Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWtRdlo2SGtSVWxPR2FrVjU3cnNHVjVLdU5FU1A2b0ZpNnhzazFXakJUYkgtUm92VWc5NXA5Z0o1cnI0blplYTRlQ1RBc1VBUk9OTy1hR2lvc2NvWGVySjkwVDN4YnlPOG1acnlycF9ETko1dlNCeDZFVlZmTjNzU2JSczBuN09kS0RUSjI3MTh4bXg2VVRVOEpHNXg0am43aV9odHBybFQ0bndDYjl0Vl9lN3FfZjRZSnd0cHVDQjJBRWkwbGhlZ1l3YXhCMzhWZGIwMkg2dGhkbk1SeDVvYnhGY28?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 18:04:36 GMT",
+      "time": "Tue, 13 Oct 2026 18:05:00 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvQklUdmtxYzBScXVPWXJDeFdDSzRPUW82Sllkc1dFR20yUFRoZlVXZFYwdHVzTDZ6Mkw0emk2MVpPdXJqc05QcUVLenZSZGEzMXJrSjFxN083V0ItV2dVQUhwdUNaODZmNjJ1Y2piUnpZWGV5WnBJ?oc=5",
-          "summary": "Europe trails the US on AI because of how firms work, Sifted report says The Next Web"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWtRdlo2SGtSVWxPR2FrVjU3cnNHVjVLdU5FU1A2b0ZpNnhzazFXakJUYkgtUm92VWc5NXA5Z0o1cnI0blplYTRlQ1RBc1VBUk9OTy1hR2lvc2NvWGVySjkwVDN4YnlPOG1acnlycF9ETko1dlNCeDZFVlZmTjNzU2JSczBuN09kS0RUSjI3MTh4bXg2VVRVOEpHNXg0am43aV9odHBybFQ0bndDYjl0Vl9lN3FfZjRZSnd0cHVDQjJBRWkwbGhlZ1l3YXhCMzhWZGIwMkg2dGhkbk1SeDVvYnhGY28?oc=5",
+          "summary": "Five things to know about the new UNT Science and Technology Building Denton Record-Chronicle"
         }
       ],
       "sourcesCount": 1
@@ -1602,7 +1890,7 @@
     },
     {
       "id": "238c1ba2b0eb",
-      "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
@@ -1850,24 +2138,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f3b838d9d48a",
-      "title": "Deutschland liveblog: Nach Aufnahme Vanessa Emdes in Berliner Linksfraktion unterbrechen SPD und Grüne Sondierungen",
-      "summary": "Grünen-Spitzenkandidat Graf: Müssen bewerten, ob unsere Vereinbarung von vergangener Woche noch gilt +++ Vanessa Emde hat sich bisher nicht zum Existenzrecht Israels bekannt +++ alle Entwicklungen im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-nach-aufnahme-von-emde-in-berliner-linksfraktion-unterbrechen-spd-und-gruene-sondierungen-faz-110093143.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 13 Oct 2026 17:06:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-nach-aufnahme-von-emde-in-berliner-linksfraktion-unterbrechen-spd-und-gruene-sondierungen-faz-110093143.html",
-          "summary": "Grünen-Spitzenkandidat Graf: Müssen bewerten, ob unsere Vereinbarung von vergangener Woche noch gilt +++ Vanessa Emde hat sich bisher nicht zum Existenzrecht Israels bekannt +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d0ee4a2b0e2a",
       "title": "Inside Katie Zacharia's very brief White House briefing",
       "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
@@ -1935,42 +2205,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/hallo-deutschland/brennender-schnellzug-spanien-100.html",
           "summary": "Feuer im Schnellzug: Wegen eines Brandes musste ein AVE in Spanien evakuiert werden. Verletzt wurde niemand, doch rund 13.000 Reisende waren von Zugausfällen betroffen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "173b9b5d3162",
-      "title": "KI-Klon: Droht dem 25-Milliarden-Konzern Gefahr?",
-      "summary": "Künstliche Intelligenz kann nicht nur Bücher und Filme erstellen. Sie kann auch Software entwickeln – so gut, dass sie damit etablierte Anbieter wie Adobe heftig in die Bredouille bringt.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-klon-von-adobe-photoshop-droht-dem-25-milliarden-konzern-gefahr-201313795.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 16:59:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-klon-von-adobe-photoshop-droht-dem-25-milliarden-konzern-gefahr-201313795.html",
-          "summary": "Künstliche Intelligenz kann nicht nur Bücher und Filme erstellen. Sie kann auch Software entwickeln – so gut, dass sie damit etablierte Anbieter wie Adobe heftig in die Bredouille bringt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "38287b4d3ccb",
-      "title": "Rwanda to bring F1 back to Africa for first time since 1993 - Reuters",
-      "summary": "Rwanda to bring F1 back to Africa for first time since 1993 Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHcxbkNjbGtTU1pqdjBnVnRpUno1aUtuRGNDcmVWQjJLV1FHdFNvcVBQcEQyc2FRZzl2a2RyazBfTkpGbkNHdWQ5WXdOXzdjZm5BMldWUjRLSnpzWjFtZGp2cUtGUzlzWFd3TTgzZ2pwOG9GaS1FT29fTXd6bXBDT0Nsczl4ZVBJODA5MTgtNDBHOTM2TGpYUmwzQ2w?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 16:52:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHcxbkNjbGtTU1pqdjBnVnRpUno1aUtuRGNDcmVWQjJLV1FHdFNvcVBQcEQyc2FRZzl2a2RyazBfTkpGbkNHdWQ5WXdOXzdjZm5BMldWUjRLSnpzWjFtZGp2cUtGUzlzWFd3TTgzZ2pwOG9GaS1FT29fTXd6bXBDT0Nsczl4ZVBJODA5MTgtNDBHOTM2TGpYUmwzQ2w?oc=5",
-          "summary": "Rwanda to bring F1 back to Africa for first time since 1993 Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2706,24 +2940,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ef59782ba1d6",
-      "title": "How European Surveillance Technology Facilitates Repression in Egypt and MENA - The Tahrir Institute for Middle East Policy -",
-      "summary": "How European Surveillance Technology Facilitates Repression in Egypt and MENA The Tahrir Institute for Middle East Policy -",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFqN2gzVkMyOENGNDVnWEFIc21yekVNTFVyTldhd05aNTJwZmlpaGRzM21iS0hnMTZzMEZaWG9rek5ZRUhaZUxZVTdlbjhoWDRvd2tKTkpPNm93NnNKdDdnUEJudWg2bWZMaU1IcUdJdFoybEhtQjMxV2RldE9zN0diUWhaMmtla2tVaVZ0YlZIS1lYamhjN3QzTlZ2endNUUhST2xqQTd3eWc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 15:22:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFqN2gzVkMyOENGNDVnWEFIc21yekVNTFVyTldhd05aNTJwZmlpaGRzM21iS0hnMTZzMEZaWG9rek5ZRUhaZUxZVTdlbjhoWDRvd2tKTkpPNm93NnNKdDdnUEJudWg2bWZMaU1IcUdJdFoybEhtQjMxV2RldE9zN0diUWhaMmtla2tVaVZ0YlZIS1lYamhjN3QzTlZ2endNUUhST2xqQTd3eWc?oc=5",
-          "summary": "How European Surveillance Technology Facilitates Repression in Egypt and MENA The Tahrir Institute for Middle East Policy -"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a51d7b752dad",
       "title": "Papa 14. Leo hastaneye yatırıldı",
       "summary": "Vatikan Devlet Başkanı Papa 14. Leo, akciğerinde tespit edilen kitle (nodül) nedeniyle bugün geçireceği operasyon için hastaneye yatırıldı.",
@@ -2940,42 +3156,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a28f9d9f824e",
-      "title": "USA unter Trump: Trump fordert US-Botschafterin in Athen zum Rückzug auf",
-      "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-weisses-haus-fordert-us-botschafterin-in-athen-zum-rueckzug-auf-faz-19444916.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 14:51:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-weisses-haus-fordert-us-botschafterin-in-athen-zum-rueckzug-auf-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "90ae998ca36d",
-      "title": "Technology isn’t neutral: 3 key discipleship questions for the Age of AI - The Pathway",
-      "summary": "Technology isn’t neutral: 3 key discipleship questions for the Age of AI The Pathway",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWRFZF94Ni1EdVNkU2lxQXhlQ1cxS3pFZnlDanZDWkI1RFc0YnNHYk9LWTRPYkRQeVRDcS1zYzVZWGpkVTdXWkhheVB3d0lkNG42QWkzUTlneXA1bmpjSUdGRHJubFlLZHQ1bEtFMVczSXNDTFo1RUlvUXBpZ08zRHd5NlBpLXB0NHczWlg5WDhTMnBGWWowT0dyblVMZlZDa2ZCblY2R0k?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 14:43:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWRFZF94Ni1EdVNkU2lxQXhlQ1cxS3pFZnlDanZDWkI1RFc0YnNHYk9LWTRPYkRQeVRDcS1zYzVZWGpkVTdXWkhheVB3d0lkNG42QWkzUTlneXA1bmpjSUdGRHJubFlLZHQ1bEtFMVczSXNDTFo1RUlvUXBpZ08zRHd5NlBpLXB0NHczWlg5WDhTMnBGWWowT0dyblVMZlZDa2ZCblY2R0k?oc=5",
-          "summary": "Technology isn’t neutral: 3 key discipleship questions for the Age of AI The Pathway"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "34ed877c1ea3",
       "title": "France seizes another 'shadow fleet' tanker; Russia decries 'piracy' - Reuters",
       "summary": "France seizes another 'shadow fleet' tanker; Russia decries 'piracy' Reuters",
@@ -3071,24 +3251,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-mescid-i-aksaya-baskin-duzenledi-960005.html",
           "summary": "Filistin topraklarını gasbeden 130'dan fazla İsrailli, işgal altındaki Doğu Kudüs'te yer alan Mescid-i Aksa'ya baskın düzenledi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "701566896eae",
-      "title": "Merz kritisiert Bas' Arbeit, Grüne finden das \"unmöglich\"",
-      "summary": "Kanzler Merz hat die Arbeit der scheidenden Ministerin Bas kritisiert. Auf die Gesetze zur Rente warte man nun schon ziemlich lange, sagt er - und erntet Kritik von den Grünen.",
-      "link": "https://www.zdfheute.de/politik/merz-arbeitgebertag-bas-gruene-kritik-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 14:32:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/merz-arbeitgebertag-bas-gruene-kritik-100.html",
-          "summary": "Kanzler Merz hat die Arbeit der scheidenden Ministerin Bas kritisiert. Auf die Gesetze zur Rente warte man nun schon ziemlich lange, sagt er - und erntet Kritik von den Grünen."
         }
       ],
       "sourcesCount": 1
@@ -4030,24 +4192,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "2e8efb232ab1",
-      "title": "I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno - The Guardian",
-      "summary": "I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEdreXFYajJUMzFkbFN5ZDA5TGFZajlwZzkzYkRRSmM0ZXlpWHd1R3Q4QlFBUjF3bHZQelpsRnMtQ0k4SlJXd2p6R0x3MXQ5NlJuSjVNb3I5dGdseHFPY2xJUlIteFFkeW9CTy1FT0NYWXFCeVU4bm5xcUU5UThOeUw5N0NJTFpBSXFxQjZrc2hiOXJveU5MUEFuV1BfZw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 11:03:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEdreXFYajJUMzFkbFN5ZDA5TGFZajlwZzkzYkRRSmM0ZXlpWHd1R3Q4QlFBUjF3bHZQelpsRnMtQ0k4SlJXd2p6R0x3MXQ5NlJuSjVNb3I5dGdseHFPY2xJUlIteFFkeW9CTy1FT0NYWXFCeVU4bm5xcUU5UThOeUw5N0NJTFpBSXFxQjZrc2hiOXJveU5MUEFuV1BfZw?oc=5",
-          "summary": "I’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI | Megan Moreno The Guardian"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "cd5c049f7c43",
       "title": "Carragher settles tax debt to avoid bankruptcy",
       "summary": "Jamie Carragher has settled an unpaid tax bill with His Majesty's Revenue and Customs.",
@@ -4444,24 +4588,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5040748aecf0",
-      "title": "How CT teachers say technology is destroying students’ academic ability; ‘It is disheartening’ - Hartford Courant",
-      "summary": "How CT teachers say technology is destroying students’ academic ability; ‘It is disheartening’ Hartford Courant",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTJiS1lYMmM1YWdVanhLVnViSWR6SGZvMXVkX2I0Yld1OTB0NFJsZzdNUHFCdHZYTV9qRjZNRmxnTmlmNEE1TDBWR0U2clp1cWlvVjdKSGs1bGw5MldMLU1Bb25LVWc0S1VlajVBb1U4RWtFY2FTZWFFUlE4TUlZM1Q1d21BMG5sRVFsdWxqX2JoVTFaRUVVSUxuSVhlTjRfdkVoTGl6TjlQbDN4V1J3d0h1MWwwMHYwQlFHWHhCcDNocXgx?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 09:10:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTJiS1lYMmM1YWdVanhLVnViSWR6SGZvMXVkX2I0Yld1OTB0NFJsZzdNUHFCdHZYTV9qRjZNRmxnTmlmNEE1TDBWR0U2clp1cWlvVjdKSGs1bGw5MldMLU1Bb25LVWc0S1VlajVBb1U4RWtFY2FTZWFFUlE4TUlZM1Q1d21BMG5sRVFsdWxqX2JoVTFaRUVVSUxuSVhlTjRfdkVoTGl6TjlQbDN4V1J3d0h1MWwwMHYwQlFHWHhCcDNocXgx?oc=5",
-          "summary": "How CT teachers say technology is destroying students’ academic ability; ‘It is disheartening’ Hartford Courant"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a62c40000b25",
       "title": "Etimesgut Belediyesi'ne yolsuzluk soruşturması: 25 gözaltı",
       "summary": "Etimesgut Belediyesi'ne yönelik düzenlenen operasyonda, aralarında belediye başkan yardımcıları Fikret Gözüoğlu ve Gültekin Bayındır'ın da bulunduğu 5'i belediye görevlisi 25 şüpheli hakkında gözaltı, arama ve el koyma işlemi yapıldı. Şüphelilerin tamamı gözaltına alındı.",
@@ -4768,24 +4894,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "58d42373bee3",
-      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 07:31:10 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2144fff7a68e",
       "title": "ICE durchsucht Haus von Ilhan Omar",
       "summary": "ICE-Beamte haben das Haus der US-Abgeordneten Ilhan Omar durchsucht. Laut Medien soll es um ihre Einbürgerung als Kind gegangen sein.",
@@ -4799,24 +4907,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/zdfheute-xpress/usa-ice-durchsuchung-haus-ilhan-omar-video-100.html",
           "summary": "ICE-Beamte haben das Haus der US-Abgeordneten Ilhan Omar durchsucht. Laut Medien soll es um ihre Einbürgerung als Kind gegangen sein."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "64d3a8dac4f9",
-      "title": "Kanes Date mit der Vergangenheit",
-      "summary": "Harry Kane ist einer der besten Stürmer aller Zeiten, doch am Anfang seiner Karriere hatte selbst er Probleme, Einsatzminuten zu bekommen. Beinahe wäre er zum heutigen Gegner Viking FK gewechselt.",
-      "link": "https://www.sportschau.de/regional/br/br-fast-zu-stavanger-gewechselt-kanes-date-mit-der-vergangenheit-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 07:26:25 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/br/br-fast-zu-stavanger-gewechselt-kanes-date-mit-der-vergangenheit-102.html",
-          "summary": "Harry Kane ist einer der besten Stürmer aller Zeiten, doch am Anfang seiner Karriere hatte selbst er Probleme, Einsatzminuten zu bekommen. Beinahe wäre er zum heutigen Gegner Viking FK gewechselt."
         }
       ],
       "sourcesCount": 1
@@ -4997,14 +5087,9 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUZsb2dHV3NNb1BsZ1NRcWN3ZlNGVVh5YjNsR3QzS1RqSnZDcFViWEF2eTA0eVdEZkdZVVBnQ2d4SjRIcy1PSk5IQmc1WlhWam9TbnlGTW9hVDd2UTgyNXlZa0NfWUQzeG4tbW5tWUp0cU1TTWxCbk13MVVQSS1Ld3FaNFVscV81UnJrc1lleG9MUEZJ?oc=5",
           "summary": "Nvidia AI chip share in China falls as Huawei catches up- Reuters Yahoo Finance"
-        },
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5",
-          "summary": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds Reuters"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "76c0d7011548",
@@ -5241,24 +5326,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "fc9ba88f88a5",
-      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-      "summary": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-      "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 04:04:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-          "summary": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "80d3fd1dd1f7",
       "title": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
       "summary": "Trump says he does not believe China and Russia are helping Iran 'at all' Reuters",
@@ -5284,7 +5351,7 @@
       "sourceName": "Google News – Reuters",
       "region": "international",
       "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 02:31:15 GMT",
+      "time": "Tue, 13 Oct 2026 02:31:00 GMT",
       "coverage": [
         {
           "sourceName": "Google News – Reuters",
@@ -5383,93 +5450,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "291587312f8d",
-      "title": "Ronaldo, milli takımı bırakmadığını açıkladı",
-      "summary": "Portekizli yıldız futbolcu Cristiano Ronaldo, milli takımı bırakmadığını açıkladı.",
-      "link": "https://www.trthaber.com/haber/spor/ronaldo-milli-takimi-birakmadigini-acikladi-959329.html",
-      "sourceName": "TRT Haber Sport",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 23:32:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Sport",
-          "link": "https://www.trthaber.com/haber/spor/ronaldo-milli-takimi-birakmadigini-acikladi-959329.html",
-          "summary": "Portekizli yıldız futbolcu Cristiano Ronaldo, milli takımı bırakmadığını açıkladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e2e8552763e4",
-      "title": "England: What has boss Thomas Tuchel learned during international break? - BBC",
-      "summary": "England: What has boss Thomas Tuchel learned during international break? BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vaE1KNXVPRWpSTGxMZFpyU1V4TVE1ekg2R1N3TklVaDdhTExIcGY0dkVTVmNkb3NqeHpnQ243YjNheVR3QW5XVEw2dWNMZTFBVWlzRTFpN0lGbkk4UG9zTElxc3FOWmYy?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 22:34:46 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vaE1KNXVPRWpSTGxMZFpyU1V4TVE1ekg2R1N3TklVaDdhTExIcGY0dkVTVmNkb3NqeHpnQ243YjNheVR3QW5XVEw2dWNMZTFBVWlzRTFpN0lGbkk4UG9zTElxc3FOWmYy?oc=5",
-          "summary": "England: What has boss Thomas Tuchel learned during international break? BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8f5c648ea735",
-      "title": "Türkiye Uzay Ajansı, IAC 2026'da iki anlaşma imzaladı",
-      "summary": "Türkiye Uzay Ajansı (TUA) 77. Uluslararası Uzay Kongresi'nde (IAC 2026) Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin uzay ajansları ve Birleşik Krallık Uzay Ajansı (UKSA) ile iki anlaşma imzaladı.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-uzay-ajansi-iac-2026da-iki-anlasma-imzaladi-959317.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 20:51:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-uzay-ajansi-iac-2026da-iki-anlasma-imzaladi-959317.html",
-          "summary": "Türkiye Uzay Ajansı (TUA) 77. Uluslararası Uzay Kongresi'nde (IAC 2026) Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin uzay ajansları ve Birleşik Krallık Uzay Ajansı (UKSA) ile iki anlaşma imzaladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "54c1d68c878b",
-      "title": "Tech Life",
-      "summary": "What is a supercomputer for? How does it work?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 19:30:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
-          "summary": "What is a supercomputer for? How does it work?"
-        },
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
-          "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice."
-        },
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
-          "summary": "China is competing with the United States and other nations to develop AI."
-        },
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
-          "summary": "What should children learn in a world transformed by artificial intelligence?"
-        }
-      ],
-      "sourcesCount": 4
     }
   ]
 }
