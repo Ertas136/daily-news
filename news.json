@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:14:48.024512+00:00",
+  "updated": "2026-10-13T07:46:28.324795+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -33,24 +33,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/pilotprojekt-im-osten-weniger-polizei-statt-kostenbeteiligung,polizeikosten-dfb-100.html",
           "summary": "Sollten Amateurklubs sich in Zukunft an Polizeikosten beteiligen müssen, wäre das für viele existenzbedrohend. In der Regionalliga Nordost testet man nun ein Modell mit weniger Polizei."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1922f6b1105b",
-      "title": "Reuters/Ipsos October Survey - Ipsos",
-      "summary": "Reuters/Ipsos October Survey Ipsos",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR3NLUGlwbDdUa2ladmJ5Mm1ZWVpYeGdmc2NOSlU1WjZfaDQ4eTFCSGRCT3JMM0JuREJCM2FESzJUY2wxR3lhRjR0VlFyVXl2RjNPZlB6eVg3NXpadkxCV2stMlF2dw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR3NLUGlwbDdUa2ladmJ5Mm1ZWVpYeGdmc2NOSlU1WjZfaDQ4eTFCSGRCT3JMM0JuREJCM2FESzJUY2wxR3lhRjR0VlFyVXl2RjNPZlB6eVg3NXpadkxCV2stMlF2dw?oc=5",
-          "summary": "Reuters/Ipsos October Survey Ipsos"
         }
       ],
       "sourcesCount": 1
@@ -642,6 +624,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "1788566a14c4",
+      "title": "TÜİK dış ticaret endekslerini açıkladı",
+      "summary": "İhracat birim değer endeksi, ağustosta geçen yılın aynı ayına göre yüzde 8,5, ithalat birim değer endeksi yüzde 13,7 arttı.",
+      "link": "https://www.trthaber.com/haber/ekonomi/tuik-dis-ticaret-endekslerini-acikladi-959974.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 13 Oct 2026 10:31:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/tuik-dis-ticaret-endekslerini-acikladi-959974.html",
+          "summary": "İhracat birim değer endeksi, ağustosta geçen yılın aynı ayına göre yüzde 8,5, ithalat birim değer endeksi yüzde 13,7 arttı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4bd7a9b4b80e",
       "title": "Brent petrolün varili 105,37 dolardan işlem görüyor",
       "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 105,37 dolardan işlem görüyor.",
@@ -734,7 +734,7 @@
     {
       "id": "2e50798ee97f",
       "title": "Ankara'da uyuşturucu operasyonu: 19 gözaltı",
-      "summary": "Ankara'da uyuşturucu ve fuhuş suçlarına yönelik düzenlenen operasyonda 19 şüpheli gözaltına alındı.",
+      "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen uyuşturucu ve fuhuş soruşturması kapsamında 19 şüpheli gözaltına alındı.",
       "link": "https://www.trthaber.com/haber/turkiye/ankarada-uyusturucu-operasyonu-19-gozalti-959965.html",
       "sourceName": "TRT Haber Türkei",
       "region": "turkey",
@@ -744,7 +744,7 @@
         {
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/ankarada-uyusturucu-operasyonu-19-gozalti-959965.html",
-          "summary": "Ankara'da uyuşturucu ve fuhuş suçlarına yönelik düzenlenen operasyonda 19 şüpheli gözaltına alındı."
+          "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen uyuşturucu ve fuhuş soruşturması kapsamında 19 şüpheli gözaltına alındı."
         },
         {
           "sourceName": "TRT Haber Türkei",
@@ -791,6 +791,60 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/etimesgut-belediyesine-yolsuzluk-sorusturmasi-25-gozalti-959962.html",
           "summary": "Etimesgut Belediyesi'ne yönelik düzenlenen operasyonda, aralarında belediye başkan yardımcıları Fikret Gözüoğlu ve Gültekin Bayındır'ın da bulunduğu 5'i belediye görevlisi 25 şüpheli hakkında gözaltı, arama ve el koyma işlemi yapıldı. Şüphelilerin tamamı gözaltına alındı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8a792399e3a4",
+      "title": "Sieben Probleme, vor denen die Koalition jetzt steht",
+      "summary": "Nach dem Rücktritt von Bärbel Bas versucht die Koalition, sich zu sortieren. Zwischen Reformen und Führungsfragen stehen Union und SPD vor vielen Herausforderungen - ein Überblick.",
+      "link": "https://www.zdfheute.de/politik/deutschland/koalition-reformen-regierung-union-spd-probleme-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 09:05:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/koalition-reformen-regierung-union-spd-probleme-100.html",
+          "summary": "Nach dem Rücktritt von Bärbel Bas versucht die Koalition, sich zu sortieren. Zwischen Reformen und Führungsfragen stehen Union und SPD vor vielen Herausforderungen - ein Überblick."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "bb35b3a3fbea",
+      "title": "Trotz Sanktion: Moskau liefert Energie in EU für Milliarden",
+      "summary": "EU-Sanktionen haben den Energiehandel mit Russland nicht beendet. Seit Beginn des Ukraine-Kriegs lieferte Moskau weiterhin Öl und Gas an EU-Staaten, so Vizeregierungschef Nowak.",
+      "link": "https://www.zdfheute.de/politik/russland-oel-gas-lieferung-eu-sanktionen-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 09:02:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/russland-oel-gas-lieferung-eu-sanktionen-100.html",
+          "summary": "EU-Sanktionen haben den Energiehandel mit Russland nicht beendet. Seit Beginn des Ukraine-Kriegs lieferte Moskau weiterhin Öl und Gas an EU-Staaten, so Vizeregierungschef Nowak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "862d0c277336",
+      "title": "Tödlicher Sturz aus Achterbahn in Georgia",
+      "summary": "In einem Freizeitpark im US-Bundesstaat Georgia ist eine Person aus einer Achterbahn gestürzt und gestorben. Weitere Personen wurden verletzt.",
+      "link": "https://www.zdfheute.de/video/zdfheute-xpress/achterbahn-unfall-georgia-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 08:54:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-xpress/achterbahn-unfall-georgia-video-100.html",
+          "summary": "In einem Freizeitpark im US-Bundesstaat Georgia ist eine Person aus einer Achterbahn gestürzt und gestorben. Weitere Personen wurden verletzt."
         }
       ],
       "sourcesCount": 1
@@ -976,6 +1030,96 @@
       "sourcesCount": 1
     },
     {
+      "id": "7e140eef757f",
+      "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+      "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:33:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+          "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "58d42373bee3",
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:31:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "01e7f2a0b99c",
+      "title": "Lille considering legal action after Santos injury",
+      "summary": "The club have described the tackle on defender Tiago Santos as 'uncontrolled and dangerous'.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 13 Oct 2026 07:30:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&at_campaign=rss",
+          "summary": "The club have described the tackle on defender Tiago Santos as 'uncontrolled and dangerous'."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b7f0256392fc",
+      "title": "CEIBS Global EMBA ranks second worldwide for seventh consecutive year in 2026 FT ranking - Media OutReach Newswire",
+      "summary": "CEIBS Global EMBA ranks second worldwide for seventh consecutive year in 2026 FT ranking Media OutReach Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3NBVHpMYmxvTjNCb3FZYVVpQzBrLVlUdU5wOWljSmt0c1NONDJlRzhjLVR2eEIwa05FWUs0X1BwUDliVE9SdlBqc2xwQTZTR3NGYW5VQUxTeDdnV3JNMUFzSWtOU2s5WXZkLXVSd1BESHNHMU5oMTFzb2toLXMwMGFDQlgyR01rN2Z0R29tY2FmZk9uY2JrVnNES2ZjcWU1XzdGcVNEa0dPeE82N0VlcXljTFphNFdJVU1kM0dZeHFZNS10eWFlZTdieHlKU2syTjdUeGpxOEVISm5GTFBYRHVPcHRacTJ3?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 07:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3NBVHpMYmxvTjNCb3FZYVVpQzBrLVlUdU5wOWljSmt0c1NONDJlRzhjLVR2eEIwa05FWUs0X1BwUDliVE9SdlBqc2xwQTZTR3NGYW5VQUxTeDdnV3JNMUFzSWtOU2s5WXZkLXVSd1BESHNHMU5oMTFzb2toLXMwMGFDQlgyR01rN2Z0R29tY2FmZk9uY2JrVnNES2ZjcWU1XzdGcVNEa0dPeE82N0VlcXljTFphNFdJVU1kM0dZeHFZNS10eWFlZTdieHlKU2syTjdUeGpxOEVISm5GTFBYRHVPcHRacTJ3?oc=5",
+          "summary": "CEIBS Global EMBA ranks second worldwide for seventh consecutive year in 2026 FT ranking Media OutReach Newswire"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "120670ada4f2",
+      "title": "Wilson Sonsini Advises Microchip Technology on Acquisition of VORAGO Technologies - Wilson Sonsini",
+      "summary": "Wilson Sonsini Advises Microchip Technology on Acquisition of VORAGO Technologies Wilson Sonsini",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExzNEpwd2tTaHNpTFBJSTRhQ2p1X0lFQXdQT2hNOEdTQVI1aXljMUVZTEYxTlpJTTdmWkh2ZzNnbTBaQ2NqRlAyVzUwNmRrUkk5WXV0b1BmdlUyekxnVkhjUXhhaDV3N2FTa1ZQQl9HajlTUEZ2Rzc5aE1TTEtScnVJTG5PSkI3ZTU5ZS03enNjbjdfMUxLS0xsOHEzUmJrOUhUdzRwZUc5SGdSZ2o2aHl4T21OTllXd1Aw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 07:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExzNEpwd2tTaHNpTFBJSTRhQ2p1X0lFQXdQT2hNOEdTQVI1aXljMUVZTEYxTlpJTTdmWkh2ZzNnbTBaQ2NqRlAyVzUwNmRrUkk5WXV0b1BmdlUyekxnVkhjUXhhaDV3N2FTa1ZQQl9HajlTUEZ2Rzc5aE1TTEtScnVJTG5PSkI3ZTU5ZS03enNjbjdfMUxLS0xsOHEzUmJrOUhUdzRwZUc5SGdSZ2o2aHl4T21OTllXd1Aw?oc=5",
+          "summary": "Wilson Sonsini Advises Microchip Technology on Acquisition of VORAGO Technologies Wilson Sonsini"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "64d3a8dac4f9",
       "title": "Kanes Date mit der Vergangenheit",
       "summary": "Harry Kane ist einer der besten Stürmer aller Zeiten, doch am Anfang seiner Karriere hatte selbst er Probleme, Einsatzminuten zu bekommen. Beinahe wäre er zum heutigen Gegner Viking FK gewechselt.",
@@ -1012,6 +1156,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a84a6e462eef",
+      "title": "China's Exports Seen Growing at Faster Pace in September: Reuters Poll - US News Money",
+      "summary": "China's Exports Seen Growing at Faster Pace in September: Reuters Poll US News Money",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblpJc21DZ0FCZ3B4RUZ4LW5MZnh4WWVQNzFKU19lWjJwWDUtX3djTmJXS01RX25ad1FGY0FvWVVWc2RUQl8tYnVvdUJoLXZIMTc2UmpqSmJRY2ozanlTSnR5UEN0OGFJeDZHVUZOSkNia1lyQ19GSnpBYUtKMFdnWTJucTlETjZESUNvZEZVNGl0NnRMbTdJeFkzQWhWaXM0ZG5GdjJfbHE3eC1aek1DQlZKWnlUQ0ZZME02Q1IxcnJpcFBzS0Zv?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:20:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblpJc21DZ0FCZ3B4RUZ4LW5MZnh4WWVQNzFKU19lWjJwWDUtX3djTmJXS01RX25ad1FGY0FvWVVWc2RUQl8tYnVvdUJoLXZIMTc2UmpqSmJRY2ozanlTSnR5UEN0OGFJeDZHVUZOSkNia1lyQ19GSnpBYUtKMFdnWTJucTlETjZESUNvZEZVNGl0NnRMbTdJeFkzQWhWaXM0ZG5GdjJfbHE3eC1aek1DQlZKWnlUQ0ZZME02Q1IxcnJpcFBzS0Zv?oc=5",
+          "summary": "China's Exports Seen Growing at Faster Pace in September: Reuters Poll US News Money"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "89377bc469e2",
       "title": "Uçakta tahtakurusu paniği: Sefer iptal edildi",
       "summary": "Avustralyalı hava yolu şirketi Qantas’ın Roma-Perth seferi, uçakta tahtakurusu tespit edilmesi üzerine iptal edildi. Bir önceki uçuşta yolcuların böcek ısırıklarından şikayet ettiği uçak, kapsamlı temizlik ve bakım için seferden çekildi.",
@@ -1025,6 +1187,60 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ucakta-tahtakurusu-panigi-sefer-iptal-edildi-959953.html",
           "summary": "Avustralyalı hava yolu şirketi Qantas’ın Roma-Perth seferi, uçakta tahtakurusu tespit edilmesi üzerine iptal edildi. Bir önceki uçuşta yolcuların böcek ısırıklarından şikayet ettiği uçak, kapsamlı temizlik ve bakım için seferden çekildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0f188e656227",
+      "title": "Ukrainekrieg: Die Amerika-Obsession könnte sich für Kiew rächen",
+      "summary": "Von Trump hat die Ukraine nicht mehr viel zu erwarten. Ihr wahres Problem ist die Wirtschaft.",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-im-ukrainekrieg-warum-deutschland-so-wichtig-ist-201309360.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 07:11:50 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-im-ukrainekrieg-warum-deutschland-so-wichtig-ist-201309360.html",
+          "summary": "Von Trump hat die Ukraine nicht mehr viel zu erwarten. Ihr wahres Problem ist die Wirtschaft."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3fad9a7d0abc",
+      "title": "Reise nach Ceuta: Kurz vor der Ankunft des Königs wurde der letzte Strand geräumt",
+      "summary": "Zum ersten Mal reist das spanische Königspaar in die Exklaven Ceuta und Melilla. Der Besuch ist eine Botschaft an Marokko.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/spanisches-koenigspaar-in-ceuta-wie-reagiert-marokko-accg-201309914.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:09:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/spanisches-koenigspaar-in-ceuta-wie-reagiert-marokko-accg-201309914.html",
+          "summary": "Zum ersten Mal reist das spanische Königspaar in die Exklaven Ceuta und Melilla. Der Besuch ist eine Botschaft an Marokko."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "eacbc28dc7a4",
+      "title": "Bill Gates: Technology is a world in need of governance - Vatican News",
+      "summary": "Bill Gates: Technology is a world in need of governance Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkRkMml5aXd6aFNMc21JeFRFUkNBN1VKSUFmOTRSRE5IMmtBSjlGdGdNb1RSb1BWY3ItOFJkNHkyUUQxVEJXcW5kSElzZTVaQmE5Z09pY0Y4TkhLdlB3RnF6cXVfY0tqLXEwdGR2YTRhbFp2Tzg5alFQU3gzZGNNb3NBOFdVR1dCR3VvSEhlVFYyUG15ckYwbC1jQkc5d2w2UjZYRGhLRlM0cG5M?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 07:08:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkRkMml5aXd6aFNMc21JeFRFUkNBN1VKSUFmOTRSRE5IMmtBSjlGdGdNb1RSb1BWY3ItOFJkNHkyUUQxVEJXcW5kSElzZTVaQmE5Z09pY0Y4TkhLdlB3RnF6cXVfY0tqLXEwdGR2YTRhbFp2Tzg5alFQU3gzZGNNb3NBOFdVR1dCR3VvSEhlVFYyUG15ckYwbC1jQkc5d2w2UjZYRGhLRlM0cG5M?oc=5",
+          "summary": "Bill Gates: Technology is a world in need of governance Vatican News"
         }
       ],
       "sourcesCount": 1
@@ -1066,6 +1282,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "fcd31c587131",
+      "title": "Festnahme nach Ausraster: Selma Blair hat Flugpersonal offenbar gebissen und geschlagen",
+      "summary": "Ihr Management spricht von einem „gesundheitlichen Notfall“: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 13 Oct 2026 07:02:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
+          "summary": "Ihr Management spricht von einem „gesundheitlichen Notfall“: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9b752ff97f7d",
       "title": "Endonezyada veri merkezleri su krizinin odağında",
       "summary": "Endonezya’nın Batam Adası’nda yüzlerce kişi, evlerine su ulaşmadığı gerekçesiyle veri merkezlerini protesto etti. Yapay zekâ yatırımlarıyla dijital merkeze dönüşen adada, su kaynaklarının yetersizliği ve veri merkezlerinin tüketimi tartışma yarattı.",
@@ -1084,19 +1318,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "58d42373bee3",
-      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
+      "id": "8e3eb2bfb7bd",
+      "title": "Rolle im Wandel: Der CFO ist mehr als nur ein Pfennigfuchser",
+      "summary": "Die Rolle des Finanzchefs in Unternehmen ändert sich. Welche neuen Ziele muss der „Chief Financial Officer“ heute erfüllen?",
+      "link": "https://www.faz.net/aktuell/karriere-hochschule/rolle-des-cfo-in-unternehmen-mehr-als-nur-pfennigfuchser-accg-201252808.html",
+      "sourceName": "FAZ",
       "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 06:58:20 GMT",
+      "topic": "wirtschaft",
+      "time": "Tue, 13 Oct 2026 06:58:30 GMT",
       "coverage": [
         {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists."
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/karriere-hochschule/rolle-des-cfo-in-unternehmen-mehr-als-nur-pfennigfuchser-accg-201252808.html",
+          "summary": "Die Rolle des Finanzchefs in Unternehmen ändert sich. Welche neuen Ziele muss der „Chief Financial Officer“ heute erfüllen?"
         }
       ],
       "sourcesCount": 1
@@ -1192,6 +1426,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "95d592f95a4d",
+      "title": "Fürstenhof in Leipzig: Treten Sie ein in die Geschichte",
+      "summary": "Zuerst war es nur ein großes Stadtpalais einer Bankiersfamilie, dann wurde es Hotel, und als solches hat es viele und vieles kommen und gehen sehen. Jetzt empfängt der neue Fürstenhof in Leipzig wieder Gäste.",
+      "link": "https://www.faz.net/aktuell/reise/hotel-fuerstenhof-in-leipzig-sog-der-geschichte-accg-201155704.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 06:44:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/reise/hotel-fuerstenhof-in-leipzig-sog-der-geschichte-accg-201155704.html",
+          "summary": "Zuerst war es nur ein großes Stadtpalais einer Bankiersfamilie, dann wurde es Hotel, und als solches hat es viele und vieles kommen und gehen sehen. Jetzt empfängt der neue Fürstenhof in Leipzig wieder Gäste."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "5ea309c5947b",
       "title": "Liveblog Ukrainekrieg: Mutmaßliche Saboteure in Nürtingen festgenommen",
       "summary": "Festnahmen in Deutschland nach Anschlag auf Starlink-Station in Polen +++ Wadephul will Zeichen der Geschlossenheit an Moskau senden +++ Trump verteidigt Diesel-Abkommen mit Russland +++ alle Neuigkeiten im Liveblog",
@@ -1228,24 +1480,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "fcd31c587131",
-      "title": "Festnahme nach Ausraster: Selma Blair hat Flugpersonal offenbar gebissen und geschlagen",
-      "summary": "Ihr Manaement spricht von einem „gesundheitlichen Notfall“: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 13 Oct 2026 06:38:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
-          "summary": "Ihr Manaement spricht von einem „gesundheitlichen Notfall“: Die US-Schauspielerin Selma Blair soll auf einem Flug ausgerastet sein – und auch danach noch um sich getreten haben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d4e215080672",
       "title": "The star is Luis Enrique - inside the plans to keep PSG at the top",
       "summary": "As Luis Enrique bids to guide PSG to a third successive Champions League triumph, Guillem Balague looks at how the coach keeps his side at the top.",
@@ -1259,42 +1493,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/c6kglnzvznn0o?at_medium=RSS&at_campaign=rss",
           "summary": "As Luis Enrique bids to guide PSG to a third successive Champions League triumph, Guillem Balague looks at how the coach keeps his side at the top."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0f188e656227",
-      "title": "Ukrainekrieg: Auf Deutschland kommt es an",
-      "summary": "Von Trump hat die Ukraine nicht mehr viel zu erwarten. Ihr wahres Problem ist die Wirtschaft.",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-im-ukrainekrieg-warum-deutschland-so-wichtig-ist-201309360.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 13 Oct 2026 06:34:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-im-ukrainekrieg-warum-deutschland-so-wichtig-ist-201309360.html",
-          "summary": "Von Trump hat die Ukraine nicht mehr viel zu erwarten. Ihr wahres Problem ist die Wirtschaft."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f1eeb1b433ed",
-      "title": "Tatort Schule",
-      "summary": "Wenn Lehrer Täter werden: Missbrauch an Schulen bleibt oft ein Tabu. Die Missbrauchsbeauftragte macht sich für verpflichtende Schutzkonzepte stark.",
-      "link": "https://www.zdfheute.de/briefing/lehrer-schuelerinnen-missbrauch-brecht-zdfheute-update-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Tue, 13 Oct 2026 06:34:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/briefing/lehrer-schuelerinnen-missbrauch-brecht-zdfheute-update-100.html",
-          "summary": "Wenn Lehrer Täter werden: Missbrauch an Schulen bleibt oft ein Tabu. Die Missbrauchsbeauftragte macht sich für verpflichtende Schutzkonzepte stark."
         }
       ],
       "sourcesCount": 1
@@ -1432,7 +1630,7 @@
     },
     {
       "id": "ddca84a6e148",
-      "title": "Wald im Klimawandel: Im Hürtgenwald ist die Hoffnung zartgrün",
+      "title": "Wald im Klimawandel: Auch Laubbäume brennen neuerdings",
       "summary": "Der Brand von Hürtgenwald hat die Arbeit von Generationen von Forstleuten zunichtegemacht. Die Trockenheit, die ihn so verheerend werden ließ, wird in Zukunft keine Ausnahme mehr sein.",
       "link": "https://www.faz.net/aktuell/feuilleton/debatten/wie-im-huertgenwald-an-der-klimaresilienz-gearbeitet-wird-accg-201285357.html",
       "sourceName": "FAZ",
@@ -1444,24 +1642,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/feuilleton/debatten/wie-im-huertgenwald-an-der-klimaresilienz-gearbeitet-wird-accg-201285357.html",
           "summary": "Der Brand von Hürtgenwald hat die Arbeit von Generationen von Forstleuten zunichtegemacht. Die Trockenheit, die ihn so verheerend werden ließ, wird in Zukunft keine Ausnahme mehr sein."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dea8339bb76c",
-      "title": "„Sehr Stolz“: Jérôme Boateng ist Ko-Trainer bei Trabzonspor",
-      "summary": "Beim FC Bayern verhinderten Fanproteste ein Praktikum. Nun bestätigt Jérôme Boateng ein Engagement bei einem türkischen Erstligaklub.",
-      "link": "https://www.faz.net/aktuell/sport/fussball/jerome-boateng-verkuendet-engagement-als-ko-trainer-bei-trabzonspor-accg-201312480.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 06:06:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/fussball/jerome-boateng-verkuendet-engagement-als-ko-trainer-bei-trabzonspor-accg-201312480.html",
-          "summary": "Beim FC Bayern verhinderten Fanproteste ein Praktikum. Nun bestätigt Jérôme Boateng ein Engagement bei einem türkischen Erstligaklub."
         }
       ],
       "sourcesCount": 1
@@ -1521,19 +1701,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "7e140eef757f",
-      "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-      "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
-      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "id": "70b708917957",
+      "title": "Toskana: Wein für fünf Millionen Euro gestohlen",
+      "summary": "In der Toskana in Italien haben Diebe rund 30.000 Flaschen renommierten Wein im Wert von fünf Millionen Euro mit Lastern gestohlen. Die Polizei fahndet nach den Tätern.",
+      "link": "https://www.zdfheute.de/video/zdfheute-xpress/toskana-italien-wein-diebstahl-video-100.html",
+      "sourceName": "ZDF",
       "region": "international",
       "topic": "politik",
-      "time": "Tue, 13 Oct 2026 05:55:12 GMT",
+      "time": "Tue, 13 Oct 2026 06:00:00 +0200",
       "coverage": [
         {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-          "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham."
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-xpress/toskana-italien-wein-diebstahl-video-100.html",
+          "summary": "In der Toskana in Italien haben Diebe rund 30.000 Flaschen renommierten Wein im Wert von fünf Millionen Euro mit Lastern gestohlen. Die Polizei fahndet nach den Tätern."
         }
       ],
       "sourcesCount": 1
@@ -1596,6 +1776,24 @@
         }
       ],
       "sourcesCount": 2
+    },
+    {
+      "id": "47fff2a5a70c",
+      "title": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say - Reuters",
+      "summary": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk9RWHVGNlZqZ1lNUk9BLV80Q1NJRmRxQmxlYjlhOVFna21Sbk9jVlU1VDNidllTdEJEbnhKNl9rOXdpQXJOX2l1WHU4UWMzZ1lKUXk4bzFXRkNfdm5fem9CU2RlM0JBZlAtalBBRDZiMnJjYk1NUi12dHFfVXJucjZPc3N5ckxPSjRjVkxOaUFIcWdkVmV6MVRBMy1TY2NBT1NmakN2a3Blb1ZxTVpzV0JMNDNNa0xadG45b3pNNU1MMEpQUjA1WjdsNG9icHVT?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 13 Oct 2026 05:43:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk9RWHVGNlZqZ1lNUk9BLV80Q1NJRmRxQmxlYjlhOVFna21Sbk9jVlU1VDNidllTdEJEbnhKNl9rOXdpQXJOX2l1WHU4UWMzZ1lKUXk4bzFXRkNfdm5fem9CU2RlM0JBZlAtalBBRDZiMnJjYk1NUi12dHFfVXJucjZPc3N5ckxPSjRjVkxOaUFIcWdkVmV6MVRBMy1TY2NBT1NmakN2a3Blb1ZxTVpzV0JMNDNNa0xadG45b3pNNU1MMEpQUjA1WjdsNG9icHVT?oc=5",
+          "summary": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say Reuters"
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "bfdc3d9befad",
@@ -1719,6 +1917,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/saudi-arabien-zahlt-den-preis-fuer-trumps-irankrieg-201310189.html",
           "summary": "Die Saudis wollten sich eigentlich aus dem Bürgerkrieg im Jemen zurückziehen. Aber Trump hat in ein strategisches Wespennest gestochen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ec43a4e21fbc",
+      "title": "AI models may soon self-replicate without access to data centers, Anthropic warns - Reuters",
+      "summary": "AI models may soon self-replicate without access to data centers, Anthropic warns Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 05:14:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
+          "summary": "AI models may soon self-replicate without access to data centers, Anthropic warns Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1899,6 +2115,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
           "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ea36a757ace9",
+      "title": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million - Reuters",
+      "summary": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 13 Oct 2026 04:22:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5",
+          "summary": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2138,24 +2372,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f1696e371da7",
-      "title": "IWF-Ausblick: Die Weltwirtschaft ruht auf wenigen Stützen",
-      "summary": "Der IWF sagt deutlich mehr Wirtschaftswachstum für Deutschland voraus. Und warnt vor einer gefährlichen Abhängigkeit von wenigen Ländern und Techgiganten.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/iwf-weltwirtschaftsausblick-wachstum-auf-wenigen-stuetzen-accg-201311689.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 13 Oct 2026 02:05:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/iwf-weltwirtschaftsausblick-wachstum-auf-wenigen-stuetzen-accg-201311689.html",
-          "summary": "Der IWF sagt deutlich mehr Wirtschaftswachstum für Deutschland voraus. Und warnt vor einer gefährlichen Abhängigkeit von wenigen Ländern und Techgiganten."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "01ed74cbac7f",
       "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
       "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF says Reuters",
@@ -2175,18 +2391,18 @@
     },
     {
       "id": "f89ae431d317",
-      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "title": "Dating app Bumble in $1bn takeover talks, say reports",
+      "summary": "The dating app which recently ditched its \"women-first\" chat rule could be bought by an investment firm.",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
       "region": "international",
-      "topic": "wirtschaft",
+      "topic": "politik",
       "time": "Tue, 13 Oct 2026 01:50:47 GMT",
       "coverage": [
         {
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-          "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn."
+          "summary": "The dating app which recently ditched its \"women-first\" chat rule could be bought by an investment firm."
         }
       ],
       "sourcesCount": 1
@@ -2283,8 +2499,8 @@
     },
     {
       "id": "17ac62ab0b80",
-      "title": "Oil falls as Russia diesel supply prospects counter Gulf supply risks - Reuters",
-      "summary": "Oil falls as Russia diesel supply prospects counter Gulf supply risks Reuters",
+      "title": "Oil falls as Russian diesel supply prospects counter Gulf supply risks - Reuters",
+      "summary": "Oil falls as Russian diesel supply prospects counter Gulf supply risks Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
       "sourceName": "Google News – Reuters",
       "region": "international",
@@ -2294,7 +2510,7 @@
         {
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
-          "summary": "Oil falls as Russia diesel supply prospects counter Gulf supply risks Reuters"
+          "summary": "Oil falls as Russian diesel supply prospects counter Gulf supply risks Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2349,6 +2565,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hWkJYVGpMZk9mOXhPTDRXckYzZ3F1d1AwYjl6SGVPYVZYMFRaekxON0VIdy1RSjhpTFJZTmhpNEhGNTlzb0p2MnhoOWxTUzhiM3FjVlRGcGx2R05EaS0w?oc=5",
           "summary": "When It Comes to Technology, Catholic Schools Can Lead by Example Public Discourse"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e0969a38aaa1",
+      "title": "South Africa attempt to deny Australia on final day - Test scorecard",
+      "summary": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 13 Oct 2026 00:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+          "summary": "Latest scorecard from the first Test between South Africa and Australia in Durban."
         }
       ],
       "sourcesCount": 1
@@ -3382,24 +3616,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5107de4e0541",
-      "title": "Rabat Business School makes history with prestigious Triple Crown accreditation - finchannel",
-      "summary": "Rabat Business School makes history with prestigious Triple Crown accreditation finchannel",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWFjSTVLdzVYd1ZzbW1WZHhhd3RmeDB2RUs2RzQ2Uk5FNU95Y0p3aV9JLWhZVGpUSXB0Zm41Y3JmeVgzT3BHcm1PVGNGLXRMMjd4aFRVYk1jVjU2d0U5ajFiLWp2c2NZbE5wWXB4NnB0eWY5YWRnMDR4VUZaaDRwc0tURm5nWDFGMVB3OUZJNE1Kc1pPcUN5VmNwT1BUZ2VyT1ZvOWdyUGVJcmMxNUwtWHZDTjI5WUxONFZjRnB3VE9BWkNYbGIw?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Sun, 11 Oct 2026 17:28:36 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWFjSTVLdzVYd1ZzbW1WZHhhd3RmeDB2RUs2RzQ2Uk5FNU95Y0p3aV9JLWhZVGpUSXB0Zm41Y3JmeVgzT3BHcm1PVGNGLXRMMjd4aFRVYk1jVjU2d0U5ajFiLWp2c2NZbE5wWXB4NnB0eWY5YWRnMDR4VUZaaDRwc0tURm5nWDFGMVB3OUZJNE1Kc1pPcUN5VmNwT1BUZ2VyT1ZvOWdyUGVJcmMxNUwtWHZDTjI5WUxONFZjRnB3VE9BWkNYbGIw?oc=5",
-          "summary": "Rabat Business School makes history with prestigious Triple Crown accreditation finchannel"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3566ee1decd0",
       "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
@@ -4017,24 +4233,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c8ab61ad9fb4",
-      "title": "Sepsis: Unterschätzte Gefahr",
-      "summary": "Alle sechs Minuten stirbt in Deutschland ein Mensch an Sepsis. Doch die Diagnose ist schwierig.",
-      "link": "https://www.zdfheute.de/video/heute-journal/otto-gefahr-sepsis-100.html",
-      "sourceName": "ZDF",
-      "region": "regional",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 21:45:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/heute-journal/otto-gefahr-sepsis-100.html",
-          "summary": "Alle sechs Minuten stirbt in Deutschland ein Mensch an Sepsis. Doch die Diagnose ist schwierig."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "16b071af4dc9",
       "title": "Is International Business Machines (IBM) Stock Worth More Than Its Cash Flow Suggests? - Simply Wall Street",
       "summary": "Is International Business Machines (IBM) Stock Worth More Than Its Cash Flow Suggests? Simply Wall Street",
@@ -4076,24 +4274,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
           "summary": "Am Freitag hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "453661ade1fc",
-      "title": "Erdloch verschluckt Auto",
-      "summary": "In Neapel bricht der Boden im Innenhof einer Wohnanlage ein. Ein Erdloch verschluckt ein Auto mit Fahrer.",
-      "link": "https://www.zdfheute.de/video/neapel-erdloch-auto-video-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 20:16:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/neapel-erdloch-auto-video-100.html",
-          "summary": "In Neapel bricht der Boden im Innenhof einer Wohnanlage ein. Ein Erdloch verschluckt ein Auto mit Fahrer."
         }
       ],
       "sourcesCount": 1
@@ -4171,24 +4351,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ddmk4eEVNSFlERkhpSzZlMldkcWI2Zzl6TTRLWlc4cUwtdGNIeU9Mc1RtbXVOWEhhd1Z0b2N5MVV0WDViNk5FQmgxWFVBbzlDUzJNSEMwVk1QZFVadTJrWkFseGtIQkFM?oc=5",
           "summary": "Cristiano Ronaldo: Portuguese FA provisionally suspend forward after leaving international camp BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "98fbc08f17fb",
-      "title": "Hammer der Woche aus Mönchengladbach",
-      "summary": "Ein Ehepaar in Mönchengladbach möchte den Bordstein absenken, um an die Wallbox für ihr E-Auto zu kommen, so wie bei ihren Nachbarn. Doch das untersagt ihnen die Stadt.",
-      "link": "https://www.zdfheute.de/video/laenderspiegel/hammer-der-woche-aus-moenchengladbach-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 10 Oct 2026 17:05:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/laenderspiegel/hammer-der-woche-aus-moenchengladbach-100.html",
-          "summary": "Ein Ehepaar in Mönchengladbach möchte den Bordstein absenken, um an die Wallbox für ihr E-Auto zu kommen, so wie bei ihren Nachbarn. Doch das untersagt ihnen die Stadt."
         }
       ],
       "sourcesCount": 1
@@ -4644,6 +4806,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
           "summary": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1b06f4f1e0fe",
+      "title": "Anthropic AI model submits false homicide tip to Philadelphia police - Al Jazeera",
+      "summary": "Anthropic AI model submits false homicide tip to Philadelphia police Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFFtTFhJbEVVTTU2NzJva0NKM0VYd2lNdDFkN29fWFJKSTQtcF9POVRWTUY4WHRqSVNHZHVOdkt5UHJxSFZVcW5kX28tVDIzUnFsekVTNmwzbjBpOHdKeHhzODlZbFRqeWpycnpzTGJlYy1waDE1dnRXUVVaUkRuWjdHYUNobDA3ZldjNG9RSC1LOVA3d1RuQXcyVmEwaGp5M3dibkZfdldtTkxLS25z0gG0AUFVX3lxTE56dENBbVZWZkdYclE5Rk9LS0Vsd1JHOHVBYW9vZDZiU0lJSTFwT2EyMTIyaWljcXYtYllCWG1IaDA4MEZQUC1ZWmNYcW1RSFRwSWpucEFGYXAxM2sxYkYwU3ZyQ0IzSVJ6QktPUHExcGRyeGd4bEJpTEU3LUNMMmZpZXYxd1VLQ09jNFpSXzlVaVEwMzJ0bnFrak9vOWwtcVJpZWdvd0l1Mk1HZWZMQjhpcW56Wg?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 05:04:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFFtTFhJbEVVTTU2NzJva0NKM0VYd2lNdDFkN29fWFJKSTQtcF9POVRWTUY4WHRqSVNHZHVOdkt5UHJxSFZVcW5kX28tVDIzUnFsekVTNmwzbjBpOHdKeHhzODlZbFRqeWpycnpzTGJlYy1waDE1dnRXUVVaUkRuWjdHYUNobDA3ZldjNG9RSC1LOVA3d1RuQXcyVmEwaGp5M3dibkZfdldtTkxLS25z0gG0AUFVX3lxTE56dENBbVZWZkdYclE5Rk9LS0Vsd1JHOHVBYW9vZDZiU0lJSTFwT2EyMTIyaWljcXYtYllCWG1IaDA4MEZQUC1ZWmNYcW1RSFRwSWpucEFGYXAxM2sxYkYwU3ZyQ0IzSVJ6QktPUHExcGRyeGd4bEJpTEU3LUNMMmZpZXYxd1VLQ09jNFpSXzlVaVEwMzJ0bnFrak9vOWwtcVJpZWdvd0l1Mk1HZWZMQjhpcW56Wg?oc=5",
+          "summary": "Anthropic AI model submits false homicide tip to Philadelphia police Al Jazeera"
         }
       ],
       "sourcesCount": 1
@@ -5263,24 +5443,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a3c50af5d3e3",
-      "title": "Philippine lower house approves bill restricting minors' social media access - Reuters",
-      "summary": "Philippine lower house approves bill restricting minors' social media access Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDNzV29nT3Zxd2hGVHVSRHVKVllzX1FfRFRtZUZFWUUwTklsVmlaQUYtUFJrTWJINURVOUJkeWJDbVltb29jUGdOU2RXWURYQmJZTnFabTIzYnBXN0lUN29TUE1VRW96dDFoNDZ0MUZyY3loYl81VFJWZ1lLbVdKRUJEbVBlZzZsdnphT2tsNGZxbktpUmx6T1NfSGpuRUYtcno2MnQyLVNQRnU2Wk84NGw5QnZReGFmckNuU01IMTVmYzJhYkNqeXdn?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Mon, 12 Oct 2026 22:40:10 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDNzV29nT3Zxd2hGVHVSRHVKVllzX1FfRFRtZUZFWUUwTklsVmlaQUYtUFJrTWJINURVOUJkeWJDbVltb29jUGdOU2RXWURYQmJZTnFabTIzYnBXN0lUN29TUE1VRW96dDFoNDZ0MUZyY3loYl81VFJWZ1lLbVdKRUJEbVBlZzZsdnphT2tsNGZxbktpUmx6T1NfSGpuRUYtcno2MnQyLVNQRnU2Wk84NGw5QnZReGFmckNuU01IMTVmYzJhYkNqeXdn?oc=5",
-          "summary": "Philippine lower house approves bill restricting minors' social media access Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "711fc7d5f7e3",
       "title": "Russia says its diesel exports may exceed volumes announced by Trump - Reuters",
       "summary": "Russia says its diesel exports may exceed volumes announced by Trump Reuters",
@@ -5330,173 +5492,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
           "summary": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f5c550fe341e",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 12 Oct 2026 22:25:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&at_campaign=rss",
-          "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "120670ada4f2",
-      "title": "Wilson Sonsini Advises Microchip Technology on Acquisition of VORAGO Technologies - Wilson Sonsini",
-      "summary": "Wilson Sonsini Advises Microchip Technology on Acquisition of VORAGO Technologies Wilson Sonsini",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExzNEpwd2tTaHNpTFBJSTRhQ2p1X0lFQXdQT2hNOEdTQVI1aXljMUVZTEYxTlpJTTdmWkh2ZzNnbTBaQ2NqRlAyVzUwNmRrUkk5WXV0b1BmdlUyekxnVkhjUXhhaDV3N2FTa1ZQQl9HajlTUEZ2Rzc5aE1TTEtScnVJTG5PSkI3ZTU5ZS03enNjbjdfMUxLS0xsOHEzUmJrOUhUdzRwZUc5SGdSZ2o2aHl4T21OTllXd1Aw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 22:12:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExzNEpwd2tTaHNpTFBJSTRhQ2p1X0lFQXdQT2hNOEdTQVI1aXljMUVZTEYxTlpJTTdmWkh2ZzNnbTBaQ2NqRlAyVzUwNmRrUkk5WXV0b1BmdlUyekxnVkhjUXhhaDV3N2FTa1ZQQl9HajlTUEZ2Rzc5aE1TTEtScnVJTG5PSkI3ZTU5ZS03enNjbjdfMUxLS0xsOHEzUmJrOUhUdzRwZUc5SGdSZ2o2aHl4T21OTllXd1Aw?oc=5",
-          "summary": "Wilson Sonsini Advises Microchip Technology on Acquisition of VORAGO Technologies Wilson Sonsini"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d7320b9b78a9",
-      "title": "Immigration agents search congresswoman Ilhan Omar's home",
-      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 22:05:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-          "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\"."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3c11f6ab923a",
-      "title": "Hacker legen Kühlanlagen in Hunderten Supermärkten lahm",
-      "summary": "Zahlreiche Supermärkte in Frankreich müssen Produkte entsorgen, nachdem Hacker die Kühl- und Gefrierschränke zum Auftauen gebracht haben. Die Pariser Staatsanwaltschaft ermittelt.",
-      "link": "https://www.zdfheute.de/panorama/frankreich-hackerangriff-supermaerkte-kuehlschraenke-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 21:57:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/frankreich-hackerangriff-supermaerkte-kuehlschraenke-100.html",
-          "summary": "Zahlreiche Supermärkte in Frankreich müssen Produkte entsorgen, nachdem Hacker die Kühl- und Gefrierschränke zum Auftauen gebracht haben. Die Pariser Staatsanwaltschaft ermittelt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ad8374bd5758",
-      "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-      "summary": "Ende September brennt eine Starlink-Station in Polen, die auch für die Ukraine wichtig ist. Jetzt wurden in Deutschland zwei Verdächtige festgenommen.",
-      "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 12 Oct 2026 21:49:18 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-          "summary": "Ende September brennt eine Starlink-Station in Polen, die auch für die Ukraine wichtig ist. Jetzt wurden in Deutschland zwei Verdächtige festgenommen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1bef765cd5a4",
-      "title": "Im alter von 34 Jahren: „Breaking Bad“-Schauspieler RJ Mitte gestorben",
-      "summary": "Als Walter White Jr. in „Breaking Bad“ wurde RJ Mitte international bekannt.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/walter-white-jr-in-breaking-bad-schauspieler-rj-mitte-gestorben-201312048.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 21:46:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/menschen/walter-white-jr-in-breaking-bad-schauspieler-rj-mitte-gestorben-201312048.html",
-          "summary": "Als Walter White Jr. in „Breaking Bad“ wurde RJ Mitte international bekannt."
-        },
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/prominente/rj-mitte-breaking-bad-tod-100.html",
-          "summary": "Der US-Schauspieler RJ Mitte wurde durch seine Rolle als Walter White Jr. in der bekannten Serie \"Breaking Bad\" bekannt."
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
-      "id": "4b2ed6e97e07",
-      "title": "Anselm-Kiefer-Ausstellung in Schwäbisch Hall",
-      "summary": "Der \"Schraubenkönig\" Reinhold Würth besitzt eine bedeutende Anselm-Kiefer-Sammlung mit rund 70 Werken. Diese sind jetzt zusammen mit Leihgaben in der Kunsthalle Würth zu sehen.",
-      "link": "https://www.zdfheute.de/video/heute-journal/anselm-kiefer-ausstellung-110.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 21:45:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/heute-journal/anselm-kiefer-ausstellung-110.html",
-          "summary": "Der \"Schraubenkönig\" Reinhold Würth besitzt eine bedeutende Anselm-Kiefer-Sammlung mit rund 70 Werken. Diese sind jetzt zusammen mit Leihgaben in der Kunsthalle Würth zu sehen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "18273d1cc48d",
-      "title": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting - Reuters",
-      "summary": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3ZjaXowUkVCSkx4TVpHUFY1S0ttLV9kYW9TN1YxWnh6N05YSEFQMFVUb29weUJpNkcydVRoTFplY2locjdUSUVNd2tZeWNmZnJ3TzhubWRuUzZMLUZpakRFM2U3dXJMeHNfSWV3LVNteU51aTRZeFMxeEdTMjl6UENYcWxvcWMyZnkwYVRRZGlwTHh2LWc1OFFBcjJ6TGJXcG5hVWY0MTRYY19FTXAzdGxNM1M?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 12 Oct 2026 21:44:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3ZjaXowUkVCSkx4TVpHUFY1S0ttLV9kYW9TN1YxWnh6N05YSEFQMFVUb29weUJpNkcydVRoTFplY2locjdUSUVNd2tZeWNmZnJ3TzhubWRuUzZMLUZpakRFM2U3dXJMeHNfSWV3LVNteU51aTRZeFMxeEdTMjl6UENYcWxvcWMyZnkwYVRRZGlwTHh2LWc1OFFBcjJ6TGJXcG5hVWY0MTRYY19FTXAzdGxNM1M?oc=5",
-          "summary": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7dc7a62c6c17",
-      "title": "Lampard keeping 'feet on ground' following big win over Newcastle",
-      "summary": "Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Mon, 12 Oct 2026 21:43:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1."
         }
       ],
       "sourcesCount": 1
