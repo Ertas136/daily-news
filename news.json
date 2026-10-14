@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:54:23.844779+00:00",
+  "updated": "2026-10-14T03:18:35.772138+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -213,6 +213,42 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHMtR2dFU2ZmVmdNRHhwdmM1cnJqbzhJMllyVk1oVjVYOUVGTXgxMmdvNzhZcEhROEpWTHhNdG5SYWF1MDV0X2NHVjNDRnpXV3pWcEdWNU9QNGhhc05GTnlpb0lHd19DUFRBNkVtSXBCblhNdXpOMlNYYTBpV3FVQ0VTUHZHODBEd29JeEM1UEx0MWZRS0UzalRsLTlWZ25qMHYzdV95RnhVWmY0bnJrVHBidE1TR3piYjBRMHhUd2t3OFlR?oc=5",
           "summary": "Press kit: Alaska Airlines unveils its international Business Class Suites experience Alaska Airlines"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5f5d7ee9d6bf",
+      "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+      "summary": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem Angriff gewarnt.",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 05:07:08 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+          "summary": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem Angriff gewarnt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3dd2a14dcf45",
+      "title": "Hungerkrise in vielen Ländern verschlechtert",
+      "summary": "Konflikte, Vertreibung und Wetterextreme verschärfen die Hungerkrise in vielen Ländern. Zugleich steht immer weniger Geld für humanitäre Hilfe zur Verfügung.",
+      "link": "https://www.zdfheute.de/politik/ausland/hunger-weltweit-welternaehrungstag-konflikte-hilfe-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Wed, 14 Oct 2026 04:49:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/hunger-weltweit-welternaehrungstag-konflikte-hilfe-100.html",
+          "summary": "Konflikte, Vertreibung und Wetterextreme verschärfen die Hungerkrise in vielen Ländern. Zugleich steht immer weniger Geld für humanitäre Hilfe zur Verfügung."
         }
       ],
       "sourcesCount": 1
@@ -434,24 +470,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "057ee4f76af6",
-      "title": "New learning center expands technology access for South Georgia youth - Valdosta Daily Times",
-      "summary": "New learning center expands technology access for South Georgia youth Valdosta Daily Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWpZcnJ6QjR3aHhKSFZNNlNPZGlJMGxveDRfd2lFV19rb2ZGZzBoTFU1MjJlVTJfRGktbEowNE1kcEUtc3dCLTRGQUJtdHdUTHdOc2RKLUc2eHFpTkhrT1VQYmhxRmZLbkJIU3Bob1FfSnFzR3VoM1JKcGNmaWF3QTRNUHlhZFc4ZlB5c1RWdzNJaHNVQmttcGpkMExQY01ySDA2OTlEckxRWDdXdm5RUURn?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 00:28:46 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWpZcnJ6QjR3aHhKSFZNNlNPZGlJMGxveDRfd2lFV19rb2ZGZzBoTFU1MjJlVTJfRGktbEowNE1kcEUtc3dCLTRGQUJtdHdUTHdOc2RKLUc2eHFpTkhrT1VQYmhxRmZLbkJIU3Bob1FfSnFzR3VoM1JKcGNmaWF3QTRNUHlhZFc4ZlB5c1RWdzNJaHNVQmttcGpkMExQY01ySDA2OTlEckxRWDdXdm5RUURn?oc=5",
-          "summary": "New learning center expands technology access for South Georgia youth Valdosta Daily Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3ba9283bc735",
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
@@ -465,24 +483,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
           "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fc25220d12bc",
-      "title": "Lake City Bank’s Innovation & Technology Center Provides Customer & Employee Support - www.timesuniononline.com",
-      "summary": "Lake City Bank’s Innovation & Technology Center Provides Customer & Employee Support www.timesuniononline.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUk5UOTZEQWxEaTBqbVRsOEFraTE1TS1fUjUzY01KUXhCZ3lJTFlOREZWNEVwdFJicjROaXRTNzZUUHVpRWxtY2d4VnJ2WVd3UFA0bXRQZ3dkTUZiSE5TQVN0UXEwVm9TckNSRS1ydDNLYlNyT2JVamNPUXZOZzdRdGRJUkhqX2ZzV25YM2YyaUJIUmhTSVdxQlB5OEZHWkJCTHoyRDZiNzZvc0t3MGwyM0oyOHNtUTV5ZVdITVp6ai15S1paTmc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 00:16:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUk5UOTZEQWxEaTBqbVRsOEFraTE1TS1fUjUzY01KUXhCZ3lJTFlOREZWNEVwdFJicjROaXRTNzZUUHVpRWxtY2d4VnJ2WVd3UFA0bXRQZ3dkTUZiSE5TQVN0UXEwVm9TckNSRS1ydDNLYlNyT2JVamNPUXZOZzdRdGRJUkhqX2ZzV25YM2YyaUJIUmhTSVdxQlB5OEZHWkJCTHoyRDZiNzZvc0t3MGwyM0oyOHNtUTV5ZVdITVp6ai15S1paTmc?oc=5",
-          "summary": "Lake City Bank’s Innovation & Technology Center Provides Customer & Employee Support www.timesuniononline.com"
         }
       ],
       "sourcesCount": 1
@@ -1269,24 +1269,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "853c56df5261",
-      "title": "Saudi national accused of planting recording device in OpenAI executive conference room - Fox Business",
-      "summary": "Saudi national accused of planting recording device in OpenAI executive conference room Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzU4ZUxpNFVmX2J6cmFBeWN2UWFEWTM3RHNXSkFvdDN6NjBKSkV5eDFEa3BSZWdhVXB4eUJ1U3JwVlN4dVRwTFhoUDFUNTZDMkM0am45ZzV3dGFzZ2VQbWtwRlJGMG5UZDhTUEVaNzVqSlNUMnhNT0FGNGhjNXFad1hDczM0SUtXNzRDTDd5VjVRdG5DVlZTS1hXQVNjeEx6bHRFZ1Nobk9zSHk1QzNmS2dlOUgzSkJwNDdEU9IBwgFBVV95cUxQMDdYaW5XN0JBRFdsMW5KRmJJSm9XbDV5NFN6QW1jREZWdmpzazcyYV9WSWFPRnNEWjducDI2WmRxQzJmcTZSQ1ItVWhwOHhoVHM2R3ZHUkZrQmVBV0R5MWdVMzlPUS1DRy1ERGZ4cmk3czNzalBGYTVYVFhsM0pieWNnRFVuLVY3dC1JQy1GYjFPaTFMemEyTWNLT3JubVNfcXlzUkh5dElQOXpBY2JlYjZPVnVTcWRELXVkZ3N1UEEyUQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 22:48:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzU4ZUxpNFVmX2J6cmFBeWN2UWFEWTM3RHNXSkFvdDN6NjBKSkV5eDFEa3BSZWdhVXB4eUJ1U3JwVlN4dVRwTFhoUDFUNTZDMkM0am45ZzV3dGFzZ2VQbWtwRlJGMG5UZDhTUEVaNzVqSlNUMnhNT0FGNGhjNXFad1hDczM0SUtXNzRDTDd5VjVRdG5DVlZTS1hXQVNjeEx6bHRFZ1Nobk9zSHk1QzNmS2dlOUgzSkJwNDdEU9IBwgFBVV95cUxQMDdYaW5XN0JBRFdsMW5KRmJJSm9XbDV5NFN6QW1jREZWdmpzazcyYV9WSWFPRnNEWjducDI2WmRxQzJmcTZSQ1ItVWhwOHhoVHM2R3ZHUkZrQmVBV0R5MWdVMzlPUS1DRy1ERGZ4cmk3czNzalBGYTVYVFhsM0pieWNnRFVuLVY3dC1JQy1GYjFPaTFMemEyTWNLT3JubVNfcXlzUkh5dElQOXpBY2JlYjZPVnVTcWRELXVkZ3N1UEEyUQ?oc=5",
-          "summary": "Saudi national accused of planting recording device in OpenAI executive conference room Fox Business"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4bd4ea118118",
       "title": "Levin Joins NYU Center on Technology Policy - Broadband Breakfast",
       "summary": "Levin Joins NYU Center on Technology Policy Broadband Breakfast",
@@ -1958,24 +1940,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "af0199332238",
-      "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices - The Guardian",
-      "summary": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 20:56:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5",
-          "summary": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices The Guardian"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9a19c046252a",
       "title": "Bitterer Flutlichtabend - FCS unterliegt Tabellenführer Duisburg",
       "summary": "Der MSV Duisburg bleibt in der 3. Liga auch nach dem Spiel beim 1.",
@@ -2300,24 +2264,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4b2fd20a6664",
-      "title": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal - Reuters",
-      "summary": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUViSHdiMmpBMGUwOVNDWXE1bHJqRzRmMUFMT3hUeWlESnVJWHNZeVk0eTIySW1IM3VvTnhqSEFjTHdVOUhGbUptNWJSSk9GcnpSYU0wVjk2QzVuLWxBY25nQnc0cm9DbmJ3c0E2dTJIeC01RXV1QkpXZmlJb3dyWTFlODdPRFNhVEkyZUZOemJMUTZJZjVwRkRRRGpDNGVERTA4LVNXeWFkdlRBRkQ3ZXdweXMzazh4WUNB?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 20:02:36 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUViSHdiMmpBMGUwOVNDWXE1bHJqRzRmMUFMT3hUeWlESnVJWHNZeVk0eTIySW1IM3VvTnhqSEFjTHdVOUhGbUptNWJSSk9GcnpSYU0wVjk2QzVuLWxBY25nQnc0cm9DbmJ3c0E2dTJIeC01RXV1QkpXZmlJb3dyWTFlODdPRFNhVEkyZUZOemJMUTZJZjVwRkRRRGpDNGVERTA4LVNXeWFkdlRBRkQ3ZXdweXMzazh4WUNB?oc=5",
-          "summary": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d34f62793ebb",
       "title": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
       "summary": "Die US-Botschafterin in Athen, Guilfoyle, ist zurückgetreten. Zuvor hatte die US-Regierung sie wegen angeblichen Fehlverhaltens dazu aufgefordert.",
@@ -2367,24 +2313,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUHVFSGh6eVhteTB4clJ5NGgycHkyTFdadkpITTNHZ0xsNnBSQUpzMkFKcE16aGFFcHl4SkRWSEVoY2pTTU5UQ0dlaFhyaTZzZmo5Mml1TzRsSjV2ZzJRRW1pZFZCUFRWc2ZhRWJ0Tl9TeHh4emlFZjBLRFI2aGNTWDNDaWpta0JxWWlHN28wdGZsajJfX3JfVVF0c01pNy02YUV2TXVmWUVjNUk4N2FQZ0tEZmZyUXR2QUx0eGkwQjdFOUFyUUFsQ3RpOUNEZzNBZjZzV1V4SzhuSER3WGtFRDJadDR1UGx2Q0ZnQ2lCT3RYZnNOQkYwd2NDU3N6Rm9Ubl9uMWo3S0JNZ3pGdmVJ?oc=5",
           "summary": "CrowdSync Technology to Illuminate Student Section with Electrifying LED Wristband Activation for Banner Raising Night October 16 University of Denver Athletics"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ed6854e2f2e8",
-      "title": "Missbrauchsbeauftragte Claus: \"Risiko so hoch wie nie\"",
-      "summary": "Das Risiko für Kinder und Jugendliche, sexuelle Gewalt zu erleben, sei nie so hoch gewesen wie heute. Die Missbrauchsbeauftragte Kerstin Claus fordert verbindliche Schutzkonzepte.",
-      "link": "https://www.zdfheute.de/politik/deutschland/missbrauchsbeauftragte-claus-bericht-sexuelle-gewalt-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 19:56:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/missbrauchsbeauftragte-claus-bericht-sexuelle-gewalt-100.html",
-          "summary": "Das Risiko für Kinder und Jugendliche, sexuelle Gewalt zu erleben, sei nie so hoch gewesen wie heute. Die Missbrauchsbeauftragte Kerstin Claus fordert verbindliche Schutzkonzepte."
         }
       ],
       "sourcesCount": 1
@@ -2531,6 +2459,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/danimarka-ile-almanyayi-baglayacak-tunel-insaatini-etkileyen-siber-saldiri-duzenlendi-960026.html",
           "summary": "Danimarka'yı Baltık Denizi'nden Almanya ile bağlayacak Fehmarnbelt tünelinde devam eden inşaat çalışmalarının aksamasına neden olan siber saldırı yaşandığı bildirildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9778b1796267",
+      "title": "MIT Farm is growing - MIT News",
+      "summary": "MIT Farm is growing MIT News",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jRWQwX3VtZ205Zmx0WUlJel85MVZmaS13T0pXNjRreXhlOVFDTjZDUE9ZdU9LdzVJU0dxQ0NBQ25VX1hnSWFMcV9BbnFEY2gwRGdtV1dLbkFVRnM?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 19:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jRWQwX3VtZ205Zmx0WUlJel85MVZmaS13T0pXNjRreXhlOVFDTjZDUE9ZdU9LdzVJU0dxQ0NBQ25VX1hnSWFMcV9BbnFEY2gwRGdtV1dLbkFVRnM?oc=5",
+          "summary": "MIT Farm is growing MIT News"
         }
       ],
       "sourcesCount": 1
@@ -2986,24 +2932,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c94dfa232368",
-      "title": "Äthiopiens Armee erobert Städte in umkämpfter Tigray-Region",
-      "summary": "Am Horn von Afrika kommt es zu neuen Spannungen. Die äthiopische Armee hat zwei Städte in der umkämpften Region Tigray eingenommen.",
-      "link": "https://www.zdfheute.de/politik/ausland/aethiopien-gegenoffensive-tigray-region-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 17:46:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/aethiopien-gegenoffensive-tigray-region-100.html",
-          "summary": "Am Horn von Afrika kommt es zu neuen Spannungen. Die äthiopische Armee hat zwei Städte in der umkämpften Region Tigray eingenommen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "739a1ae1116e",
       "title": "Merz und die SPD: Ein Hauch von Richtlinienkompetenz",
       "summary": "Auf dem Arbeitgebertag formuliert der Kanzler klare Erwartungen an den neuen Arbeitsminister der SPD. Noch einmal sollte die Koalition beim Thema Reformen nicht enttäuschen.",
@@ -3143,9 +3071,14 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVFNxek52bjhNRHdPeTY5WFNzNW5wWGZxcmZoTnIxcWhTc3R2RVVaQ05hanRVVkF3YXBneU5TZlVkbmdjdGs1LXpCNGpMWERvOC1WX3pkT1gycnZoS3kxaHNnUFNSSDUyOGpZM014U2N5TlBQMnBTZ3cwcFVvZ1JxUUNpalFzc0dtYWh1YXhQdURsUWlzRmtxX2dTdzNXbEFnMXhJaklGcWhza2wyVnlCbGMzQlNseWNQaGRfb0NCTFF3czRSZXRQOFJmOEFHbGNLTmExWks4TlhwQjZiUnFEMDVfUWs?oc=5",
           "summary": "Arista Networks vs. International Business Machines: Which Technology Stock Is a Better Buy in 2026?"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd052NjlvVUtSNjI2aElrQllHOEdWb21yY2VZejh0NTB2S2JaWGN0el81SkJLUWhyNGFoVEF6dTc5bXZWNlkxeHpoOTNQUGhTck9KdDA4eGFNNnE3VlB1ZlBLcUtSdl80VWNNU0hQQWZHWm1DdjFxM0RWZXNvV0Etd29TY0h5UnRzQWZYbUhSTUZYVTF3X1FyREl6ZTBGcEVCOGNHWmg0WUdkcXQ0ZGJ1dUFsWUNzQmlZZE83dXBYeHdEVmM?oc=5",
+          "summary": "Innodata vs. SoundHound AI: Which Technology Stock Is a Better Buy in 2026?"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "d8027e62bd6b",
@@ -3405,24 +3338,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/tennis/articles/c875pdrq4rx4o?at_medium=RSS&at_campaign=rss",
           "summary": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e19dff402141",
-      "title": "Von der Göttin zur Winke-Puppe: Der Kult um die Katze",
-      "summary": "Wild, geheimnisvoll, mystisch: Katzen faszinieren. Das Bremer Überseemuseum lädt zu einer Zeitreise durch ihre Kulturgeschichte.",
-      "link": "https://www.zdfheute.de/panorama/bremen-katze-ausstellung-ueberseemuseum-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Tue, 13 Oct 2026 16:34:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/bremen-katze-ausstellung-ueberseemuseum-100.html",
-          "summary": "Wild, geheimnisvoll, mystisch: Katzen faszinieren. Das Bremer Überseemuseum lädt zu einer Zeitreise durch ihre Kulturgeschichte."
         }
       ],
       "sourcesCount": 1
@@ -3978,6 +3893,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ec20c000d0f1",
+      "title": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public - Reuters",
+      "summary": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 13 Oct 2026 15:03:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
+          "summary": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4f6bd4362b60",
       "title": "The government is asking industry to help rewrite how it buys technology. We should answer. - FedScoop",
       "summary": "The government is asking industry to help rewrite how it buys technology. We should answer.",
@@ -4171,6 +4104,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-mescid-i-aksaya-baskin-duzenledi-960005.html",
           "summary": "Filistin topraklarını gasbeden 130'dan fazla İsrailli, işgal altındaki Doğu Kudüs'te yer alan Mescid-i Aksa'ya baskın düzenledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "701566896eae",
+      "title": "Merz kritisiert Bas' Arbeit, Grüne finden das \"unmöglich\"",
+      "summary": "Kanzler Merz hat die Arbeit der scheidenden Ministerin Bas kritisiert. Auf die Gesetze zur Rente warte man nun schon ziemlich lange, sagt er - und erntet Kritik von den Grünen.",
+      "link": "https://www.zdfheute.de/politik/merz-arbeitgebertag-bas-gruene-kritik-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 14:32:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/merz-arbeitgebertag-bas-gruene-kritik-100.html",
+          "summary": "Kanzler Merz hat die Arbeit der scheidenden Ministerin Bas kritisiert. Auf die Gesetze zur Rente warte man nun schon ziemlich lange, sagt er - und erntet Kritik von den Grünen."
         }
       ],
       "sourcesCount": 1
@@ -5081,10 +5032,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "7dc3deaa0a2a",
-      "title": "Open models have real benefits. Do they outweigh the risks? - MIT Technology Review",
-      "summary": "Open models have real benefits. Do they outweigh the risks?",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSENXLVdXRXlqU0NvS0k4R0JucGNkODhzVUVScG1ncGs5SzhxWkZSc3plald3SWlENzFfQ2I4YzViMGVnYWZSOEpVTXZaVlh4OGg0Zk50SHZyOGstZmdRcktYU0ZLTFR4YnNhRG5XTTM4Mzl1UERRQzQ0QXljM1h4U0ZjODlzY1FYdzhLUVhpcERGa05qdlE5Z0dLMUFrNUNhMGRjMjR6S1c4b200UHgw0gG0AUFVX3lxTE9uX2xWRWN1dVNyc1B6b09fS2hWbFJtQzFMUXZkeTJGc1QzWUJmRExJMWRoWjdObnZLdlZmS2x6cVdjYkkydUxtdGs0dE45Q0xPOUlnWmFVbDN3aHFZbV9ZSEJWVXBjQ1pobkJhU3NvNURqSl9wQkZ2NXNKcGIzT2dZMzRZNDBMaHpWLTVQWmdBMW43TzNXeHhoUG00MUgtSTdnbVB5SVBFU3JwRV82cXZKdFlfNw?oc=5",
+      "id": "dda3a728823b",
+      "title": "Painter Robin F. Williams Channels Botticelli into Glossy Takes on Contemporary Technology - Artsy",
+      "summary": "Painter Robin F. Williams Channels Botticelli into Glossy Takes on Contemporary Technology Artsy",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVFjTkEzWkE2dHAwOEJkemhnRTZOWnoyZ2R4ZUJRSjJiTDhVdXRfd2pMdnlvbG1WNG9iTV9EYlJObE1EVEc2cnR3NjU2T01xcE1ZVXg1QUtXOHlPUnhZdnVGT0Z1bjI1bk1kbURxZFY5WnFhS2V1ckIwM2ozTGNJWkEwaEJ6M0Z1ZXhmSjg3RW1mMWM5Tnd6ZTcyTlJTWDExLXlNLVRHWEw2Tm4xeXYxZ04yMDZDemVMdVFxZmpVWTJGTjg?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
@@ -5092,8 +5043,8 @@
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSENXLVdXRXlqU0NvS0k4R0JucGNkODhzVUVScG1ncGs5SzhxWkZSc3plald3SWlENzFfQ2I4YzViMGVnYWZSOEpVTXZaVlh4OGg0Zk50SHZyOGstZmdRcktYU0ZLTFR4YnNhRG5XTTM4Mzl1UERRQzQ0QXljM1h4U0ZjODlzY1FYdzhLUVhpcERGa05qdlE5Z0dLMUFrNUNhMGRjMjR6S1c4b200UHgw0gG0AUFVX3lxTE9uX2xWRWN1dVNyc1B6b09fS2hWbFJtQzFMUXZkeTJGc1QzWUJmRExJMWRoWjdObnZLdlZmS2x6cVdjYkkydUxtdGs0dE45Q0xPOUlnWmFVbDN3aHFZbV9ZSEJWVXBjQ1pobkJhU3NvNURqSl9wQkZ2NXNKcGIzT2dZMzRZNDBMaHpWLTVQWmdBMW43TzNXeHhoUG00MUgtSTdnbVB5SVBFU3JwRV82cXZKdFlfNw?oc=5",
-          "summary": "Open models have real benefits. Do they outweigh the risks?"
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVFjTkEzWkE2dHAwOEJkemhnRTZOWnoyZ2R4ZUJRSjJiTDhVdXRfd2pMdnlvbG1WNG9iTV9EYlJObE1EVEc2cnR3NjU2T01xcE1ZVXg1QUtXOHlPUnhZdnVGT0Z1bjI1bk1kbURxZFY5WnFhS2V1ckIwM2ozTGNJWkEwaEJ6M0Z1ZXhmSjg3RW1mMWM5Tnd6ZTcyTlJTWDExLXlNLVRHWEw2Tm4xeXYxZ04yMDZDemVMdVFxZmpVWTJGTjg?oc=5",
+          "summary": "Painter Robin F. Williams Channels Botticelli into Glossy Takes on Contemporary Technology Artsy"
         }
       ],
       "sourcesCount": 1
@@ -5279,24 +5230,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c7e65d374e3c",
-      "title": "AI labs are buying data from dead startups to train their models - MIT Technology Review",
-      "summary": "AI labs are buying data from dead startups to train their models MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzRDSDhXUEE4RlJmMXBIY3FSdWdFSlg1cTRVaGRqS2c0OU9mbW9RaE5aeVJOakZNR0QydE9NT0NRVHBWb3luZloyb2phWERZc19pT1I5S2RaR25CYVk4SDlNQV93N21DQzV4bTAtNlphd3dwU0ZWV0hmdkE1aVN1NzZ0WUtjWDFSa0lJZGE5aFY0RW1TemNFaWtXRHh6SmNYNHIwSWdFcGJfdHPSAbABQVVfeXFMT0gtbmdTTE5NZGVLaUZkMWVPRHRQT0VMT0VWSUZ3NGZ1bGlwcHJuNkJzTFlRSTlEVWIxa25oSmdwbVhLQ2JNLU93MzZSZDYwMkJma1BrUEs4Wkd5SHpuOHk1c3JYZWFoYVJEOGFKYkN4ZU4xWkF4U2ZNNk9YVEtWOEYzd0xPZG5SbGQ5RzNaODZDaFNCVkJRMVBiVU9ma0tRcjBGaHZNX2xrS0pLTmp2NEg?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 09:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzRDSDhXUEE4RlJmMXBIY3FSdWdFSlg1cTRVaGRqS2c0OU9mbW9RaE5aeVJOakZNR0QydE9NT0NRVHBWb3luZloyb2phWERZc19pT1I5S2RaR25CYVk4SDlNQV93N21DQzV4bTAtNlphd3dwU0ZWV0hmdkE1aVN1NzZ0WUtjWDFSa0lJZGE5aFY0RW1TemNFaWtXRHh6SmNYNHIwSWdFcGJfdHPSAbABQVVfeXFMT0gtbmdTTE5NZGVLaUZkMWVPRHRQT0VMT0VWSUZ3NGZ1bGlwcHJuNkJzTFlRSTlEVWIxa25oSmdwbVhLQ2JNLU93MzZSZDYwMkJma1BrUEs4Wkd5SHpuOHk1c3JYZWFoYVJEOGFKYkN4ZU4xWkF4U2ZNNk9YVEtWOEYzd0xPZG5SbGQ5RzNaODZDaFNCVkJRMVBiVU9ma0tRcjBGaHZNX2xrS0pLTmp2NEg?oc=5",
-          "summary": "AI labs are buying data from dead startups to train their models MIT Technology Review"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2b4d52319137",
       "title": "Winzer erwarten guten Jahrgang trotz Hitze",
       "summary": "Die Weinbauern rechnen mit acht Millionen Hektolitern Weinmost. Das sind fünf Prozent mehr als im Vorjahr.",
@@ -5472,6 +5405,78 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
           "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7bcc6be4c076",
+      "title": "Reuters: Witkoff and Kushner told Kyiv that a diesel deal with Russia would help bring the Kremlin back to the negotiating table - Meduza",
+      "summary": "Reuters: Witkoff and Kushner told Kyiv that a diesel deal with Russia would help bring the Kremlin back to the negotiating table Meduza",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbDdEWmtfMDFfb1RTb0dORmlod0xzV3RJcHVQSThkRFFERVB1bHBUSXU2N0dWVXYxRmw3SHZvcWFzZWNtand1OHhhZ196MnFrNk1YOG5UalcweXJzbjZvRkdDRlp4TVlCcWxra1lXTXBZX0hUYlBvZXZmakFicTA1WkloYTNyOUxMRWVoQlZjQUp4dXhMZUN1bkc0d3hvd3FtQ1BQV0w2S2JSU0FfOW5oTzRqc1ZEaE1IVkx1NTNDZUFxTFZDR18xc1hhOTJPZ1kxR3pfcy1nVjZGVzk0QzE3OE50UFZCWkVrVkRhNm1lMWI2amFGdGFN0gH8AUFVX3lxTE5DaktuRDQ4dUZJOEJjczJCaS0xdmdvdmgxTnZWaWQzLUVScGt5bXhhOGZoTmpvUlQ0N3ZZeER3OEY1YjRSUHJTU1NVMW0tUFc4V2h2RUYxN1JBQjlWdkY5ZDlHeTRVV2lwSDRfS3Bma195M1ZTN09lOTZhQlUyenhJWTdTUUVpXzdGVndZTGxCREJMeVk1dW4wN2dGeHVVNkttR0hMX0R2UWFPM2I1eUR6MmljTWFWSWQ5dm5zWVAyMjRvTGd6a2dyUmZfWXBDd0RzdzlMMnNOMWNuLUtlWl9kT0JMSzlRWGtZZGdLTkN5dkQ5MDI5VFFtVTI0Mg?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:48:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbDdEWmtfMDFfb1RTb0dORmlod0xzV3RJcHVQSThkRFFERVB1bHBUSXU2N0dWVXYxRmw3SHZvcWFzZWNtand1OHhhZ196MnFrNk1YOG5UalcweXJzbjZvRkdDRlp4TVlCcWxra1lXTXBZX0hUYlBvZXZmakFicTA1WkloYTNyOUxMRWVoQlZjQUp4dXhMZUN1bkc0d3hvd3FtQ1BQV0w2S2JSU0FfOW5oTzRqc1ZEaE1IVkx1NTNDZUFxTFZDR18xc1hhOTJPZ1kxR3pfcy1nVjZGVzk0QzE3OE50UFZCWkVrVkRhNm1lMWI2amFGdGFN0gH8AUFVX3lxTE5DaktuRDQ4dUZJOEJjczJCaS0xdmdvdmgxTnZWaWQzLUVScGt5bXhhOGZoTmpvUlQ0N3ZZeER3OEY1YjRSUHJTU1NVMW0tUFc4V2h2RUYxN1JBQjlWdkY5ZDlHeTRVV2lwSDRfS3Bma195M1ZTN09lOTZhQlUyenhJWTdTUUVpXzdGVndZTGxCREJMeVk1dW4wN2dGeHVVNkttR0hMX0R2UWFPM2I1eUR6MmljTWFWSWQ5dm5zWVAyMjRvTGd6a2dyUmZfWXBDd0RzdzlMMnNOMWNuLUtlWl9kT0JMSzlRWGtZZGdLTkN5dkQ5MDI5VFFtVTI0Mg?oc=5",
+          "summary": "Reuters: Witkoff and Kushner told Kyiv that a diesel deal with Russia would help bring the Kremlin back to the negotiating table Meduza"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "19c59956c77b",
+      "title": "Auftakt der Haushaltsdebatte: \"Frankreich steht finanziell mit dem Rücken zur Wand\"",
+      "summary": "In Frankreich beginnen heute die Haushaltsberatungen für das kommende Jahr. Die Regierung will kräftig sparen, um das Defizit zu reduzieren.",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-haushaltsdebatte-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:37:12 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-haushaltsdebatte-100.html",
+          "summary": "In Frankreich beginnen heute die Haushaltsberatungen für das kommende Jahr. Die Regierung will kräftig sparen, um das Defizit zu reduzieren."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "024acaa4c833",
+      "title": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
+      "summary": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich.",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:37:06 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
+          "summary": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2144fff7a68e",
+      "title": "ICE durchsucht Haus von Ilhan Omar",
+      "summary": "ICE-Beamte haben das Haus der US-Abgeordneten Ilhan Omar durchsucht. Laut Medien soll es um ihre Einbürgerung als Kind gegangen sein.",
+      "link": "https://www.zdfheute.de/video/zdfheute-xpress/usa-ice-durchsuchung-haus-ilhan-omar-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 07:30:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-xpress/usa-ice-durchsuchung-haus-ilhan-omar-video-100.html",
+          "summary": "ICE-Beamte haben das Haus der US-Abgeordneten Ilhan Omar durchsucht. Laut Medien soll es um ihre Einbürgerung als Kind gegangen sein."
         }
       ],
       "sourcesCount": 1
