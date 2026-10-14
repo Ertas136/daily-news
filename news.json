@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-14T10:57:52.395076+00:00",
+  "updated": "2026-10-14T11:23:50.885276+00:00",
   "articles": [
-    {
-      "id": "fa3f05d9463c",
-      "title": "The AI telling farmers when to harvest",
-      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 30 Sep 2026 23:02:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-          "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
-        }
-      ],
-      "sourcesCount": 1
-    },
     {
       "id": "a728fedb6f47",
       "title": "Pilotprojekt im Osten: Weniger Polizei statt Kostenbeteiligung",
@@ -110,24 +92,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e536c9f51b08",
-      "title": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence - UNESCO",
-      "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
-          "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0564e34ee97d",
       "title": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
       "summary": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen.",
@@ -182,6 +146,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "eca6b88dac2a",
+      "title": "3 ilde FETÖ ve DEAŞ'a 4 ayrı operasyon: 33 gözaltı",
+      "summary": "Adalet Bakanı Gürlek, İzmir, Eskişehir ve Ağrı’da FETÖ ve DEAŞ'a yönelik 4 ayrı operasyon gerçekleştirildiğini duyurdu. Operasyonlar kapsamında 33 kişi gözaltına alındı.",
+      "link": "https://www.trthaber.com/haber/turkiye/3-ilde-feto-ve-deasa-4-ayri-operasyon-33-gozalti-960101.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 14:10:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/3-ilde-feto-ve-deasa-4-ayri-operasyon-33-gozalti-960101.html",
+          "summary": "Adalet Bakanı Gürlek, İzmir, Eskişehir ve Ağrı’da FETÖ ve DEAŞ'a yönelik 4 ayrı operasyon gerçekleştirildiğini duyurdu. Operasyonlar kapsamında 33 kişi gözaltına alındı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "eac30a193ccb",
+      "title": "Rutte, NATO'nun gerektiğinde Rusya'nın hibrit saldırılarına karşılık vereceğini söyledi",
+      "summary": "NATO Genel Sekreteri Mark Rutte, Rusya’nın NATO müttefiklerine yönelik hibrit ve siber saldırılarına karşı gerekli hazırlıkları yaptıklarını belirterek “Gerektiği yerde karşılık vereceğiz. Tekrar söylüyorum; bu, her zaman görünür olmayacak.” dedi.",
+      "link": "https://www.trthaber.com/haber/dunya/rutte-natonun-gerektiginde-rusyanin-hibrit-saldirilarina-karsilik-verecegini-soyledi-960100.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 13:54:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/rutte-natonun-gerektiginde-rusyanin-hibrit-saldirilarina-karsilik-verecegini-soyledi-960100.html",
+          "summary": "NATO Genel Sekreteri Mark Rutte, Rusya’nın NATO müttefiklerine yönelik hibrit ve siber saldırılarına karşı gerekli hazırlıkları yaptıklarını belirterek “Gerektiği yerde karşılık vereceğiz. Tekrar söylüyorum; bu, her zaman görünür olmayacak.” dedi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "325a9ac7dabc",
       "title": "Kırmızı bültenle aranan dolandırıcı İstanbul'da yakalandı",
       "summary": "'Kripto para dolandırıcılığı' suçundan kırmızı bültenle aranan yabancı uyruklu şüpheli İstanbul'da gözaltına alındı.",
@@ -213,6 +213,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-turkiye-dunyanin-en-buyuk-ve-en-gelismis-lpg-pazarlarindan-birine-sahip-960098.html",
           "summary": "Bakan Bayraktar, küresel enerjideki zorluklara karşı kaynak çeşitlendirmenin önemine dikkati çekerek, \"Tek bir enerji kaynağına, teknolojiye veya nakliye güzergahına bağımlı kalmayı göze alamayız. Türkiye, dünyanın en büyük ve en gelişmiş LPG pazarlarından birine sahip."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9c9adfd4e230",
+      "title": "\"Der Verrat ist Teil von Trumps Außenpolitik\"",
+      "summary": "Trumps Diesel-Deal mit Putin zeigt: Trumps Regierung setzt auf Symbolpolitik vor den Zwischenwahlen. Auf welcher Seite stehen die USA?",
+      "link": "https://www.zdfheute.de/politik/ausland/trump-ukraine-russland-midterms-sprit-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 13:02:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/trump-ukraine-russland-midterms-sprit-100.html",
+          "summary": "Trumps Diesel-Deal mit Putin zeigt: Trumps Regierung setzt auf Symbolpolitik vor den Zwischenwahlen. Auf welcher Seite stehen die USA?"
         }
       ],
       "sourcesCount": 1
@@ -321,6 +339,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/noterler-birligi-guvenli-kapora-sistemi-dolandiriciligina-karsi-uyardi-960091.html",
           "summary": "Araç ve taşınmaz alım satımlarında noterlerde \"Güvenli Kapora Sistemi\" adlı bir uygulama bulunduğunu öne süren dolandırıcılar, vatandaşları bu yolla tuzağa düşürüyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6bd4dee2836b",
+      "title": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
+      "summary": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen.",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 12:32:28 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
+          "summary": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen."
         }
       ],
       "sourcesCount": 1
@@ -438,13 +474,13 @@
       "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
       "summary": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
       "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
-      "sourceName": "Tagesschau Ausland",
+      "sourceName": "Tagesschau Wirtschaft",
       "region": "international",
-      "topic": "politik",
+      "topic": "wirtschaft",
       "time": "Wed, 14 Oct 2026 11:48:39 +0200",
       "coverage": [
         {
-          "sourceName": "Tagesschau Ausland",
+          "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
           "summary": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können."
         }
@@ -583,6 +619,24 @@
       "sourcesCount": 2
     },
     {
+      "id": "3ba9283bc735",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 11:17:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "925fbf443764",
       "title": "Englands Fußball geht am Stock",
       "summary": "Inmitten des beispiellosen Finanzskandals um Manchester City hat die unabhängige Fußballaufsichtsbehörde (IFR) in einem Bericht alarmierende Zahlen zum englischen Fußball veröffentlicht.",
@@ -596,6 +650,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/premier-league/englands-fussball-geht-am-stock,englischer-fussball-finanzen-100.html",
           "summary": "Inmitten des beispiellosen Finanzskandals um Manchester City hat die unabhängige Fußballaufsichtsbehörde (IFR) in einem Bericht alarmierende Zahlen zum englischen Fußball veröffentlicht."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7a507a486027",
+      "title": "Deutschland liveblog: Linke und Grüne werfen AfD-Landtagspräsidenten mangelnde Überparteilichkeit vor",
+      "summary": "Grünen-Politiker in Sachsen-Anhalt: „Schwerer Verstoß gegen Neutralitätsgebot“ +++ Schwerdtner bedauert Sondierungspause in Berlin +++ Koalition einigt sich bei Zuckersteuer +++ alle Entwicklungen im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-und-gruene-werfen-afd-landtagspraesidenten-mangelnde-ueberparteilichkeit-vor-faz-110093143.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 11:16:28 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-und-gruene-werfen-afd-landtagspraesidenten-mangelnde-ueberparteilichkeit-vor-faz-110093143.html",
+          "summary": "Grünen-Politiker in Sachsen-Anhalt: „Schwerer Verstoß gegen Neutralitätsgebot“ +++ Schwerdtner bedauert Sondierungspause in Berlin +++ Koalition einigt sich bei Zuckersteuer +++ alle Entwicklungen im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -632,6 +704,132 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/papst-leo-krebserkrankung-lungenkrebs-100.html",
           "summary": "Papst Leo XIV. hat Lungenkrebs."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fd0fbddfe1af",
+      "title": "Fan cleared of assaults after fall from Ipswich stand",
+      "summary": "Away fan John Ryan toppled from the upper tier at Ipswich Town's ground and landed on home supporters.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynlyz385xo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 14 Oct 2026 11:12:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynlyz385xo?at_medium=RSS&at_campaign=rss",
+          "summary": "Away fan John Ryan toppled from the upper tier at Ipswich Town's ground and landed on home supporters."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "92fd1c8a297d",
+      "title": "Ukraine’s Economy Faces 1.2% Growth in 2026 as Kyiv Forum Gathers 500+ Leaders to Tackle War Risks - Kyiv Post",
+      "summary": "Ukraine’s Economy Faces 1.2% Growth in 2026 as Kyiv Forum Gathers 500+ Leaders to Tackle War Risks Kyiv Post",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USExHa2ZjZnV4ZlRwbWZxdkFTRHlNLTVQU3lkY3oya1NqRTI0SUZqTC1iX0kwLUJrNFNXMC13NWluQi1zMUxPSXdwaw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 11:09:42 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USExHa2ZjZnV4ZlRwbWZxdkFTRHlNLTVQU3lkY3oya1NqRTI0SUZqTC1iX0kwLUJrNFNXMC13NWluQi1zMUxPSXdwaw?oc=5",
+          "summary": "Ukraine’s Economy Faces 1.2% Growth in 2026 as Kyiv Forum Gathers 500+ Leaders to Tackle War Risks Kyiv Post"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "da927edfb908",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 11:08:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+          "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1f33e15a35b2",
+      "title": "Verteidigungspläne: Der ungedeckte Scheck der NATO",
+      "summary": "Es dient der Abschreckung, wenn der Oberbefehlshaber der NATO auf die Fähigkeiten des Bündnisses hinweist. Aber im Ernstfall käme es auf einen anderen an.",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/nato-verteidigungsplaene-gegen-russland-ein-ungedeckter-scheck-201313808.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 11:07:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ukraine/nato-verteidigungsplaene-gegen-russland-ein-ungedeckter-scheck-201313808.html",
+          "summary": "Es dient der Abschreckung, wenn der Oberbefehlshaber der NATO auf die Fähigkeiten des Bündnisses hinweist. Aber im Ernstfall käme es auf einen anderen an."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f37f8bc9dee5",
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 11:05:16 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+          "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f96c81a57ec6",
+      "title": "MSc International Business at Exeter climbs into world top 10 in influential QS ranking - University of Exeter News",
+      "summary": "MSc International Business at Exeter climbs into world top 10 in influential QS ranking University of Exeter News",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQXFDbXk2c0loTVlxSXFISlQ2X0pOUUFkYU1iN3FmV0ZXTFNualFzbDlJMmFmSkZtcmRwOXMtYVBpSURsd0tDQlIyRXlVOURrYXhjREI0TVl1SGg1dnR4QzZUaWFwUkZfU0NSN0VnVThtTWxDVC1RMzF1NTFmd0R2aHdhVnZzTUxIcDVqWXNKcXdhUEg3SVRJeHoxZFRVdmZDOXR0RFM5aW16V1hjSHRSNUdVV0xzRWdZaDB4QlBod05xSlBhMGljdE9UUnZHU2ZSMjY0Vk1hR0FWaVg5cS05VmlTcXIxNkZDX1JHVk8zemlCUzdpOFJ5dF9xRDNha3NnbzdyaU8tbk1oM0dOTk9FSFZ4MUg4WVpUeGN5bmc2TQ?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 11:05:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQXFDbXk2c0loTVlxSXFISlQ2X0pOUUFkYU1iN3FmV0ZXTFNualFzbDlJMmFmSkZtcmRwOXMtYVBpSURsd0tDQlIyRXlVOURrYXhjREI0TVl1SGg1dnR4QzZUaWFwUkZfU0NSN0VnVThtTWxDVC1RMzF1NTFmd0R2aHdhVnZzTUxIcDVqWXNKcXdhUEg3SVRJeHoxZFRVdmZDOXR0RFM5aW16V1hjSHRSNUdVV0xzRWdZaDB4QlBod05xSlBhMGljdE9UUnZHU2ZSMjY0Vk1hR0FWaVg5cS05VmlTcXIxNkZDX1JHVk8zemlCUzdpOFJ5dF9xRDNha3NnbzdyaU8tbk1oM0dOTk9FSFZ4MUg4WVpUeGN5bmc2TQ?oc=5",
+          "summary": "MSc International Business at Exeter climbs into world top 10 in influential QS ranking University of Exeter News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "aae7dc9798d6",
+      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+      "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 11:04:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+          "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing."
         }
       ],
       "sourcesCount": 1
@@ -691,6 +889,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "c94d0c71d6b9",
+      "title": "Nach tödlichem Unfall: New York verbietet Pferdekutschen",
+      "summary": "Im Sommer 2028 sollen die letzten Pferdekutschen durch New York fahren. Das Gesetz, das die Kutschen verbietet, wird nach einem Jugendlichen benannt, der bei einem Unfall mit einer Kutsche getötet wurde.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/new-york-verbietet-pferdekutschen-im-central-park-accg-201317058.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 11:01:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/new-york-verbietet-pferdekutschen-im-central-park-accg-201317058.html",
+          "summary": "Im Sommer 2028 sollen die letzten Pferdekutschen durch New York fahren. Das Gesetz, das die Kutschen verbietet, wird nach einem Jugendlichen benannt, der bei einem Unfall mit einer Kutsche getötet wurde."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "68e53b98dd91",
+      "title": "How technology is changing the detection of breast cancer - CBS News",
+      "summary": "How technology is changing the detection of breast cancer CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 11:00:05 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
+          "summary": "How technology is changing the detection of breast cancer CBS News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "09a36a97f352",
+      "title": "How A Detroit Facility Seeks To Advance Transportation Technology - Forbes",
+      "summary": "How A Detroit Facility Seeks To Advance Transportation Technology Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcTBDdTc5bFlMNUl0VnRyWWdZV3RBQW1MSXdpeXdKWDhIdU05enNTUXdaaHRIVmZncjZPRzcwWGlBM3VqaFVnNFNROXAzY3FBWmNfcVJKUFdUaEQ3YThpZDNyeVJocTNPR1V1d0xfWVhCVUVXdjMxa0o1UTZudzdadkc1VzlWVUNCREFxS0x3Q1NiaWE0Zkl0VTZZNkM1QmJUMExJRkQwWkU3M2FzTEZYeV8ybUlOSW9a?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 11:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcTBDdTc5bFlMNUl0VnRyWWdZV3RBQW1MSXdpeXdKWDhIdU05enNTUXdaaHRIVmZncjZPRzcwWGlBM3VqaFVnNFNROXAzY3FBWmNfcVJKUFdUaEQ3YThpZDNyeVJocTNPR1V1d0xfWVhCVUVXdjMxa0o1UTZudzdadkc1VzlWVUNCREFxS0x3Q1NiaWE0Zkl0VTZZNkM1QmJUMExJRkQwWkU3M2FzTEZYeV8ybUlOSW9a?oc=5",
+          "summary": "How A Detroit Facility Seeks To Advance Transportation Technology Forbes"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9b1f35cbf168",
       "title": "FehlerKultur: Unter Männern",
       "summary": "Frauen haben es in männerdominierten Berufen noch immer schwer und scheuen sich ihre Fehler zuzugeben, obwohl alle daraus lernen könnten. Was muss sich in der Arbeitswelt verändern?",
@@ -722,6 +974,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
           "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "54ca8a66c3b6",
+      "title": "Why play-off win may not send Wales to World Cup",
+      "summary": "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 14 Oct 2026 10:49:27 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo?at_medium=RSS&at_campaign=rss",
+          "summary": "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027."
         }
       ],
       "sourcesCount": 1
@@ -776,6 +1046,29 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo?at_medium=RSS&at_campaign=rss",
           "summary": "The extended three-week break may have benefited Chelsea more than any other team in the Premier League."
+        },
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Cby1oS2REZGJReDhLVkN4ekdlRHBIUkxEa2duNWV4dnFLVElkWkxuSlhacW1zYjUzd2xtSWRnaEFfVDgwQXNaQ2hxdEVyLVQ1Q1NKejNuMDdUeFJrZE9IQTJOV2VKaGxMVjZ3?oc=5",
+          "summary": "How Chelsea used extended international break to positive effect BBC"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
+      "id": "330fa3dd3b76",
+      "title": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says - Reuters",
+      "summary": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 10:43:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
+          "summary": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -930,24 +1223,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f37f8bc9dee5",
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 10:28:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-          "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fe4690647315",
       "title": "Durham MSc International Business ranked second in the world - Durham University",
       "summary": "Durham MSc International Business ranked second in the world Durham University",
@@ -961,24 +1236,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmtzLUdZUmdNalJkZmI2X2lZdEVlTmNqakttcGd4NTg4ZU1ZcmNKdHJGNG1oVzBXM0VyTmU1RWhvblUzSUpsNGlVdFBVTGVlVkxwVUpxVjlMUWV2aXlIZWdiNVVReFJUNmhkZWctQ29fMGVhM0NOcU90QXh4ZVRSYWxYY2FvQl9nLW5ySm15d0hLLUhKVEVUWGlUWXI3MFZVVGV0cmJpN1BSVXI3UVo1QW5Ua1RUd2lsdGc?oc=5",
           "summary": "Durham MSc International Business ranked second in the world Durham University"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dfa0aa3d608f",
-      "title": "Deutschland liveblog: Linke und Grüne werfen AfD-Landtagspräsident mangelnde Überparteilichkeit vor",
-      "summary": "Grünen-Politiker in Sachsen-Anhalt: „Ein schwerer Verstoß gegen das Neutralitätsgebot“ +++ Schwerdtner bedauert Sondierungspause in Berlin +++ Koalition legt Streit um Zuckersteuer bei +++ alle Entwicklungen im Liveblog",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-und-gruene-werfen-afd-landtagspraesident-mangelnde-ueberparteilichkeit-vor-faz-110093143.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 10:28:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-und-gruene-werfen-afd-landtagspraesident-mangelnde-ueberparteilichkeit-vor-faz-110093143.html",
-          "summary": "Grünen-Politiker in Sachsen-Anhalt: „Ein schwerer Verstoß gegen das Neutralitätsgebot“ +++ Schwerdtner bedauert Sondierungspause in Berlin +++ Koalition legt Streit um Zuckersteuer bei +++ alle Entwicklungen im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -1039,12 +1296,12 @@
     },
     {
       "id": "19e965b985dd",
-      "title": "Süchtig nach Likes: Soziale Medien rauben uns den Verstand",
+      "title": "Süchtig nach Likes: Wie wir abhängig wurden vom digitalen Dopamin",
       "summary": "Ich weiß noch, wie alles anfing. Die Algorithmen der sozialen Netzwerke erreichen längst, dass wir das Denken den Maschinen überlassen.",
       "link": "https://www.faz.net/aktuell/politik/inland/soziale-medien-rauben-uns-den-verstand-accg-201293714.html",
       "sourceName": "FAZ",
       "region": "germany",
-      "topic": "politik",
+      "topic": "technologie",
       "time": "Wed, 14 Oct 2026 10:17:41 GMT",
       "coverage": [
         {
@@ -1354,19 +1611,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "409f9def1305",
-      "title": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism - The Guardian",
-      "summary": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYm5vbnplWXNibkxHZ3ZoSmJZd09iMkFHai1HNFZ5Tk04NllxWkdiRHZVY3VkRnVkSzdTUk9Xb2lOYjZyQk9ISUhXd1VYb1ZaTVA5U1VFalpZYWtEcENKWGJvUG1NdmZVYVJNRWxTUl9IOExWbHRjYlZRenUxaDFVeGJwaUJPc0FqY2ZfcEh6NFIzdnNHUmlXTkFmZw?oc=5",
+      "id": "45baea0185e7",
+      "title": "Musk steps back into politics with redefined DC role - The Hill",
+      "summary": "Musk steps back into politics with redefined DC role The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWxORHhFMXNweE1aeDJQN2Rqd2hTRnlpSlpEOHU1cUpNQnpmZ2U4blhCZUw0UEpyamtiMEQ4Ry0tRDBCVlNsTVRWYTJ2NlplRmdMLWJNT280dlVfalFhU0tTeDBfc0dyTDYtMzNpUm1HVzhwbHZLSTU4N1ZKM0psXzloejB1OEkyTU5id0ZPdm96TGM?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 10:01:00 GMT",
+      "time": "Wed, 14 Oct 2026 10:00:00 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYm5vbnplWXNibkxHZ3ZoSmJZd09iMkFHai1HNFZ5Tk04NllxWkdiRHZVY3VkRnVkSzdTUk9Xb2lOYjZyQk9ISUhXd1VYb1ZaTVA5U1VFalpZYWtEcENKWGJvUG1NdmZVYVJNRWxTUl9IOExWbHRjYlZRenUxaDFVeGJwaUJPc0FqY2ZfcEh6NFIzdnNHUmlXTkFmZw?oc=5",
-          "summary": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism The Guardian"
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWxORHhFMXNweE1aeDJQN2Rqd2hTRnlpSlpEOHU1cUpNQnpmZ2U4blhCZUw0UEpyamtiMEQ4Ry0tRDBCVlNsTVRWYTJ2NlplRmdMLWJNT280dlVfalFhU0tTeDBfc0dyTDYtMzNpUm1HVzhwbHZLSTU4N1ZKM0psXzloejB1OEkyTU5id0ZPdm96TGM?oc=5",
+          "summary": "Musk steps back into politics with redefined DC role The Hill"
         }
       ],
       "sourcesCount": 1
@@ -1444,24 +1701,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "127e65ce8d75",
-      "title": "Gericht urteilt: Rassistischer Wahlwerbespot der AfD bleibt verboten",
-      "summary": "Die AfD-Brandenburg produzierte im Landtagswahlkampf 2024 einen KI-Wahlwerbespot, der dunkelhäutige Menschen stigmatisiert. Die Verbreitung wurde untersagt, aber die AfD klagte.",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/urteil-rassistischer-wahlwerbespot-der-afd-verboten-accg-201314778.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 09:55:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/urteil-rassistischer-wahlwerbespot-der-afd-verboten-accg-201314778.html",
-          "summary": "Die AfD-Brandenburg produzierte im Landtagswahlkampf 2024 einen KI-Wahlwerbespot, der dunkelhäutige Menschen stigmatisiert. Die Verbreitung wurde untersagt, aber die AfD klagte."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "bb17e23fa82c",
       "title": "AI Girlfriend Technology USA - Universidad de Córdoba (UCO)",
       "summary": "AI Girlfriend Technology USA Universidad de Córdoba (UCO)",
@@ -1483,24 +1722,6 @@
         }
       ],
       "sourcesCount": 2
-    },
-    {
-      "id": "fa562da45397",
-      "title": "Bolt comparisons a 'privilege' - Dambile",
-      "summary": "South African sprinter Sinesipho Dambile says comparisons with Usain Bolt are a “privilege” as he targets World Championship and Olympic glory after a breakout season.",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cv4g5gkw7kr4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 09:50:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cv4g5gkw7kr4o?at_medium=RSS&at_campaign=rss",
-          "summary": "South African sprinter Sinesipho Dambile says comparisons with Usain Bolt are a “privilege” as he targets World Championship and Olympic glory after a breakout season."
-        }
-      ],
-      "sourcesCount": 1
     },
     {
       "id": "6f1490cccec5",
@@ -1577,7 +1798,7 @@
     {
       "id": "3c899e7b437c",
       "title": "Stolzer Provokateur: „Ich habe es geschafft, das halbe Bayern-Team zu verärgern“",
-      "summary": "Zlatko Tripic provoziert, bis der Münchner Michael Olise die Nerven verliert. Das macht den Stavangers Kapitän „unglaublich glücklich“.",
+      "summary": "Zlatko Tripic provoziert, bis der Münchner Michael Olise die Nerven verliert. Das macht den Stavangers-Kapitän „unglaublich glücklich“.",
       "link": "https://www.faz.net/aktuell/sport/fussball/champions-league/zlatko-tripic-michael-olise-provokateur-von-viking-stavanger-gluecklich-accg-201316748.html",
       "sourceName": "FAZ",
       "region": "germany",
@@ -1587,7 +1808,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/sport/fussball/champions-league/zlatko-tripic-michael-olise-provokateur-von-viking-stavanger-gluecklich-accg-201316748.html",
-          "summary": "Zlatko Tripic provoziert, bis der Münchner Michael Olise die Nerven verliert. Das macht den Stavangers Kapitän „unglaublich glücklich“."
+          "summary": "Zlatko Tripic provoziert, bis der Münchner Michael Olise die Nerven verliert. Das macht den Stavangers-Kapitän „unglaublich glücklich“."
         }
       ],
       "sourcesCount": 1
@@ -1701,10 +1922,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "81e538c68938",
+      "id": "a7460716a554",
       "title": "Auf Getränke: Kabinett beschließt Zuckersteuer",
       "summary": "Union und SPD haben lange um die Details einer Steuer auf stark gezuckerte Getränke gerungen. Jetzt gibt es eine Einigung – und direkt wieder Kritik.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kabinett-beschliesst-zuckersteuer-accg-201315884.html",
+      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/union-und-spd-beschliessen-zuckersteuer-auf-getraenke-accg-201315884.html",
       "sourceName": "FAZ",
       "region": "germany",
       "topic": "technologie",
@@ -1712,7 +1933,7 @@
       "coverage": [
         {
           "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kabinett-beschliesst-zuckersteuer-accg-201315884.html",
+          "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/union-und-spd-beschliessen-zuckersteuer-auf-getraenke-accg-201315884.html",
           "summary": "Union und SPD haben lange um die Details einer Steuer auf stark gezuckerte Getränke gerungen. Jetzt gibt es eine Einigung – und direkt wieder Kritik."
         }
       ],
@@ -1809,24 +2030,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3ba9283bc735",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 08:53:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "cd0a755be578",
       "title": "Mehr Flexibilität: So gehört Wücks Team zu den WM-Favoriten",
       "summary": "Gelingt 2027 abermals einer deutschen Auswahl ein großer Triumph in Brasilien? Die Entwicklung der DFB-Frauen stimmt zuversichtlich.",
@@ -1840,24 +2043,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/sport/fussball/dfb-frauen-so-gehoert-christian-wuecks-team-zu-den-wm-2027-favoriten-201316125.html",
           "summary": "Gelingt 2027 abermals einer deutschen Auswahl ein großer Triumph in Brasilien? Die Entwicklung der DFB-Frauen stimmt zuversichtlich."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "509a5a25effb",
-      "title": "'Making progress': Taiwan on Alaska LNG deal after Trump says it will buy 30% of output - The Times of India",
-      "summary": "'Making progress': Taiwan on Alaska LNG deal after Trump says it will buy 30% of output The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQVJucWJsZlVidF9JY1FrMlFvb1lOcEw5QUEzbHB1T3lTajdnWlBLVDdaOG5XWE5UVnR6bkRUb2tIQ3phTXdzb1ZxMEoxbFVkS2VnQURaQ1owYjRCcUdMa3VrMHpRMUlrRjdKYmhRcU5FQ0pXLUN1aWRkdmUwR0Z6d3lnTmxJbGNKbkdkaXVYd0kwNmY0UlZucFNtT3NFNGcwYUFwNEpyU2RrQ1pWQVFpNHA0V1dOeTZQQ0E1ZW0zXzFqckEyWFAtY0JLUGNrOWk3U0xnZGh3MFZSOEpiRW5FTUZNYmtMVXFiSFI3S0FscXNnX042LVpGdmhwakNGSEFwejBYZGhxSHjSAY4CQVVfeXFMUEhDdFIteHlOclUzN0Z1TGVyRTlySGJxRUczbUtVRml3MW9BQUt4Z2h0Z1B0cVQ5dVZzUHVuaktrOEVTay1UbjQ2ZDVzd1FJejNIUlhHaV9UNUcyVGxJeUJ1QTFJQzFETWF0d1NTdmJzbl9OMVZtcDRFbk5SRkluZWFMRkgxMkhCaDNpWTRMMlRMMF94cXJDbzRWWUhMXzRVSlVXZkwwQndRT2stc0s3d25zSE1HZkFKcURqSjNKa1l6ZUVkbWJVOGIxeTF1c0ZJdFZuMFdDc2tEN3ZuYy1Pd2dsX00wdS1vMlhXOXk3bnFHcTdRNnVyVXJOUXluUVptUm1VS3VzZFA4YzFtT1Zn?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 08:50:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQVJucWJsZlVidF9JY1FrMlFvb1lOcEw5QUEzbHB1T3lTajdnWlBLVDdaOG5XWE5UVnR6bkRUb2tIQ3phTXdzb1ZxMEoxbFVkS2VnQURaQ1owYjRCcUdMa3VrMHpRMUlrRjdKYmhRcU5FQ0pXLUN1aWRkdmUwR0Z6d3lnTmxJbGNKbkdkaXVYd0kwNmY0UlZucFNtT3NFNGcwYUFwNEpyU2RrQ1pWQVFpNHA0V1dOeTZQQ0E1ZW0zXzFqckEyWFAtY0JLUGNrOWk3U0xnZGh3MFZSOEpiRW5FTUZNYmtMVXFiSFI3S0FscXNnX042LVpGdmhwakNGSEFwejBYZGhxSHjSAY4CQVVfeXFMUEhDdFIteHlOclUzN0Z1TGVyRTlySGJxRUczbUtVRml3MW9BQUt4Z2h0Z1B0cVQ5dVZzUHVuaktrOEVTay1UbjQ2ZDVzd1FJejNIUlhHaV9UNUcyVGxJeUJ1QTFJQzFETWF0d1NTdmJzbl9OMVZtcDRFbk5SRkluZWFMRkgxMkhCaDNpWTRMMlRMMF94cXJDbzRWWUhMXzRVSlVXZkwwQndRT2stc0s3d25zSE1HZkFKcURqSjNKa1l6ZUVkbWJVOGIxeTF1c0ZJdFZuMFdDc2tEN3ZuYy1Pd2dsX00wdS1vMlhXOXk3bnFHcTdRNnVyVXJOUXluUVptUm1VS3VzZFA4YzFtT1Zn?oc=5",
-          "summary": "'Making progress': Taiwan on Alaska LNG deal after Trump says it will buy 30% of output The Times of India"
         }
       ],
       "sourcesCount": 1
@@ -1894,24 +2079,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-bir-camiyi-ve-araci-atese-verdi-960061.html",
           "summary": "Filistin topraklarını gasbeden işgalci İsrailliler, İsrail ordusunun koruması altında işgal altındaki Batı Şeria'da bir camiyi ve aracı ateşe verdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "330fa3dd3b76",
-      "title": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says - Reuters",
-      "summary": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 08:39:41 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
-          "summary": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2132,24 +2299,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
           "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ae6b36fcb4f8",
-      "title": "NSA Releases Zero Trust Guidance for Protecting Operational Technology Systems - Homeland Security Today",
-      "summary": "NSA Releases Zero Trust Guidance for Protecting Operational Technology Systems Homeland Security Today",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkxTdU1wWWo2NTc5NmdKXzFVelU1RDhiS1pJeGQyeXhPMG1HanRwSVdLMHFTUk1YTG1IdGIwNXAtYWRkbXdaU2JSQ3NNZjRZc1dMcnF1M2Y1YkxpeHN6ZjRWc0U2REw5bXlrSUZvZm9iODlPVDJrXzUwSGNMMFpvS1QwSkh3VjdOSVFXendBT3NwR05pWnRiRWkyUGppYkRoVDBiZktOX0ZIWmpzajlYVVRaU3I2NUFBdGtsd3RKM2doZE5MV0NWbEkySTAybG9yc3BF?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 07:41:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkxTdU1wWWo2NTc5NmdKXzFVelU1RDhiS1pJeGQyeXhPMG1HanRwSVdLMHFTUk1YTG1IdGIwNXAtYWRkbXdaU2JSQ3NNZjRZc1dMcnF1M2Y1YkxpeHN6ZjRWc0U2REw5bXlrSUZvZm9iODlPVDJrXzUwSGNMMFpvS1QwSkh3VjdOSVFXendBT3NwR05pWnRiRWkyUGppYkRoVDBiZktOX0ZIWmpzajlYVVRaU3I2NUFBdGtsd3RKM2doZE5MV0NWbEkySTAybG9yc3BF?oc=5",
-          "summary": "NSA Releases Zero Trust Guidance for Protecting Operational Technology Systems Homeland Security Today"
         }
       ],
       "sourcesCount": 1
@@ -2641,24 +2790,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "2340b33eaa2e",
-      "title": "Bahnrad-WM 2026: Die wichtigsten Fragen und Antworten",
-      "summary": "Die Weltelite des Bahnradsports kämpft in Shanghai um WM-Medaillen. Das ZDF zeigt die Entscheidungen am 17.",
-      "link": "https://www.zdfheute.de/sport/faq-bahnrad-wm-shanghai-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 14 Oct 2026 06:15:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/faq-bahnrad-wm-shanghai-100.html",
-          "summary": "Die Weltelite des Bahnradsports kämpft in Shanghai um WM-Medaillen. Das ZDF zeigt die Entscheidungen am 17."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "64430c0a075c",
       "title": "Broadcom CEO sees capital hurdle to AI growth, 'casino' in AI investing - Reuters",
       "summary": "Broadcom CEO sees capital hurdle to AI growth, 'casino' in AI investing Reuters",
@@ -2731,6 +2862,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "eacbc28dc7a4",
+      "title": "Bill Gates: Technology is a world in need of governance - Vatican News",
+      "summary": "Bill Gates: Technology is a world in need of governance Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkRkMml5aXd6aFNMc21JeFRFUkNBN1VKSUFmOTRSRE5IMmtBSjlGdGdNb1RSb1BWY3ItOFJkNHkyUUQxVEJXcW5kSElzZTVaQmE5Z09pY0Y4TkhLdlB3RnF6cXVfY0tqLXEwdGR2YTRhbFp2Tzg5alFQU3gzZGNNb3NBOFdVR1dCR3VvSEhlVFYyUG15ckYwbC1jQkc5d2w2UjZYRGhLRlM0cG5M?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 05:49:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkRkMml5aXd6aFNMc21JeFRFUkNBN1VKSUFmOTRSRE5IMmtBSjlGdGdNb1RSb1BWY3ItOFJkNHkyUUQxVEJXcW5kSElzZTVaQmE5Z09pY0Y4TkhLdlB3RnF6cXVfY0tqLXEwdGR2YTRhbFp2Tzg5alFQU3gzZGNNb3NBOFdVR1dCR3VvSEhlVFYyUG15ckYwbC1jQkc5d2w2UjZYRGhLRlM0cG5M?oc=5",
+          "summary": "Bill Gates: Technology is a world in need of governance Vatican News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f061422f4f3a",
       "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
       "summary": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?",
@@ -2747,29 +2896,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "159b95be557b",
-      "title": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies - The Motley Fool",
-      "summary": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUlltSS1sSW9CcFc4cGtqUTJZd1Q2TmtfRGR3UFRSNXhxRzJmYVZVUkpEOEdGbDFuNlBiSmlrVlJTX0ltTGo2cncwRnRpOUZmRUUtOVduQWk3QmZTX216YnJKWUxOTGFTYlZmODlhVHZQSVc3Y0hTTXpkWFFuYkJweG5LSjQ3RmhDTFZSRkNZOGQxck5kV2REdTEzdlNjWDJfaGdHUVFPRmxLMnhxenFkSGg3VFpWbWFhdjhEZnh6UWVudkVsb0RjMmNIQzBTRzBoZlI1NnlNdGN2SnhCak9TNW1XZVpwQ1pNMkNVS2xR?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 05:37:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUlltSS1sSW9CcFc4cGtqUTJZd1Q2TmtfRGR3UFRSNXhxRzJmYVZVUkpEOEdGbDFuNlBiSmlrVlJTX0ltTGo2cncwRnRpOUZmRUUtOVduQWk3QmZTX216YnJKWUxOTGFTYlZmODlhVHZQSVc3Y0hTTXpkWFFuYkJweG5LSjQ3RmhDTFZSRkNZOGQxck5kV2REdTEzdlNjWDJfaGdHUVFPRmxLMnhxenFkSGg3VFpWbWFhdjhEZnh6UWVudkVsb0RjMmNIQzBTRzBoZlI1NnlNdGN2SnhCak9TNW1XZVpwQ1pNMkNVS2xR?oc=5",
-          "summary": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVFxU2xpVFFrUzY3Z2s0aWpfUXBEU2hQS3FnbGl1Z2d0dlZVVk9Oanp0QjNsS2tEMmxSQ3RlbDVuRzN2akV3MGRneHR3OXdfZHQxSmNaX1lYWW41SmUtQ3ptczctNGpWRC1xVmVPSmw4UHZDUlJGTC1HTTViU3VWVk5nUUdWQWt1RDdnamZ4TnUtSU1RUUVtM3BIaHkyYllU?oc=5",
-          "summary": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies Yahoo Finance"
-        }
-      ],
-      "sourcesCount": 2
     },
     {
       "id": "c69e7a11c701",
@@ -2862,6 +2988,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5edc2fd315ef",
+      "title": "Evri agrees deal for US provider - important step in growth of international business - Insider Media Ltd",
+      "summary": "Evri agrees deal for US provider - important step in growth of international business Insider Media Ltd",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONU5DNUlSb1llV2VFU1BZS1VpZDV3a1p5R3pvNWRlZWcxRHp5dlAwcFlaVzhzdm1uU2tQNWlUYmZBUjVHTzFsQkRacElGQjBhVWdTRG9FbzNRUTJjOUpaYXdQMVNKV1lzTXozVklNVERBUkdMR1BrcnpWSVplQTB2enloSFA1X3BKMVBZVjByUzhGUFM5eklseEdlbTBNaV9XT2xMeVpBMkdoZTFRMHZLRlpRRjg2b2NqMjBveXdlTWFyWHhK?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 05:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONU5DNUlSb1llV2VFU1BZS1VpZDV3a1p5R3pvNWRlZWcxRHp5dlAwcFlaVzhzdm1uU2tQNWlUYmZBUjVHTzFsQkRacElGQjBhVWdTRG9FbzNRUTJjOUpaYXdQMVNKV1lzTXozVklNVERBUkdMR1BrcnpWSVplQTB2enloSFA1X3BKMVBZVjByUzhGUFM5eklseEdlbTBNaV9XT2xMeVpBMkdoZTFRMHZLRlpRRjg2b2NqMjBveXdlTWFyWHhK?oc=5",
+          "summary": "Evri agrees deal for US provider - important step in growth of international business Insider Media Ltd"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "94fe6effb134",
       "title": "Three CTOs Discuss Technology’s Impact on Their Companies - Time Magazine",
       "summary": "Three CTOs Discuss Technology’s Impact on Their Companies Time Magazine",
@@ -2896,6 +3040,29 @@
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "e32e3ae27679",
+      "title": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies - Yahoo Finance",
+      "summary": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVFxU2xpVFFrUzY3Z2s0aWpfUXBEU2hQS3FnbGl1Z2d0dlZVVk9Oanp0QjNsS2tEMmxSQ3RlbDVuRzN2akV3MGRneHR3OXdfZHQxSmNaX1lYWW41SmUtQ3ptczctNGpWRC1xVmVPSmw4UHZDUlJGTC1HTTViU3VWVk5nUUdWQWt1RDdnamZ4TnUtSU1RUUVtM3BIaHkyYllU?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 04:57:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVFxU2xpVFFrUzY3Z2s0aWpfUXBEU2hQS3FnbGl1Z2d0dlZVVk9Oanp0QjNsS2tEMmxSQ3RlbDVuRzN2akV3MGRneHR3OXdfZHQxSmNaX1lYWW41SmUtQ3ptczctNGpWRC1xVmVPSmw4UHZDUlJGTC1HTTViU3VWVk5nUUdWQWt1RDdnamZ4TnUtSU1RUUVtM3BIaHkyYllU?oc=5",
+          "summary": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies Yahoo Finance"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUlltSS1sSW9CcFc4cGtqUTJZd1Q2TmtfRGR3UFRSNXhxRzJmYVZVUkpEOEdGbDFuNlBiSmlrVlJTX0ltTGo2cncwRnRpOUZmRUUtOVduQWk3QmZTX216YnJKWUxOTGFTYlZmODlhVHZQSVc3Y0hTTXpkWFFuYkJweG5LSjQ3RmhDTFZSRkNZOGQxck5kV2REdTEzdlNjWDJfaGdHUVFPRmxLMnhxenFkSGg3VFpWbWFhdjhEZnh6UWVudkVsb0RjMmNIQzBTRzBoZlI1NnlNdGN2SnhCak9TNW1XZVpwQ1pNMkNVS2xR?oc=5",
+          "summary": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool"
+        }
+      ],
+      "sourcesCount": 2
     },
     {
       "id": "3dd2a14dcf45",
@@ -2947,6 +3114,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
           "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "26d1663ce004",
+      "title": "High gasoline prices expected to boost US consumer inflation in September - Reuters",
+      "summary": "High gasoline prices expected to boost US consumer inflation in September Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 04:01:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
+          "summary": "High gasoline prices expected to boost US consumer inflation in September Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3055,42 +3240,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ1pCek5oZTRaeHVrYzdUajRZQ2lEczg2OGYwaUhRM1RRRjFBM09yLVdVNDdBRDVXa3pObVhxZWdyX09Yam1PWHBnSzl3UW1Xb0J5azlydzBIYUJyVkhoaFhOMnk0ZXRfOGhDUHVFMTlGOUNESEFoS0M0N21iRjJ3dlpSQ2d1LUVER2lHMGdpaTNQa18wVWh5M2RzbnVIazA4YVRBbTZ0bngteXZuTUtNNHE1VmZwamc5azk3VGFR?oc=5",
           "summary": "CUSD Robotics students dive Into underwater technology with U.S. Navy Engineers Coronado Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "eacbc28dc7a4",
-      "title": "Bill Gates: Technology is a world in need of governance - Vatican News",
-      "summary": "Bill Gates: Technology is a world in need of governance Vatican News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkRkMml5aXd6aFNMc21JeFRFUkNBN1VKSUFmOTRSRE5IMmtBSjlGdGdNb1RSb1BWY3ItOFJkNHkyUUQxVEJXcW5kSElzZTVaQmE5Z09pY0Y4TkhLdlB3RnF6cXVfY0tqLXEwdGR2YTRhbFp2Tzg5alFQU3gzZGNNb3NBOFdVR1dCR3VvSEhlVFYyUG15ckYwbC1jQkc5d2w2UjZYRGhLRlM0cG5M?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 02:45:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkRkMml5aXd6aFNMc21JeFRFUkNBN1VKSUFmOTRSRE5IMmtBSjlGdGdNb1RSb1BWY3ItOFJkNHkyUUQxVEJXcW5kSElzZTVaQmE5Z09pY0Y4TkhLdlB3RnF6cXVfY0tqLXEwdGR2YTRhbFp2Tzg5alFQU3gzZGNNb3NBOFdVR1dCR3VvSEhlVFYyUG15ckYwbC1jQkc5d2w2UjZYRGhLRlM0cG5M?oc=5",
-          "summary": "Bill Gates: Technology is a world in need of governance Vatican News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "81d2751b2851",
-      "title": "China's September exports soar, putting $1 trillion trade surplus in sight - Reuters",
-      "summary": "China's September exports soar, putting $1 trillion trade surplus in sight Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 02:41:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
-          "summary": "China's September exports soar, putting $1 trillion trade surplus in sight Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3217,24 +3366,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
           "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6369451ad30e",
-      "title": "Anthropic seeks rehearing of case over Pentagon's security risk branding - Reuters",
-      "summary": "Anthropic seeks rehearing of case over Pentagon's security risk branding Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlUyMjJEVkZpNDJXTXQtc09tN1BTTFl5T2JoUjBpa29Ud0dCQUk5am9ndUxQbElNdjBSTHJMNExaaDRCa2hkdThOOE9aTGVpNmt3WEJmbU93dEIwSmlSMlNXRVBvME1rcDNKZ3lGYWpJY1VOVFVYeEItdXNDeFlMQzIyTGIzUG9ITmFtVUNBcnZhVVdMX0pfVS1wVEZfU3lqZ0ZrNHJZQ1RESVRfSHN6QjYyNkh2dVJ5elhwRkp3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 00:50:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlUyMjJEVkZpNDJXTXQtc09tN1BTTFl5T2JoUjBpa29Ud0dCQUk5am9ndUxQbElNdjBSTHJMNExaaDRCa2hkdThOOE9aTGVpNmt3WEJmbU93dEIwSmlSMlNXRVBvME1rcDNKZ3lGYWpJY1VOVFVYeEItdXNDeFlMQzIyTGIzUG9ITmFtVUNBcnZhVVdMX0pfVS1wVEZfU3lqZ0ZrNHJZQ1RESVRfSHN6QjYyNkh2dVJ5elhwRkp3?oc=5",
-          "summary": "Anthropic seeks rehearing of case over Pentagon's security risk branding Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3916,24 +4047,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "68a812a5e145",
-      "title": "Flock talk: Replacement technology ‘not off the table’ - WRIC ABC 8News",
-      "summary": "Flock talk: Replacement technology ‘not off the table’ WRIC ABC 8News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2RkdGtVMEg3SWpnaS1ZeDJOQ1Rmb3JfRDFFNXdJQTRGN0VJQ2hPUVJIaXV6ZjBGUVExV0h4c28yeERxaTNLYkxIUFNpOXFrcXV0Z0phVnRsS1Z2VG90WGJDUXE2dndYY2x3ZUQ2b1FxT2wzOC1HcTR5bXNrOTJKSjVR0gGHAUFVX3lxTE51ZkdTYWFJQ2hGZDJMaFNwX25XenNJdmJfUFpSbEF6LTB5WkZMeXdVaUlSNklFS1hDVDRUeFpSdEVVeDdEczkzVU1rdXBlbGd3X0dfTFgteGZoc0RyaVRFTlBjVzJwWlEybk92NVZZSUVGRWU5bkhHYWlsUlo5LXRORjU1OXFLYw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 22:33:51 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2RkdGtVMEg3SWpnaS1ZeDJOQ1Rmb3JfRDFFNXdJQTRGN0VJQ2hPUVJIaXV6ZjBGUVExV0h4c28yeERxaTNLYkxIUFNpOXFrcXV0Z0phVnRsS1Z2VG90WGJDUXE2dndYY2x3ZUQ2b1FxT2wzOC1HcTR5bXNrOTJKSjVR0gGHAUFVX3lxTE51ZkdTYWFJQ2hGZDJMaFNwX25XenNJdmJfUFpSbEF6LTB5WkZMeXdVaUlSNklFS1hDVDRUeFpSdEVVeDdEczkzVU1rdXBlbGd3X0dfTFgteGZoc0RyaVRFTlBjVzJwWlEybk92NVZZSUVGRWU5bkhHYWlsUlo5LXRORjU1OXFLYw?oc=5",
-          "summary": "Flock talk: Replacement technology ‘not off the table’ WRIC ABC 8News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "38ff5920cc91",
       "title": "Swans' Eom the target of alleged racism at Millwall",
       "summary": "Swansea City head coach Vitor Matos says the lengthy stoppage during their 1-0 win away at Millwall was a result of racist abuse aimed at winger Ji-sung Eom.",
@@ -4204,14 +4317,9 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
           "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
-        },
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU3Z6SEpSd0V3NmtRM1pfRk9IUW1JdDNmQlZsMGw3V1lNT2xkcHZtV3BSUm82NHFtSEtIY3ZISXBWRjdGRXI4YjlNWEhxVFQ1YzFVNkRuZWdwX2sySjA5dDJDMWY0ejZxRTlYWE1sQzhpNDdsbjJlSVlhWUtseTDSAX9BVV95cUxPWkZKZWwxLVQ0WWpJY2JfZm15SUtxbWVXUjNrMGxZZ0stSnRYZmY4eExFMEdDczFQX0FyTHNQc1hveTc2OG1VVGdRNDdSMk5Jb0htcUtLSXRLRDA0bzhYbGMxc01RekhLelFHREdxb2h5QlZlWWNXcXNtakNzYlo0?oc=5",
-          "summary": "OpenAI says employee caught planting listening device DW.com"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "212fcfc1b367",
@@ -4340,24 +4448,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "af82918b65ff",
-      "title": "Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?",
-      "summary": "After being left out of Tottenham's Premier League squad last month, Richarlison has been left to feature for the under-21s side",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 13 Oct 2026 20:39:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro?at_medium=RSS&at_campaign=rss",
-          "summary": "After being left out of Tottenham's Premier League squad last month, Richarlison has been left to feature for the under-21s side"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7037b5dd276d",
       "title": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity - Reuters",
       "summary": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity Reuters",
@@ -4443,6 +4533,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/videos/cmx235v7gqwro?at_medium=RSS&at_campaign=rss",
           "summary": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against Sweden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "277b780e994d",
+      "title": "Trump says he does not believe China and Russia help Iran, contradicting US intelligence - Yahoo News UK",
+      "summary": "Trump says he does not believe China and Russia help Iran, contradicting US intelligence Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvYS1MZS1uU0dMMUNoSGRuNUxYc25sS2Ezb24yd0QtRjZDTU9POEtTdjVtVnhabmJRR1Nxd09Edy1UUVZ5MC1xZEFqSXhQNHZUSFNZWmZXZ083VzhIRVpMdndUb3ZubGhOS0wxZHVEY3VDaU10MG1B?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 13 Oct 2026 20:28:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvYS1MZS1uU0dMMUNoSGRuNUxYc25sS2Ezb24yd0QtRjZDTU9POEtTdjVtVnhabmJRR1Nxd09Edy1UUVZ5MC1xZEFqSXhQNHZUSFNZWmZXZ083VzhIRVpMdndUb3ZubGhOS0wxZHVEY3VDaU10MG1B?oc=5",
+          "summary": "Trump says he does not believe China and Russia help Iran, contradicting US intelligence Yahoo News UK"
         }
       ],
       "sourcesCount": 1
@@ -4679,24 +4787,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8cf0a726efcc",
-      "title": "Danimarka ile Almanya'yı bağlayacak tünel inşaatını etkileyen siber saldırı düzenlendi",
-      "summary": "Danimarka'yı Baltık Denizi'nden Almanya ile bağlayacak Fehmarnbelt tünelinde devam eden inşaat çalışmalarının aksamasına neden olan siber saldırı yaşandığı bildirildi.",
-      "link": "https://www.trthaber.com/haber/dunya/danimarka-ile-almanyayi-baglayacak-tunel-insaatini-etkileyen-siber-saldiri-duzenlendi-960026.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 19:33:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/danimarka-ile-almanyayi-baglayacak-tunel-insaatini-etkileyen-siber-saldiri-duzenlendi-960026.html",
-          "summary": "Danimarka'yı Baltık Denizi'nden Almanya ile bağlayacak Fehmarnbelt tünelinde devam eden inşaat çalışmalarının aksamasına neden olan siber saldırı yaşandığı bildirildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "b91386fcbef1",
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
       "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
@@ -4818,24 +4908,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
           "summary": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "da927edfb908",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 18:25:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-          "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe."
         }
       ],
       "sourcesCount": 1
@@ -5111,24 +5183,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "de817fa92252",
-      "title": "Alexander Zverev kämpft sich gegen Bublik ins Viertelfinale",
-      "summary": "Alexander Zverev hat trotz Knöchelproblemen mit einem Sieg gegen Alexander Bublik das Viertelfinale beim ATP-Masters in Shanghai erreicht.",
-      "link": "https://www.sportschau.de/tennis/zverev-erreicht-achtelfinale-in-shanghai,zverev-shanghai-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 16:44:47 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/tennis/zverev-erreicht-achtelfinale-in-shanghai,zverev-shanghai-102.html",
-          "summary": "Alexander Zverev hat trotz Knöchelproblemen mit einem Sieg gegen Alexander Bublik das Viertelfinale beim ATP-Masters in Shanghai erreicht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9a977a6a8a7b",
       "title": "Verkauf an Crédit Agricole: Bald wird die IKB ihre Makel los",
       "summary": "Die IKB, 2007 der erste Bankschadensfall in der Finanzkrise, findet nach achtzehn Jahren einen neuen Eigner. Mit Crédit Agricole dürften Kreditvergabe und das Verhältnis zur Aufsicht leichter werden.",
@@ -5219,24 +5273,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c0ea10d74670",
-      "title": "Enyrgy Appoints Natalia Lantonio to Financial Advisory Council to Support International Expansion - citybiz",
-      "summary": "Enyrgy Appoints Natalia Lantonio to Financial Advisory Council to Support International Expansion citybiz",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEZjU3RtVk1mcUpLR0dZM0FJbjMyc1RVZWxLdUlKdWsyUDV2SGJjYjRLM1FRdjdJLW5CY1NBOElyWnU5dFMxNmdfTFF2MU55WTFldDVWZ1hLQXB4dUJOaTJqQzFLa2UxNXZRNmpUUFpuX3NNWVJzZkZvNTlBTDlScVJvUVFHMFE4b0pLSVJZNDQ5N2Y0Rjk1eTdyN25WRjloakVjSU1tdnJWUW5sNld1MTVraXhZTldlcG1Rdm5hWEl3cFJ4UXJPZjRDa0VwSzNPR0E?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 13 Oct 2026 16:27:16 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEZjU3RtVk1mcUpLR0dZM0FJbjMyc1RVZWxLdUlKdWsyUDV2SGJjYjRLM1FRdjdJLW5CY1NBOElyWnU5dFMxNmdfTFF2MU55WTFldDVWZ1hLQXB4dUJOaTJqQzFLa2UxNXZRNmpUUFpuX3NNWVJzZkZvNTlBTDlScVJvUVFHMFE4b0pLSVJZNDQ5N2Y0Rjk1eTdyN25WRjloakVjSU1tdnJWUW5sNld1MTVraXhZTldlcG1Rdm5hWEl3cFJ4UXJPZjRDa0VwSzNPR0E?oc=5",
-          "summary": "Enyrgy Appoints Natalia Lantonio to Financial Advisory Council to Support International Expansion citybiz"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e8dc3934c16d",
       "title": "IBAN'ını kiraladı, 97 davayla karşı karşıya kaldı",
       "summary": "Sosyal medyada tanıştığı kişilerin e-ticaret vaadine inanarak banka hesaplarını teslim eden Nejat Yazıcı, hesaplarının dolandırıcılıkta kullanılması nedeniyle 97 dava ile karşı karşıya kalırken yaklaşık 30 ay cezaevinde yattı. Mağdurların zararını karşılamak için yaklaşık 4 milyon lira harcayan Yazıcı, vatandaşları uyardı.",
@@ -5322,24 +5358,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
           "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0f77ff96026f",
-      "title": "Sexualstrafrecht: „Nein heißt Nein“ schützt Jugendliche zu wenig",
-      "summary": "Die Missbrauchsbeauftragte hat recht: Der Grundsatz „Nein heißt Nein“ reicht nicht zum Schutz von Jugendlichen vor sexueller Gewalt. Aber eine Strafrechtsreform ist schwierig.",
-      "link": "https://www.faz.net/aktuell/politik/inland/sexualstrafrecht-fuer-jugendliche-reicht-nein-heisst-nein-nicht-201314215.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 15:58:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/sexualstrafrecht-fuer-jugendliche-reicht-nein-heisst-nein-nicht-201314215.html",
-          "summary": "Die Missbrauchsbeauftragte hat recht: Der Grundsatz „Nein heißt Nein“ reicht nicht zum Schutz von Jugendlichen vor sexueller Gewalt. Aber eine Strafrechtsreform ist schwierig."
         }
       ],
       "sourcesCount": 1
@@ -5484,24 +5502,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/istanbulda-forex-dolandiriciliginda-yalan-makinesi-kullanildigi-ortaya-cikti-960002.html",
           "summary": "İstanbul'da uluslararası forex dolandırıcılığına yönelik operasyonda şüphelilerin işe girişlerde ve işten çıkışlarda yalan makinesi kullandığı tespit edildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1584a84cb578",
-      "title": "Fragen zu Infantinos Vergütung",
-      "summary": "US-Steuerunterlagen werfen der britischen Zeitung \"The Times\" zufolge Fragen zur korrekten Offenlegung der Vergütung des FIFA-Präsidenten auf. Am Donnerstag kommt es im FIFA-Rat zum ersten Aufeinandertreffen der europäischen Vertreter mit Infantino seit April.",
-      "link": "https://www.sportschau.de/fussball/fragen-zu-infantinos-verguetung,fifa-infantino-gehalt-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 14:54:28 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/fragen-zu-infantinos-verguetung,fifa-infantino-gehalt-100.html",
-          "summary": "US-Steuerunterlagen werfen der britischen Zeitung \"The Times\" zufolge Fragen zur korrekten Offenlegung der Vergütung des FIFA-Präsidenten auf. Am Donnerstag kommt es im FIFA-Rat zum ersten Aufeinandertreffen der europäischen Vertreter mit Infantino seit April."
         }
       ],
       "sourcesCount": 1
