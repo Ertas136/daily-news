@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:57:40.161134+00:00",
+  "updated": "2026-10-14T20:21:17.441035+00:00",
   "articles": [
     {
       "id": "a728fedb6f47",
@@ -146,6 +146,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5eaf37cc384e",
+      "title": "4 ilde eğitime ara verildi",
+      "summary": "Etkisini artırması beklenen sağanak nedeniyle 4 ilde yarın eğitime ara verildi.",
+      "link": "https://www.trthaber.com/haber/turkiye/4-ilde-egitime-ara-verildi-960128.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 22:55:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/4-ilde-egitime-ara-verildi-960128.html",
+          "summary": "Etkisini artırması beklenen sağanak nedeniyle 4 ilde yarın eğitime ara verildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9f3887b8e812",
       "title": "BM'den ateşkese rağmen İsrail'in Gazze'de ihlallerinin sürdüğü uyarısı",
       "summary": "Birleşmiş Milletler (BM), Gazze'de ateşkese rağmen İsrail'in saldırılarının devam ettiğini belirterek, insani yardımlar konusunda da engellemelerin sürdüğü uyarısında bulundu.",
@@ -159,6 +177,42 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/bmden-ateskese-ragmen-israilin-gazzede-ihlallerinin-surdugu-uyarisi-960127.html",
           "summary": "Birleşmiş Milletler (BM), Gazze'de ateşkese rağmen İsrail'in saldırılarının devam ettiğini belirterek, insani yardımlar konusunda da engellemelerin sürdüğü uyarısında bulundu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 22:19:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b67ec48f525c",
+      "title": "Roboter belästigt Minderjährige - wer ist verantwortlich?",
+      "summary": "Der Roboter eines Streamers soll eine 16-Jährige sexuell belästigt haben, der Besitzer filmte und teilte den Vorfall offenbar. Die Polizei ermittelt.",
+      "link": "https://www.zdfheute.de/panorama/kriminalitaet/roboter-belaestigt-uebergriff-streamer-twitch-koeln-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 22:12:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/kriminalitaet/roboter-belaestigt-uebergriff-streamer-twitch-koeln-100.html",
+          "summary": "Der Roboter eines Streamers soll eine 16-Jährige sexuell belästigt haben, der Besitzer filmte und teilte den Vorfall offenbar. Die Polizei ermittelt."
         }
       ],
       "sourcesCount": 1
@@ -331,19 +385,19 @@
       "sourcesCount": 2
     },
     {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 20:19:00 +0200",
+      "id": "7fcce9606a9c",
+      "title": "Christie's in London: Kandinsky-Werk „Das bunte Leben“ für 27 Millionen Pfund versteigert",
+      "summary": "Das Gemälde hing jahrzehntelang im Münchner Lenbachhaus, ehe es als NS-Raubkunst eingestuft wurde. Nun kam es unter den Hammer.",
+      "link": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/kandinsky-gemaelde-das-bunte-leben-fuer-27-millionen-pfund-versteigert-201323066.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 14 Oct 2026 20:12:15 GMT",
       "coverage": [
         {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/kandinsky-gemaelde-das-bunte-leben-fuer-27-millionen-pfund-versteigert-201323066.html",
+          "summary": "Das Gemälde hing jahrzehntelang im Münchner Lenbachhaus, ehe es als NS-Raubkunst eingestuft wurde. Nun kam es unter den Hammer."
         }
       ],
       "sourcesCount": 1
@@ -380,6 +434,78 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ab-uzay-teknolojileriyle-afetlere-karsi-uluslararasi-isbirligini-guclendirmeyi-hedefliyor-960122.html",
           "summary": "Avrupa Birliği (AB), uzay teknolojilerinden yararlanarak doğal afetlere karşı hazırlık, erken uyarı ve müdahale kapasitesini güçlendirmek amacıyla uluslararası işbirliğini artırmayı hedeflediğini duyurdu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e8d43b6e7a1c",
+      "title": "Tennis: Saudi-Arabien verlegt Millionen-Turnier wegen Huthi-Angriffen",
+      "summary": "Mit viel Geld lockt Saudi-Arabien die weltbesten Tennisspieler zum Six Kings Slam. Doch die immer heftiger werdenden Attacken der Huthi-Miliz wirken sich auch auf das Topturnier aus.",
+      "link": "https://www.faz.net/aktuell/sport/mehr-sport/six-kings-slam-saudi-arabien-verschiebt-turnier-wegen-huthi-angriffen-201322364.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 14 Oct 2026 20:08:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/mehr-sport/six-kings-slam-saudi-arabien-verschiebt-turnier-wegen-huthi-angriffen-201322364.html",
+          "summary": "Mit viel Geld lockt Saudi-Arabien die weltbesten Tennisspieler zum Six Kings Slam. Doch die immer heftiger werdenden Attacken der Huthi-Miliz wirken sich auch auf das Topturnier aus."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "363f373e02e2",
+      "title": "Martinez's future at Man Utd in doubt - Thursday's gossip",
+      "summary": "Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 14 Oct 2026 20:01:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&at_campaign=rss",
+          "summary": "Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "77909d2ec079",
+      "title": "What can AI do for me? The Wilson Science & Technology Forum has some ideas - winchesternews.org",
+      "summary": "What can AI do for me? The Wilson Science & Technology Forum has some ideas winchesternews.org",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb21UTHUwVkFBcVN2bXJMalY5OTdXLV9fMVc1TGdZYzdGZngwYjBPYlJmbW83dHRhY21ob1BXdHdZaVNraVhiVlRtYXZmSHNJY213NVAxVUp5NjI5R2x2LUtxRFZhQnZCU2JNX1JHY3F2VVdHT2R1SlRwZ21xam1hTGFlRW91N21JbUJMLVVwWlVScVBlNFVyYjhndGM0THdOaGRsMXR2M1pwSlpuaGc?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 20:00:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb21UTHUwVkFBcVN2bXJMalY5OTdXLV9fMVc1TGdZYzdGZngwYjBPYlJmbW83dHRhY21ob1BXdHdZaVNraVhiVlRtYXZmSHNJY213NVAxVUp5NjI5R2x2LUtxRFZhQnZCU2JNX1JHY3F2VVdHT2R1SlRwZ21xam1hTGFlRW91N21JbUJMLVVwWlVScVBlNFVyYjhndGM0THdOaGRsMXR2M1pwSlpuaGc?oc=5",
+          "summary": "What can AI do for me? The Wilson Science & Technology Forum has some ideas winchesternews.org"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3a69babd1764",
+      "title": "CPD announces meeting series on technology and policing - cbs19news.com",
+      "summary": "CPD announces meeting series on technology and policing cbs19news.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDJTQlg1Y1F0THRnVUFuUnRwR2NUVGcxaVJ5ckt1dGw1YlFMeGRxS3RDaXEtbm5HaHBHZVk1THZEek4xZWladU4ySG1JeGJTN2dfaWlidmZVd1FjNEk4Z1dmRV9TY0JsU0tlX0IzS1NZRWNpQUhXU0dvaW9tM2RQcXNETzhIaG1fc1pabEJNNHg4b3B6TFNRWmRjZVdNSkl5d3M1Z1l5WTlBNjlPdzN4NEhjVl9xbmNBU3JXQUhHeFRFYUZTM1gxd01UMFdXRlhCZEE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 19:40:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDJTQlg1Y1F0THRnVUFuUnRwR2NUVGcxaVJ5ckt1dGw1YlFMeGRxS3RDaXEtbm5HaHBHZVk1THZEek4xZWladU4ySG1JeGJTN2dfaWlidmZVd1FjNEk4Z1dmRV9TY0JsU0tlX0IzS1NZRWNpQUhXU0dvaW9tM2RQcXNETzhIaG1fc1pabEJNNHg4b3B6TFNRWmRjZVdNSkl5d3M1Z1l5WTlBNjlPdzN4NEhjVl9xbmNBU3JXQUhHeFRFYUZTM1gxd01UMFdXRlhCZEE?oc=5",
+          "summary": "CPD announces meeting series on technology and policing cbs19news.com"
         }
       ],
       "sourcesCount": 1
@@ -614,6 +740,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-gruene-und-spd-setzen-sondierungsgespraeche-in-berlin-fort-faz-110093143.html",
           "summary": "Nächste Runde für Donnerstag angesetzt +++ Merkel kritisiert AfD: „Mehr kämpfen für die Demokratie“ +++ Linnemann: Zusatzbeitrag für Krankenkassen kann 2027 stabil bleiben +++ alle Entwicklungen im Liveblog"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ffa672c73020",
+      "title": "Banks, buildings burn as Albania's capital Tirana erupts into student violence - Reuters",
+      "summary": "Banks, buildings burn as Albania's capital Tirana erupts into student violence Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTBNcXJGc2dDLUdFX3IwNGhPTi1MaXZkWnpHUll5c21FS2hCM1NYeVMtb2RkaUNkWEhiRXpqaWdWUUtuUjBfYzZrSVJfZHUzaW5SYTJXNi1kdVY0WHYxM054ZWZ0ck5XMFpNTGhGcHdUOFJzQXNsUzhGWjlNZENLWS0tSVJVbVJmNWx1OGE0VUZxS01LdE9Qd2U1Zm9aMlZkb3ZPTGppOWVlLWxt?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 18:45:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTBNcXJGc2dDLUdFX3IwNGhPTi1MaXZkWnpHUll5c21FS2hCM1NYeVMtb2RkaUNkWEhiRXpqaWdWUUtuUjBfYzZrSVJfZHUzaW5SYTJXNi1kdVY0WHYxM054ZWZ0ck5XMFpNTGhGcHdUOFJzQXNsUzhGWjlNZENLWS0tSVJVbVJmNWx1OGE0VUZxS01LdE9Qd2U1Zm9aMlZkb3ZPTGppOWVlLWxt?oc=5",
+          "summary": "Banks, buildings burn as Albania's capital Tirana erupts into student violence Reuters"
         }
       ],
       "sourcesCount": 1
@@ -948,24 +1092,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "95a20fc882c5",
-      "title": "Gepa im Gespräch: „Die Rabatte von Discountern schaden dem fairen Handel“",
-      "summary": "In Konkurrenz zu den Eigenmarken mit Fairtrade-Siegel von Lidl und Aldi sieht sich Gepa als besonders fair und nachhaltig an. Doch genügt die Marke ihren eigenen Ansprüchen?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gepa-wie-fair-ist-die-faire-marke-201226746.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 17:48:27 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gepa-wie-fair-ist-die-faire-marke-201226746.html",
-          "summary": "In Konkurrenz zu den Eigenmarken mit Fairtrade-Siegel von Lidl und Aldi sieht sich Gepa als besonders fair und nachhaltig an. Doch genügt die Marke ihren eigenen Ansprüchen?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1d0f4ddccfec",
       "title": "Geldanlage: „Die Ausgangslage für Anleiheanleger hat sich deutlich verbessert“",
       "summary": "Steigende Zinsen machen Anleihen wieder attraktiv, die Renditen sind so hoch wie lange nicht. Doch laut Finanzexperten lohnt sich nicht jede Anleihe.",
@@ -997,6 +1123,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
           "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "34d358590a04",
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times",
+      "summary": "22 People Got Together For a Dinner Party. So Did Their A.I.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 17:35:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+          "summary": "22 People Got Together For a Dinner Party. So Did Their A.I."
         }
       ],
       "sourcesCount": 1
@@ -1344,24 +1488,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "27888eae68bf",
-      "title": "Greeneye Technology Plants Flag in North America with New HQ - No-Till Farmer",
-      "summary": "Greeneye Technology Plants Flag in North America with New HQ No-Till Farmer",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWgyM3lzX1MwalM5QTY4NEx6bXRpV1BBUTZfVEEzTE5vbmhXbzQ0T2FOUTFNemJYMkJQMG02dlp2YWRoZzkwZGRYZFFKbDlRZG1jOHpIQUEyeTBKTzVQX1MyVl9JdV9JVTRsUDAyTXEzVjdDRS1DT25sNlpsd29tU2x6Qjh5bllWMkdGTXNETmFrYjhybEVVUWlZb0Qzb2FmQUpPQmQ2VVU?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 16:33:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWgyM3lzX1MwalM5QTY4NEx6bXRpV1BBUTZfVEEzTE5vbmhXbzQ0T2FOUTFNemJYMkJQMG02dlp2YWRoZzkwZGRYZFFKbDlRZG1jOHpIQUEyeTBKTzVQX1MyVl9JdV9JVTRsUDAyTXEzVjdDRS1DT25sNlpsd29tU2x6Qjh5bllWMkdGTXNETmFrYjhybEVVUWlZb0Qzb2FmQUpPQmQ2VVU?oc=5",
-          "summary": "Greeneye Technology Plants Flag in North America with New HQ No-Till Farmer"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "6dd74a904613",
       "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
       "summary": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
@@ -1411,42 +1537,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/tennis/articles/c59vzgnj9p2wo?at_medium=RSS&at_campaign=rss",
           "summary": "The Six Kings Slam exhibition event - featuring Carlos Alcaraz and Novak Djokovic - is postponed following a series of deadly attacks on Saudi Arabia."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d265c1e08c05",
-      "title": "Morgan Stanley beats quarterly profit estimates on equity trading strength - Reuters",
-      "summary": "Morgan Stanley beats quarterly profit estimates on equity trading strength Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDJiYkZwUGIydDloUDViczNZZ3hIV0RNUmFYWlBTdGxxV0UxRDJKaXBVWWx6MFQxRGN2bHYxX25XeVNNWHNFMFpoaTQ4ekpScWhObmFwak9hdF9uM19pRy1iNlB1YTZUelltc3NPeGdnN0lOVE5ZUWtHNDFNLVFkV0lwSFNPZ1FVd09pUi02UkUxTXBlYllCT1JESTVvUTJGNXdWVkVuUQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 16:23:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDJiYkZwUGIydDloUDViczNZZ3hIV0RNUmFYWlBTdGxxV0UxRDJKaXBVWWx6MFQxRGN2bHYxX25XeVNNWHNFMFpoaTQ4ekpScWhObmFwak9hdF9uM19pRy1iNlB1YTZUelltc3NPeGdnN0lOVE5ZUWtHNDFNLVFkV0lwSFNPZ1FVd09pUi02UkUxTXBlYllCT1JESTVvUTJGNXdWVkVuUQ?oc=5",
-          "summary": "Morgan Stanley beats quarterly profit estimates on equity trading strength Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ffa672c73020",
-      "title": "Banks, buildings burn as Albania's capital Tirana erupts into student violence - Reuters",
-      "summary": "Banks, buildings burn as Albania's capital Tirana erupts into student violence Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTBNcXJGc2dDLUdFX3IwNGhPTi1MaXZkWnpHUll5c21FS2hCM1NYeVMtb2RkaUNkWEhiRXpqaWdWUUtuUjBfYzZrSVJfZHUzaW5SYTJXNi1kdVY0WHYxM054ZWZ0ck5XMFpNTGhGcHdUOFJzQXNsUzhGWjlNZENLWS0tSVJVbVJmNWx1OGE0VUZxS01LdE9Qd2U1Zm9aMlZkb3ZPTGppOWVlLWxt?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 16:17:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTBNcXJGc2dDLUdFX3IwNGhPTi1MaXZkWnpHUll5c21FS2hCM1NYeVMtb2RkaUNkWEhiRXpqaWdWUUtuUjBfYzZrSVJfZHUzaW5SYTJXNi1kdVY0WHYxM054ZWZ0ck5XMFpNTGhGcHdUOFJzQXNsUzhGWjlNZENLWS0tSVJVbVJmNWx1OGE0VUZxS01LdE9Qd2U1Zm9aMlZkb3ZPTGppOWVlLWxt?oc=5",
-          "summary": "Banks, buildings burn as Albania's capital Tirana erupts into student violence Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1884,24 +1974,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7b19e6a0d479",
-      "title": "Frankreich: Mont Blanc ist laut einer Messung um knapp zwei Meter gewachsen",
-      "summary": "Der höchste Berg Frankreichs hat innerhalb von drei Jahren rund zwei Meter zugelegt. Die Jahre zuvor hatte er noch an Höhe verloren.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/mont-blanc-frankreichs-hoechster-berg-ist-fast-zwei-meter-gewachsen-201318332.html",
-      "sourceName": "FAZ",
-      "region": "local",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 15:22:10 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/mont-blanc-frankreichs-hoechster-berg-ist-fast-zwei-meter-gewachsen-201318332.html",
-          "summary": "Der höchste Berg Frankreichs hat innerhalb von drei Jahren rund zwei Meter zugelegt. Die Jahre zuvor hatte er noch an Höhe verloren."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "40c21f8cabe2",
       "title": "Sachsen-Anhalt: AfD und BSW setzen Antrag zur Ukraine durch",
       "summary": "Im Landtag von Sachsen-Anhalt haben AfD und BSW einen gemeinsamen Antrag durchgesetzt - dieser fordert das Ende aller Ukraine-Hilfen und Russland-Sanktionen. Es gab heftige Kritik.",
@@ -2005,24 +2077,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/cycling/articles/ck5ynexjgdyno?at_medium=RSS&at_campaign=rss",
           "summary": "Great Britain's Joe Truman admits Matt Richardson's withdrawal is \"not ideal\" as they exit the men's team sprint."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d85db7ca127c",
-      "title": "Lufthansa wins race for €1.2 billion stake in Portuguese carrier TAP - Reuters",
-      "summary": "Lufthansa wins race for €1.2 billion stake in Portuguese carrier TAP Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWUtaE11VFBUVzl6LTZPZENsMk5sSkM3SG1zTkt1M2JXN1JQXzlRczlDQ05PN1JMYVhCMWZXcFBqUHJrUTQySnRldVh4MG05dkxBNE5ROHE5MHBKUHZ3VVkwQVhycWoxdGU0bjk1TkVPTHlIQm4zdmRFTGc4M2k2amF4cmRrWEtQM2F2OHRrcUNEMVVPLTNWQQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 15:01:44 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWUtaE11VFBUVzl6LTZPZENsMk5sSkM3SG1zTkt1M2JXN1JQXzlRczlDQ05PN1JMYVhCMWZXcFBqUHJrUTQySnRldVh4MG05dkxBNE5ROHE5MHBKUHZ3VVkwQVhycWoxdGU0bjk1TkVPTHlIQm4zdmRFTGc4M2k2amF4cmRrWEtQM2F2OHRrcUNEMVVPLTNWQQ?oc=5",
-          "summary": "Lufthansa wins race for €1.2 billion stake in Portuguese carrier TAP Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2455,24 +2509,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
           "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "cb66b94f8b23",
-      "title": "How AI apps are offering free substitutes for Big Tech software - Al Jazeera",
-      "summary": "How AI apps are offering free substitutes for Big Tech software Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMktDT3JGeEJENkZsa0hlU1pCS1kxRXUtanB3Nm0zZlpLSXB6TjVpMnp2a0kwckh2UXhrd0FXa2QwSEVBWWtIWHpDRFZVZWNkOGFMaXRsaUlxZ2xObmZabm13MWt5eUU2RURpN0QyR2lVcnBUVWdMclNmMjJLbGdzMFRIMFNTY2lKWVI1cWFjQk1yUkYwVkZKTzBxbUNLWkhRQXA2SE5fTl_SAa4BQVVfeXFMTjlRdFEwZ3BwNXFtWnVqa2IxTmV6bzF1bEozWS1oV1ZuS2FjbUpRNlF2MHZUTWxKYW12cndqd2Y5dUJzX1lDNk1WMHpDVmt2MDRRVWh0Wl9SdHZKT3dCZXVmNWZfTGthT3V1OEIyc0kwTmlPTWhPUFYtalJMR1ZFejZwR0NWWnJqbVVKQ0M4Q0xfWVB3STFSSnF6bGJNYTdUZ0tZbHpxLU5WcERpWUZ3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 13:41:37 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMktDT3JGeEJENkZsa0hlU1pCS1kxRXUtanB3Nm0zZlpLSXB6TjVpMnp2a0kwckh2UXhrd0FXa2QwSEVBWWtIWHpDRFZVZWNkOGFMaXRsaUlxZ2xObmZabm13MWt5eUU2RURpN0QyR2lVcnBUVWdMclNmMjJLbGdzMFRIMFNTY2lKWVI1cWFjQk1yUkYwVkZKTzBxbUNLWkhRQXA2SE5fTl_SAa4BQVVfeXFMTjlRdFEwZ3BwNXFtWnVqa2IxTmV6bzF1bEozWS1oV1ZuS2FjbUpRNlF2MHZUTWxKYW12cndqd2Y5dUJzX1lDNk1WMHpDVmt2MDRRVWh0Wl9SdHZKT3dCZXVmNWZfTGthT3V1OEIyc0kwTmlPTWhPUFYtalJMR1ZFejZwR0NWWnJqbVVKQ0M4Q0xfWVB3STFSSnF6bGJNYTdUZ0tZbHpxLU5WcERpWUZ3?oc=5",
-          "summary": "How AI apps are offering free substitutes for Big Tech software Al Jazeera"
         }
       ],
       "sourcesCount": 1
@@ -3473,24 +3509,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "68e53b98dd91",
-      "title": "How technology is changing the detection of breast cancer - CBS News",
-      "summary": "How technology is changing the detection of breast cancer CBS News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 11:00:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
-          "summary": "How technology is changing the detection of breast cancer CBS News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "49239d6506be",
       "title": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day - PR Newswire",
       "summary": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day PR Newswire",
@@ -3504,6 +3522,24 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
           "summary": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day PR Newswire"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "68e53b98dd91",
+      "title": "How technology is changing the detection of breast cancer - CBS News",
+      "summary": "How technology is changing the detection of breast cancer CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 11:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
+          "summary": "How technology is changing the detection of breast cancer CBS News"
         }
       ],
       "sourcesCount": 1
@@ -3676,24 +3712,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
           "summary": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b688e0a652e8",
-      "title": "Morning Bid: Trillion dollar trade By Reuters - Investing.com",
-      "summary": "Morning Bid: Trillion dollar trade By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQzBPb3doV1JOS1o5clRNUk1RNTlnbXJlcnlGdUMyZ0NxZ1pYYTNqMjNveU5Rak1Md2NidGlEdnIyU1lwN3FENmNOTHFydnVHd0xTMlY0QTdQczdLdWljX2RIRUFzZVhSR25ZeUdtbVprVmdQSkpWUlg5WUFYRHJQNGp0NEV6T1NZYi1kMmJ4ZVZrOHc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 10:41:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQzBPb3doV1JOS1o5clRNUk1RNTlnbXJlcnlGdUMyZ0NxZ1pYYTNqMjNveU5Rak1Md2NidGlEdnIyU1lwN3FENmNOTHFydnVHd0xTMlY0QTdQczdLdWljX2RIRUFzZVhSR25ZeUdtbVprVmdQSkpWUlg5WUFYRHJQNGp0NEV6T1NZYi1kMmJ4ZVZrOHc?oc=5",
-          "summary": "Morning Bid: Trillion dollar trade By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -3992,24 +4010,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b03b4a839b25",
-      "title": "Is Technology Making Our Lives Less Gratifying? (with Ian Bogost) - KQED",
-      "summary": "Is Technology Making Our Lives Less Gratifying? (with Ian Bogost) KQED",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHdURkpTOHJPNHNLOFpQeGFJb0dfT0EtbXdrZUVhWVh4a2hiVjFFaWJYYXFWdFlUbmc5N29wUHdQUm5MWUtUUjFxbFBIYldTY1B5MFp1aF9hZF9jQXFhLV81ejhZNWxsc2xuM1QtZFpOQUd4b3dKbXdzQTV3Z3V1YTJPRzdTektYekdhejFIczhJbk9kVEJFbHBaMmpYUQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHdURkpTOHJPNHNLOFpQeGFJb0dfT0EtbXdrZUVhWVh4a2hiVjFFaWJYYXFWdFlUbmc5N29wUHdQUm5MWUtUUjFxbFBIYldTY1B5MFp1aF9hZF9jQXFhLV81ejhZNWxsc2xuM1QtZFpOQUd4b3dKbXdzQTV3Z3V1YTJPRzdTektYekdhejFIczhJbk9kVEJFbHBaMmpYUQ?oc=5",
-          "summary": "Is Technology Making Our Lives Less Gratifying? (with Ian Bogost) KQED"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2b74b46cf7cb",
       "title": "ABD Başkanı Trump: İran'a ne yapacağımızı bekleyin ve görün",
       "summary": "ABD Başkanı Donald Trump, İran'ın nükleer silaha sahip olmayacağını söyleyerek \"İran'a ne yapacağımızı bekleyin ve görün.\" dedi.",
@@ -4244,24 +4244,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f5c88ec67613",
-      "title": "Russische Raketen treffen Wohnhaus und Kraftwerk in Kiew",
-      "summary": "Bei russischen Raketenangriffen auf Kiew sind ein Wohnhaus und ein Heizkraftwerk getroffen worden. Präsident Selenskyj beklagte die fehlenden Warnungen durch Verbündete.",
-      "link": "https://www.zdfheute.de/politik/ausland/kiew-raketenangriffe-abwehr-ukraine-krieg-russland-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 08:44:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/kiew-raketenangriffe-abwehr-ukraine-krieg-russland-100.html",
-          "summary": "Bei russischen Raketenangriffen auf Kiew sind ein Wohnhaus und ein Heizkraftwerk getroffen worden. Präsident Selenskyj beklagte die fehlenden Warnungen durch Verbündete."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8135c8463a9f",
       "title": "NASAnın Perseverance keşif aracı, Marsta Dünya dışı mesafe rekoru kırdı",
       "summary": "ABD Ulusal Havacılık ve Uzay Dairesi’nin (NASA) robotik Perseverance keşif aracı, 2021’de Mars’a vardığından beri 45.22 kilometre yol giderek \"Dünya dışındaki herhangi bir gezegenin yüzeyinde şimdiye kadar herhangi bir aracın ulaştığı en uzun mesafeyi\" kat etti.",
@@ -4360,13 +4342,13 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQlVMcnZQaVFZcGdvMDRLT01fc1Vpa3N0WXVKcG9UdWRoLUozNU9adHg3U094dXA3cjRRWDl5bEpMWmJOeWVacWhCOFl4WVItVkt1RkJDVHMzM3hOdzdDRWVTWW1idnhsbDNPeTBvb3lPV08wMG96QkxnbTloYy1jTkRvSkg5NzJvV1g4aVZmWk12MUhRV05xRnAzX3c3QkhLYU5JYUZCQTcyRDlTbWRLelBhbVA5LVM2RGRoZ2c5cHRxRkxFOXZ5d282ZkJRMzRFVTY3andrUnMtcm9PWWhHQkt1Xy1ja3VWaW9rX2RHaEw5RmM?oc=5",
-          "summary": "8,658 International Business Machines Corporation $IBM Shares Acquired by First Citizens Bank & Trust Co. MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlhjeGhtckdoc24wcmxJZDBHbzJ5TEQwU2RSRXlEZDBpYi1aZXBEMmNQRllCWUprbGZQaVJuVkFTWjN6cjRza3NyMTRBRzJTWjRJVTdlYWFINWhkTWU4SnZMeGFlQmNiRERvOUdMWlRpNC1KZlA0MWJmYmZZU3NLNkhkMW0tcWVHTUphSzNWZHlkZFJmS24tUXlaNlVoRl80aUVkc0hHZy1qNmo2SVRHNnJPV0NRZm1SeUhOUUNMT0RmNmJTaEh2ZGhvbF80MTZoY2cxN2V6TQ?oc=5",
+          "summary": "International Business Machines (IBM) Expected to Release Earnings on Wednesday MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlhjeGhtckdoc24wcmxJZDBHbzJ5TEQwU2RSRXlEZDBpYi1aZXBEMmNQRllCWUprbGZQaVJuVkFTWjN6cjRza3NyMTRBRzJTWjRJVTdlYWFINWhkTWU4SnZMeGFlQmNiRERvOUdMWlRpNC1KZlA0MWJmYmZZU3NLNkhkMW0tcWVHTUphSzNWZHlkZFJmS24tUXlaNlVoRl80aUVkc0hHZy1qNmo2SVRHNnJPV0NRZm1SeUhOUUNMT0RmNmJTaEh2ZGhvbF80MTZoY2cxN2V6TQ?oc=5",
-          "summary": "International Business Machines (IBM) Expected to Release Earnings on Wednesday MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQlVMcnZQaVFZcGdvMDRLT01fc1Vpa3N0WXVKcG9UdWRoLUozNU9adHg3U094dXA3cjRRWDl5bEpMWmJOeWVacWhCOFl4WVItVkt1RkJDVHMzM3hOdzdDRWVTWW1idnhsbDNPeTBvb3lPV08wMG96QkxnbTloYy1jTkRvSkg5NzJvV1g4aVZmWk12MUhRV05xRnAzX3c3QkhLYU5JYUZCQTcyRDlTbWRLelBhbVA5LVM2RGRoZ2c5cHRxRkxFOXZ5d282ZkJRMzRFVTY3andrUnMtcm9PWWhHQkt1Xy1ja3VWaW9rX2RHaEw5RmM?oc=5",
+          "summary": "8,658 International Business Machines Corporation $IBM Shares Acquired by First Citizens Bank & Trust Co. MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
@@ -4721,24 +4703,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f061422f4f3a",
-      "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
-      "summary": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 14 Oct 2026 05:41:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&at_campaign=rss",
-          "summary": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3d214fd0b59a",
       "title": "Striker swaps Sunday league for Champions League",
       "summary": "A former student from Rotherham has climbed the football ladder from the bottom up.",
@@ -4866,8 +4830,8 @@
     },
     {
       "id": "a586d67672ff",
-      "title": "Trump says massive oil, gas exploration set to begin in 'our Greenland' - Reuters",
-      "summary": "Trump says massive oil, gas exploration set to begin in 'our Greenland' Reuters",
+      "title": "Denmark says US resource exploration in Greenland must respect local laws - Reuters",
+      "summary": "Denmark says US resource exploration in Greenland must respect local laws Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXAwYWFZMS12UWs5MXF5SVpmYk9hR1Bka01FNFNTdVE3bUFYbi1qdXZjbVNDaDVfMWQ0ZGhZNERJYUhYVHFLR0ZiYl9Eby1sUG84VTNqVmViTXJmaWVBbEVQeVZHZzRfVGxNd0xBOWJ6c3RzVW1FY3NpUEtLaHdBTzNDWmhUS3Utb3B4ajFjVUxUcGFHdmotT0NwMU5kS2lmSVNYTGd5a0NWdw?oc=5",
       "sourceName": "Google News – Reuters",
       "region": "international",
@@ -4877,7 +4841,7 @@
         {
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXAwYWFZMS12UWs5MXF5SVpmYk9hR1Bka01FNFNTdVE3bUFYbi1qdXZjbVNDaDVfMWQ0ZGhZNERJYUhYVHFLR0ZiYl9Eby1sUG84VTNqVmViTXJmaWVBbEVQeVZHZzRfVGxNd0xBOWJ6c3RzVW1FY3NpUEtLaHdBTzNDWmhUS3Utb3B4ajFjVUxUcGFHdmotT0NwMU5kS2lmSVNYTGd5a0NWdw?oc=5",
-          "summary": "Trump says massive oil, gas exploration set to begin in 'our Greenland' Reuters"
+          "summary": "Denmark says US resource exploration in Greenland must respect local laws Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5004,6 +4968,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/aydin-merkezli-uyusturucu-operasyonunda-6-kisi-tutuklandi-960047.html",
           "summary": "Aydın ve İzmir'de düzenlenen uyuşturucu operasyonunda gözaltına alınan 15 şüpheliden 6'sı tutuklandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8f94303e6cf8",
+      "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
+      "summary": "Iran shifting tactics to step up attacks on shipping before US vote, officials say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 00:06:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5",
+          "summary": "Iran shifting tactics to step up attacks on shipping before US vote, officials say Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5477,6 +5459,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
           "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1dc15906aba5",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 13 Oct 2026 22:00:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+          "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly."
         }
       ],
       "sourcesCount": 1
