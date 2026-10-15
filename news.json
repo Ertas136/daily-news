@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T09:04:11.744098+00:00",
+  "updated": "2026-10-15T09:57:58.248815+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -1267,6 +1267,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "09550c7623c9",
+      "title": "Linnemann: Zusatzbeitrag bleibt stabil",
+      "summary": "Der Zusatzbeitragssatz für die gesetzliche Krankenversicherung bleibt 2027 stabil. Das teilte Gesundheitsminister Linnemann auf Grundlage der GKV-Finanzprognose mit.",
+      "link": "https://www.zdfheute.de/politik/deutschland/zusatzbeitrag-krankenkasse-stabil-linnemann-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 20:10:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/zusatzbeitrag-krankenkasse-stabil-linnemann-100.html",
+          "summary": "Der Zusatzbeitragssatz für die gesetzliche Krankenversicherung bleibt 2027 stabil. Das teilte Gesundheitsminister Linnemann auf Grundlage der GKV-Finanzprognose mit."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9b52df581166",
       "title": "AB, uzay teknolojileriyle afetlere karşı uluslararası işbirliğini güçlendirmeyi hedefliyor",
       "summary": "Avrupa Birliği (AB), uzay teknolojilerinden yararlanarak doğal afetlere karşı hazırlık, erken uyarı ve müdahale kapasitesini güçlendirmek amacıyla uluslararası işbirliğini artırmayı hedeflediğini duyurdu.",
@@ -1280,24 +1298,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/ab-uzay-teknolojileriyle-afetlere-karsi-uluslararasi-isbirligini-guclendirmeyi-hedefliyor-960122.html",
           "summary": "Avrupa Birliği (AB), uzay teknolojilerinden yararlanarak doğal afetlere karşı hazırlık, erken uyarı ve müdahale kapasitesini güçlendirmek amacıyla uluslararası işbirliğini artırmayı hedeflediğini duyurdu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1938d0f50d7c",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 19:52:04 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-          "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country."
         }
       ],
       "sourcesCount": 1
@@ -1337,6 +1337,29 @@
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "33c859e175c0",
+      "title": "Liveblog Ukrainekrieg: Selenskyj will Angriffe auf russische Raffinerien wieder aufnehmen",
+      "summary": "Ukrainischer Präsident kritisiert Trump scharf wie nie +++ Eskalation im Starlink-Streit: Musk fordert Selenskyj zum Rücktritt auf +++ Acht Menschen nach Brand im Schwarzen Meer vermisst +++ alle Neuigkeiten im Liveblog",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-will-angriffe-auf-russische-raffinerien-wieder-aufnehmen-faz-110683325.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 19:04:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-will-angriffe-auf-russische-raffinerien-wieder-aufnehmen-faz-110683325.html",
+          "summary": "Ukrainischer Präsident kritisiert Trump scharf wie nie +++ Eskalation im Starlink-Streit: Musk fordert Selenskyj zum Rücktritt auf +++ Acht Menschen nach Brand im Schwarzen Meer vermisst +++ alle Neuigkeiten im Liveblog"
+        },
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html",
+          "summary": "Nach Trumps Drohungen gegen den ukrainischen Präsidenten hat Selenskyj nun reagiert - und angekündigt, die Angriffe auf russische Ölraffinerien fortzusetzen. Ein Ende sei nur möglich, wenn auch Russland seine Attacken einstelle."
+        }
+      ],
+      "sourcesCount": 2
     },
     {
       "id": "ba073e387c50",
@@ -1429,6 +1452,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "af151cac4d1c",
+      "title": "Kazakhstan-linked hackers targeted Russian refinery, spied on city government, researchers say - Reuters",
+      "summary": "Kazakhstan-linked hackers targeted Russian refinery, spied on city government, researchers say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUNRWFJPaDl3UTE2R0JYd3lfd0dIUGRsVFBFcHpnNlFxdnZjUnZwMnRUYUFZbTlHcDA1NWRPeUU2VEpBTDFaNko0TURDNXdwQ21fOXBpSm9NaFBmVFhKZDVMd2dxOFJTMjRjdExiU1NCazB0RTZnZHc3MmQ1VVFfWXFFZkthVlpyWTZkQ0YwYnkzOW4tbG9LMkV2Z183MmhtZXFhU0FxVUJVa25oaVU2ZkZteEx6ZlIyR2o1N3lVYTA0a3po?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 17:51:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUNRWFJPaDl3UTE2R0JYd3lfd0dIUGRsVFBFcHpnNlFxdnZjUnZwMnRUYUFZbTlHcDA1NWRPeUU2VEpBTDFaNko0TURDNXdwQ21fOXBpSm9NaFBmVFhKZDVMd2dxOFJTMjRjdExiU1NCazB0RTZnZHc3MmQ1VVFfWXFFZkthVlpyWTZkQ0YwYnkzOW4tbG9LMkV2Z183MmhtZXFhU0FxVUJVa25oaVU2ZkZteEx6ZlIyR2o1N3lVYTA0a3po?oc=5",
+          "summary": "Kazakhstan-linked hackers targeted Russian refinery, spied on city government, researchers say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f7570566a2a8",
       "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
       "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
@@ -1442,6 +1483,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
           "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "34d358590a04",
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times",
+      "summary": "22 People Got Together For a Dinner Party. So Did Their A.I.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 17:35:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+          "summary": "22 People Got Together For a Dinner Party. So Did Their A.I."
         }
       ],
       "sourcesCount": 1
@@ -1555,24 +1614,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a9b7f0df2299",
-      "title": "Louvre Müzesi onarılmazsa kapılarını halka kapatmak zorunda kalacak uyarısı",
-      "summary": "Fransa'nın başkenti Paris'teki Louvre Müzesi Müdürü Christophe Leribault, müze onarılıp dönüştürülmezse kapılarını halka kapatmak zorunda kalacağını söyledi.",
-      "link": "https://www.trthaber.com/haber/dunya/louvre-muzesi-onarilmazsa-kapilarini-halka-kapatmak-zorunda-kalacak-uyarisi-960114.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 17:12:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/louvre-muzesi-onarilmazsa-kapilarini-halka-kapatmak-zorunda-kalacak-uyarisi-960114.html",
-          "summary": "Fransa'nın başkenti Paris'teki Louvre Müzesi Müdürü Christophe Leribault, müze onarılıp dönüştürülmezse kapılarını halka kapatmak zorunda kalacağını söyledi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "232197c005b9",
       "title": "Illegaler Welpenhandel: Tierschutz greift ein",
       "summary": "Welpen aus dem Ausland, Katzen aus fragwürdiger Zucht: Tierschutzorganisation Peta deckt in Berlin mutmaßliche Verstöße auf. Polizei und Veterinäramt greifen ein und retten zahlreiche Tiere.",
@@ -1609,24 +1650,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c682b1d58ea8",
-      "title": "NATO Genel Sekreteri Rutte, tek Avrupa ordusuna gerek duyulmadığını söyledi",
-      "summary": "NATO Genel Sekreteri Mark Rutte, Avrupa ordusu fikrinin hayata geçmesi için ülkelerin ulusal ordularından vazgeçmesi gerektiğini belirterek \"Egemenlik gerekçeleriyle bunun gerçekleşmeyeceğini düşünüyorum. Ayrıca NATO'daki komuta kontrol yapısı göz önüne alındığında, böyle bir şeye gerek de yoktur.\" dedi.",
-      "link": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-tek-avrupa-ordusuna-gerek-duyulmadigini-soyledi-960113.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "regional",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 17:03:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-tek-avrupa-ordusuna-gerek-duyulmadigini-soyledi-960113.html",
-          "summary": "NATO Genel Sekreteri Mark Rutte, Avrupa ordusu fikrinin hayata geçmesi için ülkelerin ulusal ordularından vazgeçmesi gerektiğini belirterek \"Egemenlik gerekçeleriyle bunun gerçekleşmeyeceğini düşünüyorum. Ayrıca NATO'daki komuta kontrol yapısı göz önüne alındığında, böyle bir şeye gerek de yoktur.\" dedi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "204c54aedca5",
       "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
       "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
@@ -1658,24 +1681,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
           "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "23b7d47eff7b",
-      "title": "Durham MSc International Business ranked second in the world - Durham University",
-      "summary": "Durham MSc International Business ranked second in the world Durham University",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWmRveXJtT0VvWm1LNVVuQ080TmtTbmtJeXRad0ZCd1JRMFlCYWhzUTRGWVJvdnFJb0lSZW5YR0xEbGk3MnNKdm0tNmNFTlIxdlZNMVd3X3YwdjYzcjRESU1GckpRZDZLLS1XSXF1OTN1cS1Sc0JlS2x4NnpTUjVRZGJPb0xBU3RaSm9FVmtNUzUxYzd0NDd0cFgwWkFCQm11aDdlN0pMUDNWSjBkTmlqUHRiQ01NUkhxQzhIS1RfUkpIUQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 16:44:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWmRveXJtT0VvWm1LNVVuQ080TmtTbmtJeXRad0ZCd1JRMFlCYWhzUTRGWVJvdnFJb0lSZW5YR0xEbGk3MnNKdm0tNmNFTlIxdlZNMVd3X3YwdjYzcjRESU1GckpRZDZLLS1XSXF1OTN1cS1Sc0JlS2x4NnpTUjVRZGJPb0xBU3RaSm9FVmtNUzUxYzd0NDd0cFgwWkFCQm11aDdlN0pMUDNWSjBkTmlqUHRiQ01NUkhxQzhIS1RfUkpIUQ?oc=5",
-          "summary": "Durham MSc International Business ranked second in the world Durham University"
         }
       ],
       "sourcesCount": 1
@@ -1933,24 +1938,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8cd8f6eaff80",
-      "title": "İşgalci İsrail askerlerinden TRT yayınına müdahale",
-      "summary": "Batı Şeria’da işgalci İsrailliler bir camiyi daha kundakladı. Saldırıyı dünyaya duyurmak için orada bulunan TRT Haber ekibi, katil İsrail askerleri tarafından bölgeden uzaklaştırıldı.",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-askerlerinden-trt-yayinina-mudahale-960108.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 15:36:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-askerlerinden-trt-yayinina-mudahale-960108.html",
-          "summary": "Batı Şeria’da işgalci İsrailliler bir camiyi daha kundakladı. Saldırıyı dünyaya duyurmak için orada bulunan TRT Haber ekibi, katil İsrail askerleri tarafından bölgeden uzaklaştırıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "316f0a74f5e9",
       "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
       "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
@@ -2000,24 +1987,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
           "summary": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "40c21f8cabe2",
-      "title": "Sachsen-Anhalt: AfD und BSW setzen Antrag zur Ukraine durch",
-      "summary": "Im Landtag von Sachsen-Anhalt haben AfD und BSW einen gemeinsamen Antrag durchgesetzt - dieser fordert das Ende aller Ukraine-Hilfen und Russland-Sanktionen. Es gab heftige Kritik.",
-      "link": "https://www.zdfheute.de/politik/deutschland/ukraine-krieg-sachsen-anhalt-afd-bsw-landtag-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 15:18:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/ukraine-krieg-sachsen-anhalt-afd-bsw-landtag-100.html",
-          "summary": "Im Landtag von Sachsen-Anhalt haben AfD und BSW einen gemeinsamen Antrag durchgesetzt - dieser fordert das Ende aller Ukraine-Hilfen und Russland-Sanktionen. Es gab heftige Kritik."
         }
       ],
       "sourcesCount": 1
@@ -2941,42 +2910,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "49239d6506be",
-      "title": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day - PR Newswire",
-      "summary": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 11:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
-          "summary": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day PR Newswire"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "68e53b98dd91",
-      "title": "How technology is changing the detection of breast cancer - CBS News",
-      "summary": "How technology is changing the detection of breast cancer CBS News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 11:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
-          "summary": "How technology is changing the detection of breast cancer CBS News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4d7efc0a7378",
       "title": "IBM (IBM) Took A Leading Role At Telco Days 2026 - Simply Wall Street",
       "summary": "IBM (IBM) Took A Leading Role At Telco Days 2026 Simply Wall Street",
@@ -2990,24 +2923,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEpaM0tEejBWcFhLbXNCQWZKMWxybjRuT2ozamNFYW5GVk8ySmZlNzFmWFM5aDNlc1NNa0NxOWlTNlVXQTlGdlNvZ2xCbDlOSjVfbHFtQWJfSVBxakdDYWQwamo5T2Z6ZENzTWYwR3U1S3VaQUtkcWx5UmFXVWhvM2NJN0M5cjBPQU4zdmdfQUFUVmpzRDlTMjZsWnZrSHJnWjdGRU43WVBfYXhNNXJXazVvUU5md3gzV1ZYVF9XQXQ4WHIzSEdkTVBUNFd1QdIB0wFBVV95cUxPaVo3NzZISVRIWGtkelhwY1daOFJfWWlqUjU4Y0ctZlVjekdTeUhueDMwRFRpbnFnbUxFanBaTkFhM3czNm9xdXR1YWlGMEdSSDMtNzZsX1RxTHFTd254WlRoY00wc3Q0cktIVUU2UWVkdG9fVzZmMnZnQ2h6REg4enZwcVFwMW5TVldhTDdESmhMaWJZRFVrYW9lTzdaY19jb3o5dTdFSE1MdHpFS2w3UWxCNUF0cWZEeWpQMjAyTWtRb0NIdDFxUE5ZMHdGYUZhWnFJ?oc=5",
           "summary": "IBM (IBM) Took A Leading Role At Telco Days 2026 Simply Wall Street"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "45f8dd01f90d",
-      "title": "Analysts Offer Insights on Technology Companies: Block (XYZ), Appian (APPN) and International Business Machines (IBM) - The Globe and Mail",
-      "summary": "Analysts Offer Insights on Technology Companies: Block (XYZ), Appian (APPN) and International Business Machines (IBM) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZGJCVmxHVmM0ZWhDdEY0MGgxcW5LRFJkUWc3NUVjbmpZcHc3WTNjNThTcDdBWEdrckc5YnV2WGJZVVo3VVBaOG5DWE9WZUVSSU8zMm1mcWJ1enV1OWNsNDhCd3RWUDJiVHM4WEtEMW9nS09HcFdQZG9Ba0ZNeUxuSlZRR0txTGZDTHhWS3J6RzNPZWQ0QUhrS1d6cnlwbjhjZjMtR3h1ZWw2dTdJcG83dVdTb1ZucTlDc0FybXE3QnZRekRnV0lTVmhEamRKTUstU0ZLbXEza2pnM2E4c2FUTHF2RGhMNVMwQmJQcElqd0hTQjJKa01oV3JJT29NZEEyWmt5bGRqTE5qczNsbjNiTnJvbDlZTkczUkRVYlh3?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 10:43:58 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZGJCVmxHVmM0ZWhDdEY0MGgxcW5LRFJkUWc3NUVjbmpZcHc3WTNjNThTcDdBWEdrckc5YnV2WGJZVVo3VVBaOG5DWE9WZUVSSU8zMm1mcWJ1enV1OWNsNDhCd3RWUDJiVHM4WEtEMW9nS09HcFdQZG9Ba0ZNeUxuSlZRR0txTGZDTHhWS3J6RzNPZWQ0QUhrS1d6cnlwbjhjZjMtR3h1ZWw2dTdJcG83dVdTb1ZucTlDc0FybXE3QnZRekRnV0lTVmhEamRKTUstU0ZLbXEza2pnM2E4c2FUTHF2RGhMNVMwQmJQcElqd0hTQjJKa01oV3JJT29NZEEyWmt5bGRqTE5qczNsbjNiTnJvbDlZTkczUkRVYlh3?oc=5",
-          "summary": "Analysts Offer Insights on Technology Companies: Block (XYZ), Appian (APPN) and International Business Machines (IBM) The Globe and Mail"
         }
       ],
       "sourcesCount": 1
@@ -3152,24 +3067,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXJwOXhuUThSZGtycjltSlpxS1c1aGE1cmxGbnk0MWQ0UTB1X29UdFg2VFdIOGRRRFF5NUdINmh2RG4zTzd4MUZFcEZGYXZLT2dtdE5zZWN3M3MteHNTNjJqUnZkcGc5bTU5eTdJdFJUaGp2VHIzbXJHYXhPVWNHc2Z5djd5VWFaa25SOXZ5Zm1FeHBxZzRwaXpDd2NqNEpRMWZ1dGRqSVAxWVlJN19oZQ?oc=5",
           "summary": "DP World to take Rory McIlroy's personal gym around the world Gulf News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "34d358590a04",
-      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times",
-      "summary": "22 People Got Together For a Dinner Party. So Did Their A.I.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 09:01:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
-          "summary": "22 People Got Together For a Dinner Party. So Did Their A.I."
         }
       ],
       "sourcesCount": 1
@@ -4131,24 +4028,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5112d1c99815",
-      "title": "Alte Autobahnbrücke wird gesprengt",
-      "summary": "Als Teil von einer Streckenrenovierung, wurde das alte Viadukt gesprengt. Anstelle der 1,3 Kilometer langen Autobahnstrecke, soll hier ein kompletter Wiederaufbau des Viadukts stattfinden.",
-      "link": "https://www.zdfheute.de/video/zdfheute-xpress/bruecke-sprengung-italien-video-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 18:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdfheute-xpress/bruecke-sprengung-italien-video-100.html",
-          "summary": "Als Teil von einer Streckenrenovierung, wurde das alte Viadukt gesprengt. Anstelle der 1,3 Kilometer langen Autobahnstrecke, soll hier ein kompletter Wiederaufbau des Viadukts stattfinden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "56e6c028bb78",
       "title": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
       "summary": "Ihre Forderungen sind bekannt: bessere Lernbedingungen. Wieder sind in Frankreich deswegen Schulen blockiert, wieder waren mehr als 160.000 Schüler zum Protest auf der Straße.",
@@ -4234,24 +4113,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/ibanini-kiraladi-97-davayla-karsi-karsiya-kaldi-960014.html",
           "summary": "Sosyal medyada tanıştığı kişilerin e-ticaret vaadine inanarak banka hesaplarını teslim eden Nejat Yazıcı, hesaplarının dolandırıcılıkta kullanılması nedeniyle 97 dava ile karşı karşıya kalırken yaklaşık 30 ay cezaevinde yattı. Mağdurların zararını karşılamak için yaklaşık 4 milyon lira harcayan Yazıcı, vatandaşları uyardı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5671eae4f7ed",
-      "title": "Königspaar zu Besuch - Spanien will Unterstützung für Ceuta zeigen",
-      "summary": "Spanien will nach dem Migrantenansturm Unterstützung für die Exklave Ceuta zeigen. Zum ersten Mal seit fast 20 Jahren kommt der König zu Besuch.",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-koenigspaar-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 13 Oct 2026 16:08:51 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-koenigspaar-100.html",
-          "summary": "Spanien will nach dem Migrantenansturm Unterstützung für die Exklave Ceuta zeigen. Zum ersten Mal seit fast 20 Jahren kommt der König zu Besuch."
         }
       ],
       "sourcesCount": 1
@@ -4599,24 +4460,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "24977b9dc394",
-      "title": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
-      "summary": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet.",
-      "link": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "international",
-      "topic": "wissenschaft",
-      "time": "Tue, 06 Oct 2026 17:23:56 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html",
-          "summary": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "6aa640a6392c",
       "title": "77. Uluslararası Uzay Kongresi 9 Ekimde halka açılıyor",
       "summary": "Türkiye'nin ev sahipliğinde Antalya’da gerçekleştirilen 77. Uluslararası Uzay Kongresi (IAC 2026)', 9 Ekim Cuma günü 'Halk Günü' paneline e ev sahipliği yapmaya hazırlanıyor.",
@@ -4869,6 +4712,96 @@
       "sourcesCount": 1
     },
     {
+      "id": "97e44e745c4f",
+      "title": "Taksitli satışlarda yeni dönem",
+      "summary": "Ticaret Bakanlığına, konut satışları hariç perakende işletmeler tarafından yapılan mal ve hizmet satışlarında taksitlendirme sürelerini belirleme ve bu konuda ilave sınırlamalar getirme yetkisi verildi. Bu kapsamda alınacak kararlar, Bakanlığın resmi internet sitesinde ilan edilecek ve ilgili üst meslek kuruluşlarına iletilecek.",
+      "link": "https://www.trthaber.com/haber/ekonomi/taksitli-satislarda-yeni-donem-960176.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 12:27:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/taksitli-satislarda-yeni-donem-960176.html",
+          "summary": "Ticaret Bakanlığına, konut satışları hariç perakende işletmeler tarafından yapılan mal ve hizmet satışlarında taksitlendirme sürelerini belirleme ve bu konuda ilave sınırlamalar getirme yetkisi verildi. Bu kapsamda alınacak kararlar, Bakanlığın resmi internet sitesinde ilan edilecek ve ilgili üst meslek kuruluşlarına iletilecek."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "83c263cdc2b6",
+      "title": "Pakistan'da okulun çatısı çöktü: En az 27 öğrenci hayatını kaybetti",
+      "summary": "Pakistan'ın kuzeybatısındaki Peşaver kentinde ders sırasında bir okulun çatısının çökmesi sonucu çoğu 13 yaşından küçük en az 27 öğrenci hayatını kaybetti. Yerel yetkililer, olayda bir öğretmenin de yaşamını yitirdiğini ve ölü sayısının artabileceğini belirtti.",
+      "link": "https://www.trthaber.com/haber/dunya/pakistanda-okulun-catisi-coktu-en-az-27-ogrenci-hayatini-kaybetti-960175.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 12:18:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/pakistanda-okulun-catisi-coktu-en-az-27-ogrenci-hayatini-kaybetti-960175.html",
+          "summary": "Pakistan'ın kuzeybatısındaki Peşaver kentinde ders sırasında bir okulun çatısının çökmesi sonucu çoğu 13 yaşından küçük en az 27 öğrenci hayatını kaybetti. Yerel yetkililer, olayda bir öğretmenin de yaşamını yitirdiğini ve ölü sayısının artabileceğini belirtti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ec7a66417c1b",
+      "title": "İş arkadaşının yemeğine salyangoz zehri kattı",
+      "summary": "Avustralya'da bir kadın, iş arkadaşının körili yemeğine salyangoz zehri kattığı iddiasıyla suçlandı. Batı Avustralya eyaleti polisi, mağdurun şubat ayında iş arkadaşları için bir yemek yaptığını ve bunu sabah molasında paylaştıklarını söyledi.",
+      "link": "https://www.trthaber.com/haber/dunya/is-arkadasinin-yemegine-salyangoz-zehri-katti-960173.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 15 Oct 2026 12:14:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/is-arkadasinin-yemegine-salyangoz-zehri-katti-960173.html",
+          "summary": "Avustralya'da bir kadın, iş arkadaşının körili yemeğine salyangoz zehri kattığı iddiasıyla suçlandı. Batı Avustralya eyaleti polisi, mağdurun şubat ayında iş arkadaşları için bir yemek yaptığını ve bunu sabah molasında paylaştıklarını söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "900128f5a976",
+      "title": "Türkiye'den 9 ayda 39 ülkeye bal ihracatı",
+      "summary": "Türkiye'nin ihraç ürünleri arasında yer alan bal, yılın 9 ayında ABD, Almanya ve Birleşik Krallık başta olmak üzere 39 ülkede ağızları tatlandırdı.",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyeden-9-ayda-39-ulkeye-bal-ihracati-960174.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 12:13:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/turkiyeden-9-ayda-39-ulkeye-bal-ihracati-960174.html",
+          "summary": "Türkiye'nin ihraç ürünleri arasında yer alan bal, yılın 9 ayında ABD, Almanya ve Birleşik Krallık başta olmak üzere 39 ülkede ağızları tatlandırdı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8ab22ea19f59",
+      "title": "AB Liderler Zirvesi başladı",
+      "summary": "Avrupa Birliği (AB) üyesi ülkelerin liderlerini bütçe, enerji fiyatları, Rusya-Ukrayna Savaşı, Orta Doğu'daki gelişmeler ile genişleme süreci ve göç gibi konuları ele almak üzere iki günlüğüne Brüksel'de bir araya getiren AB Liderler Zirvesi başladı.",
+      "link": "https://www.trthaber.com/haber/dunya/ab-liderler-zirvesi-basladi-960172.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 12:09:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/ab-liderler-zirvesi-basladi-960172.html",
+          "summary": "Avrupa Birliği (AB) üyesi ülkelerin liderlerini bütçe, enerji fiyatları, Rusya-Ukrayna Savaşı, Orta Doğu'daki gelişmeler ile genişleme süreci ve göç gibi konuları ele almak üzere iki günlüğüne Brüksel'de bir araya getiren AB Liderler Zirvesi başladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "38e9aea92183",
       "title": "Gazze'deki Sağlık Bakanlığı: İşgalci İsrail iki haftadır hastaların tıbbi tahliyesini engelliyor",
       "summary": "İsrail, 21 binden fazla kişinin tıbbi tahliye beklediği ve 2 binden fazla kişinin de bu süreçte can verdiği Gazze Şeridi'nde, ikinci haftada da hasta ve yaralıların tedavi için bölge dışına çıkmasını engellemeyi sürdürüyor.",
@@ -4887,9 +4820,135 @@
       "sourcesCount": 1
     },
     {
+      "id": "dac1e7560dfb",
+      "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+      "summary": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Mehrere Seeleute werden noch vermisst.",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 15 Oct 2026 11:52:36 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+          "summary": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Mehrere Seeleute werden noch vermisst."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "89c5c41d6303",
+      "title": "In welchen Jobs Digitalisierung zu Stress führen kann",
+      "summary": "Zunehmende Digitalisierung kann die Gesundheit von Beschäftigten gefährden. Besonders stark von diesem Stress betroffen sind einer neuen Studie zufolge Menschen mit überwiegend körperlichen Tätigkeiten.",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "germany",
+      "topic": "gesellschaft",
+      "time": "Thu, 15 Oct 2026 11:47:14 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
+          "summary": "Zunehmende Digitalisierung kann die Gesundheit von Beschäftigten gefährden. Besonders stark von diesem Stress betroffen sind einer neuen Studie zufolge Menschen mit überwiegend körperlichen Tätigkeiten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f0bbb6fd39ee",
+      "title": "Die Mehlschwalbe ist Vogel des Jahres 2027",
+      "summary": "Sie fängt Insekten im Flug und brütet in Lehmnestern mit kleinem Einflugloch: Die Mehlschwalbe ist der Vogel des Jahres 2027. Ihr Bestand gilt als bedroht, denn nicht nur Hitzewellen machen den Tieren zu schaffen.",
+      "link": "https://www.tagesschau.de/wissen/tiere/mehlschwalbe-vogel-des-jahres-100.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Thu, 15 Oct 2026 11:36:18 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/tiere/mehlschwalbe-vogel-des-jahres-100.html",
+          "summary": "Sie fängt Insekten im Flug und brütet in Lehmnestern mit kleinem Einflugloch: Die Mehlschwalbe ist der Vogel des Jahres 2027. Ihr Bestand gilt als bedroht, denn nicht nur Hitzewellen machen den Tieren zu schaffen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a835bb66e20c",
+      "title": "Starke Regenfälle und Überschwemmungen in Istanbul",
+      "summary": "Starke Regenfälle haben in mehreren Stadtvierteln von Istanbul Überschwemmungen verursacht. Mindestens zwei Menschen kamen Berichten zufolge ums Leben.",
+      "link": "https://www.zdfheute.de/video/panorama-istanbul-ueberschwemmungen-video-100.html",
+      "sourceName": "ZDF",
+      "region": "turkey",
+      "topic": "gesellschaft",
+      "time": "Thu, 15 Oct 2026 11:29:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/panorama-istanbul-ueberschwemmungen-video-100.html",
+          "summary": "Starke Regenfälle haben in mehreren Stadtvierteln von Istanbul Überschwemmungen verursacht. Mindestens zwei Menschen kamen Berichten zufolge ums Leben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "515f85bd26f9",
+      "title": "Die Mehlschwalbe ist Vogel des Jahres 2027",
+      "summary": "Die Mehlschwalbe ist Vogel des Jahres 2027. Die Naturschutzvereine NABU und LBV hatten online abstimmen lassen.",
+      "link": "https://www.zdfheute.de/wissen/vogel-des-jahres-2027-nabu-lbv-gewinnervogel-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Thu, 15 Oct 2026 11:28:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wissen/vogel-des-jahres-2027-nabu-lbv-gewinnervogel-100.html",
+          "summary": "Die Mehlschwalbe ist Vogel des Jahres 2027. Die Naturschutzvereine NABU und LBV hatten online abstimmen lassen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "12af8e7bd219",
+      "title": "Schuldach in Pakistan eingestürzt",
+      "summary": "In Pakistan ist das Dach einer Schule eingestürzt. Mindestens 28 Kinder und eine Lehrerin kamen bei dem Unglück ums Leben.",
+      "link": "https://www.zdfheute.de/panorama/pakistan-schuldach-einsturz-tote-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 11:22:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/pakistan-schuldach-einsturz-tote-100.html",
+          "summary": "In Pakistan ist das Dach einer Schule eingestürzt. Mindestens 28 Kinder und eine Lehrerin kamen bei dem Unglück ums Leben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f80820f5dcfa",
+      "title": "Neue Speed-Sterne am DSV-Himmel: Ein Duo sorgt für Furore",
+      "summary": "\"Konkurrenten sind wir nur von Start bis Ziel\": Die jungen Allgäuer Benno Brandis und Felix Rösle kennen sich seit ihrer Kindheit, trainieren gemeinsam und könnten nun die nächste Generation im deutschen Speed-Team anführen.",
+      "link": "https://www.sportschau.de/regional/br/br-neue-speed-sterne-am-dsv-himmel-ein-duo-sorgt-fuer-furore-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "regional",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 11:05:29 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/br/br-neue-speed-sterne-am-dsv-himmel-ein-duo-sorgt-fuer-furore-102.html",
+          "summary": "\"Konkurrenten sind wir nur von Start bis Ziel\": Die jungen Allgäuer Benno Brandis und Felix Rösle kennen sich seit ihrer Kindheit, trainieren gemeinsam und könnten nun die nächste Generation im deutschen Speed-Team anführen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "30feaf870c89",
-      "title": "Notaufnahmen am Limit: Was sich ändern soll",
-      "summary": "Der Bundestag will die Notfallversorgung neu organisieren. Eine digitale Ersteinschätzung soll Patienten besser steuern.",
+      "title": "Neue Notfallversorgung beschlossen: Was sich ändern soll",
+      "summary": "Der Bundestag hat für eine Reform der Notfallversorgung gestimmt. Patienten sollen künftig besser gesteuert werden.",
       "link": "https://www.zdfheute.de/politik/deutschland/notfallmedizin-notaufnahme-krankenhaus-klinik-reform-bundestag-100.html",
       "sourceName": "ZDF",
       "region": "germany",
@@ -4899,7 +4958,7 @@
         {
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/notfallmedizin-notaufnahme-krankenhaus-klinik-reform-bundestag-100.html",
-          "summary": "Der Bundestag will die Notfallversorgung neu organisieren. Eine digitale Ersteinschätzung soll Patienten besser steuern."
+          "summary": "Der Bundestag hat für eine Reform der Notfallversorgung gestimmt. Patienten sollen künftig besser gesteuert werden."
         }
       ],
       "sourcesCount": 1
@@ -5167,6 +5226,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5150d9738e2e",
+      "title": "Two ships ablaze in Romanian Black Sea waters, 7 sailors missing - Reuters",
+      "summary": "Two ships ablaze in Romanian Black Sea waters, 7 sailors missing Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 09:34:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5",
+          "summary": "Two ships ablaze in Romanian Black Sea waters, 7 sailors missing Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "97255fa9044e",
       "title": "UEFA-Vertreter treffen im FIFA-Rat auf Infantino",
       "summary": "Im FIFA-Rat kommt es zum ersten Aufeinandertreffen der UEFA-Vertreter mit Gianni Infantino seit dem geplatzten Investorendeal. Die Stimmung und die Tagesordnung sind geladen.",
@@ -5180,6 +5257,96 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/uefa-vertreter-treffen-im-fifa-rat-auf-infantino,fifa-rat-infantino-opposition-100.html",
           "summary": "Im FIFA-Rat kommt es zum ersten Aufeinandertreffen der UEFA-Vertreter mit Gianni Infantino seit dem geplatzten Investorendeal. Die Stimmung und die Tagesordnung sind geladen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "dbebb84be3f3",
+      "title": "Katie Zacharia: Trumps neue Stichwort-Verleserin",
+      "summary": "Katie Zacharia hatte als Trumps neue Sprecherin einen holprigen Start. Der Präsident lobte sie dennoch.",
+      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/neue-sprecherin-von-donald-trump-die-stichwort-ableserin-katie-zacharia-201323469.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 15 Oct 2026 09:32:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/neue-sprecherin-von-donald-trump-die-stichwort-ableserin-katie-zacharia-201323469.html",
+          "summary": "Katie Zacharia hatte als Trumps neue Sprecherin einen holprigen Start. Der Präsident lobte sie dennoch."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "95df39ef4487",
+      "title": "Vorhaben der Unicredit: Was die Commerzbank-Übernahme für Frankfurt bedeutet",
+      "summary": "Der Machtkampf um die Commerzbank scheint entschieden. Nun geht es um die Folgen: Was kann die Politik für Frankfurt noch herausholen – und was bleibt von der deutschen Eigenständigkeit der Bank?",
+      "link": "https://www.faz.net/aktuell/rhein-main/wirtschaft/was-die-commerzbank-uebernahme-fuer-frankfurt-bedeutet-accg-201219046.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 15 Oct 2026 09:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/wirtschaft/was-die-commerzbank-uebernahme-fuer-frankfurt-bedeutet-accg-201219046.html",
+          "summary": "Der Machtkampf um die Commerzbank scheint entschieden. Nun geht es um die Folgen: Was kann die Politik für Frankfurt noch herausholen – und was bleibt von der deutschen Eigenständigkeit der Bank?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3e64b0135523",
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 15 Oct 2026 09:29:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+          "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "75641bfc41cc",
+      "title": "Gerichtsurteil: Banken müssen Geld bei Kontobetrug erst einmal erstatten",
+      "summary": "Eine Frau kommt über einen Link auf eine gefälschte Webseite, gibt ihre Kontodaten ein und verliert rund 700 Euro. Ihre Bank verweigert die Erstattung.",
+      "link": "https://www.faz.net/aktuell/finanzen/kontobetrug-banken-muessen-geld-erst-einmal-erstatten-accg-201339759.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "wirtschaft",
+      "time": "Thu, 15 Oct 2026 09:29:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/finanzen/kontobetrug-banken-muessen-geld-erst-einmal-erstatten-accg-201339759.html",
+          "summary": "Eine Frau kommt über einen Link auf eine gefälschte Webseite, gibt ihre Kontodaten ein und verliert rund 700 Euro. Ihre Bank verweigert die Erstattung."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3145d088b688",
+      "title": "Alex Tang, VP of XPENG International Business: From Overseas Sales Targets to Global Production, XPENG' s Next Move - Gasgoo",
+      "summary": "Alex Tang, VP of XPENG International Business: From Overseas Sales Targets to Global Production, XPENG' s Next Move Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3VXOURmT1U0UVpQOVVCaXNLRFY3RVl3eEFJRVlnT0dHakctbnJpTFpPTFYzUnZGNERZWFhhYW1HYkpOR1J1dElBQzl6bDYzck5aSi1zNUo5QU03RzFCLVd4aENOUDJGMHlIaVY1YVlJZ2hIM2dZQWoyMFF6cUtCcXZDOXU4ZHE1dE1rY3F1elh4Zlc0UXNmbEZKYTZHNzAzUlhKZ2QzV1p6aHp0c2lFOWV6eVpfZUdwVFg4akNRaXdfLVVZVEdJdkhyU3o4OFhhR1J1dTZCck9CZ1l6bHpDQkVoSTFaQ0k3YmlDUmNCVEdwa1hBZGNBb1pJa0M2UmtH?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 15 Oct 2026 09:29:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd3VXOURmT1U0UVpQOVVCaXNLRFY3RVl3eEFJRVlnT0dHakctbnJpTFpPTFYzUnZGNERZWFhhYW1HYkpOR1J1dElBQzl6bDYzck5aSi1zNUo5QU03RzFCLVd4aENOUDJGMHlIaVY1YVlJZ2hIM2dZQWoyMFF6cUtCcXZDOXU4ZHE1dE1rY3F1elh4Zlc0UXNmbEZKYTZHNzAzUlhKZ2QzV1p6aHp0c2lFOWV6eVpfZUdwVFg4akNRaXdfLVVZVEdJdkhyU3o4OFhhR1J1dTZCck9CZ1l6bHpDQkVoSTFaQ0k3YmlDUmNCVEdwa1hBZGNBb1pJa0M2UmtH?oc=5",
+          "summary": "Alex Tang, VP of XPENG International Business: From Overseas Sales Targets to Global Production, XPENG' s Next Move Gasgoo"
         }
       ],
       "sourcesCount": 1
@@ -5221,6 +5388,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "2e3be4db3afc",
+      "title": "High Court upholds one-sided arbitration clause in family business dispute - ICLG",
+      "summary": "High Court upholds one-sided arbitration clause in family business dispute ICLG",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1IzNmZmSWFOVVNSNUxkek1JR0k3ZUg5SGc5SXNDWlFab0N3YlJYaWZPWkJYdzQ3a3UyWHltd1AxX0N0a21EcEdHYVR5MXU2MWtWMUt6THllbzJiZTlodUd6Yk9CTTZCS3FpSVBZbU5IVFhkMVlYRkE5aHV1Uk5HVVY1U3ZjTWtaOU1DNG9ZTmF1WGl4UDh3SkQyeUlGdw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 15 Oct 2026 09:18:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1IzNmZmSWFOVVNSNUxkek1JR0k3ZUg5SGc5SXNDWlFab0N3YlJYaWZPWkJYdzQ3a3UyWHltd1AxX0N0a21EcEdHYVR5MXU2MWtWMUt6THllbzJiZTlodUd6Yk9CTTZCS3FpSVBZbU5IVFhkMVlYRkE5aHV1Uk5HVVY1U3ZjTWtaOU1DNG9ZTmF1WGl4UDh3SkQyeUlGdw?oc=5",
+          "summary": "High Court upholds one-sided arbitration clause in family business dispute ICLG"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fbe666462054",
+      "title": "Penn State Abington Students Build Leadership Skills in Global Business Challenge - PHILADELPHIA.Today",
+      "summary": "Penn State Abington Students Build Leadership Skills in Global Business Challenge PHILADELPHIA.Today",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnhsRzFvcjFKaFIxTUVHVjgtcFlwNlQ5cl9TT1BzMTFMaUhGZnE4QXMzYXplSklKTDV3QmI3SVJtMGRHOEpFYl9lNVJmdW1kTFJBSkpGcWJQN28yQkt0bHAzS0hiV0g2S1dTeHJ1RVpXNUhuY2tSX2hHTXk3R05vdjhRM3pjaHlmOVBIcjJFRXJpZw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 15 Oct 2026 09:17:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnhsRzFvcjFKaFIxTUVHVjgtcFlwNlQ5cl9TT1BzMTFMaUhGZnE4QXMzYXplSklKTDV3QmI3SVJtMGRHOEpFYl9lNVJmdW1kTFJBSkpGcWJQN28yQkt0bHAzS0hiV0g2S1dTeHJ1RVpXNUhuY2tSX2hHTXk3R05vdjhRM3pjaHlmOVBIcjJFRXJpZw?oc=5",
+          "summary": "Penn State Abington Students Build Leadership Skills in Global Business Challenge PHILADELPHIA.Today"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6642d4e19e26",
       "title": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
       "summary": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt.",
@@ -5234,254 +5437,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
           "summary": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fb351644ae27",
-      "title": "Evde Bakım Yardımı ödemeleri hesaplara yatırılmaya başlandı",
-      "summary": "Evlerinde bakılan tam bağımlı vatandaşlar ve aileleri için bu ay toplam 7,8 milyar lira tutarında Evde Bakım Yardımı ödemesi hesaplara yatırılmaya başlandı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/evde-bakim-yardimi-odemeleri-hesaplara-yatirilmaya-baslandi-960154.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Thu, 15 Oct 2026 09:09:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/evde-bakim-yardimi-odemeleri-hesaplara-yatirilmaya-baslandi-960154.html",
-          "summary": "Evlerinde bakılan tam bağımlı vatandaşlar ve aileleri için bu ay toplam 7,8 milyar lira tutarında Evde Bakım Yardımı ödemesi hesaplara yatırılmaya başlandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "862a682605a0",
-      "title": "58 ilde yeni nesil suç örgütlerine operasyon: 348 gözaltı",
-      "summary": "58 ilde yeni nesil suç örgütlerine yönelik düzenlenen operasyonlarda 348 şüpheli yakalandı.",
-      "link": "https://www.trthaber.com/haber/turkiye/58-ilde-yeni-nesil-suc-orgutlerine-operasyon-348-gozalti-960153.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 08:53:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/58-ilde-yeni-nesil-suc-orgutlerine-operasyon-348-gozalti-960153.html",
-          "summary": "58 ilde yeni nesil suç örgütlerine yönelik düzenlenen operasyonlarda 348 şüpheli yakalandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7c04360b87e7",
-      "title": "Rayo Vallecano: „Niemand wird uns von hier wegbekommen, nicht einmal Gott“",
-      "summary": "Rayo Vallecano, das Team mit dem kleinsten Budget in Spaniens Liga, spielt seit Jahren über seinen Möglichkeiten. Doch nun eskaliert der Streit um das marode Stadion zwischen Fans und Klubführung.",
-      "link": "https://www.faz.net/aktuell/sport/fussball/warum-bei-rayo-vallecano-streit-zwischen-fans-und-praesident-eskaliert-accg-201313728.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 08:51:39 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/fussball/warum-bei-rayo-vallecano-streit-zwischen-fans-und-praesident-eskaliert-accg-201313728.html",
-          "summary": "Rayo Vallecano, das Team mit dem kleinsten Budget in Spaniens Liga, spielt seit Jahren über seinen Möglichkeiten. Doch nun eskaliert der Streit um das marode Stadion zwischen Fans und Klubführung."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f0f646fdab78",
-      "title": "Nach Posting: Europas Medien sind entsetzt über die „AfD-Karte“",
-      "summary": "Ein Jugendfunktionär der AfD postet eine Karte von Europa, die eine Expansion Deutschlands beschreibt. Sie erinnert an Karten von 1923 und 1925.",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/afd-karte-mit-neuen-grenzen-entsetzt-europas-presse-accg-201318591.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 08:48:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/afd-karte-mit-neuen-grenzen-entsetzt-europas-presse-accg-201318591.html",
-          "summary": "Ein Jugendfunktionär der AfD postet eine Karte von Europa, die eine Expansion Deutschlands beschreibt. Sie erinnert an Karten von 1923 und 1925."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "21e194f51baa",
-      "title": "USA unter Trump: Zweifel an Lebenslauf von Trumps neuer Sprecherin",
-      "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-zweifel-an-lebenslauf-von-trump-sprecherin-katie-zacharia-faz-19444916.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 08:47:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-zweifel-an-lebenslauf-von-trump-sprecherin-katie-zacharia-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "816bbd453c48",
-      "title": "Why does China dominate consumer technology, from smartphones and EVs to smart devices? - DW.com",
-      "summary": "Why does China dominate consumer technology, from smartphones and EVs to smart devices? DW.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazZESG5SSWFBVXF5SkhtLXVNLS01TUFCUGF0aXVSX1AtdWtsN2NPTDRCQWVWLTZ5VnlzRkpxejdGNEtNMmtvWXRzM214N01rekpjQ1RzekdidEhKZmVtWE5DYUtaMjV2RnBHOGNCa3BDaG93UTB3WXgwcHdvWTUySmpUNGZ2b0lDcDdkNk9OS0VfV0hhVTJjclZhLXdDWEZNdkpJRVI2SkhfdWdDS1F5etIBsAFBVV95cUxPT29NY0FlZU54Q1lHNGZHTmRLQmVhMlNwVE5hQmRQQ2p3YzZyTVN6Z1JRUUV0Qm1fQlBzbExiRktLQnNtbUd0bHVTVlhjYU5GZ0RRRzU5VURYMVNCT0ItXzVnZjBxQzVQVVVyYVhtaVZJSmF2MmlVM3U1VEpCajhVWFhtSlVudFpieXBBZHJFMUF1MjhtTXR3emVHQnhzSnNLMjRVQjlKVzNEXzZ5NkhzRA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 15 Oct 2026 08:47:26 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazZESG5SSWFBVXF5SkhtLXVNLS01TUFCUGF0aXVSX1AtdWtsN2NPTDRCQWVWLTZ5VnlzRkpxejdGNEtNMmtvWXRzM214N01rekpjQ1RzekdidEhKZmVtWE5DYUtaMjV2RnBHOGNCa3BDaG93UTB3WXgwcHdvWTUySmpUNGZ2b0lDcDdkNk9OS0VfV0hhVTJjclZhLXdDWEZNdkpJRVI2SkhfdWdDS1F5etIBsAFBVV95cUxPT29NY0FlZU54Q1lHNGZHTmRLQmVhMlNwVE5hQmRQQ2p3YzZyTVN6Z1JRUUV0Qm1fQlBzbExiRktLQnNtbUd0bHVTVlhjYU5GZ0RRRzU5VURYMVNCT0ItXzVnZjBxQzVQVVVyYVhtaVZJSmF2MmlVM3U1VEpCajhVWFhtSlVudFpieXBBZHJFMUF1MjhtTXR3emVHQnhzSnNLMjRVQjlKVzNEXzZ5NkhzRA?oc=5",
-          "summary": "Why does China dominate consumer technology, from smartphones and EVs to smart devices? DW.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a32252ce894a",
-      "title": "International Business Machines Corporation $IBM Stock: Thurston Springer Miller Herd & Titak Inc. Lowers Position - MarketBeat",
-      "summary": "International Business Machines Corporation $IBM Stock: Thurston Springer Miller Herd & Titak Inc. Lowers Position MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR3VWdzQ5clJFZlpEcXpwcl9nZGloS3ZXNWVkRTZ5bktvc2RsQnFHejNfWXJTZVdIWmc4Z3h5TlJfVVgxd3FuUmFvaGVEQmRLWDV6XzM0dVVyYlY2Z19rajBKUkNRUnJ4M1VlczNuTU9oS0FocmI2SjM1Zzc3YmZockZjYUcwV29EamZsSnVXRUg0UFZjZm1RQWJQUDRvbG5TQ1owbENLWTNJSWZwRWpsaDkyT3FoWUxzcjJHZl84YmVpREtsTzgxUlBaX1locmthU2V1M2NDTTVXcEo1MTJ3djhTakNiNjA3aTBhVTUwRndkakx3ZDhNTEZobGhxNlU?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 15 Oct 2026 08:42:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR3VWdzQ5clJFZlpEcXpwcl9nZGloS3ZXNWVkRTZ5bktvc2RsQnFHejNfWXJTZVdIWmc4Z3h5TlJfVVgxd3FuUmFvaGVEQmRLWDV6XzM0dVVyYlY2Z19rajBKUkNRUnJ4M1VlczNuTU9oS0FocmI2SjM1Zzc3YmZockZjYUcwV29EamZsSnVXRUg0UFZjZm1RQWJQUDRvbG5TQ1owbENLWTNJSWZwRWpsaDkyT3FoWUxzcjJHZl84YmVpREtsTzgxUlBaX1locmthU2V1M2NDTTVXcEo1MTJ3djhTakNiNjA3aTBhVTUwRndkakx3ZDhNTEZobGhxNlU?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Thurston Springer Miller Herd & Titak Inc. Lowers Position MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONGQ1VXQtVFhWTW5aMzRTaU96T2lhRzFqMmZESnc1Vno0TzdFVkdNR0JYMWpNdHBIaF9obTg4UFFGc0hZUWVTR1dEemRLM2x5aHpoQ0g1LTRGTVFhZzQzbUVyQVk3eG1fU2lzeHlFRUMyTlk3Szg1cHRWeWVTNHRrLUtJaEh6d1dHM3RLMlU5WjNMX0RfS3RZbU1vV1NhakZCZElOdHUtM1dHcGhPNkFqTXpDalVrMENXZkQ4VDc2bU1rdW42ckZSQ0VMOTJlTkJiNm1rdU94Ul9ZQXpxVFBnbTZXYw?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Cultivar Capital Inc. Reduces Stake MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQlVMcnZQaVFZcGdvMDRLT01fc1Vpa3N0WXVKcG9UdWRoLUozNU9adHg3U094dXA3cjRRWDl5bEpMWmJOeWVacWhCOFl4WVItVkt1RkJDVHMzM3hOdzdDRWVTWW1idnhsbDNPeTBvb3lPV08wMG96QkxnbTloYy1jTkRvSkg5NzJvV1g4aVZmWk12MUhRV05xRnAzX3c3QkhLYU5JYUZCQTcyRDlTbWRLelBhbVA5LVM2RGRoZ2c5cHRxRkxFOXZ5d282ZkJRMzRFVTY3andrUnMtcm9PWWhHQkt1Xy1ja3VWaW9rX2RHaEw5RmM?oc=5",
-          "summary": "8,658 International Business Machines Corporation $IBM Shares Acquired by First Citizens Bank & Trust Co. MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZWhYb3V1dHNHUVRfdDl6dVlXV3JyYWZhRkRLUDFWZzB4bjlZNC0yaURwbUlGckVOMFVUZk1uT3JCdnNkSXhJcnZwX1R0ZEJpSy1SWXlya0lQc0Y0aTdxMVFKQWdjUmVMWUtXVVoyel83MFJoRnhZNHRIUFBGMnU0WlRMekxsN1BiUk42NS0yTE5DWnJ2dW54ZmFrSlZtMUZMVHlyckxMY0YxaVNJZy05RFVpLWFIdVFPX01pdmFxTkNUdEhnX3J3TFhuOGxSdmR1OU5GSlhXNDBXV0k?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Perpetual Ltd Grows Position MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMGZzU2h6N2ZPTjVzQW1TOXA5TXpFcC1JdUFMaU9LN1AzX3JXVmtpVGFqOXdNRVRia2VSTEN1R09vZGxKdU5Lb0EwVmdsNk1IVUNTNFRiSmh0X0w5YWU3YWFEc0pRYmx6T0tXd0E5eXNnVUxvQzVEcnRjMnJsV1V4OUtxMEdvOVpWRl9pc0hTemtaME9sTTRxTFR0QU1hUk9kdG5UdTY0dl9hQjBoYzU3cEhRdXNSTjNPNW1MM2ZNbE1ENkxqaXhrNkZsT1ZfckxSMk11WGdvRTByTmVTOEYzdERXclVVSm5NcnY5SmhESzhTMVRIWWtCaA?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock Position Reduced by Lineweaver Wealth Advisors LLC MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzZldHZpSlpEUTI3WkdKMVNJQThfTDZiam0tNFVnN3gyWlFwSVpPOFc4SDFVY1pXOS1kTzd1UmliaUhoRkpnNW5FZ1o2LTFMcnh4WWEtVmpwMUwzNjNVMGxYbVdCMDNpRnpobDRla3Z0Qmk1YUdYOE5PRnduOWV2OG12RHc4ODdCUFN3aWRzQUs0MnNtN0RRa0JJSzhMQ21oVjJwS3gtY1ktM2h2T0xDdkk4aWFIeFpkdTl2RTk0b0JCck0?oc=5",
-          "summary": "International Business Machines (NYSE:IBM) Stock Jumps 1.6% - Here's Why MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNGlCZEJ2MXlRQk1zVE1jc3NRMllUUV9PYlFvcGd1aW1YZTFRdElkN3dsSzNocEV6ampYajRQLTd2MGJrUEY5M1pzanJPLXl0U0tZY3hORmxqVEJoQ29PTjVCaWZOZjdHMHU1em1KSVdwdklLU1FKUHdQV0p2elFrTjFTeTRCTHNOd1UtNDVteWRwTWpTVzRPNHZReTlueUZyeVV5Y0hUaHA0SlZqdUtvdDkyLVh1QXM2SEdCamVqSWI4Wkh2Tm1CbGpyMmFGcElTcUNCOGZNVExWcXBNUzUwOVR2X0NiSVBRaGxfbmhmb1RVTkMxU3c?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: NorthCrest Asset Manangement LLC Raises Position MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkptR1RqcjFxc2pFdkFlVDdmTE5kbnczWnBFaS00TVJ4YzlCZkFhUXVpS0E1ZEk5YXNNUjBZVG1BakZLQ0k5aFZrSVlYMjhoMjNGTGNKRWpUbE02a2dGSllxV2xfRklwUEZENEs4TlRocmRQVTBLZGxLdXFfRHFaNE9La1lpQUhFOGE5VzdJN0lKZ3BKVzZzX3F6VzVZMnFMZHNKaXdFWnVSMUJVWXlreWE5S2RRVk5rUy1zOU1mcTE5Y244ZEZsN1pkOFFLVGN5ZWs2Sk5TdlRrbk9rTlRPUjdUcW1DVmRuZ25XR2Z2TTFGUFJK?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Baldwin Wealth Partners LLC MA Reduces Holdings MarketBeat"
-        }
-      ],
-      "sourcesCount": 8
-    },
-    {
-      "id": "6c1b2e285cdc",
-      "title": "White House defends new press secretary amid questions about her legal credentials",
-      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 08:41:04 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-          "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "20f7c386d1d2",
-      "title": "Topspiel: PSG schockt Man City vor Guardiolas Augen",
-      "summary": "Beide sind Topmannschaften in der Champions League, beide lieferten ein Topspiel - doch nur einer feierte danach. PSG gewann bei ManCity.",
-      "link": "https://www.sportschau.de/fussball/championsleague/psg-schockt-manchester-city-vor-guardiolas-augen,spielbericht-manchester-city-paris-st-germain-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Thu, 15 Oct 2026 08:40:59 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/championsleague/psg-schockt-manchester-city-vor-guardiolas-augen,spielbericht-manchester-city-paris-st-germain-100.html",
-          "summary": "Beide sind Topmannschaften in der Champions League, beide lieferten ein Topspiel - doch nur einer feierte danach. PSG gewann bei ManCity."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8a37d1d300ea",
-      "title": "3,566 Shares of International Business Machines Corporation $IBM Purchased by Reliant Investment Management LLC - MarketBeat",
-      "summary": "3,566 Shares of International Business Machines Corporation $IBM Purchased by Reliant Investment Management LLC MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZHRhTTkyQndaczZlT0pxVzltNkU2VkxlWkRXbm1NRmRpV1NWRjB3amYzNHgwZ2hGTkRDUnBnS1hVckFVajZpS3RTeW8zbEwweFN0UmprMVJGNXVJNW1sc3hvb3pacHgydFN6VjhBMkR5bGFKZmdCMVdMYU1rRXd6ckNXNDJHU0hTbVlLSTkxbzl0RFNnX0xCT2xkejMtZFd3UzNKTnFiMmcyYlEzd1A4S3FhVVlJNy04cFJ3RHdNXzFsRUZGNEpfYkxJSjR6dWtiaGR1LW1KZlZpemdGang3UlNXZXE1MDdOOHZQa2hHZ2x6cGI4bnZtaTlPOW9BYlk?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 15 Oct 2026 08:38:41 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZHRhTTkyQndaczZlT0pxVzltNkU2VkxlWkRXbm1NRmRpV1NWRjB3amYzNHgwZ2hGTkRDUnBnS1hVckFVajZpS3RTeW8zbEwweFN0UmprMVJGNXVJNW1sc3hvb3pacHgydFN6VjhBMkR5bGFKZmdCMVdMYU1rRXd6ckNXNDJHU0hTbVlLSTkxbzl0RFNnX0xCT2xkejMtZFd3UzNKTnFiMmcyYlEzd1A4S3FhVVlJNy04cFJ3RHdNXzFsRUZGNEpfYkxJSjR6dWtiaGR1LW1KZlZpemdGang3UlNXZXE1MDdOOHZQa2hHZ2x6cGI4bnZtaTlPOW9BYlk?oc=5",
-          "summary": "3,566 Shares of International Business Machines Corporation $IBM Purchased by Reliant Investment Management LLC MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTUtWWFg3U0toWFEzTnZEZDdQclEybVpCdUUyOXVTWDNrM1V4SUkxWFY4akdrTWN2cGtLVXUxcV9Sa0VQRWdxZW5lT05WZjM2Mjg4QXlLemQ5QmNQYk1SQzJMLTN3OXNjM3dsclo1emxUR0E2YTBHVXBWeFJWdTI2VlVuVldKSVFIcjQwdEUtVmttcEg2Ykp3SUJFLV9XOTBNUm5vSkV2V3F5UUFFa3pYR0pkcHlNYW5oQTJha2N6VFFhR2JYRWJHMzBKNnF4cnN4M2dKeFk5NW0xRFlZY0YzS0hxNTQ3VWxiV1pjcktBT01CWkVqS0E?oc=5",
-          "summary": "Navigate Wealth Management LLC Acquires 6,581 Shares of International Business Machines Corporation $IBM MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUlhjeGhtckdoc24wcmxJZDBHbzJ5TEQwU2RSRXlEZDBpYi1aZXBEMmNQRllCWUprbGZQaVJuVkFTWjN6cjRza3NyMTRBRzJTWjRJVTdlYWFINWhkTWU4SnZMeGFlQmNiRERvOUdMWlRpNC1KZlA0MWJmYmZZU3NLNkhkMW0tcWVHTUphSzNWZHlkZFJmS24tUXlaNlVoRl80aUVkc0hHZy1qNmo2SVRHNnJPV0NRZm1SeUhOUUNMT0RmNmJTaEh2ZGhvbF80MTZoY2cxN2V6TQ?oc=5",
-          "summary": "International Business Machines (IBM) Expected to Release Earnings on Wednesday MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORjNsZ213eGxBZ2tGbF9uWFFyVGs5eVd0akphM1UwVU5WeGgtYWtnNEtDOUVmcnlaVFNQbUVXMGxsQVJyRHh2enRFTUd1bGMxd3daSzZmbG4xcm1sQjJLWDE1N0ROQUNGN1h1SkYtQUNOb3hXbk1wOFVyWnlrSmxBQV9Cak9rZWJ0a25rU2dMb1Q1cEU2SlFUeGk5RHdrci00bHpJSGd6dExIZkowVi1wcWJjdGxNcEFUbmJoQ2k5V3pnbkdhZUhvc0VGaHhOWXZMU1BHVWowTmVVVGoxU1Y5Qy1hcw?oc=5",
-          "summary": "Courier Capital LLC Sells 3,072 Shares of International Business Machines Corporation $IBM MarketBeat"
-        }
-      ],
-      "sourcesCount": 4
-    },
-    {
-      "id": "b03eab3ae981",
-      "title": "Pakistan: Schuldach stürzt ein – mindestens 21 Tote",
-      "summary": "Während des Unterrichts stürzt am Donnerstag das Dach einer Schule in Peshawar ein. Mindestens 20 Kinder und eine Lehrerin kommen ums Leben.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/pakistan-schuldach-stuerzt-ein-mindestens-21-tote-accg-201339241.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Thu, 15 Oct 2026 08:36:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/pakistan-schuldach-stuerzt-ein-mindestens-21-tote-accg-201339241.html",
-          "summary": "Während des Unterrichts stürzt am Donnerstag das Dach einer Schule in Peshawar ein. Mindestens 20 Kinder und eine Lehrerin kommen ums Leben."
         }
       ],
       "sourcesCount": 1
