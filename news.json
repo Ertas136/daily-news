@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-15T01:05:21.119389+00:00",
+  "updated": "2026-10-15T01:55:03.849370+00:00",
   "articles": [
+    {
+      "id": "fa3f05d9463c",
+      "title": "The AI telling farmers when to harvest",
+      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 30 Sep 2026 23:02:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+          "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
+        }
+      ],
+      "sourcesCount": 1
+    },
     {
       "id": "a728fedb6f47",
       "title": "Pilotprojekt im Osten: Weniger Polizei statt Kostenbeteiligung",
@@ -15,6 +33,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/pilotprojekt-im-osten-weniger-polizei-statt-kostenbeteiligung,polizeikosten-dfb-100.html",
           "summary": "Sollten Amateurklubs sich in Zukunft an Polizeikosten beteiligen müssen, wäre das für viele existenzbedrohend. In der Regionalliga Nordost testet man nun ein Modell mit weniger Polizei."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1b4cc4490429",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 23 Sep 2026 23:12:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
         }
       ],
       "sourcesCount": 1
@@ -87,6 +123,42 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1526922.html",
           "summary": "Nina Warken, CDU, Bundesgesundheitsministerin, zur \"Allianz Postinfektiöse Erkrankungen\""
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e536c9f51b08",
+      "title": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence - UNESCO",
+      "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
+          "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7122978d386e",
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 16 Sep 2026 23:18:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines."
         }
       ],
       "sourcesCount": 1
@@ -216,13 +288,13 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3MwOXhQNmF3OFd5VFZBNlNCRXNaMFN2dHBuRE1Sa05FOFYxeXFPQUdLU0NxYXdCM254SjRFSnRGZF9VWGlnWkRtaDNyaHVrS18wMGpYNGxud2tZNkhRM2Y5MFBubkNia0Rtb0ZKSWpKdDB3RVJvMlBsM3J3VEpkNDRqRG85WjlZY3dheVJRX2dNaUdjUHJOOExzekx0WmFsb1ZrUjNlNHhVWmh4YXI4THZSQ3gzM2FyUk52VWtVVUx4REtEVGM5X1R3?oc=5",
-          "summary": "International Business Machines (NYSE:IBM) Stock Falls 1% - Should You Sell? MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUxEd3o1cnBXQnViX1VWc2RUd1dqY0tVN0U1ZjRqOXViajkzMzRUYjlTcThiODdnemt0TEd3Z0QtS3lHTjVNNWk3N2VPeHBlRU1QOFVUTERMYjZpYUdfbjRlQ1BXWlM0YmJJdmZsWGF4VGp2aTR4aktpYmZ4MkliV3dwbnFhNlBaTmcwTkEzb1JHMEdVRmstNVN6andRNUNaZ0ZCSC16Z193cEJqalR6S2hn?oc=5",
+          "summary": "International Business Machines Corporation (IBM) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance"
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUxEd3o1cnBXQnViX1VWc2RUd1dqY0tVN0U1ZjRqOXViajkzMzRUYjlTcThiODdnemt0TEd3Z0QtS3lHTjVNNWk3N2VPeHBlRU1QOFVUTERMYjZpYUdfbjRlQ1BXWlM0YmJJdmZsWGF4VGp2aTR4aktpYmZ4MkliV3dwbnFhNlBaTmcwTkEzb1JHMEdVRmstNVN6andRNUNaZ0ZCSC16Z193cEJqalR6S2hn?oc=5",
-          "summary": "International Business Machines Corporation (IBM) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3MwOXhQNmF3OFd5VFZBNlNCRXNaMFN2dHBuRE1Sa05FOFYxeXFPQUdLU0NxYXdCM254SjRFSnRGZF9VWGlnWkRtaDNyaHVrS18wMGpYNGxud2tZNkhRM2Y5MFBubkNia0Rtb0ZKSWpKdDB3RVJvMlBsM3J3VEpkNDRqRG85WjlZY3dheVJRX2dNaUdjUHJOOExzekx0WmFsb1ZrUjNlNHhVWmh4YXI4THZSQ3gzM2FyUk52VWtVVUx4REtEVGM5X1R3?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Stock Falls 1% - Should You Sell? MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
@@ -525,24 +597,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "491630de6f36",
-      "title": "Anthropic's Q3 revenue surges 45% to nearly $17 billion - Reuters",
-      "summary": "Anthropic's Q3 revenue surges 45% to nearly $17 billion Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 23:02:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5",
-          "summary": "Anthropic's Q3 revenue surges 45% to nearly $17 billion Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e9db7b2bc5de",
       "title": "How a Chinese-made toy gets to a US retailer",
       "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
@@ -556,6 +610,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
           "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b7f0a53f8832",
+      "title": "How much is the minimum wage?",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 23:01:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+          "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?"
         }
       ],
       "sourcesCount": 1
@@ -669,6 +741,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "1022e2d0ec10",
+      "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times",
+      "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 22:33:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
+          "summary": "U.N. Warns Against Technology Used to Read Citizens’ Minds The New York Times"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "72d36fbdf287",
       "title": "Jahn Regensburg gibt Zwei-Tore-Führung aus der Hand",
       "summary": "Der SSV Jahn Regensburg hat einen zweiten Befreiungsschlag in Folge verpasst. Am 9.",
@@ -705,19 +795,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "41161e7c3964",
-      "title": "SIU technology expo to feature data centers - St. Louis American",
-      "summary": "SIU technology expo to feature data centers St. Louis American",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjZLeGFjWXdXc0ttQmRyV1YwQWtORFh0eXUybUlGX1ltSFBRQ2ZHR1Awa0lsSGd0YXROWms4a193SWZNcU40dkEydHFiMGxqbGNxOGZXdTdIVmpjVVJuWEJ1QnBJM1Rqd2luVzdVOF9tNGRuZHhyWjVqV2Y2aEsyNzBpbw?oc=5",
+      "id": "491630de6f36",
+      "title": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction - Reuters",
+      "summary": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 22:30:00 GMT",
+      "time": "Wed, 14 Oct 2026 22:27:00 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjZLeGFjWXdXc0ttQmRyV1YwQWtORFh0eXUybUlGX1ltSFBRQ2ZHR1Awa0lsSGd0YXROWms4a193SWZNcU40dkEydHFiMGxqbGNxOGZXdTdIVmpjVVJuWEJ1QnBJM1Rqd2luVzdVOF9tNGRuZHhyWjVqV2Y2aEsyNzBpbw?oc=5",
-          "summary": "SIU technology expo to feature data centers St. Louis American"
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5",
+          "summary": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction Reuters"
         }
       ],
       "sourcesCount": 1
@@ -790,14 +880,9 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVgtVXMweFNMc09aVHhDU0lSdEZwMmJtNGYydXotM3N5R2ZUY0wtamdVNFo0LW0zWEZqdFBTdGgyV0VSelVXSC11U0hWZVRRdmtkYmF1amR6U1dERkNDazYxYUpKWk5iN3NER3lsb3NsWVF1eTdTaFdFbDF3b1N2V0QyWVVrMVlzSTR5TFBIX2h0Y1nSAacBQVVfeXFMUGV6c1FpQXdvTGl5b3NqdkxFS2JWZnRlb1Y4NTdPZjFTdTUxbTVSSF9laWFwRDdaNDByLUhhWGxQWDFCN2JNZnV1THFFb19TbHFuSXR0QVdYQUFhRmR6ZmU0Q05vYnFwclJ4YTAxeUJfZkttd1dzOHJzaDhfY04weVBJUVhnaUNZdUJjWDROV05KOXk1OHUxaGE4cWxGSmFZaUNPVi1JZ0k?oc=5",
           "summary": "West Tennessee dive team unveils new search technology WBBJ-TV"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVktESUdEVWhjQ0dVM2xLbHJPQUphR29XX1JoaUdMYk54Z2VvOF9qQlJWdFZVMXdvV2ZYb1FUdnd4RUxiYThneGpFZGJQUXBuTUVqVTh6eTVlcWhwTjVlVHlINVM3U2lKdENscllQb1hCR242UGt1Wno0aWIyYWpTUE1HNVBLUFFvRnlQYnpveXEwemJZMy1KbGZMdw?oc=5",
-          "summary": "West Tennessee dive team unveils new search technology wbbjtv.com"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "95255d3b6491",
@@ -921,6 +1006,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/heute-journal/moritz-film-heimsuchung-100.html",
           "summary": "Mit dem Film \"Heimsuchung\" von Völker Schlöndorff werden Themen wie Nationalsozialismus, Vertreibung und Heimat thematisiert. Die Geschichte wird anhand eines Hauses erzählt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "295ba2ea7aec",
+      "title": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters",
+      "summary": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 14 Oct 2026 21:40:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
+          "summary": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1052,24 +1155,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ce674577090f",
-      "title": "Bloomington approves new traffic signal technology for emergency vehicles - WEEK | 25 News Now",
-      "summary": "Bloomington approves new traffic signal technology for emergency vehicles WEEK | 25 News Now",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczNuZmxoWURxN1YzeF92THptdnktT0NKdW05VG44UE1paWROSWo2WElKWHllQk9iNVlZNXdBNXplMDRsdUhyWWZmSHdaSXhidE1uZ291NjMtQkZsN0RIRVZ3aWF6SHo1Z1VLX1JuSnkzVXBhWGwtWk9CQkZ2VmNvbE5JcXF4YmJKdVRSMjdWTFNZSVlaNi1ReE9hczB4Nld0d21Xcl9oM2xZUTVWSW1Yd3ZhOA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 21:26:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczNuZmxoWURxN1YzeF92THptdnktT0NKdW05VG44UE1paWROSWo2WElKWHllQk9iNVlZNXdBNXplMDRsdUhyWWZmSHdaSXhidE1uZ291NjMtQkZsN0RIRVZ3aWF6SHo1Z1VLX1JuSnkzVXBhWGwtWk9CQkZ2VmNvbE5JcXF4YmJKdVRSMjdWTFNZSVlaNi1ReE9hczB4Nld0d21Xcl9oM2xZUTVWSW1Yd3ZhOA?oc=5",
-          "summary": "Bloomington approves new traffic signal technology for emergency vehicles WEEK | 25 News Now"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "bb5d7e3b4dbb",
       "title": "Villa rewrite the record books as they hit Fenerbahce for six",
       "summary": "Aston Villa record their biggest ever win in a European competition as they thrash Turkish side Fenerbahce 6-0 at Villa Park, with Nicolas Jackson and Ross Barkley both scoring twice.",
@@ -1142,24 +1227,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f55fe9881d00",
-      "title": "Cameras, drones, AI: Celina council OKs $10M for police technology - Community Impact Newspaper",
-      "summary": "Cameras, drones, AI: Celina council OKs $10M for police technology Community Impact Newspaper",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSW1PVU5YWEE1STZhNXNWd3JxcHFJNFRYcXB5RVMzeWtrdWI0RUxvSXhIQVM1U0ZTV2FxNmJyUnZhdERsZjQxTHVhMTBFNVYzX183czhHbGEzV0tzbnZsbE5SMUJoRGNvSElGMUM2SjYyOU1Bd2tER2FwZWJHdmcxcm9EX3psR3B6NkhYSV9rbDFpR1ZhVXdHMDhVcnRtSUN4aXVVMzdDX3hmZDI3VEpCdW5vWDhZRW0x?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 21:14:35 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSW1PVU5YWEE1STZhNXNWd3JxcHFJNFRYcXB5RVMzeWtrdWI0RUxvSXhIQVM1U0ZTV2FxNmJyUnZhdERsZjQxTHVhMTBFNVYzX183czhHbGEzV0tzbnZsbE5SMUJoRGNvSElGMUM2SjYyOU1Bd2tER2FwZWJHdmcxcm9EX3psR3B6NkhYSV9rbDFpR1ZhVXdHMDhVcnRtSUN4aXVVMzdDX3hmZDI3VEpCdW5vWDhZRW0x?oc=5",
-          "summary": "Cameras, drones, AI: Celina council OKs $10M for police technology Community Impact Newspaper"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1726e1388bf9",
       "title": "South Carolina International Business Career Guide showcases international opportunities in its own backyard - University of South Carolina",
       "summary": "South Carolina International Business Career Guide showcases international opportunities in its own backyard University of South Carolina",
@@ -1191,6 +1258,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/swr/swr-eurocup-ratiopharm-ulm-schlaegt-bosna-sarajevo-100.html",
           "summary": "Ratiopharm Ulm hat sein Heimspiel im Eurocup gegen Bosna Sarajevo mit 102 zu 93 gewonnen. Für schwache Nerven war das nichts."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2777ac4f5a8b",
+      "title": "Bonny Reservoir Field Day to showcase innovative grazing technology, conservation partnership - The Fence Post",
+      "summary": "Bonny Reservoir Field Day to showcase innovative grazing technology, conservation partnership The Fence Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSG9qaHREVnk0WVBzUTJiVGo5UWpDaHJKT01NQU0zNVBWakJMZWVzOFlxa0IyT0t0bzFKOTcyX052TUVXQ0txX3JDdHo3R010LTZiMkl5N3VQOFM2VmRuZjB0ZEZ0enZ0Qm9LS0RPRklHd0pSMW9hakRWdURaaGVsaXNwSjk3SWFvMUtpZER4NFlnQXlaV2RpN3ZhcnFXWlpyWmppelk1dWVyTDEyTlNWWG5MVDZ3eC13b2ZXSUU4cTY1Z2d6Q0E?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 21:03:37 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSG9qaHREVnk0WVBzUTJiVGo5UWpDaHJKT01NQU0zNVBWakJMZWVzOFlxa0IyT0t0bzFKOTcyX052TUVXQ0txX3JDdHo3R010LTZiMkl5N3VQOFM2VmRuZjB0ZEZ0enZ0Qm9LS0RPRklHd0pSMW9hakRWdURaaGVsaXNwSjk3SWFvMUtpZER4NFlnQXlaV2RpN3ZhcnFXWlpyWmppelk1dWVyTDEyTlNWWG5MVDZ3eC13b2ZXSUU4cTY1Z2d6Q0E?oc=5",
+          "summary": "Bonny Reservoir Field Day to showcase innovative grazing technology, conservation partnership The Fence Post"
         }
       ],
       "sourcesCount": 1
@@ -1651,24 +1736,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "97b95451acaa",
-      "title": "Tennis-Show-Turnier in Saudi-Arabien verlegt",
-      "summary": "Das Tennis-Show-Turnier \"Six Kings Slam\" in Saudi-Arabien wird wegen der Angriffe der Huthi-Miliz aus dem Jemen verlegt.",
-      "link": "https://www.sportschau.de/tennis/tennis-show-turnier-in-saudi-arabien-verlegt,six-kings-slam-verlegt-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 14 Oct 2026 20:19:47 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/tennis/tennis-show-turnier-in-saudi-arabien-verlegt,six-kings-slam-verlegt-100.html",
-          "summary": "Das Tennis-Show-Turnier \"Six Kings Slam\" in Saudi-Arabien wird wegen der Angriffe der Huthi-Miliz aus dem Jemen verlegt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7fcce9606a9c",
       "title": "Christie's in London: Kandinsky-Werk „Das bunte Leben“ für 27 Millionen Pfund versteigert",
       "summary": "Das Gemälde hing jahrzehntelang im Münchner Lenbachhaus, ehe es als NS-Raubkunst eingestuft wurde. Nun kam es unter den Hammer.",
@@ -1759,6 +1826,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "3a69babd1764",
+      "title": "CPD announces meeting series on technology and policing - cbs19news.com",
+      "summary": "CPD announces meeting series on technology and policing cbs19news.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDJTQlg1Y1F0THRnVUFuUnRwR2NUVGcxaVJ5ckt1dGw1YlFMeGRxS3RDaXEtbm5HaHBHZVk1THZEek4xZWladU4ySG1JeGJTN2dfaWlidmZVd1FjNEk4Z1dmRV9TY0JsU0tlX0IzS1NZRWNpQUhXU0dvaW9tM2RQcXNETzhIaG1fc1pabEJNNHg4b3B6TFNRWmRjZVdNSkl5d3M1Z1l5WTlBNjlPdzN4NEhjVl9xbmNBU3JXQUhHeFRFYUZTM1gxd01UMFdXRlhCZEE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 19:40:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDJTQlg1Y1F0THRnVUFuUnRwR2NUVGcxaVJ5ckt1dGw1YlFMeGRxS3RDaXEtbm5HaHBHZVk1THZEek4xZWladU4ySG1JeGJTN2dfaWlidmZVd1FjNEk4Z1dmRV9TY0JsU0tlX0IzS1NZRWNpQUhXU0dvaW9tM2RQcXNETzhIaG1fc1pabEJNNHg4b3B6TFNRWmRjZVdNSkl5d3M1Z1l5WTlBNjlPdzN4NEhjVl9xbmNBU3JXQUhHeFRFYUZTM1gxd01UMFdXRlhCZEE?oc=5",
+          "summary": "CPD announces meeting series on technology and policing cbs19news.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0253874e08fe",
+      "title": "Publix announces officer retirements and promotions in technology - Publix",
+      "summary": "Publix announces officer retirements and promotions in technology Publix",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSDl6UFF5akNIb3dETV90Ym0wOFZMcEFPU0pYemJKQkZjUUJRRlI2bjNjMUVKNXpfaktncThJVTdYUmZ1eDRQWVpHTXA0Y21UcmlXUjlMaWZsNXRJMXV3Vm96UWFGeVBFRG1Oc08tRWVDUUxPRzN4MllId3pGNnJWWmFtYURMOGl1U2doNHVsN3ZwYTZBTWgyNUFHb0gzektrNFlQbHpvRTUzSXRBUVJ2bVd3TnVYLTlYLXFDQUUyVFlpWDk4SEE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 19:33:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSDl6UFF5akNIb3dETV90Ym0wOFZMcEFPU0pYemJKQkZjUUJRRlI2bjNjMUVKNXpfaktncThJVTdYUmZ1eDRQWVpHTXA0Y21UcmlXUjlMaWZsNXRJMXV3Vm96UWFGeVBFRG1Oc08tRWVDUUxPRzN4MllId3pGNnJWWmFtYURMOGl1U2doNHVsN3ZwYTZBTWgyNUFHb0gzektrNFlQbHpvRTUzSXRBUVJ2bVd3TnVYLTlYLXFDQUUyVFlpWDk4SEE?oc=5",
+          "summary": "Publix announces officer retirements and promotions in technology Publix"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "138331eb3126",
       "title": "Not Your Parents’ Study Abroad: How Business Schools Are Rethinking International Exchange - Poets&Quants for Undergrads",
       "summary": "Not Your Parents’ Study Abroad: How Business Schools Are Rethinking International Exchange Poets&Quants for Undergrads",
@@ -1790,6 +1893,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/muellabfuhr-klaerwerk-strassenreinigung-wer-unsere-staedte-am-laufen-haelt-201213647.html",
           "summary": "In Deutschland läuft es nicht mehr so richtig. Oder?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6ab80f3b457b",
+      "title": "US lawmaker targets Africa’s 5th-largest gold producer with proposed minerals-for-technology deal - Business Insider Africa",
+      "summary": "US lawmaker targets Africa’s 5th-largest gold producer with proposed minerals-for-technology deal Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdjJQeV9GZmVmWmljQk9sdjJpU3ZXUEphaEgyQ1hTU3c1S0M4ck9OdTgyQVQzYmRJRUJaRjlVUmdZY05zUkJ1TjZESzItNmJTemRDRGJSUFgwUmxXRlgwQTRtR2p4S184TjhJSW5weE1hZWdWamR0R0xLMWtJYUxpc2gtc09YeWxsNlpwaG5DLWZaejNyZEZhZzgwZDVFV2J4NC1JTGl0LWpmNHhPQzQ5UEVPOE80eWJxN3JxUWZxWFV3c3AwV2kwSDl5TnN5T0t0a25V?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 19:23:42 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdjJQeV9GZmVmWmljQk9sdjJpU3ZXUEphaEgyQ1hTU3c1S0M4ck9OdTgyQVQzYmRJRUJaRjlVUmdZY05zUkJ1TjZESzItNmJTemRDRGJSUFgwUmxXRlgwQTRtR2p4S184TjhJSW5weE1hZWdWamR0R0xLMWtJYUxpc2gtc09YeWxsNlpwaG5DLWZaejNyZEZhZzgwZDVFV2J4NC1JTGl0LWpmNHhPQzQ5UEVPOE80eWJxN3JxUWZxWFV3c3AwV2kwSDl5TnN5T0t0a25V?oc=5",
+          "summary": "US lawmaker targets Africa’s 5th-largest gold producer with proposed minerals-for-technology deal Business Insider Africa"
         }
       ],
       "sourcesCount": 1
@@ -2204,6 +2325,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
           "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "34d358590a04",
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times",
+      "summary": "22 People Got Together For a Dinner Party. So Did Their A.I.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 17:35:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+          "summary": "22 People Got Together For a Dinner Party. So Did Their A.I."
         }
       ],
       "sourcesCount": 1
@@ -2749,6 +2888,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "639a7f145d68",
+      "title": "'It's rough out here': Americans struggle with rising inflation",
+      "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
+      "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 15:57:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+          "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "779a1c17bfdc",
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
       "summary": "It comes as the prime minister meets President Zelensky at Downing Street.",
@@ -3050,42 +3207,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRC1BUjluV18xQWN2ZDUtd3NOcEJRaTRPNlVQeC1SR1NRNm8xdHBpY2dycmlDM1I2b0R0QUFuS0RPX25DLXotaE9WODYwdUF2UE00Qno1ejBCeFhfZVdrcFdheFVHU0J6MjNMcXU4SUVzeTVxUUUyc3gyTzdTT29kZXlyZ2EyR3FtM1pJUjBDMjZiNVFteUFZaXBMUDA?oc=5",
           "summary": "Netflix cuts about 6% of jobs in biggest layoff since 2022 Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d85db7ca127c",
-      "title": "Lufthansa wins race for €1.2 billion stake in Portuguese carrier TAP - Reuters",
-      "summary": "Lufthansa wins race for €1.2 billion stake in Portuguese carrier TAP Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWUtaE11VFBUVzl6LTZPZENsMk5sSkM3SG1zTkt1M2JXN1JQXzlRczlDQ05PN1JMYVhCMWZXcFBqUHJrUTQySnRldVh4MG05dkxBNE5ROHE5MHBKUHZ3VVkwQVhycWoxdGU0bjk1TkVPTHlIQm4zdmRFTGc4M2k2amF4cmRrWEtQM2F2OHRrcUNEMVVPLTNWQQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 15:01:44 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWUtaE11VFBUVzl6LTZPZENsMk5sSkM3SG1zTkt1M2JXN1JQXzlRczlDQ05PN1JMYVhCMWZXcFBqUHJrUTQySnRldVh4MG05dkxBNE5ROHE5MHBKUHZ3VVkwQVhycWoxdGU0bjk1TkVPTHlIQm4zdmRFTGc4M2k2amF4cmRrWEtQM2F2OHRrcUNEMVVPLTNWQQ?oc=5",
-          "summary": "Lufthansa wins race for €1.2 billion stake in Portuguese carrier TAP Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "49845dce5434",
-      "title": "CP Group developing Point operator intelligence technology platform - Recycling Today",
-      "summary": "CP Group developing Point operator intelligence technology platform Recycling Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2NVS0VOWlJkY0F2RUFEZjZBOGNJQTd6TmRpR3V5bjlmVnlMOGNPdG1BOUtqMWo2c2NoWVk0Y1UxOHQtcTljdkN5TFhUQXpfcmpSTUNFR2ZsOFo0Z3o1TFpjeENjb055NjRNcFA1NFlhZHJPMTBrSXA2OUxMMF9Zb195UUxtdkNlOHAyNGg2QUZaeGdHOXB0N1FXQ2NDeGdCbGptdk5GMA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 14:58:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2NVS0VOWlJkY0F2RUFEZjZBOGNJQTd6TmRpR3V5bjlmVnlMOGNPdG1BOUtqMWo2c2NoWVk0Y1UxOHQtcTljdkN5TFhUQXpfcmpSTUNFR2ZsOFo0Z3o1TFpjeENjb055NjRNcFA1NFlhZHJPMTBrSXA2OUxMMF9Zb195UUxtdkNlOHAyNGg2QUZaeGdHOXB0N1FXQ2NDeGdCbGptdk5GMA?oc=5",
-          "summary": "CP Group developing Point operator intelligence technology platform Recycling Today"
         }
       ],
       "sourcesCount": 1
@@ -4158,6 +4279,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0fc679e8091b",
+      "title": "Job cuts could fund diesel price drop says deputy",
+      "summary": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 11:13:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
+          "summary": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "92fd1c8a297d",
       "title": "Ukraine’s Economy Faces 1.2% Growth in 2026 as Kyiv Forum Gathers 500+ Leaders to Tackle War Risks - Kyiv Post",
       "summary": "Ukraine’s Economy Faces 1.2% Growth in 2026 as Kyiv Forum Gathers 500+ Leaders to Tackle War Risks Kyiv Post",
@@ -4279,24 +4418,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3RNQmdyREUwcGhSczA4MmpmUXUtRlpDdmhXcGdoOWhCXzgxMDVrYkRwazRqOEJVVm5CWmxHeXJMR3lpRmNvNHRCbDVSRkoxWUdOYzdpSHFKbTcwVzNfN19VZ1RnclJ5VVJ5TzY0dW81TnpsQXdwOEJhbEs5eTh6akVUY1Y2bk1VZXRKNlVJSDRTODhlSVZOZHJMNG1QTWc2NVpFQ0xKckVJX0pqbjc2WGZqWEo5VFVPc1Z5Y0k2SHdoNWVyaUxUbEFQalRmbVMtc2c?oc=5",
           "summary": "International Paper's EMEA Packaging Business Leaders to Host Capital Markets Day PR Newswire"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "68e53b98dd91",
-      "title": "How technology is changing the detection of breast cancer - CBS News",
-      "summary": "How technology is changing the detection of breast cancer CBS News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 11:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
-          "summary": "How technology is changing the detection of breast cancer CBS News"
         }
       ],
       "sourcesCount": 1
@@ -4631,24 +4752,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "957fae7aed5c",
-      "title": "Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades - TradingView",
-      "summary": "Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWWg1RF90dzF4WHAyTHdUb0YzMkM0QXNZZFJ1RF9Ddkx2cVVKM25LbWdwV1MzNVF6bmNneW9rZmdNWG9NcUpfLTV3S0F3UEpWUDBDcUs1YjBFQUlid1FjRW9JWk92R1NaVWgxc1JTYkI2aDgxejA1b2FqTE1tTGxNUmZDNTZzZ05Pc3NEODV0b29XSE81Y0gzY3dwOXR0TW1ZbTBIRnFsZG9BazFSaEl4WS1OdGxJdk1EbS03R25reWF3SHBXQjhYamJTbHFXeDA4WVVPa25XaFgyWVJY?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 10:06:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWWg1RF90dzF4WHAyTHdUb0YzMkM0QXNZZFJ1RF9Ddkx2cVVKM25LbWdwV1MzNVF6bmNneW9rZmdNWG9NcUpfLTV3S0F3UEpWUDBDcUs1YjBFQUlid1FjRW9JWk92R1NaVWgxc1JTYkI2aDgxejA1b2FqTE1tTGxNUmZDNTZzZ05Pc3NEODV0b29XSE81Y0gzY3dwOXR0TW1ZbTBIRnFsZG9BazFSaEl4WS1OdGxJdk1EbS03R25reWF3SHBXQjhYamJTbHFXeDA4WVVPa25XaFgyWVJY?oc=5",
-          "summary": "Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades TradingView"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "71281c164bc8",
       "title": "Meksika'da kasırga ve tropikal fırtınanın yol açtığı şiddetli yağışlar sonucu 6 kişi öldü",
       "summary": "Meksika'da etkili olan Simon Kasırgası ve Rachel Tropikal Fırtınası'nın yol açtığı şiddetli yağış ve toprak kaymaları sonucu 6 kişi hayatını kaybetti.",
@@ -4793,24 +4896,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "34d358590a04",
-      "title": "What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party - The New York Times",
-      "summary": "What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 09:01:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
-          "summary": "What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party The New York Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0f3653d7bb65",
       "title": "Lions women to face France in history-making first game",
       "summary": "The British and Irish Lions are to take on France at Cardiff's Principality Stadium before their historic three-Test 2027 tour to New Zealand.",
@@ -4824,6 +4909,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwly01vdjpvzo?at_medium=RSS&at_campaign=rss",
           "summary": "The British and Irish Lions are to take on France at Cardiff's Principality Stadium before their historic three-Test 2027 tour to New Zealand."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "62512e9df472",
+      "title": "The US military’s race to make fake blood - MIT Technology Review",
+      "summary": "The US military’s race to make fake blood MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjBUcmg5ZUJfaEFmVXhoS09FQ2VZcGFPX05iLTdJbkpzaXRTcGotelBCYVNPR0I5Zk50U3o3YWNHVUpFUklzNlJRN1dndlE1YXhkOVpCWk42eEdXX043TFMtX3I3dkxYMGZodXlmX2RUcllmWGMyRGNCalRJUDNPMlNtTThxOGlwRVJkd0pxRDR4UdIBlwFBVV95cUxQRTNiNkd5dldFUkh4bUxWSUduVURmT04zSHZYVFJvczExTlplaDdJQnFZQWliWkx3Y2tCRGhnWUtHZTdUMkZkazF2MjFLd2lycmM1T3VmYXpITlNIdDN6YlFjeVJaSWhET3pVU0Q3Yms3ZkNFS2dIc3QzQm1zczFVNnE1SnIxMGg2dkxrb2NoUmNWeG5May1J?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 14 Oct 2026 09:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjBUcmg5ZUJfaEFmVXhoS09FQ2VZcGFPX05iLTdJbkpzaXRTcGotelBCYVNPR0I5Zk50U3o3YWNHVUpFUklzNlJRN1dndlE1YXhkOVpCWk42eEdXX043TFMtX3I3dkxYMGZodXlmX2RUcllmWGMyRGNCalRJUDNPMlNtTThxOGlwRVJkd0pxRDR4UdIBlwFBVV95cUxQRTNiNkd5dldFUkh4bUxWSUduVURmT04zSHZYVFJvczExTlplaDdJQnFZQWliWkx3Y2tCRGhnWUtHZTdUMkZkazF2MjFLd2lycmM1T3VmYXpITlNIdDN6YlFjeVJaSWhET3pVU0Q3Yms3ZkNFS2dIc3QzQm1zczFVNnE1SnIxMGg2dkxrb2NoUmNWeG5May1J?oc=5",
+          "summary": "The US military’s race to make fake blood MIT Technology Review"
         }
       ],
       "sourcesCount": 1
@@ -5104,24 +5207,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "9e60e6ff9a0f",
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam - Reuters",
-      "summary": "ASML's strong orders ease fears AI spending boom is running out of steam Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 05:07:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
-          "summary": "ASML's strong orders ease fears AI spending boom is running out of steam Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f69e12669fd7",
       "title": "World's oldest shipwreck found off coast of Turkey",
       "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
@@ -5387,101 +5472,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
           "summary": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dbd0bcd7b5bd",
-      "title": "Türkiye podcast endüstrisinin durumu değerlendirildi",
-      "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 09:17:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
-          "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "80737cd9b2f6",
-      "title": "Schuldspruch wegen Finanzvergehen: Mögliche Folgen für Manchester City",
-      "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in fast allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt.",
-      "link": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Tue, 29 Sep 2026 11:41:01 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
-          "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in fast allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "35da65a97c8c",
-      "title": "Cumhurbaşkanlığı Kupası'nda şampiyon Fenerbahçe",
-      "summary": "Fenerbahçe Tarfin, 39’uncu Erkekler Cumhurbaşkanlığı Kupası karşılaşmasında Beşiktaş'ı 72-59 mağlup ederek kupanın sahibi oldu.",
-      "link": "https://www.trthaber.com/haber/spor/cumhurbaskanligi-kupasinda-sampiyon-fenerbahce-957731.html",
-      "sourceName": "TRT Haber Sport",
-      "region": "turkey",
-      "topic": "sport",
-      "time": "Tue, 22 Sep 2026 22:07:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Sport",
-          "link": "https://www.trthaber.com/haber/spor/cumhurbaskanligi-kupasinda-sampiyon-fenerbahce-957731.html",
-          "summary": "Fenerbahçe Tarfin, 39’uncu Erkekler Cumhurbaşkanlığı Kupası karşılaşmasında Beşiktaş'ı 72-59 mağlup ederek kupanın sahibi oldu."
-        },
-        {
-          "sourceName": "TRT Haber Sport",
-          "link": "https://www.trthaber.com/haber/spor/erkekler-cumhurbaskanligi-kupasinda-final-heyecani-956164.html",
-          "summary": "Basketbolda 39. Erkekler Cumhurbaşkanlığı Kupası, 22 Eylül Salı günü Fenerbahçe Tarfin ile Beşiktaş arasında oynanacak."
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
-      "id": "24cdc484b0c4",
-      "title": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
-      "summary": "Bestimmte Krankheiten äußern sich bei Frauen anders als bei Männern. Trotzdem werden geschlechtsspezifische Unterschiede häufig zu wenig berücksichtigt.",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/frauengesundheit-forschung-allianz-100.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Tue, 22 Sep 2026 17:50:46 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/wissen/gesundheit/frauengesundheit-forschung-allianz-100.html",
-          "summary": "Bestimmte Krankheiten äußern sich bei Frauen anders als bei Männern. Trotzdem werden geschlechtsspezifische Unterschiede häufig zu wenig berücksichtigt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6d717e5e708d",
-      "title": "Gründung einer Allianz für Frauengesundheit in Berlin",
-      "summary": "Gründung einer Allianz für Frauengesundheit in Berlin",
-      "link": "https://www.tagesschau.de/video/video-1653672.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Tue, 22 Sep 2026 17:44:26 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1653672.html",
-          "summary": "Gründung einer Allianz für Frauengesundheit in Berlin"
         }
       ],
       "sourcesCount": 1
