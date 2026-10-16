@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T03:58:05.895448+00:00",
+  "updated": "2026-10-16T04:22:21.533225+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -2110,9 +2110,14 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVFNxek52bjhNRHdPeTY5WFNzNW5wWGZxcmZoTnIxcWhTc3R2RVVaQ05hanRVVkF3YXBneU5TZlVkbmdjdGs1LXpCNGpMWERvOC1WX3pkT1gycnZoS3kxaHNnUFNSSDUyOGpZM014U2N5TlBQMnBTZ3cwcFVvZ1JxUUNpalFzc0dtYWh1YXhQdURsUWlzRmtxX2dTdzNXbEFnMXhJaklGcWhza2wyVnlCbGMzQlNseWNQaGRfb0NCTFF3czRSZXRQOFJmOEFHbGNLTmExWks4TlhwQjZiUnFEMDVfUWs?oc=5",
           "summary": "Arista Networks vs. International Business Machines: Which Technology Stock Is a Better Buy in 2026?"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3BTalE4ZHg1Yk9CMU5JUzVwQ3ZhanV0UHVNSmFDZE9WWHhvQmFxMGVGVTl6bjd2M2M0LWxMNVRoSVd4c2psYmE2ZjdIZVM5ZjhyZy03UVdIZVNBTlZaRnNkWEY4SEdmMWJkWUI3c0o3SnlCVElleDE2aUdsRGwtWVUtWVUtNkR2QTgteVJQWEhoNWM5aWtyN1FFaEdOTmNudzdYakhvU1pjVFhkTEZOMDZpalFzdWhkaVNZeGdBQVB3ZXk2ekFqMTk5VHk?oc=5",
+          "summary": "Arm vs. Credo Technology Group: Which Semiconductor Stock Is a Better Buy in 2026?"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "e8dc3934c16d",
@@ -2241,24 +2246,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1b45886a0d57",
-      "title": "Tavuk eti üretimi ağustosta arttı",
-      "summary": "Türkiye genelinde tavuk eti üretimi ağustosta geçen yılın aynı ayına göre yüzde 3,7 artarak 237 bin 749 tona, tavuk yumurtası üretimi yüzde 21,4 yükselişle 2 milyar 40 milyon 54 bine çıktı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/tavuk-eti-uretimi-agustosta-artti-959991.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 12:50:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/tavuk-eti-uretimi-agustosta-artti-959991.html",
-          "summary": "Türkiye genelinde tavuk eti üretimi ağustosta geçen yılın aynı ayına göre yüzde 3,7 artarak 237 bin 749 tona, tavuk yumurtası üretimi yüzde 21,4 yükselişle 2 milyar 40 milyon 54 bine çıktı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a2bf4c88b5cb",
       "title": "Yerli ve milli 6G çözümleri sahada denendi",
       "summary": "TÜBİTAK ve Turkcell 6G'ye hazırlık kapsamında stratejik işbirliğine giderek, yerli ve milli imkanlarla geliştirdikleri yeni nesil şebeke çözümlerinin prototiplerini ticari nitelikli test altyapısında sahada denedi.",
@@ -2380,24 +2367,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTJiS1lYMmM1YWdVanhLVnViSWR6SGZvMXVkX2I0Yld1OTB0NFJsZzdNUHFCdHZYTV9qRjZNRmxnTmlmNEE1TDBWR0U2clp1cWlvVjdKSGs1bGw5MldMLU1Bb25LVWc0S1VlajVBb1U4RWtFY2FTZWFFUlE4TUlZM1Q1d21BMG5sRVFsdWxqX2JoVTFaRUVVSUxuSVhlTjRfdkVoTGl6TjlQbDN4V1J3d0h1MWwwMHYwQlFHWHhCcDNocXgx?oc=5",
           "summary": "CT teachers say technology is destroying student academic ability. One said some are ‘functionally illiterate’ Hartford Courant"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0344f6e810a9",
-      "title": "Lunar Surface Technology - NASA (.gov)",
-      "summary": "Lunar Surface Technology NASA (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWWpVSW52Ty04cEdiVi1JTE0yM0U1RlNSUURFNjdxcXhxQWYtaF9iUm9OVHhLek9BODNGWE1tcUNkVEFEdjlPUG1zZnZxZlF5T3oxdnBuVzQyQQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 03:43:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWWpVSW52Ty04cEdiVi1JTE0yM0U1RlNSUURFNjdxcXhxQWYtaF9iUm9OVHhLek9BODNGWE1tcUNkVEFEdjlPUG1zZnZxZlF5T3oxdnBuVzQyQQ?oc=5",
-          "summary": "Lunar Surface Technology NASA (.gov)"
         }
       ],
       "sourcesCount": 1
@@ -2925,24 +2894,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&at_campaign=rss",
           "summary": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6c2637af2bda",
-      "title": "Freiburg siegt auch in der Conference League",
-      "summary": "Der SC Freiburg hat seinen starken Saisonstart international fortgesetzt und auch in der Conference League einen Sieg geholt. Gegen Jablonec wurde es spät noch einmal spannend.",
-      "link": "https://www.sportschau.de/regional/swr/swr-freiburg-auch-international-im-flow-sc-bezwingt-jablonec-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 22:57:49 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/swr/swr-freiburg-auch-international-im-flow-sc-bezwingt-jablonec-100.html",
-          "summary": "Der SC Freiburg hat seinen starken Saisonstart international fortgesetzt und auch in der Conference League einen Sieg geholt. Gegen Jablonec wurde es spät noch einmal spannend."
         }
       ],
       "sourcesCount": 1
@@ -4206,24 +4157,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "6829572dbbfe",
-      "title": "Inflation und Zinsen: Das fragile Schuldenkonstrukt der Rechenzentren schwankt",
-      "summary": "Lange konnten Betreiber von Rechenzentren auf willige Kreditgeber vertrauen. Nun wächst die Skepsis, dass sich der KI-Ausbau auf Pump auch lohnt.",
-      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ki-aktien-das-fragile-schuldenkonstrukt-der-rechenzentren-schwankt-201339412.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 15 Oct 2026 18:04:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ki-aktien-das-fragile-schuldenkonstrukt-der-rechenzentren-schwankt-201339412.html",
-          "summary": "Lange konnten Betreiber von Rechenzentren auf willige Kreditgeber vertrauen. Nun wächst die Skepsis, dass sich der KI-Ausbau auf Pump auch lohnt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ddf73fc1d1f9",
       "title": "Martinez apologises for outburst and fined by Man Utd",
       "summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
@@ -4561,24 +4494,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHA5eDhnNDVWZWNfNU9GMDZSLXRaQnlPMjZQc2t6ZDU3UmlwbTJQR0lLVmxyMTdXcFJoU1h3ZzdnMVVTSC1FclF0dTk2MExmbEdMSHI0NXNBT3huZ2dObDRTa0t2dGpWYzB4dkVxYVhVRlN1ZTUtekp6TmtxWUNzVVNzSnF5dFNNWEhHdG81M3RzQjg3ejBndVJ4cmZlOWc1VV9zWU9yN3dFRk5YcGNrWktoVi1ob245OE5wTmtmYWRyQQ?oc=5",
           "summary": "Texas A&M to streamline engineering technology and industrial distribution Texas A&M University"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fa7bf347850f",
-      "title": "Warum Karim Adeyemi beim FC Barcelona aufblüht",
-      "summary": "In der Jugend ein großes Versprechen, beim BVB nicht überzeugend - beim FC Barcelona blüht Karim Adeyemi gerade auf. Was steckt dahinter?",
-      "link": "https://www.zdfheute.de/sport/fussball-karim-adeyemi-fc-barcelona-entwicklung-portraet-bolzplatz-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 17:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/fussball-karim-adeyemi-fc-barcelona-entwicklung-portraet-bolzplatz-100.html",
-          "summary": "In der Jugend ein großes Versprechen, beim BVB nicht überzeugend - beim FC Barcelona blüht Karim Adeyemi gerade auf. Was steckt dahinter?"
         }
       ],
       "sourcesCount": 1
@@ -5507,6 +5422,96 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/kara-ve-demir-yollarinda-21-ekolojik-kopru-yapildi-960192.html",
           "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, kara ve demir yolları ağında bugüne kadar 21 ekolojik köprü inşa edildiğini açıkladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f91a500aa4a3",
+      "title": "CONTACT Matt Raymond +1 202 429 4194 mraymond@nab.org - NAB Show",
+      "summary": "CONTACT Matt Raymond +1 202 429 4194 mraymond@nab.org NAB Show",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR05ya0hING9qa0Fqb1JxNWVnLW11bVhXOURvQlY1RGZCUU5OcUNvSXJYenZpMXZKTHc5eUEzWGlqQVFLLVVxWmZjZUswZjlub2F0Q25kSnJsYjBQZml6Q2xJQUMteGJaMXd1Zlo1NXpsWWEtengtOVlheDhKTjE3alhPTF9aU3UwZEwxOHpQQl9zYmRaa2kwS0pWVFNsQ2E4T3g1dGRxYkE4VzZJNWZvM3RNRU9VNUVmRWpkRlJBYWU5dVZPS1lCaUMyZW80WHljN1pV?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 14:28:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR05ya0hING9qa0Fqb1JxNWVnLW11bVhXOURvQlY1RGZCUU5OcUNvSXJYenZpMXZKTHc5eUEzWGlqQVFLLVVxWmZjZUswZjlub2F0Q25kSnJsYjBQZml6Q2xJQUMteGJaMXd1Zlo1NXpsWWEtengtOVlheDhKTjE3alhPTF9aU3UwZEwxOHpQQl9zYmRaa2kwS0pWVFNsQ2E4T3g1dGRxYkE4VzZJNWZvM3RNRU9VNUVmRWpkRlJBYWU5dVZPS1lCaUMyZW80WHljN1pV?oc=5",
+          "summary": "CONTACT Matt Raymond +1 202 429 4194 mraymond@nab.org NAB Show"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "364cd97854d5",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 14:25:48 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+          "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a2435f4f0806",
+      "title": "Türkiye'nin binek otomobil ihracatı 9 ayda 8,7 milyar dolar oldu",
+      "summary": "Türkiye otomotiv sektörü, ocak-eylül döneminde 8 milyar 732 milyon 380 bin dolarlık binek otomobil ihraç etti.",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-binek-otomobil-ihracati-9-ayda-87-milyar-dolar-oldu-960191.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 15 Oct 2026 14:23:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-binek-otomobil-ihracati-9-ayda-87-milyar-dolar-oldu-960191.html",
+          "summary": "Türkiye otomotiv sektörü, ocak-eylül döneminde 8 milyar 732 milyon 380 bin dolarlık binek otomobil ihraç etti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d0ec56b14284",
+      "title": "Podcast „House of Block“: True Crime ist nur die halbe Wahrheit",
+      "summary": "Die Beschlagnahmung der Aufnahmen des „Zeit“-Podcasts über den Fall Block wird zurecht kritisiert. Aber was will das Gericht überhaupt damit?",
+      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/fall-block-was-will-das-gericht-mit-den-podcast-aufnahmen-201323264.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 15 Oct 2026 14:18:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/fall-block-was-will-das-gericht-mit-den-podcast-aufnahmen-201323264.html",
+          "summary": "Die Beschlagnahmung der Aufnahmen des „Zeit“-Podcasts über den Fall Block wird zurecht kritisiert. Aber was will das Gericht überhaupt damit?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "acdad73617b8",
+      "title": "Anket: İngilizlerin yarısı hiçbir koşulda İngiltere için savaşmayacağını belirtti",
+      "summary": "İngiltere'de yapılan bir ankete göre, katılımcıların yaklaşık yarısı hiçbir koşulda İngiltere için silahlanıp savaşa katılmayacağını belirtirken, bir saldırı halinde ordunun ülkeyi koruyabileceğine inananların oranı yüzde 51 oldu.",
+      "link": "https://www.trthaber.com/haber/dunya/anket-ingilizlerin-yarisi-hicbir-kosulda-ingiltere-icin-savasmayacagini-belirtti-960193.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Thu, 15 Oct 2026 14:15:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/anket-ingilizlerin-yarisi-hicbir-kosulda-ingiltere-icin-savasmayacagini-belirtti-960193.html",
+          "summary": "İngiltere'de yapılan bir ankete göre, katılımcıların yaklaşık yarısı hiçbir koşulda İngiltere için silahlanıp savaşa katılmayacağını belirtirken, bir saldırı halinde ordunun ülkeyi koruyabileceğine inananların oranı yüzde 51 oldu."
         }
       ],
       "sourcesCount": 1
