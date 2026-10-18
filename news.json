@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T04:18:08.910795+00:00",
+  "updated": "2026-10-18T04:54:47.882601+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -2362,6 +2362,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "8af1d3238f8f",
+      "title": "Biologin: Qualität deutscher Schutzgebiete \"reicht nicht\"",
+      "summary": "Kurz vor dem Start der Weltnaturkonferenz gibt es Kritik: Qualität und Fläche der deutschen Schutzgebiete reichten längst noch nicht, so die Biologin Katrin Böhning-Gaese.",
+      "link": "https://www.zdfheute.de/wissen/naturschutz-deutschland-naturschutzgebiete-weltnaturkonferenz-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 06:17:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wissen/naturschutz-deutschland-naturschutzgebiete-weltnaturkonferenz-100.html",
+          "summary": "Kurz vor dem Start der Weltnaturkonferenz gibt es Kritik: Qualität und Fläche der deutschen Schutzgebiete reichten längst noch nicht, so die Biologin Katrin Böhning-Gaese."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e74ebc8c6b11",
       "title": "Bucheckern und Eicheln: Wie man sie findet und zubereitet",
       "summary": "Im Herbst liegen Bucheckern und Eicheln vielerorts am Boden. Mit der richtigen Vorbereitung lassen sich die Früchte zu Leckereien verarbeiten.",
@@ -2457,24 +2475,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ff0b1bbfc107",
-      "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
-      "summary": "Saudi-led coalition says helicopter crash in Najran kills two crew members Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 03:18:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-          "summary": "Saudi-led coalition says helicopter crash in Najran kills two crew members Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ed4f12dc4691",
       "title": "Schwere Krawalle bei Protesten in Frankreich",
       "summary": "In Frankreich ist es bei neuen Protesten zu den befürchteten schweren Krawallen gekommen. Es gab Brandstiftungen, Plünderungen und Angriffe auf öffentliche Gebäude.",
@@ -2488,14 +2488,9 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-ausschreitungen-gewalt-paris-100.html",
           "summary": "In Frankreich ist es bei neuen Protesten zu den befürchteten schweren Krawallen gekommen. Es gab Brandstiftungen, Plünderungen und Angriffe auf öffentliche Gebäude."
-        },
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
-          "summary": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten gegen hohe Lebenshaltungskosten hat es in Frankreich schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das historische Rathaus in Brand."
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "127da5d509a6",
@@ -3323,9 +3318,14 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-bildung-lebenshaltungskosten-schueler-gelbwesten-100.html",
           "summary": "Hohe Lebenshaltungskosten, geringe Gehälter, Missstände an Schulen: In Frankreich gibt es weiter landesweite Proteste und Ausschreitungen. Worum geht es bei den Demonstrationen?"
+        },
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+          "summary": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten hat es in Frankreich schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das historische Rathaus in Brand."
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "7d495fcddba8",
@@ -4084,24 +4084,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "38c92b4c8b8f",
-      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
-      "summary": "Explosion at Iraqi paramilitary alliance base kills one member, sources say Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 17 Oct 2026 16:35:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
-          "summary": "Explosion at Iraqi paramilitary alliance base kills one member, sources say Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "83679c06d394",
       "title": "Sonnenhof Großaspach dreht spektakuläres Spiel gegen Preußen Münster",
       "summary": "Am 10. Spieltag der 3.",
@@ -4316,13 +4298,13 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHdWQWRLUW1fZ0xJSTh4X1NYXzJRSlAxaGdHaDA4UHRSWTREVFV1UVhTLXd5NEFQNXFBTkxsU3ZtRHRCOVBpYkl4V3JNdkZabENoUmZCdlYxbG11UXh4T1h0UXI0WDVHdEJieWJTZmgwZTFFVVpPb2NSdG1DdXdOdUNoNWRqM3ZMZ21kX0hZOGl6T01ENmZDc2FfdHNfdzdxeEFqdjBiel8tbXJwcG54YzhERTl1X0N6bkg4NkxVYnNnX1dSWFFIQ2JuQXJVVXgwbnRjaGttUHI0SHZJeklQaUpn?oc=5",
-          "summary": "AWM Capital LLC Makes New Investment in International Business Machines Corporation $IBM MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcmcwUE1TbEtTOG9RSFhhTTgyaEZRNlJVa0tmemozZVhhUXFtNk5jWVBudkd6Wm1oVmxwTlFuMUhSU012Z2M2dTQ4UHc2dUtuUXlGTm05ZUliWHFiN0F0MmhkVzFkNEl6Ti1Dd0VBb1M5dkV2VHhqYUtJeVhaN1FNbVViaU92dlRYUmJRcEZuRjBXdWN3QnBWSWQtc3hxT0hheG1uVFFKMk5aaUk5cmhoenlCSkJiSGJZYnF0NUNjYlhwRDlzRmdURnJtcTVxdHhMSDF0eEtZd3MyMkxmMllyNzNUMXdXVFZLQVQxRXR5WU5Pc1dk?oc=5",
+          "summary": "2,577 Shares in International Business Machines Corporation $IBM Purchased by TB Alternative Assets Ltd. MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcmcwUE1TbEtTOG9RSFhhTTgyaEZRNlJVa0tmemozZVhhUXFtNk5jWVBudkd6Wm1oVmxwTlFuMUhSU012Z2M2dTQ4UHc2dUtuUXlGTm05ZUliWHFiN0F0MmhkVzFkNEl6Ti1Dd0VBb1M5dkV2VHhqYUtJeVhaN1FNbVViaU92dlRYUmJRcEZuRjBXdWN3QnBWSWQtc3hxT0hheG1uVFFKMk5aaUk5cmhoenlCSkJiSGJZYnF0NUNjYlhwRDlzRmdURnJtcTVxdHhMSDF0eEtZd3MyMkxmMllyNzNUMXdXVFZLQVQxRXR5WU5Pc1dk?oc=5",
-          "summary": "2,577 Shares in International Business Machines Corporation $IBM Purchased by TB Alternative Assets Ltd. MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHdWQWRLUW1fZ0xJSTh4X1NYXzJRSlAxaGdHaDA4UHRSWTREVFV1UVhTLXd5NEFQNXFBTkxsU3ZtRHRCOVBpYkl4V3JNdkZabENoUmZCdlYxbG11UXh4T1h0UXI0WDVHdEJieWJTZmgwZTFFVVpPb2NSdG1DdXdOdUNoNWRqM3ZMZ21kX0hZOGl6T01ENmZDc2FfdHNfdzdxeEFqdjBiel8tbXJwcG54YzhERTl1X0N6bkg4NkxVYnNnX1dSWFFIQ2JuQXJVVXgwbnRjaGttUHI0SHZJeklQaUpn?oc=5",
+          "summary": "AWM Capital LLC Makes New Investment in International Business Machines Corporation $IBM MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
@@ -5162,24 +5144,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "41d9a0caa73a",
-      "title": "Wie viel Rückhalt gibt es für Merz bei der Jungen Union?",
-      "summary": "Bei der Jungen Union warnt Kanzler Merz vor der Linken und der AfD. Gleichzeitig pocht er auf die Umsetzung der Reformen.",
-      "link": "https://www.zdfheute.de/video/zdfheute-live/junge-union-merz-rede-video-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sat, 17 Oct 2026 12:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/zdfheute-live/junge-union-merz-rede-video-100.html",
-          "summary": "Bei der Jungen Union warnt Kanzler Merz vor der Linken und der AfD. Gleichzeitig pocht er auf die Umsetzung der Reformen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9e3237ec9c77",
       "title": "Deutsche Ü80-Nationalmannschaft gewinnt WM",
       "summary": "Deutsche Ü80-Nationalmannschaft gewinnt WM",
@@ -5517,6 +5481,42 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
           "summary": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0d32ccbd4e14",
+      "title": "Nürnberg punktet spät gegen energisches Cottbus",
+      "summary": "Der 1. FC Nürnberg hat bei einem gut aufspielenden Aufsteiger Cottbus einen späten Punkt gesichert.",
+      "link": "https://www.sportschau.de/fussball/bundesliga2/nuernberg-punktet-spaet-gegen-energisches-cottbus,spielbericht-energie-cottbus-nuernberg-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "local",
+      "topic": "sport",
+      "time": "Sat, 17 Oct 2026 10:01:07 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/bundesliga2/nuernberg-punktet-spaet-gegen-energisches-cottbus,spielbericht-energie-cottbus-nuernberg-100.html",
+          "summary": "Der 1. FC Nürnberg hat bei einem gut aufspielenden Aufsteiger Cottbus einen späten Punkt gesichert."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8d691fdb102f",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "gesellschaft",
+      "time": "Sat, 17 Oct 2026 09:58:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
         }
       ],
       "sourcesCount": 1
