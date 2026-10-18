@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-18T23:10:02.327472+00:00",
+  "updated": "2026-10-18T23:44:37.802621+00:00",
   "articles": [
+    {
+      "id": "fa3f05d9463c",
+      "title": "The AI telling farmers when to harvest",
+      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 30 Sep 2026 23:02:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+          "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1b4cc4490429",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 23 Sep 2026 23:12:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
+        }
+      ],
+      "sourcesCount": 1
+    },
     {
       "id": "bb6c4ad22c88",
       "title": "Türkiyeİtalya maçının genel bilet satışı başladı",
@@ -74,6 +110,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "7122978d386e",
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 16 Sep 2026 23:18:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0564e34ee97d",
       "title": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
       "summary": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen.",
@@ -128,24 +182,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "87cd317dee17",
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 23:02:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-          "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e9db7b2bc5de",
       "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
       "summary": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
@@ -159,24 +195,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
           "summary": "With the festive season on the horizon, we trace toys from factories in China to US shelves."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b7f0a53f8832",
-      "title": "How much is the minimum wage?",
-      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-      "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 23:01:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-          "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?"
         }
       ],
       "sourcesCount": 1
@@ -236,42 +254,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f7570566a2a8",
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 17:46:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-          "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\"."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fad774142212",
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 16:47:32 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-          "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "6dd74a904613",
       "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
       "summary": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
@@ -294,13 +276,13 @@
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
       "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
       "time": "Wed, 14 Oct 2026 15:54:04 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
+          "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
           "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI."
         }
@@ -326,42 +308,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "928277f3a9d0",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 15:26:14 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-          "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "594dedfd7c70",
-      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-      "summary": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 13:45:34 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-          "summary": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8ea7da499be7",
       "title": "Wärmepumpen dominieren den Heizungsmarkt - \"Öl ist praktisch tot\"",
       "summary": "Seit Jahren sind Wärmepumpen ein Reizthema in der Politik. Trotz ständig wechselnder gesetzlicher Vorgaben boomt das Geschäft mit den klimafreundlicheren Heizungen.",
@@ -375,42 +321,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
           "summary": "Seit Jahren sind Wärmepumpen ein Reizthema in der Politik. Trotz ständig wechselnder gesetzlicher Vorgaben boomt das Geschäft mit den klimafreundlicheren Heizungen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f37f8bc9dee5",
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 12:09:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-          "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "184ed1696874",
-      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 14 Oct 2026 11:57:22 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-          "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home."
         }
       ],
       "sourcesCount": 1
@@ -447,24 +357,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/deutschland-inkontinenz-100.html",
           "summary": "Millionen Menschen leben mit Inkontinenz. Auch junge Sportlerinnen können betroffen sein."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "aae7dc9798d6",
-      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-      "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 11:04:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-          "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing."
         }
       ],
       "sourcesCount": 1
@@ -528,33 +420,15 @@
       "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
       "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
       "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "sourceName": "BBC Technology",
       "region": "international",
       "topic": "wirtschaft",
       "time": "Wed, 14 Oct 2026 08:27:17 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
+          "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
           "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "66adcbdcf2ec",
-      "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-      "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 07:18:08 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-          "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices."
         }
       ],
       "sourcesCount": 1
@@ -645,6 +519,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGSXJzZThNaFQzRjBEZG9QWE5SUzlzYzROcEFma1hXZ0sxcUEwdFJ1bGRYWVMzN0NLT29LY0ZTX01xdVdlRzhodUdqZXcydWNrX0Z3RmwxRk9tRlMzUXpWSGlmMTJ5WWw1X19MYkVQbW9Kdw?oc=5",
           "summary": "The 2026 World Cup: Sports and Conflict CSIS | Center for Strategic and International Studies"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "106f5ffcc40c",
+      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 07 Oct 2026 23:10:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+          "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum."
         }
       ],
       "sourcesCount": 1
@@ -758,6 +650,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "c253441b11fb",
+      "title": "Rainmakers: The drones used to seed clouds",
+      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 07:09:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "b24bc37d0b1e",
       "title": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide - International Testing Agency",
       "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency",
@@ -771,6 +681,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
           "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1b02c6267c03",
+      "title": "The start-ups hoping to return battery making to the US",
+      "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 29 Sep 2026 23:06:50 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+          "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials."
         }
       ],
       "sourcesCount": 1
@@ -848,6 +776,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1653672.html",
           "summary": "Gründung einer Allianz für Frauengesundheit in Berlin"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "567246dad595",
+      "title": "Spain battles climate change on several fronts",
+      "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 22 Sep 2026 09:11:48 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy."
         }
       ],
       "sourcesCount": 1
@@ -1061,24 +1007,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html",
           "summary": "Hitzewallungen, Schlafstörungen oder Gewichtszunahme - die Symptome der Wechseljahre sind vielfältig. Eine neue Studie zeigt nun: Diese Phase beginnt früher als gedacht und bringt massive Veränderungen mit sich."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5724c448c331",
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 09:34:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-          "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday."
         }
       ],
       "sourcesCount": 1
@@ -1318,6 +1246,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "922e9406515b",
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 24 Sep 2026 23:03:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+          "summary": "Where do America's X-plane projects fit in an era of cheap drones?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "01bd2cebeb35",
       "title": "Basketbol Süper Ligi'nde sezon başlıyor",
       "summary": "Türkiye Sigorta Basketbol Süper Ligi'nde 61. sezon yarın başlayacak.",
@@ -1349,6 +1295,24 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/besiktastan-avrupada-govde-gosterisi-957199.html",
           "summary": "Beşiktaş, UEFA Avrupa Ligi'nin ilk haftasında Fransız ekibi Marsilya'yı 4-1 mağlup etti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e52342f13ab4",
+      "title": "The virtual worlds where robots are trained",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 17 Sep 2026 23:00:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+          "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
         }
       ],
       "sourcesCount": 1
@@ -1498,24 +1462,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "29197592062d",
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 15 Oct 2026 17:19:49 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0344f6e810a9",
       "title": "Lunar Surface Technology - NASA (.gov)",
       "summary": "Lunar Surface Technology NASA (.gov)",
@@ -1570,24 +1516,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8c10caeeb897",
-      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-      "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 15 Oct 2026 14:55:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-          "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "364cd97854d5",
       "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
       "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
@@ -1619,24 +1547,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
           "summary": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3e64b0135523",
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 15 Oct 2026 13:25:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-          "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction."
         }
       ],
       "sourcesCount": 1
@@ -1678,24 +1588,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "36c16f32c00b",
-      "title": "Iran’s strikes on Persian Gulf water and power were deliberate - Reuters - Iran International",
-      "summary": "Iran’s strikes on Persian Gulf water and power were deliberate - Reuters Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6VWdjRTNGdG1pc3RtcXNqSjFiLTdsMnJZYXRaVXVxOEl3VXFIeUhUVjVMSGtJRVlfNjEydHBLU0NKbnBhQXNpQ0F6b0VxWUpFR2c?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 11:39:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6VWdjRTNGdG1pc3RtcXNqSjFiLTdsMnJZYXRaVXVxOEl3VXFIeUhUVjVMSGtJRVlfNjEydHBLU0NKbnBhQXNpQ0F6b0VxWUpFR2c?oc=5",
-          "summary": "Iran’s strikes on Persian Gulf water and power were deliberate - Reuters Iran International"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f0bbb6fd39ee",
       "title": "Die Mehlschwalbe ist Vogel des Jahres 2027",
       "summary": "Sie fängt Insekten im Flug und brütet in Lehmnestern mit kleinem Einflugloch: Die Mehlschwalbe ist der Vogel des Jahres 2027. Ihr Bestand gilt als bedroht, denn nicht nur Hitzewellen machen den Tieren zu schaffen.",
@@ -1718,33 +1610,15 @@
       "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
       "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "sourceName": "BBC Technology",
       "region": "international",
       "topic": "wirtschaft",
       "time": "Thu, 15 Oct 2026 11:34:55 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
+          "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
           "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d6026e549516",
-      "title": "Flexport Customs Technology Suite: The Best Inventions of 2026 - Time Magazine",
-      "summary": "Flexport Customs Technology Suite: The Best Inventions of 2026 Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVdGT0JiM0pOS0ZLTm1wOXNDOWpZUlRaNV9SVlZHNjMxR05JWjlheUp0SWEyR1BuYmJldGpZMHJLeDZOa2c3WTBab3JQTUxxYjk4SDlOd0h5SXg3bUY5UUVOR2kxblY0MEpLZ3BjYjcxcFlNLXhQRDd0TGxCakdVSHNBcExQUmw4ZU84?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 15 Oct 2026 11:29:33 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVdGT0JiM0pOS0ZLTm1wOXNDOWpZUlRaNV9SVlZHNjMxR05JWjlheUp0SWEyR1BuYmJldGpZMHJLeDZOa2c3WTBab3JQTUxxYjk4SDlOd0h5SXg3bUY5UUVOR2kxblY0MEpLZ3BjYjcxcFlNLXhQRDd0TGxCakdVSHNBcExQUmw4ZU84?oc=5",
-          "summary": "Flexport Customs Technology Suite: The Best Inventions of 2026 Time Magazine"
         }
       ],
       "sourcesCount": 1
@@ -2056,6 +1930,78 @@
       "sourcesCount": 1
     },
     {
+      "id": "5987fe721f68",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 23:28:45 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+          "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b70d92a7abe4",
+      "title": "Bombendrohung: Flugzeug von Tel Aviv nach Wien muss notlanden",
+      "summary": "Schock für 51 Passagiere einer Austrian-Airlines-Maschine: Wegen einer Bombendrohung auf dem Weg von Tel Aviv nach Wien entscheidet sich die Besatzung für eine Notlandung in der bulgarischen Hauptstadt Sofia.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bombendrohung-austrian-airlines-flug-von-tel-aviv-notlandet-in-sofia-201599348.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 23:26:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bombendrohung-austrian-airlines-flug-von-tel-aviv-notlandet-in-sofia-201599348.html",
+          "summary": "Schock für 51 Passagiere einer Austrian-Airlines-Maschine: Wegen einer Bombendrohung auf dem Weg von Tel Aviv nach Wien entscheidet sich die Besatzung für eine Notlandung in der bulgarischen Hauptstadt Sofia."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5d0e81b00d8d",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 23:24:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+          "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9aad51dd9229",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 23:20:15 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+          "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "673bd515331b",
       "title": "Real Madrid zeigt sich gegen FC Sevilla in Traumtor-Laune",
       "summary": "Arda Güler und Kylian Mbappé haben Real Madrid zu einem souveränen Sieg gegen den FC Sevilla geschossen. Die Königlichen bleiben so auf Schlagdistanz auf ihre Erzrivalen.",
@@ -2069,6 +2015,60 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/la-liga-primera-division/erst-gueler-dann-mbappe-real-zeigt-sich-in-traumtor-laune,spielbericht-real-madrid-fc-sevilla-102.html",
           "summary": "Arda Güler und Kylian Mbappé haben Real Madrid zu einem souveränen Sieg gegen den FC Sevilla geschossen. Die Königlichen bleiben so auf Schlagdistanz auf ihre Erzrivalen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4c0d6c3ed2a3",
+      "title": "Plünderungen: 160 Festnahmen bei Ausschreitungen in Mailand",
+      "summary": "Rund um den Mailänder Dom plündern vermummte Jugendliche erneut Geschäfte, die Polizei setzte Wasserwerfer und Tränengas ein. Nun will Ministerpräsidentin Meloni über weitere Maßnahmen beraten.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-mailand-meloni-beruft-sicherheitssitzung-ein-201599347.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 23:16:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-mailand-meloni-beruft-sicherheitssitzung-ein-201599347.html",
+          "summary": "Rund um den Mailänder Dom plündern vermummte Jugendliche erneut Geschäfte, die Polizei setzte Wasserwerfer und Tränengas ein. Nun will Ministerpräsidentin Meloni über weitere Maßnahmen beraten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "455fc0cf2128",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 23:06:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+          "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "27483565aba9",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 23:00:45 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+          "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows."
         }
       ],
       "sourcesCount": 1
@@ -2164,6 +2164,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "121a363ca572",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 22:22:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+          "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "20f6f37e6a54",
       "title": "Press Release: Rep. Young Kim Convenes Roundtable on Wildfire Technology Adoption - Quiver Quantitative",
       "summary": "Press Release: Rep. Young Kim Convenes Roundtable on Wildfire Technology Adoption Quiver Quantitative",
@@ -2177,24 +2195,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEZHTk5TOHFxSWdqdTNBcmJSY2EybEZ0Yi1pLVpVWTd1QUZDYTRlSVNTVW5nenNKWmlmSGFPNGxzRWdoMGhGdm1TaTdLQVMwWm10YVQxX2xzVFZmcHdybzN1dHp1eU5DeEQtb1d2ZTNZX19TNXpObGlYWV9MMnk5Sk1UbkVjX2lhOEN6OGtYVVBxc1JqX1dpUGhxZEtqNW1haTJubXVoeFE0S2xyR2s1T2huOHFpQnc?oc=5",
           "summary": "Press Release: Rep. Young Kim Convenes Roundtable on Wildfire Technology Adoption Quiver Quantitative"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9aad51dd9229",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 22:10:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-          "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
         }
       ],
       "sourcesCount": 1
@@ -2285,24 +2285,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
           "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3a3633bcbd19",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 21:37:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-          "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
         }
       ],
       "sourcesCount": 1
@@ -3290,6 +3272,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "6b4d43194231",
+      "title": "Iran Says It Secured US 14-Ton Bomb Technology, Unveils Heavy Fighter Jet Plans - Palestine Chronicle",
+      "summary": "Iran Says It Secured US 14-Ton Bomb Technology, Unveils Heavy Fighter Jet Plans Palestine Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1TMUZacTN5cmFxRWg3U2VGMVZvc2czbnhqaTVGaHZYbS1xY2lMNnRCcE9ES0c1QTgzRnVDTXZQVHphaDJPVF9zMUlLVm1zTm9KQUg5M25wTEYzRXJRVmVtd3ZVbFFyeGs5cUJTZUhoSXFwOGZpZlFicVB3ZjFvUElscTlHcDNEc0pya2xtUHJxR2tBMTFoOFNVbUo2ekVTalVLT2NYaGk4UU8tYzdCOWplZXE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 18:23:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1TMUZacTN5cmFxRWg3U2VGMVZvc2czbnhqaTVGaHZYbS1xY2lMNnRCcE9ES0c1QTgzRnVDTXZQVHphaDJPVF9zMUlLVm1zTm9KQUg5M25wTEYzRXJRVmVtd3ZVbFFyeGs5cUJTZUhoSXFwOGZpZlFicVB3ZjFvUElscTlHcDNEc0pya2xtUHJxR2tBMTFoOFNVbUo2ekVTalVLT2NYaGk4UU8tYzdCOWplZXE?oc=5",
+          "summary": "Iran Says It Secured US 14-Ton Bomb Technology, Unveils Heavy Fighter Jet Plans Palestine Chronicle"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8d8c1a0f2a13",
       "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
       "summary": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
@@ -3501,9 +3501,14 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1ppa1FaQ2pCY3ZkUUxNMWktUnNoZ2VLYjZPSXVMX3JFZnZNeUtNTHdpZHp5Q3NMQUdZMVRiZTJSMVd1NklfOVNscURjYUZKdTdpODZPVFhIdndBY3ZVRUlXUlowVUhkQ3pxUU9wY2lCNmhwQ2F1TVhuVzdMT3BPZE1GR0ZQWksyektKczlna2JjV1JwNHdubWwydDhHck92bk1KdGZ2aFRLcXNFS29qVzhkc09ELUlTbnhMM0tvbnZfVkdqVDdGcUdSUXZxZFnSAdQBQVVfeXFMTUdfeXBBcGJQaHNyWldBdGZzckVNNmwxc3drdGR1OFNpZVVhckRKbU4zT2VmYkk5QzJpLU85cmpaR0RrZWhtTmZic2NMcDlOOW9BV3hfeEdYdmJWdVZtY2tCeEtwVFc5N242QV9pcmFfQkRXNV9GRkphcTBnOXE4MUJJZ29XdS1JUDBqYXBpV2xqLUFrM2FYSldPRUc2c1dxZHNCdW41YXpZX010d3l6cm1hLVJsSEFha3pqMlJsVHNaZ1lqN0NCcGRWcmVnSGtpaThuaHk?oc=5",
           "summary": "Why RLX Technology Bears Were Right Before The Drop Simply Wall Street"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0Rla3BjVW1sNmhDREh5NGtxU0VuM0Z2dHJESThzQ3Vwc0VyRV9teTVOaFRLRVpMWjJkTFhPQ1l3RVNYaVVUTjZWZ0EzOFk3RUg1YmhOVFVDWnVNWWZYZUJ0T1llVzNyWjNrZGdqMTRvTFdJc1Z6N0RySmJFM01oV3A3NTgxQzBWNEkzbTVvUXp5ZjV5Tmd3cnp3MTkyMmNJekFwVWtMYUZHSHFjR29jZ0ZEVHp6eEVqeE1RZ082REh1M180WGxn0gHMAUFVX3lxTFBET3Z2SGc4TU5vS2o0NUlUREdCQjNYcFF3TTE2UHJvU2ZZRGxJWWJMQzgxTU5tQjM3NDlYMm1MT0dMOV9WTnRqZmNSZE1kMVY1UU1FaUxpczA2QnZsb2pGdTlUV3JpM3dpeUwzODJjX1NaaFNGV0pFaG5PbDd5dERNdDJiUDNEaFhyRU5sYVdwT21QS2J1cm9YLVVDMVFhUmt3ZXpNUS1vN0hNS2N5UkFqc1lqQWpzMUlmWUJHUkMtNVlaSGs0SjBjanlCbg?oc=5",
+          "summary": "BlackSky Technology Fell While Sales Rose Simply Wall Street"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "17e92c94b911",
@@ -3771,6 +3776,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/wdr/wdr-krefeld-pinguine-kassieren-dritte-pleite-in-serie-100.html",
           "summary": "Die Krefeld Pinguine hielten gegen Meister Berlin lange gut mit. Vor dem Tor fehlte dem Aufsteiger aber die nötige Kaltschnäuzigkeit."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3190d307aac6",
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 16:46:42 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+          "summary": "Tech firm Nscale says it is still committed to building the site in Essex."
         }
       ],
       "sourcesCount": 1
@@ -4573,24 +4596,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8965f6b17502",
-      "title": "Mörlenbach: Mann rammt fremdes Haus mit Bagger – Fassade stürzt ein",
-      "summary": "Die Bewohner des Hauses können sich rechtzeitig in Sicherheit bringen. Warum der 44 Jahre alte Tatverdächtige mit der Baggerschaufel die Fassade beschädigte, ist unklar.",
-      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/moerlenbach-mann-rammt-fremdes-haus-mit-bagger-fassade-stuerzt-ein-accg-201598474.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 18 Oct 2026 12:07:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/moerlenbach-mann-rammt-fremdes-haus-mit-bagger-fassade-stuerzt-ein-accg-201598474.html",
-          "summary": "Die Bewohner des Hauses können sich rechtzeitig in Sicherheit bringen. Warum der 44 Jahre alte Tatverdächtige mit der Baggerschaufel die Fassade beschädigte, ist unklar."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9d708c5b49b4",
       "title": "Arap Koalisyonu: Suudi Arabistan'da keşif helikopterinin düşmesi sonucu 2 asker öldü",
       "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, ülkenin Necran bölgesinde teknik arıza nedeniyle keşif helikopterinin düşmesi sonucu 2 subayın hayatını kaybettiğini duyurdu.",
@@ -4807,6 +4812,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/tennis/zverev-braucht-zeit-zum-verschnaufen,zverev-pause-weltrangliste-100.html",
           "summary": "Der designierte Weltranglistenerste Alexander Zverev freut sich nach turbulenten Wochen auf eine Ruhepause. Eine Turnierteilnahme in Wien ließ er offen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8f81c5a1ae46",
+      "title": "Gleaning group gives £1m of produce to food banks",
+      "summary": "Gleaning Cornwall warns that more funding is needed as costs rise sharply.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 18 Oct 2026 11:03:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Gleaning Cornwall warns that more funding is needed as costs rise sharply."
         }
       ],
       "sourcesCount": 1
@@ -5056,11 +5079,6 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQmxBenFpUzE4eW1QM0dnRTlMQ3lGTXZEVWJjNDdBbVVGTUJET3RtLU9QbFotdnJwQXJSb1B1aXZUS2tvb0hCd1N5SmtXSjc0d1NBS3BxaE1pRVNFSkRoUi1tR3hsc0Q4VlFyZFd0VzNuZmVTNDBBZ3lia2RGRXp4N0pwUHpOaFVBYTFiTWdTZzM0MjVxTVhOT2xncXA3cFFWVzNVYTNWY2E1amhvZjd3dzlKbnhEUjctNDJleGdEaWdjdFNHTGRJR3ZlZHlVZXFiUC1sUlFTaGpqa0xJel9LbE12OHhzWm1yR25WdW9pZ2kzWkZacFc4M1VKN2IyUXM?oc=5",
-          "summary": "Cantor Fitzgerald Investment Advisors L.P. Buys 38,962 Shares of International Business Machines Corporation $IBM MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHQzUldZcGZteDAzcUdCR20zRUFSOW9DbzEza2g0YmYtVW9LWkNEb3BVazBYbjhITW1NcUR6b0NYbkE0WktPc2M5WFJKdUthNFd6UmJna0N0UU1kVVRNMC0tNDBBSkFiekc5elo5Yy1UWDRfX18xeXBmcDJyX2s0OUZScU82VFZiY0p4eUNnYVBPdXUwb0dHQnZXWS0yeHlwdGxHSTMxem92Zm1KWjNFTnlLY1p5NTc0VGQzdWN1eTdVbmY5dTZXZUJoelM3c09DLWszMWoyaTlvZlVXeU5jLXdFN3BvMGVNbVIwUjRhWC1LdjhLV2I0?oc=5",
           "summary": "International Business Machines Corporation $IBM Stock: Milestone Asset Management LLC Decreases Holdings MarketBeat"
         },
@@ -5105,7 +5123,43 @@
           "summary": "International Business Machines Corporation $IBM Stock: Thurston Springer Miller Herd & Titak Inc. Lowers Position MarketBeat"
         }
       ],
-      "sourcesCount": 17
+      "sourcesCount": 16
+    },
+    {
+      "id": "cdcf88a0e386",
+      "title": "Is Credo Technology Group Holding (CRDO) Undervalued As OCP News Tests Its AI Story? - Yahoo Finance",
+      "summary": "Is Credo Technology Group Holding (CRDO) Undervalued As OCP News Tests Its AI Story? Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlQ0UTlKeldNQ0VjWlpvTWptUU9jTjE2bU9BUExGVFRrMFVfSXJXNjBWTFdsUDJjdGcwWjdnXy1kUTZ3OFlJd2FVVUdzaGQzMEgwdUhOdFczYlFZRDdNd0hXVEYxdElLNDRYdVVfazFBWWIwVlZYZzVpWVpPc3hzMVJKdnBYSnh2NVp4enRoV0JJLU05VVZNOE1kSjJrSTN3a3c?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 10:12:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlQ0UTlKeldNQ0VjWlpvTWptUU9jTjE2bU9BUExGVFRrMFVfSXJXNjBWTFdsUDJjdGcwWjdnXy1kUTZ3OFlJd2FVVUdzaGQzMEgwdUhOdFczYlFZRDdNd0hXVEYxdElLNDRYdVVfazFBWWIwVlZYZzVpWVpPc3hzMVJKdnBYSnh2NVp4enRoV0JJLU05VVZNOE1kSjJrSTN3a3c?oc=5",
+          "summary": "Is Credo Technology Group Holding (CRDO) Undervalued As OCP News Tests Its AI Story? Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "867e2423bc71",
+      "title": "Micron Technology (MU) Stock Is Down 24% From Its Peak. History Says $10,000 Invested Right Now Could Be Worth This Much by 2030 - Yahoo Finance",
+      "summary": "Micron Technology (MU) Stock Is Down 24% From Its Peak. History Says $10,000 Invested Right Now Could Be Worth This Much by 2030 Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGROMk1zSFJob2UzMTZxY3VMY255UklfZnlDejZnZDVxMGZJbGUwUnhxM3dzTEVjMlY3aGhEM2RFb2RZOWNMOXRrVFY0dllCQ3pfT21WZTB6NTZnQnBkbktGQkUyaEJ0c2hPT1pVWjV3TkpwOHZibXNzLU9FQk93OV9JU3B0MjRjdzd2ME51cmRhQXlUQ3gwOFRmMUM?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 10:10:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGROMk1zSFJob2UzMTZxY3VMY255UklfZnlDejZnZDVxMGZJbGUwUnhxM3dzTEVjMlY3aGhEM2RFb2RZOWNMOXRrVFY0dllCQ3pfT21WZTB6NTZnQnBkbktGQkUyaEJ0c2hPT1pVWjV3TkpwOHZibXNzLU9FQk93OV9JU3B0MjRjdzd2ME51cmRhQXlUQ3gwOFRmMUM?oc=5",
+          "summary": "Micron Technology (MU) Stock Is Down 24% From Its Peak. History Says $10,000 Invested Right Now Could Be Worth This Much by 2030 Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "d6202d6c23db",
@@ -5463,60 +5517,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/boxing/videos/cr1exjnlgv29o?at_medium=RSS&at_campaign=rss",
           "summary": "Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley to retain his WBO title in London."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "06b0b12005ec",
-      "title": "'What a finish!' - Gillespie wins gold for Ireland",
-      "summary": "Ireland's Lara Gillespie is world champion for the second season in a row after dominating the points race on the final day of competition at the UCI World Track Championships in China.",
-      "link": "https://www.bbc.co.uk/sport/cycling/videos/cjy56pk5wg54o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 18 Oct 2026 07:09:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/cycling/videos/cjy56pk5wg54o?at_medium=RSS&at_campaign=rss",
-          "summary": "Ireland's Lara Gillespie is world champion for the second season in a row after dominating the points race on the final day of competition at the UCI World Track Championships in China."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c3d38a3417bc",
-      "title": "Landleben: „Sobald das Garagentor bei einem offen ist, kannste dir’n Bierchen nehmen“",
-      "summary": "Unser Autor hatte eine glückliche Kindheit auf dem Dorf, doch seit dem Studium lebt er in der Stadt. Zur Obsternte kehrt er zurück und fragt Schulfreunde und seine Oma: Was reizt euch am Landleben?",
-      "link": "https://www.faz.net/aktuell/leben-und-aufwachsen-auf-dem-dorf-zurueck-will-er-nicht-201296718.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 06:55:47 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/leben-und-aufwachsen-auf-dem-dorf-zurueck-will-er-nicht-201296718.html",
-          "summary": "Unser Autor hatte eine glückliche Kindheit auf dem Dorf, doch seit dem Studium lebt er in der Stadt. Zur Obsternte kehrt er zurück und fragt Schulfreunde und seine Oma: Was reizt euch am Landleben?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "824ffd8b4cfd",
-      "title": "China proposes export controls on solar-manufacturing technologies - Reuters",
-      "summary": "China proposes export controls on solar-manufacturing technologies Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 06:22:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
-          "summary": "China proposes export controls on solar-manufacturing technologies Reuters"
         }
       ],
       "sourcesCount": 1
