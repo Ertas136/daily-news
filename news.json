@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:12:41.175315+00:00",
+  "updated": "2026-10-18T11:48:00.637259+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -69,6 +69,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1526922.html",
           "summary": "Nina Warken, CDU, Bundesgesundheitsministerin, zur \"Allianz Postinfektiöse Erkrankungen\""
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "187626453234",
+      "title": "FIFA’s latest crisis shows why sport needs independent oversight - Play the Game.org",
+      "summary": "FIFA’s latest crisis shows why sport needs independent oversight Play the Game.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzR4YTJvMHB5aE1MQUhMWEFuQ1VHTUdoVDBTWW9fZFJrZERnN21RODlScUc5YlhqeG5kR1pVQkhvaDhlZGR6VjQ2YVR2dXk2bnhyTWg2YkVtaWJtbS10QUgza2lEY1ZZOHBZWHlqbnhzek9VVEZ2Rl80T0trR3VqaHlqNENBZER5WlctM3Y0bDRsMC1xT0pJVUZuWUZaZzg?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzR4YTJvMHB5aE1MQUhMWEFuQ1VHTUdoVDBTWW9fZFJrZERnN21RODlScUc5YlhqeG5kR1pVQkhvaDhlZGR6VjQ2YVR2dXk2bnhyTWg2YkVtaWJtbS10QUgza2lEY1ZZOHBZWHlqbnhzek9VVEZ2Rl80T0trR3VqaHlqNENBZER5WlctM3Y0bDRsMC1xT0pJVUZuWUZaZzg?oc=5",
+          "summary": "FIFA’s latest crisis shows why sport needs independent oversight Play the Game.org"
         }
       ],
       "sourcesCount": 1
@@ -687,8 +705,8 @@
     },
     {
       "id": "e1d0b7d79ec6",
-      "title": "\"Global health is a team sport\": World Health Summit in Berlin - Euronews",
-      "summary": "\"Global health is a team sport\": World Health Summit in Berlin Euronews",
+      "title": "\"Global health is a team sport\": World Health Summit in Berlin - Euronews.com",
+      "summary": "\"Global health is a team sport\": World Health Summit in Berlin Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXN2NVNFT210cUhZRGFPWFJMVjgzZDQxT0JMRHpSbTQtdmFfZHEzXzBpUjJGVHUwdFh0V3MwTXdQejJtb1JNZzF3cWZSY3lUclIyNnk0VXZXX2I4aEsyMHYtenVhd2dRTXpmNjN4a3RZZTNES0k5a1c4eEV3SzhydzRRdVhJcWl5RmFsX2tMY0gwVTc1ZXpiTjZrYw?oc=5",
       "sourceName": "Google News – International Sport",
       "region": "international",
@@ -698,7 +716,7 @@
         {
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXN2NVNFT210cUhZRGFPWFJMVjgzZDQxT0JMRHpSbTQtdmFfZHEzXzBpUjJGVHUwdFh0V3MwTXdQejJtb1JNZzF3cWZSY3lUclIyNnk0VXZXX2I4aEsyMHYtenVhd2dRTXpmNjN4a3RZZTNES0k5a1c4eEV3SzhydzRRdVhJcWl5RmFsX2tMY0gwVTc1ZXpiTjZrYw?oc=5",
-          "summary": "\"Global health is a team sport\": World Health Summit in Berlin Euronews"
+          "summary": "\"Global health is a team sport\": World Health Summit in Berlin Euronews.com"
         }
       ],
       "sourcesCount": 1
@@ -1015,10 +1033,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "c94f49a1835a",
+      "id": "257bafaba4b6",
       "title": "Tech Life",
       "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
@@ -1026,7 +1044,7 @@
       "coverage": [
         {
           "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
           "summary": "The plan for an orbiting data centre involves linking satellites around Earth."
         },
         {
@@ -1511,24 +1529,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
           "summary": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7eb1089c3160",
-      "title": "Morocco Finishes Runner-Up at Jebel Sifah Fishing Championship - Morocco World News",
-      "summary": "Morocco Finishes Runner-Up at Jebel Sifah Fishing Championship Morocco World News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObmYtS3pwN1hyaFR5LTZPWDBtRURHTUsxQWZJM3lXMS1vWUgtdWEzS0RwelpkYmdNbHZNN1NZMU5LaXJTQnNOSElDX25SS3RGRm5UMXdGb1RIZHpJT0pLV19YQzY4ZjVLNktRRHlXV09sUEdoVExIQ3haempUYkI0cEg3enZDbnZwVnR5Ry1GSk5fWC1qRWYxTDBia19DY0UzdlVsdHhBRm1TUmUwQ2RibA?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 15 Oct 2026 20:24:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObmYtS3pwN1hyaFR5LTZPWDBtRURHTUsxQWZJM3lXMS1vWUgtdWEzS0RwelpkYmdNbHZNN1NZMU5LaXJTQnNOSElDX25SS3RGRm5UMXdGb1RIZHpJT0pLV19YQzY4ZjVLNktRRHlXV09sUEdoVExIQ3haempUYkI0cEg3enZDbnZwVnR5Ry1GSk5fWC1qRWYxTDBia19DY0UzdlVsdHhBRm1TUmUwQ2RibA?oc=5",
-          "summary": "Morocco Finishes Runner-Up at Jebel Sifah Fishing Championship Morocco World News"
         }
       ],
       "sourcesCount": 1
@@ -2164,6 +2164,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "b1f186fb4b40",
+      "title": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
+      "summary": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem.",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 13:18:25 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
+          "summary": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "27a275a444ca",
+      "title": "Kompletter Medaillensatz für deutsches Bahnrad-Team",
+      "summary": "Zum Abschluss der Bahnrad-WM in Shanghai hat Tim Torn Teutenberg Gold im Ausscheidungsfahren gewonnen. Zwei weitere Medaillen gingen nach Deutschland.",
+      "link": "https://www.sportschau.de/radsport/bahnrad/kompletter-medaillensatz-fuer-deutsches-bahnrad-team,bahnrad-wm-sonntag-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "local",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 13:17:53 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/radsport/bahnrad/kompletter-medaillensatz-fuer-deutsches-bahnrad-team,bahnrad-wm-sonntag-100.html",
+          "summary": "Zum Abschluss der Bahnrad-WM in Shanghai hat Tim Torn Teutenberg Gold im Ausscheidungsfahren gewonnen. Zwei weitere Medaillen gingen nach Deutschland."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4ecca55330de",
       "title": "Keine Punkte, keine Leistung - Schalke macht sich Sorgen",
       "summary": "Der FC Schalke 04 zeigt gegen Mainz 05 die schwächste Saisonleistung. Die Alarmglocken schrillen bei allen Beteiligten.",
@@ -2177,6 +2213,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
           "summary": "Der FC Schalke 04 zeigt gegen Mainz 05 die schwächste Saisonleistung. Die Alarmglocken schrillen bei allen Beteiligten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "451f4b446011",
+      "title": "Papst spricht Angelus-Gebet vor Tausenden Gläubigen",
+      "summary": "Leo XIV. hat fünf Tage nach seiner Lungen-OP das Angelus-Gebet gesprochen - und für die Unterstützung gedankt.",
+      "link": "https://www.zdfheute.de/panorama/papst-lungen-op-angelus-gebet-petersplatz-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 12:31:33 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/papst-lungen-op-angelus-gebet-petersplatz-100.html",
+          "summary": "Leo XIV. hat fünf Tage nach seiner Lungen-OP das Angelus-Gebet gesprochen - und für die Unterstützung gedankt."
         }
       ],
       "sourcesCount": 1
@@ -2295,6 +2349,78 @@
       "sourcesCount": 1
     },
     {
+      "id": "ea8b0ce44532",
+      "title": "Umworbene Pflegekräfte: „Kein Krankenhaus funktioniert ohne Leiharbeit“",
+      "summary": "Leiharbeitsunternehmen werben zunehmend Pflegekräfte an Kliniken ab. Für Krankenhäuser, die die Personallücken dann mit teuren Zeitarbeitskräften schließen müssen, ist dies ein finanzielles Desaster.",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/leiharbeit-in-krankenhaeusern-warum-kliniken-ohne-zeitarbeit-kaum-auskommen-accg-201528191.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 18 Oct 2026 11:32:39 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/leiharbeit-in-krankenhaeusern-warum-kliniken-ohne-zeitarbeit-kaum-auskommen-accg-201528191.html",
+          "summary": "Leiharbeitsunternehmen werben zunehmend Pflegekräfte an Kliniken ab. Für Krankenhäuser, die die Personallücken dann mit teuren Zeitarbeitskräften schließen müssen, ist dies ein finanzielles Desaster."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "accd57d2747d",
+      "title": "Rocket or scramjet? The technology behind hypersonic missile propulsion - Interesting Engineering",
+      "summary": "Rocket or scramjet? The technology behind hypersonic missile propulsion Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenE1di1jWjQwU2N3YkZ0cmR6SXFma2RobUtQYVl2WWFMUjVHa3lqZVQzcE1idXlHUklNTGhzS2NFS240VTR3bzJtR1dLdjJOZU5KYVRfbVNFakJhUmFReWN3ekFyR1ByVnp3a0NHOFB1X18wbUZXcVpydFpNZnJzNnU5NnlFSWV3ejZxRw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 11:32:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenE1di1jWjQwU2N3YkZ0cmR6SXFma2RobUtQYVl2WWFMUjVHa3lqZVQzcE1idXlHUklNTGhzS2NFS240VTR3bzJtR1dLdjJOZU5KYVRfbVNFakJhUmFReWN3ekFyR1ByVnp3a0NHOFB1X18wbUZXcVpydFpNZnJzNnU5NnlFSWV3ejZxRw?oc=5",
+          "summary": "Rocket or scramjet? The technology behind hypersonic missile propulsion Interesting Engineering"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4292e4e33825",
+      "title": "Ü-80-Weltmeister: Wir sind wieder wer!",
+      "summary": "Da sage noch mal einer, der deutsche Fußball sähe alt aus: Die Ü-80-Auswahl wird in Australien Weltmeister. Doch für die Zukunft sei an eine alte Prognose von Franz Beckenbauer erinnert.",
+      "link": "https://www.faz.net/aktuell/sport/fussball/deutschland-ist-ue-80-weltmeister-wir-sind-wieder-wer-glosse-201597983.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 18 Oct 2026 11:30:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/fussball/deutschland-ist-ue-80-weltmeister-wir-sind-wieder-wer-glosse-201597983.html",
+          "summary": "Da sage noch mal einer, der deutsche Fußball sähe alt aus: Die Ü-80-Auswahl wird in Australien Weltmeister. Doch für die Zukunft sei an eine alte Prognose von Franz Beckenbauer erinnert."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "90be9d97ad77",
+      "title": "France faces aftermath of worst unrest in years - Reuters",
+      "summary": "France faces aftermath of worst unrest in years Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 11:14:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
+          "summary": "France faces aftermath of worst unrest in years Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c6d2a704fce6",
       "title": "Türkiye'nin ticari araç ihracatı 5 milyar doları aştı",
       "summary": "Türkiye'nin hafif ticari araç, kamyonet ve kamyon grubunu kapsayan 'eşya taşımaya mahsus motorlu taşıtlar' ihracatı, ocak-eylül döneminde 5 milyar 185 milyon 578 bin dolar oldu. Hafif ticari araç, kamyonet ve kamyon ihracatında en çok dış satım Birleşik Krallık'a yapıldı.",
@@ -2333,7 +2459,7 @@
     {
       "id": "dd08f8d0736a",
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "summary": "Leo's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
       "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
       "region": "international",
@@ -2343,15 +2469,10 @@
         {
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Leo's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace."
-        },
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
-          "summary": "Pope Leo greets crowds at Vatican in first event since cancer surgery Reuters"
+          "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace."
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "0c23a61088ff",
@@ -2367,6 +2488,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/emniyet-ve-jandarma-ekipleri-gecmis-yillara-ait-60-cinayeti-aydinlatti-960454.html",
           "summary": "Emniyet ve jandarma ekiplerinin çalışmalarıyla bu sene geçmiş yıllara ait 60 cinayet aydınlatıldı. İçişleri Bakanı Mustafa Çiftçi, \"Cinayet işleyip izini kaybettirdiğini, aradan zaman geçtiği için artık bulunamayacağını düşünenler büyük bir yanılgı içerisinde\" mesajını paylaştı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a8f2b643af63",
+      "title": "Business Technology News: A New Copilot App Includes Word And Excel - Forbes",
+      "summary": "Business Technology News: A New Copilot App Includes Word And Excel Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXNtSEhJYTduam14enl4R3lzbkNTOWhDa0xVanJUT2tCa05sQ0lGUkZCMGpQR0VNdFlhTjFVUjA2aGc4Y0l3cXQwcE41bzgyN0RIV2RRQmliSzltS0xjVWRGSmhDa0ZlcUs5QUVqZ3hoT0V5UmRwQmRXcTVxSVFBN001ZjAtMW8wM0g5anZGMEo0Mk5OWTg3Wkl1T212Szc2djliYlY4bzhVZEVScVIxYlJKNFkyTmN6aWJlUC05dXJtdDg?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 11:05:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXNtSEhJYTduam14enl4R3lzbkNTOWhDa0xVanJUT2tCa05sQ0lGUkZCMGpQR0VNdFlhTjFVUjA2aGc4Y0l3cXQwcE41bzgyN0RIV2RRQmliSzltS0xjVWRGSmhDa0ZlcUs5QUVqZ3hoT0V5UmRwQmRXcTVxSVFBN001ZjAtMW8wM0g5anZGMEo0Mk5OWTg3Wkl1T212Szc2djliYlY4bzhVZEVScVIxYlJKNFkyTmN6aWJlUC05dXJtdDg?oc=5",
+          "summary": "Business Technology News: A New Copilot App Includes Word And Excel Forbes"
         }
       ],
       "sourcesCount": 1
@@ -2516,6 +2655,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a1c6c757a255",
+      "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports - Reuters",
+      "summary": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 10:47:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
+          "summary": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ab486d695384",
       "title": "\"Keine Spitzenmannschaft\" - VfB Stuttgart fehlt der Flow",
       "summary": "Nach dem späten 0:1 beim HSV nimmt Kapitän Deniz Undav den VfB Stuttgart in die Pflicht. Vor dem Atlético-Kracher am Dienstag fehlt den Schwaben der Flow.",
@@ -2568,6 +2725,29 @@
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "300c8701878b",
+      "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
+      "summary": "Pope Leo pledges gradual return to duties in first event since cancer surgery Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 10:39:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+          "summary": "Pope Leo pledges gradual return to duties in first event since cancer surgery Reuters"
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
+          "summary": "Pope Leo returns to Vatican four days after cancer surgery Reuters"
+        }
+      ],
+      "sourcesCount": 2
     },
     {
       "id": "464c0bbc63d7",
@@ -2678,24 +2858,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7d93321a4122",
-      "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict - Reuters",
-      "summary": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 18 Oct 2026 10:17:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
-          "summary": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ffe4fd0b5cf1",
       "title": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports - Stocktwits",
       "summary": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports Stocktwits",
@@ -2748,13 +2910,13 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLTVzNTVMdzkzYkp0aXkyTC1WT2l4b0R6NzdyTzdXZmJ1RHpxVmhVT1E0YVdZMGh0RmppbEJFZTJCZnNvSEwyd2ZRS1ZiREdnT0lWY1RXblp2dnJYNnFCWUhiWWxKVC1uTnpHVXNRVE9KdDFjWW5aT0JrWFR0OTh3S3E2RGZvanBDMlQ5bEZTTUROYkF5bHhCc1Z1NWlQMFFnWTh1TDNGaUJXV0ZHbk5sQ3hnRTNxNTA4UThiWmNyd2JIaUJxSk93dTc1T2RBU1lTdmRfOUttclI5LUxnN0xRNmhQSVI?oc=5",
-          "summary": "SteelPeak Wealth LLC Buys 50,406 Shares of International Business Machines Corporation $IBM MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclBzWWtTRWtDVWlSU3pWY1daVmVnZW81ZU10NFdtcDd5U29iM2JLR3hPeTZSLXl1a1ViT1BYdFZnQUhmYmRUZlNlNFB0V0tjaTRmaEZmdVN2SkhBMFRxak80S3NJd3dxaUx5MnNBNkFsQWJ4ZG1mRmFnSVA2VU1NLTZDUWVrMURaQXZWYldyVVBCZkcxQWM5VTZ5OFlwU3N5cTJDeVIwNFliYjRyc2Z1WGdsWjVqSi1WdzI2bWdFVXBweUpxcXZlUXltWHREYnRqVGxZTkNYemJkU2RkTHF4TmM0eWNsdDdG?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock Bought by Onyx Bridge Wealth Group LLC MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclBzWWtTRWtDVWlSU3pWY1daVmVnZW81ZU10NFdtcDd5U29iM2JLR3hPeTZSLXl1a1ViT1BYdFZnQUhmYmRUZlNlNFB0V0tjaTRmaEZmdVN2SkhBMFRxak80S3NJd3dxaUx5MnNBNkFsQWJ4ZG1mRmFnSVA2VU1NLTZDUWVrMURaQXZWYldyVVBCZkcxQWM5VTZ5OFlwU3N5cTJDeVIwNFliYjRyc2Z1WGdsWjVqSi1WdzI2bWdFVXBweUpxcXZlUXltWHREYnRqVGxZTkNYemJkU2RkTHF4TmM0eWNsdDdG?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock Bought by Onyx Bridge Wealth Group LLC MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLTVzNTVMdzkzYkp0aXkyTC1WT2l4b0R6NzdyTzdXZmJ1RHpxVmhVT1E0YVdZMGh0RmppbEJFZTJCZnNvSEwyd2ZRS1ZiREdnT0lWY1RXblp2dnJYNnFCWUhiWWxKVC1uTnpHVXNRVE9KdDFjWW5aT0JrWFR0OTh3S3E2RGZvanBDMlQ5bEZTTUROYkF5bHhCc1Z1NWlQMFFnWTh1TDNGaUJXV0ZHbk5sQ3hnRTNxNTA4UThiWmNyd2JIaUJxSk93dTc1T2RBU1lTdmRfOUttclI5LUxnN0xRNmhQSVI?oc=5",
+          "summary": "SteelPeak Wealth LLC Buys 50,406 Shares of International Business Machines Corporation $IBM MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
@@ -2881,6 +3043,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "85ed8d56b3a1",
+      "title": "World Bank says ‘small AI’ could transform developing countries - The Guardian",
+      "summary": "World Bank says ‘small AI’ could transform developing countries The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 18 Oct 2026 10:01:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
+          "summary": "World Bank says ‘small AI’ could transform developing countries The Guardian"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9d95d03d4771",
       "title": "Bahnrad-WM: „Zwei Medaillen in 24 Stunden – das ist ein absoluter Traum“",
       "summary": "Gold für Tim Torn Teutenberg und Pauline Grabosch: Das deutsche Bahnrad-Team überzeugt bei der WM in Shanghai und jubelt ausgelassen. Dennoch bleiben Baustellen vor Olympia in Los Angeles.",
@@ -2935,26 +3115,8 @@
       "sourcesCount": 1
     },
     {
-      "id": "90be9d97ad77",
-      "title": "France faces aftermath of worst unrest in years - Reuters",
-      "summary": "France faces aftermath of worst unrest in years Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 09:51:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-          "summary": "France faces aftermath of worst unrest in years Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "49171e353759",
-      "title": "Freundschaften heute: Wo bleibt die Nähe?",
+      "title": "Catch-Up-Culture: Warum in Freundschaften heute die Nähe fehlt",
       "summary": "Wir sehen uns bei allem online zu, in echt dafür aber immer weniger. Dabei brauchen wahre Freundschaften mehr Zeit als zweistündige Café-Dates alle paar Monate.",
       "link": "https://www.faz.net/aktuell/besser-leben/warum-in-freundschaften-heute-die-naehe-fehlt-und-was-es-dafuer-braucht-accg-201184081.html",
       "sourceName": "FAZ",
@@ -3305,6 +3467,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e0791ab19bb0",
+      "title": "\"Aus mir herausgebrochen\" - Freigang äußert sich zu Tränen beim DFB",
+      "summary": "Im Verfolger-Duell mit Leverkusen stand Eintracht-Kapitänin Laura Freigang ganz besonders im Fokus. Nicht nur wegen ihres Treffers, sondern weil sie sich bei der Nationalmannschaft zuletzt von einer emotionalen Seite gezeigt hatte.",
+      "link": "https://www.sportschau.de/regional/hr/hr-aus-mir-herausgebrochen-freigang-aeussert-sich-zu-traenen-beim-dfb-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 18 Oct 2026 08:30:01 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/hr/hr-aus-mir-herausgebrochen-freigang-aeussert-sich-zu-traenen-beim-dfb-100.html",
+          "summary": "Im Verfolger-Duell mit Leverkusen stand Eintracht-Kapitänin Laura Freigang ganz besonders im Fokus. Nicht nur wegen ihres Treffers, sondern weil sie sich bei der Nationalmannschaft zuletzt von einer emotionalen Seite gezeigt hatte."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a2dd470bc8f9",
       "title": "Deutschland Liveblog: Junge Union fordert Ächtung der Koalition in Berlin",
       "summary": "Auch Söder unterstützt den Antrag der JU +++ Berlins CDU-Landeschef Evers nennt Sondierungspapier „Kapitulationserklärung“ +++ Özdemir rät Landesverband von Regierungsbildung mit Linken ab +++ alle Entwicklungen im Liveblog",
@@ -3318,24 +3498,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-junge-union-fordert-aechtung-der-koalition-in-berlin-faz-110093143.html",
           "summary": "Auch Söder unterstützt den Antrag der JU +++ Berlins CDU-Landeschef Evers nennt Sondierungspapier „Kapitulationserklärung“ +++ Özdemir rät Landesverband von Regierungsbildung mit Linken ab +++ alle Entwicklungen im Liveblog"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c4612f13168d",
-      "title": "Männlichkeitskulte: Das Ende der Alphas",
-      "summary": "Fitness führt nicht zu Faschismus. Fitness ist das Vehikel, mit dem die Empfänglichen rekrutiert werden.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/julia-ebner-von-fitness-zu-faschismus-accg-201339360.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 08:20:46 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/julia-ebner-von-fitness-zu-faschismus-accg-201339360.html",
-          "summary": "Fitness führt nicht zu Faschismus. Fitness ist das Vehikel, mit dem die Empfänglichen rekrutiert werden."
         }
       ],
       "sourcesCount": 1
@@ -3539,24 +3701,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8bcc211a442c",
-      "title": "Historiker Roeck im Interview: „Wallenstein war ein geschickter Gewaltunternehmer“",
-      "summary": "Der Historiker Bernd Roeck über Geld und Gewalt im Dreißigjährigen Krieg, Wallensteins unternehmerisches Talent – und die beklemmende Aktualität einer brutalen Epoche.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/bernd-roeck-im-interview-wallenstein-war-ein-geschickter-gewaltunternehmer-accg-201289454.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 07:28:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/bernd-roeck-im-interview-wallenstein-war-ein-geschickter-gewaltunternehmer-accg-201289454.html",
-          "summary": "Der Historiker Bernd Roeck über Geld und Gewalt im Dreißigjährigen Krieg, Wallensteins unternehmerisches Talent – und die beklemmende Aktualität einer brutalen Epoche."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7305bfdaf900",
       "title": "Das digitale Lügennetz eines skrupellosen Mörders",
       "summary": "Luke D'Wit spielte den besorgten Freund eines Ehepaars, gab sich aber auch als Ärztin aus. Mit Lügen und digitalen Tricks manipulierte er Carol und Stephen Baxter bis in den Tod.",
@@ -3651,13 +3795,13 @@
       "title": "China proposes export controls on solar-manufacturing technologies - Reuters",
       "summary": "China proposes export controls on solar-manufacturing technologies Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
-      "sourceName": "Google News – International Technology",
+      "sourceName": "Google News – Reuters",
       "region": "international",
       "topic": "technologie",
       "time": "Sun, 18 Oct 2026 06:22:00 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
+          "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
           "summary": "China proposes export controls on solar-manufacturing technologies Reuters"
         }
@@ -3989,14 +4133,9 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUF9SQno2cGlxbkpvNHdXeTQycHJDUXRuQzg3N3ZGdTJHV0RWTDVIT2ZrVnIybU5IS3lQb1VpTmJGSnBXY3d1bGRVZ01hTWVmeEVLTDdNOUxzb3dyaDRZV3hMNzFiWTQ2VlNMR19Denk0QkZ0OHV6U0tGdy01TXdpY2hKRmVxcUdaZTJKU2h4Q2x6dmJ4SGdCZ25BV2lSUEsyRWtGUDNBRVppSUI3OW5URnpKNW1scG5mdGo0Sk9YYVVWMVFRQ0I0Q01pNDl1ZmV2dUtCZVB4TdIB3AFBVV95cUxPSGZUUzd6dXdQQmlxMmNEY0hUQnJmS1pvSTc5aG01bzhmOUk4aTludE8zMy1WQ3duN2lpNmQydzNQVW9UN3RNTUdEUmpna2wtWHh5cUttTkMxWDhsbUx5Zm9mNWR5aE1ZUGtZaW5iSnFuWFp6QVhKQzdGTmhuVUZkem5uQ0hlc0VmMHo5MUkxQ0gyemhnckpBam14NXA2Zm1vSEY3cks3ckhUWVNkYnRNSGhpVmJfdElzYVNUOGVScTM4Y05TUEduUF9abHE2RDhyWEpPdXdrT2h0b05p?oc=5",
           "summary": "Micron Technology (MU) Confirms Its Dividend, Is The Stock Fully Priced? Simply Wall Street"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWE1R2d2cm5PWE51c1RfTFNaSkpTdHZUNU0xZWhfOWFoNTk5c05RRUJKOXBWRHlGWU1LbzZLeTdkMjhfUGFSR0dSbkthMkJkQmtMbTRjRDk4WUwzdHA1N0duRUJ0RElha1VqQ0tmazVERklZZ3MzOGgzdThYdUNnOGQ3aFp1UWhlVHhkMW54YjRyQVhTd0UySWNINTQ4dmt4RHFYZGpwVG0wMlNkNnIwUkg1ckJuNDVuT0IxTHRwY2JCOTh2WXpjdGN30gHPAUFVX3lxTFB5aXJKcEdZN2FKemJfRC0wWDNud0dSb0MtLUJfY3FYbzdRZjNCbmswWXFscFYzMWJDWkVrOVUwSndsWEV0STd0UVFUUHl6Vl9jblpYdE8wajluUVYxOFM5N3Vncmc0NEJfUXFkZ1cxWFRIVC1ySlZ2LUpMdUtDZ0trcEZKdGs5Nk1JeldPTTVBUzJjUENYWjZ4YU0zNEtTdzJ6RDR5ZFN1ODU5UWY5bzVpVVB2ZzY0OS1SOTZkN2JqVThON1ZBZjBNdDdHS1pkYw?oc=5",
-          "summary": "DXC Technology (DXC) Following Its LangChain AI Deal, Is The Valuation Story Running Ahead? Simply Wall Street"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "4d25b6922233",
@@ -4108,7 +4247,7 @@
     },
     {
       "id": "459e2e33c045",
-      "title": "Rain returns as South Africa bat against Australia - second Test scorecard",
+      "title": "Boland strikes as South Africa bat against Australia - scorecard",
       "summary": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -4364,42 +4503,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7c88e79adea8",
-      "title": "Rangers 'pop balloon' as Neil gift wastes chance to go top",
-      "summary": "Rangers were full of positive energy as they made the trip to Dundee on the back of seven straight wins. However, a Dan Neil error felt \"like a balloon popping\", says Derek McInnes.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 17 Oct 2026 22:29:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Rangers were full of positive energy as they made the trip to Dundee on the back of seven straight wins. However, a Dan Neil error felt \"like a balloon popping\", says Derek McInnes."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3a0462414bb2",
-      "title": "Trump-Zelenskiy rift threatens vital support for Kyiv - Reuters",
-      "summary": "Trump-Zelenskiy rift threatens vital support for Kyiv Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS1zSXlGaS1sbWV1RHJiN2s1S1o5WWQxY01nZmh0ZVA2ZHo3cEZ0NUhERFZFT2kzT0FPQXgxVmFqNzhlNUNtNFB1WkFENHZEU2xKdWRuYmt5ZUhTcUJrY1ktbXEtSU1mOGUyZkxYOVF6Y1hqYkFZSGJuZ2s4MWZ1NmRZY09kQThIZXlndE1GRFlIVkNvTWFzbUxhaDJaNEE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 17 Oct 2026 22:27:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS1zSXlGaS1sbWV1RHJiN2s1S1o5WWQxY01nZmh0ZVA2ZHo3cEZ0NUhERFZFT2kzT0FPQXgxVmFqNzhlNUNtNFB1WkFENHZEU2xKdWRuYmt5ZUhTcUJrY1ktbXEtSU1mOGUyZkxYOVF6Y1hqYkFZSGJuZ2s4MWZ1NmRZY09kQThIZXlndE1GRFlIVkNvTWFzbUxhaDJaNEE?oc=5",
-          "summary": "Trump-Zelenskiy rift threatens vital support for Kyiv Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "80a1544a6a14",
       "title": "La Liga: FC Barcelona gewinnt Spektakel bei Real Betis Sevilla",
       "summary": "Neun Spiele, neun Siege: Die Bilanz des FC Barcelona in La Liga bleibt makellos. Das Spitzenspiel bei Real Betis entwickelte sich zum Spektakel.",
@@ -4413,6 +4516,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/la-liga-primera-division/barcelona-gewinnt-spektakel-bei-real-betis,spielbericht-betis-sevilla-fc-barcelona-100.html",
           "summary": "Neun Spiele, neun Siege: Die Bilanz des FC Barcelona in La Liga bleibt makellos. Das Spitzenspiel bei Real Betis entwickelte sich zum Spektakel."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "26a10e43722c",
+      "title": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say - Reuters",
+      "summary": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 17 Oct 2026 22:10:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5",
+          "summary": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4521,6 +4642,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5",
           "summary": "Albanian police fire rubber bullets as student protests rage Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9013d1d260df",
+      "title": "Bath loss rounds off tough day for Prem clubs in Champions Cup",
+      "summary": "Montpellier score 22 second-half points without reply to beat Bath on the opening weekend of the Champions Cup.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c370pxwklgwjo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 17 Oct 2026 21:02:25 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c370pxwklgwjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Montpellier score 22 second-half points without reply to beat Bath on the opening weekend of the Champions Cup."
         }
       ],
       "sourcesCount": 1
@@ -4657,24 +4796,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "9b7052bbaa08",
-      "title": "Wirtz delivers but remains Liverpool's conundrum",
-      "summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 17 Oct 2026 20:07:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
-          "summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e6a548f00b88",
       "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
       "summary": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer.",
@@ -4706,24 +4827,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
           "summary": "US-Präsident Trump setzt geplante Russland-Sanktionen aus - während Angriffe auf die Infrastruktur laut dem ukrainischen Staatschef Selenskyj zunehmen. Er warnt, Trumps Entscheidung werde Moskau nur weiter bestärken."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "464fc21ac92a",
-      "title": "Goodyear technology chief receives leadership award - Your Valley",
-      "summary": "Goodyear technology chief receives leadership award Your Valley",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYm1EbkpXOWZOaVgyZDZ4ZUNYZ0xuZW9wQ3VnQnAzRnJrbVdiQmU4ZXB5NFdPc0szWEdydkNQVGhRWk9NdW5pRTNkSjhtNXJDQl9Ea0xlOWVKeGdITkRtS2pacFJpN1czNE1qY1RKSzg1Yy0yN25mS3JVdm5mSGlWaC1MVW9uRGtvdGhRN19zbXJPMVd1d0NJN1R0TVczLWpmZjBWVlNnNmNra19lMm8wdUduTW9sOG9POTBiR2lR?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 17 Oct 2026 19:24:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYm1EbkpXOWZOaVgyZDZ4ZUNYZ0xuZW9wQ3VnQnAzRnJrbVdiQmU4ZXB5NFdPc0szWEdydkNQVGhRWk9NdW5pRTNkSjhtNXJDQl9Ea0xlOWVKeGdITkRtS2pacFJpN1czNE1qY1RKSzg1Yy0yN25mS3JVdm5mSGlWaC1MVW9uRGtvdGhRN19zbXJPMVd1d0NJN1R0TVczLWpmZjBWVlNnNmNra19lMm8wdUduTW9sOG9POTBiR2lR?oc=5",
-          "summary": "Goodyear technology chief receives leadership award Your Valley"
         }
       ],
       "sourcesCount": 1
@@ -4819,24 +4922,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0a7e738b1fd0",
-      "title": "Papst Leo XIV. nach Lungenoperation zurück im Vatikan",
-      "summary": "Leo XIV. ist zurück im Vatikan: Der Papst hat vier Tage nach einer Lungenkrebs-Operation das Krankenhaus verlassen.",
-      "link": "https://www.zdfheute.de/panorama/prominente/papst-leo-rueckkehr-vatikan-krankenhaus-entlassung-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 17 Oct 2026 19:05:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/prominente/papst-leo-rueckkehr-vatikan-krankenhaus-entlassung-100.html",
-          "summary": "Leo XIV. ist zurück im Vatikan: Der Papst hat vier Tage nach einer Lungenkrebs-Operation das Krankenhaus verlassen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "df2c8b3c46fc",
       "title": "Liverpool come from behind to beat nine-man Brentford",
       "summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
@@ -4927,6 +5012,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e84ef92ec59c",
+      "title": "Seven-try Connacht beat Saracens in Champions Cup",
+      "summary": "Connacht produce a superb attacking performance to beat Saracens in their opening Champions Cup pool game.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr86zgpyz464o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 17 Oct 2026 18:33:05 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cr86zgpyz464o?at_medium=RSS&at_campaign=rss",
+          "summary": "Connacht produce a superb attacking performance to beat Saracens in their opening Champions Cup pool game."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "7435f1f5d825",
       "title": "Apple bets on the same Siri AI technology with new HomeView device that led to a $250M settlement for iPhone users - Yahoo Finance",
       "summary": "Apple bets on the same Siri AI technology with new HomeView device that led to a $250M settlement for iPhone users Yahoo Finance",
@@ -4940,42 +5043,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGh1MjdWNklWVWFKTjRsNDhxNG1QelE3MG1PVms0REFHXzdJQjhzV3c5ellERnVSa2F5aE9vUVhhdlRaWEszelg4TERLZng5QzRmT2MxRzlIdjZoY1pIZDVsYVJIamktQ3ZneUdXakE5aXA2aGRpc0l5ZHV4WVIycTVmOEE0X3ZCa205SGtlaXY?oc=5",
           "summary": "Apple bets on the same Siri AI technology with new HomeView device that led to a $250M settlement for iPhone users Yahoo Finance"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "95551302b3d2",
-      "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
-      "summary": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
-      "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 17 Oct 2026 18:28:04 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-          "summary": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "65953ec51da5",
-      "title": "Pope Leo returns to Vatican four days after cancer surgery - Reuters",
-      "summary": "Pope Leo returns to Vatican four days after cancer surgery Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 17 Oct 2026 18:25:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
-          "summary": "Pope Leo returns to Vatican four days after cancer surgery Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5210,24 +5277,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-yedi-gunluk-programi-acikladik-secim-abdnin-960423.html",
           "summary": "İran Dışişleri Bakanı Abbas Arakçi, ülkesinin Hürmüz Boğazı’nın açılması için öne sürdüğü şartlara ilişkin, “Yedi günlük programı açıkladık, seçim ABD'nin.” dedi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bb9675d1951e",
-      "title": "Wolfsburg gewinnt rasantes Chancen-Festival gegen Heidenheim",
-      "summary": "Der VfL Wolfsburg hat ein unterhaltsames Absteiger-Duell in der 2. Fußball-Bundesliga gegen den 1.",
-      "link": "https://www.sportschau.de/fussball/bundesliga2/wolfsburg-gewinnt-rasantes-chancen-festival-gegen-heidenheim,spielbericht-vfl-wolfsburg-heidenheim-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Sat, 17 Oct 2026 15:38:57 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga2/wolfsburg-gewinnt-rasantes-chancen-festival-gegen-heidenheim,spielbericht-vfl-wolfsburg-heidenheim-102.html",
-          "summary": "Der VfL Wolfsburg hat ein unterhaltsames Absteiger-Duell in der 2. Fußball-Bundesliga gegen den 1."
         }
       ],
       "sourcesCount": 1
@@ -5498,60 +5547,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/manisadaki-otobus-kazasinda-can-kaybi-12ye-yukseldi-960409.html",
           "summary": "Manisa'nın Akhisar ilçesinde 11 kişinin öldüğü, 27 kişinin yaralandığı kazada ağır yaralanan yaşlı kadın, tedavi gördüğü hastanede hayatını kaybetti. Kazada ölü sayısı 12'ye yükseldi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "08d39329566c",
-      "title": "Infantinos Verbündeter ist jetzt auch Finanzminister",
-      "summary": "Marokkos Fußballpräsident Fouzi Lekjaa ist nun auch Finanzminister. Der Unterstützer Infantinos gewinnt an Macht, dabei legt die FIFA auf dem Papier Wert auf die Trennung von Sport und Politik.",
-      "link": "https://www.sportschau.de/fussball/infantinos-verbuendeter-ist-jetzt-auch-finanzminister,marokko-fifa-lekjaa-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sat, 17 Oct 2026 13:13:42 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/infantinos-verbuendeter-ist-jetzt-auch-finanzminister,marokko-fifa-lekjaa-100.html",
-          "summary": "Marokkos Fußballpräsident Fouzi Lekjaa ist nun auch Finanzminister. Der Unterstützer Infantinos gewinnt an Macht, dabei legt die FIFA auf dem Papier Wert auf die Trennung von Sport und Politik."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1c57217765bd",
-      "title": "Erfolg in Sondierungen: Rot-grün-rotes Pharisäertum",
-      "summary": "Im peinlichen Ringen um eine neue Berliner Landesregierung versteckt sich mehr als Provinztheater. Es geht um Machtoptionen für den Bund.",
-      "link": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-in-berlin-ein-lehrstueck-in-politischem-pharisaeertum-201340119.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sat, 17 Oct 2026 13:09:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-in-berlin-ein-lehrstueck-in-politischem-pharisaeertum-201340119.html",
-          "summary": "Im peinlichen Ringen um eine neue Berliner Landesregierung versteckt sich mehr als Provinztheater. Es geht um Machtoptionen für den Bund."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "15e63d9310ee",
-      "title": "Mahkeme salonunda çekilen görüntülere soruşturma",
-      "summary": "İstanbul 33. Ağır Ceza Mahkemesindeki \"İmamoğlu çıkar amaçlı suç örgütüne\" ilişkin davanın duruşmaları sırasında çekilen görüntüleri sosyal medya hesaplarında paylaşan kişiler hakkında soruşturma başlatıldı.",
-      "link": "https://www.trthaber.com/haber/turkiye/mahkeme-salonunda-cekilen-goruntulere-sorusturma-960407.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 17 Oct 2026 13:05:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/mahkeme-salonunda-cekilen-goruntulere-sorusturma-960407.html",
-          "summary": "İstanbul 33. Ağır Ceza Mahkemesindeki \"İmamoğlu çıkar amaçlı suç örgütüne\" ilişkin davanın duruşmaları sırasında çekilen görüntüleri sosyal medya hesaplarında paylaşan kişiler hakkında soruşturma başlatıldı."
         }
       ],
       "sourcesCount": 1
