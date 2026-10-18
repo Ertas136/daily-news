@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:11:32.656470+00:00",
+  "updated": "2026-10-18T21:49:24.191247+00:00",
   "articles": [
     {
       "id": "bb6c4ad22c88",
@@ -488,24 +488,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "119bec1f9587",
-      "title": "Wohnungsnot bei Studierenden",
-      "summary": "In Heidelberg ist bezahlbarer Wohnraum für Studierende knapp. Privatpersonen werden aufgerufen, Zimmer auf Zeit zur Verfügung zu stellen.",
-      "link": "https://www.zdfheute.de/video/deutschland-studierende-wohnungsnot-100.html",
-      "sourceName": "ZDF",
-      "region": "local",
-      "topic": "wissenschaft",
-      "time": "Wed, 14 Oct 2026 11:00:15 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/deutschland-studierende-wohnungsnot-100.html",
-          "summary": "In Heidelberg ist bezahlbarer Wohnraum für Studierende knapp. Privatpersonen werden aufgerufen, Zimmer auf Zeit zur Verfügung zu stellen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4ce11f59fbc9",
       "title": "How Chelsea used extended international break to positive effect - BBC",
       "summary": "How Chelsea used extended international break to positive effect BBC",
@@ -907,6 +889,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "1230ea112708",
+      "title": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” - FISU",
+      "summary": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” FISU",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVllNNk9SZ2lScGpveUFFeFFudGFSelRPSGc0LVFkZWNRcDVKM0NwSnlleVJVTUFMWERoVDdlUVdQUjZpbUZGNm1HY2tIQnBxZmxIa2tZVWg1OGd3VDlSZlFCUTZwSGNRb3p5MFVHeWRzX2hJT2Z5cnJiWkJFTXZZWWpOZjc4T29nTWd0Mm1EdzZld3R3bXhGU1c4dVlPanA5cHA0VHlLcWNRWXZ3bXI5cmtSNnB2anhFaWFKWFZwaUVVWTdBYm9pbWVoaWJqeTNMTlBjeTdDNFBMX1VNb1hHRDJab3dLc3F3YjA2V3oxbThQbnl2RnRj?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVllNNk9SZ2lScGpveUFFeFFudGFSelRPSGc0LVFkZWNRcDVKM0NwSnlleVJVTUFMWERoVDdlUVdQUjZpbUZGNm1HY2tIQnBxZmxIa2tZVWg1OGd3VDlSZlFCUTZwSGNRb3p5MFVHeWRzX2hJT2Z5cnJiWkJFTXZZWWpOZjc4T29nTWd0Mm1EdzZld3R3bXhGU1c4dVlPanA5cHA0VHlLcWNRWXZ3bXI5cmtSNnB2anhFaWFKWFZwaUVVWTdBYm9pbWVoaWJqeTNMTlBjeTdDNFBMX1VNb1hHRDJab3dLc3F3YjA2V3oxbThQbnl2RnRj?oc=5",
+          "summary": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” FISU"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "773e9089fce1",
       "title": "How long will humans be needed for translation?",
       "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
@@ -943,10 +943,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "c94f49a1835a",
+      "id": "f4912db232d7",
       "title": "Tech Life",
       "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
@@ -954,7 +954,7 @@
       "coverage": [
         {
           "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
           "summary": "The plan for an orbiting data centre involves linking satellites around Earth."
         },
         {
@@ -1444,24 +1444,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7eb1089c3160",
-      "title": "Morocco Finishes Runner-Up at Jebel Sifah Fishing Championship - Morocco World News",
-      "summary": "Morocco Finishes Runner-Up at Jebel Sifah Fishing Championship Morocco World News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObmYtS3pwN1hyaFR5LTZPWDBtRURHTUsxQWZJM3lXMS1vWUgtdWEzS0RwelpkYmdNbHZNN1NZMU5LaXJTQnNOSElDX25SS3RGRm5UMXdGb1RIZHpJT0pLV19YQzY4ZjVLNktRRHlXV09sUEdoVExIQ3haempUYkI0cEg3enZDbnZwVnR5Ry1GSk5fWC1qRWYxTDBia19DY0UzdlVsdHhBRm1TUmUwQ2RibA?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 15 Oct 2026 20:24:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObmYtS3pwN1hyaFR5LTZPWDBtRURHTUsxQWZJM3lXMS1vWUgtdWEzS0RwelpkYmdNbHZNN1NZMU5LaXJTQnNOSElDX25SS3RGRm5UMXdGb1RIZHpJT0pLV19YQzY4ZjVLNktRRHlXV09sUEdoVExIQ3haempUYkI0cEg3enZDbnZwVnR5Ry1GSk5fWC1qRWYxTDBia19DY0UzdlVsdHhBRm1TUmUwQ2RibA?oc=5",
-          "summary": "Morocco Finishes Runner-Up at Jebel Sifah Fishing Championship Morocco World News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0e3acb3cf96f",
       "title": "Hain Celestial plunges on concern sale of international business will be derailed - Seeking Alpha",
       "summary": "Hain Celestial plunges on concern sale of international business will be derailed Seeking Alpha",
@@ -1912,24 +1894,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "9de8e6667142",
-      "title": "Five things to know about women and sport - ONU Mujeres – América Latina y el Caribe",
-      "summary": "Five things to know about women and sport ONU Mujeres – América Latina y el Caribe",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRllnNFBQZE1zRV9XWlBRUE1CYkVlTk0tQXM4NnhUWFptemVlcmI3dzNfSnVURDJvQlg1a0ozZGxrUVI4VWJnSDNkQWRvdXY1dExBQjJGZUdwbjFFZW1PRnhLek1nUm01YW5YNG0xZXRneWNmeE1aaDQzM2k0RFJGR1RucVZhbTl5VDljQmFPb3Y3ZUE0TmJPMURIYUVrVUdtdi16MmZ6dGVaU0dHVmc?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRllnNFBQZE1zRV9XWlBRUE1CYkVlTk0tQXM4NnhUWFptemVlcmI3dzNfSnVURDJvQlg1a0ozZGxrUVI4VWJnSDNkQWRvdXY1dExBQjJGZUdwbjFFZW1PRnhLek1nUm01YW5YNG0xZXRneWNmeE1aaDQzM2k0RFJGR1RucVZhbTl5VDljQmFPb3Y3ZUE0TmJPMURIYUVrVUdtdi16MmZ6dGVaU0dHVmc?oc=5",
-          "summary": "Five things to know about women and sport ONU Mujeres – América Latina y el Caribe"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "770d089c0677",
       "title": "Fenerbahçe Teknik Direktörü İsmail Kartal istifa etti",
       "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, görevinden istifa etti.",
@@ -2110,6 +2074,78 @@
       "sourcesCount": 1
     },
     {
+      "id": "1def8f0af558",
+      "title": "Neue Unruhen in Paris - Macron kündigt Runden Tisch an",
+      "summary": "Einen Tag nach den schweren Krawallen in Frankreich ist es in Paris wieder zu Ausschreitungen gekommen. Präsident Macron verurteilte die Gewalt und kündigte einen Runden Tisch an.",
+      "link": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-proteste-macron-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 23:39:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-proteste-macron-100.html",
+          "summary": "Einen Tag nach den schweren Krawallen in Frankreich ist es in Paris wieder zu Ausschreitungen gekommen. Präsident Macron verurteilte die Gewalt und kündigte einen Runden Tisch an."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 23:22:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "673bd515331b",
+      "title": "Real Madrid zeigt sich gegen FC Sevilla in Traumtor-Laune",
+      "summary": "Arda Güler und Kylian Mbappé haben Real Madrid zu einem souveränen Sieg gegen den FC Sevilla geschossen. Die Königlichen bleiben so auf Schlagdistanz auf ihre Erzrivalen.",
+      "link": "https://www.sportschau.de/fussball/la-liga-primera-division/erst-gueler-dann-mbappe-real-zeigt-sich-in-traumtor-laune,spielbericht-real-madrid-fc-sevilla-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 18 Oct 2026 23:20:05 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/la-liga-primera-division/erst-gueler-dann-mbappe-real-zeigt-sich-in-traumtor-laune,spielbericht-real-madrid-fc-sevilla-102.html",
+          "summary": "Arda Güler und Kylian Mbappé haben Real Madrid zu einem souveränen Sieg gegen den FC Sevilla geschossen. Die Königlichen bleiben so auf Schlagdistanz auf ihre Erzrivalen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e5a4dae5a0ae",
+      "title": "Ex-Außenminister der Ukraine: Putin will uns zerstören",
+      "summary": "Luftalarm, kein Strom und harte Winter - das sei die Realität in Kiew. Der ehemalige ukrainische Außenminister sendet eine klare Botschaft: Putin will zerstören, man halte stand.",
+      "link": "https://www.zdfheute.de/politik/ausland/dmytro-kuleba-ukraine-deutschland-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 23:00:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/dmytro-kuleba-ukraine-deutschland-100.html",
+          "summary": "Luftalarm, kein Strom und harte Winter - das sei die Realität in Kiew. Der ehemalige ukrainische Außenminister sendet eine klare Botschaft: Putin will zerstören, man halte stand."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c00324ce806e",
       "title": "JU-Chef Winkel schließt Folgen für Koalition im Bund aus",
       "summary": "Ein Linksbündnis in Berlin hätte keine Auswirkungen auf den Bund, sagt Junge-Union-Chef Johannes Winkel (CDU) im ZDF. Man dürfe den Bund deshalb nicht auch \"ins Chaos\" stürzen.",
@@ -2164,19 +2200,91 @@
       "sourcesCount": 1
     },
     {
-      "id": "5b31ff49738c",
-      "title": "\"Putin wird versuchen, uns zu zerstören\"",
-      "summary": "\"Wenn wir aufgeben, werden die Dinge für uns nicht besser, denn wenn er gewinnt, dann wird es für uns viel schlimmer\", sagt der ehemalige Außenminister der Ukraine, Dmytro Kuleba.",
-      "link": "https://www.zdfheute.de/video/heute-journal/sgs-kuleba-slomka-100.html",
+      "id": "fbe2122b040a",
+      "title": "Klimawandel ändert Vogelzug",
+      "summary": "Der Klimawandel bedroht Zugrouten: Immer mehr Vögel bleiben, ziehen kürzer oder später. Was das für Ökosysteme bedeutet - ein Blick ins Wattenmeer und an die dänische Grenze.",
+      "link": "https://www.zdfheute.de/video/heute-journal/bedrohte-zugvoegel-routen-100.html",
       "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 21:26:00 +0200",
+      "region": "germany",
+      "topic": "wissenschaft",
+      "time": "Sun, 18 Oct 2026 21:45:00 +0200",
       "coverage": [
         {
           "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/heute-journal/sgs-kuleba-slomka-100.html",
-          "summary": "\"Wenn wir aufgeben, werden die Dinge für uns nicht besser, denn wenn er gewinnt, dann wird es für uns viel schlimmer\", sagt der ehemalige Außenminister der Ukraine, Dmytro Kuleba."
+          "link": "https://www.zdfheute.de/video/heute-journal/bedrohte-zugvoegel-routen-100.html",
+          "summary": "Der Klimawandel bedroht Zugrouten: Immer mehr Vögel bleiben, ziehen kürzer oder später. Was das für Ökosysteme bedeutet - ein Blick ins Wattenmeer und an die dänische Grenze."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5a10ef65b15b",
+      "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+      "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 18 Oct 2026 21:39:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
+          "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3a3633bcbd19",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 21:37:56 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+          "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1e23dae050ca",
+      "title": "Brisbane starts push for global sport partnerships - https://newsreel.com.au/",
+      "summary": "Brisbane starts push for global sport partnerships https://newsreel.com.au/",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVRuYzIwdVpHWUpYUVNtWVFkOElCdzY5LS1XUkphaVZWXzJKMklVNHhCV1JpVmxpZzFiV0pVVHpaWVg3eTRwbTFfLUhkT2kycUE4VDdfZDdiamVRV2RRYzVSaWNnMDNObVJIRW13VGVIT0VJWldRbXBwYzFkbkFQREIwQzQ4cjQ0bmhxRWpJX0JFVTF2bmh5Ug?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 18 Oct 2026 21:28:24 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVRuYzIwdVpHWUpYUVNtWVFkOElCdzY5LS1XUkphaVZWXzJKMklVNHhCV1JpVmxpZzFiV0pVVHpaWVg3eTRwbTFfLUhkT2kycUE4VDdfZDdiamVRV2RRYzVSaWNnMDNObVJIRW13VGVIT0VJWldRbXBwYzFkbkFQREIwQzQ4cjQ0bmhxRWpJX0JFVTF2bmh5Ug?oc=5",
+          "summary": "Brisbane starts push for global sport partnerships https://newsreel.com.au/"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ef1a88832346",
+      "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters",
+      "summary": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 21:06:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
+          "summary": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2231,6 +2339,60 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
           "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5e6440f103aa",
+      "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame - Reuters",
+      "summary": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 20:57:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5",
+          "summary": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "86ea558d9d02",
+      "title": "Trump endorses Netanyahu in close Israeli election - Reuters",
+      "summary": "Trump endorses Netanyahu in close Israeli election Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 20:55:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+          "summary": "Trump endorses Netanyahu in close Israeli election Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "20c04b9cde44",
+      "title": "'Four points is nothing' - O'Neill stays cool after statement win",
+      "summary": "Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's current domestic situation.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 20:50:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo?at_medium=RSS&at_campaign=rss",
+          "summary": "Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's current domestic situation."
         }
       ],
       "sourcesCount": 1
@@ -2375,24 +2537,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
           "summary": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5e6440f103aa",
-      "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame - Reuters",
-      "summary": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 20:19:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5",
-          "summary": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2596,42 +2740,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "09a2922e5cb1",
-      "title": "PlayStation 6 Could Get Sony's Own Frame Generation Technology, Patent Suggests - TechPowerUp",
-      "summary": "PlayStation 6 Could Get Sony's Own Frame Generation Technology, Patent Suggests TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHVLUkNQUktOdEhCQ2NvcGMtRjVSTHc3LWwyNlVaeWp0VGQxaXd5SWp1OExCTnlIZ3hKblVKeWZraGloZ1lBaHlrU1k4NjBsMENFZzU3QnE2TnJhUmplQ1d0MDBxV21ueWRzSHdMWWNsbHpUWFE1b2c1Z1owTG1mdUZvQmVCbXMzUkk5NDBISVdaTEpnQlRTdy11SlUzR3JBYmtBbFF1alVkUmZjaWFETnJn0gG3AUFVX3lxTE53ZEdoZUowSnFod29ySm1ZNkE4X1BSdXhVcEQ1VHMtMXprazRuQkFPWV9UVE1qU19LMUdjc0s1QjhRRk1tNE1URnRpcHhjV2ttUjVWVGlPRV9QdF9DVzJ2RmkyQTNLNWtUY2xTT0EtRGFYdnZXWVhGQWR5UEZ1NkhQTXpoTDl2Wmk4RlZYeUJSMkJFRGNhUmdUejlsTTA2SWVSclJjUGltN2FCTlRNRnZ0SmxTMWVzRQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 19:45:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHVLUkNQUktOdEhCQ2NvcGMtRjVSTHc3LWwyNlVaeWp0VGQxaXd5SWp1OExCTnlIZ3hKblVKeWZraGloZ1lBaHlrU1k4NjBsMENFZzU3QnE2TnJhUmplQ1d0MDBxV21ueWRzSHdMWWNsbHpUWFE1b2c1Z1owTG1mdUZvQmVCbXMzUkk5NDBISVdaTEpnQlRTdy11SlUzR3JBYmtBbFF1alVkUmZjaWFETnJn0gG3AUFVX3lxTE53ZEdoZUowSnFod29ySm1ZNkE4X1BSdXhVcEQ1VHMtMXprazRuQkFPWV9UVE1qU19LMUdjc0s1QjhRRk1tNE1URnRpcHhjV2ttUjVWVGlPRV9QdF9DVzJ2RmkyQTNLNWtUY2xTT0EtRGFYdnZXWVhGQWR5UEZ1NkhQTXpoTDl2Wmk4RlZYeUJSMkJFRGNhUmdUejlsTTA2SWVSclJjUGltN2FCTlRNRnZ0SmxTMWVzRQ?oc=5",
-          "summary": "PlayStation 6 Could Get Sony's Own Frame Generation Technology, Patent Suggests TechPowerUp"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3a3633bcbd19",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 19:42:37 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-          "summary": "At least four people are confirmed to have died after a huge fire swept through the base."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e770bf9f9178",
       "title": "Feuer auf Militärbasis in Kanada: Tote und viele Verletzte",
       "summary": "Bei einem Großbrand auf einer Militärbasis in Kanada sind mindestens vier Menschen ums Leben gekommen, Dutzende wurden verletzt. Über mögliche Hintergründe wurde nichts bekannt.",
@@ -2794,24 +2902,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNem5RVUNnUFN4V1Q4aUVmQ2NwbmZsZ19HR0h6VURQNkd4OG45OFVyclZwNTdtZnVqczdTRWhxOXVvMjJPWno3ckxFS3NUOGxsRXA1bF9lNl9ELUpJNUVhT19BZVkwbW0tUWVKLURsOElEWVpGaUZ3ejZnbjlPR0NmeG5VWnNITE5TUU1qZmhiMU40LTNXN1dEbXFB?oc=5",
           "summary": "Milan police clash with protesters on second day of unrest Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0d1b92f85bb6",
-      "title": "Turner verpassen Team-Finale, Helen Kevric überzeugt",
-      "summary": "Die deutschen Turner gehören 2026 nicht zur Weltspitze. Einzig Timo Eder aus Ludwigsburg konnte bei der Turn-WM in Rotterdam überzeugen.",
-      "link": "https://www.sportschau.de/regional/swr/swr-turner-verpassen-team-finale-helen-kevric-ueberzeugt-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 18 Oct 2026 19:03:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/swr/swr-turner-verpassen-team-finale-helen-kevric-ueberzeugt-100.html",
-          "summary": "Die deutschen Turner gehören 2026 nicht zur Weltspitze. Einzig Timo Eder aus Ludwigsburg konnte bei der Turn-WM in Rotterdam überzeugen."
         }
       ],
       "sourcesCount": 1
@@ -3285,24 +3375,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 17:49:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e7b735777059",
       "title": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
       "summary": "Albanian PM says protests pose threat to EU membership, not government Reuters",
@@ -3321,24 +3393,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "ef1a88832346",
-      "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters",
-      "summary": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 17:44:08 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
-          "summary": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f980e953f7bd",
       "title": "SPD in der Krise: Läuft jetzt alles auf Manuela Schwesig zu?",
       "summary": "SPD-Vorsitz: Läuft jetzt alles auf Manuela Schwesig zu?",
@@ -3352,24 +3406,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/spd-vorsitz-laeuft-jetzt-alles-auf-manuela-schwesig-zu-accg-201313117.html",
           "summary": "SPD-Vorsitz: Läuft jetzt alles auf Manuela Schwesig zu?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "86ea558d9d02",
-      "title": "Trump endorses Netanyahu in close Israeli election - Reuters",
-      "summary": "Trump endorses Netanyahu in close Israeli election Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 17:41:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-          "summary": "Trump endorses Netanyahu in close Israeli election Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3879,24 +3915,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f5ded446c8bc",
-      "title": "Align Technology says European court finds Angelalign infringed patent (ALGN:NASDAQ) - Seeking Alpha",
-      "summary": "Align Technology says European court finds Angelalign infringed patent (ALGN:NASDAQ) Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0VuUXA4V1BCX3hhM28yZW8yV0IzSFNwRkNmamd3MUhNaWNsc0poZ1oxejhjbTZNSEJ4aUEwSG4tLUw3cHplV1pCM284SW03NkVTXzl2OENZbWFaWUhzVllRVExMLU1HUUMwSm5HUEM0N1c5Y3RWM2JJWEg5NjFoTWlibEVnN2JwQ19mRUEwOFE3R0JuNURFVDBaVGpLam9FMnJoRUtKTF9MVndv?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 15:52:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0VuUXA4V1BCX3hhM28yZW8yV0IzSFNwRkNmamd3MUhNaWNsc0poZ1oxejhjbTZNSEJ4aUEwSG4tLUw3cHplV1pCM284SW03NkVTXzl2OENZbWFaWUhzVllRVExMLU1HUUMwSm5HUEM0N1c5Y3RWM2JJWEg5NjFoTWlibEVnN2JwQ19mRUEwOFE3R0JuNURFVDBaVGpLam9FMnJoRUtKTF9MVndv?oc=5",
-          "summary": "Align Technology says European court finds Angelalign infringed patent (ALGN:NASDAQ) Seeking Alpha"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1bc0fb378a5d",
       "title": "Ende bei Fortuna Düsseldorf entlassen - U23-Coach übernimmt",
       "summary": "Fortuna Düsseldorf hat sich von Trainer Alexander Ende getrennt. Für ihn übernimmt vorerst ein alter Bekannter.",
@@ -4293,24 +4311,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
           "summary": "Pope Leo pledges gradual return to duties in first event since cancer surgery Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "120fc981a2cf",
-      "title": "Olympic champion McClenaghan fails to make Worlds final",
-      "summary": "Olympic champion Rhys McClenaghan fails to reach the pommel horse final at the World Gymnastics Championships in Rotterdam.",
-      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c9zrd668n3yjo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 13:53:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c9zrd668n3yjo?at_medium=RSS&at_campaign=rss",
-          "summary": "Olympic champion Rhys McClenaghan fails to reach the pommel horse final at the World Gymnastics Championships in Rotterdam."
         }
       ],
       "sourcesCount": 1
@@ -4934,11 +4934,11 @@
     },
     {
       "id": "94fb7574ac1a",
-      "title": "Nach Wochen voller Frust: Die Erlösung des Luis Díaz",
+      "title": "Die Erlösung des Luis Díaz",
       "summary": "Wochenlang fehlten Luis Díaz Zentimeter, Glück oder Timing. Gegen RB Leipzig platzte beim Offensivspieler endlich der Knoten.",
       "link": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
       "sourceName": "Tagesschau Sport",
-      "region": "international",
+      "region": "germany",
       "topic": "sport",
       "time": "Sun, 18 Oct 2026 10:45:24 +0200",
       "coverage": [
@@ -5036,6 +5036,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
           "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d580b5d5dc72",
+      "title": "China moves to tighten controls on AI exports, citing national security risks - Cybernews",
+      "summary": "China moves to tighten controls on AI exports, citing national security risks Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFpOSUIyS1BQMkZVd19sbWVObklIcWY1MWt3Nzg3U2R3VV9aZ0hiZ19jblRabkVZVmpuNm5fNkd0b3BDLWZOTkc3SVlGemxpQnRocmtiZXVMVzNSM3RodGpSZmVCTFNyRVduRWk1eTFQdGxwYlFyT3JKWWU5N0xSTTVn?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 10:21:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFpOSUIyS1BQMkZVd19sbWVObklIcWY1MWt3Nzg3U2R3VV9aZ0hiZ19jblRabkVZVmpuNm5fNkd0b3BDLWZOTkc3SVlGemxpQnRocmtiZXVMVzNSM3RodGpSZmVCTFNyRVduRWk1eTFQdGxwYlFyT3JKWWU5N0xSTTVn?oc=5",
+          "summary": "China moves to tighten controls on AI exports, citing national security risks Cybernews"
         }
       ],
       "sourcesCount": 1
@@ -5145,8 +5163,8 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPelRjUENBQ2JTUi1nZkJ6ZGVJUEtDTzRlTWhRXzZGd1hwckVXOUtkR3c1ZTFXQjlUZG5hWkpzRGlpVWNXTkdiN19meVpLQTlmcjBtc0h2QlNOb0JJb3BEcW52dGhSN2tKd3V5MXpyMlNoY0txcXM4cTlhZHVEQ2FycFRRRkpUMUlwVGtrNFNpQ01BaWZtWEp2R3JRR0tGemNHSXBmbXNubEdYd0pHcnRuS3pob0JMLUlBYUdleHhycHQ5RDcwTWtXR1RrMjl4WU5mU2RjczBiQnlLeS15LXdfUXhQRFJZSHh3Qk4zUUtoM1prZDJ5Ni13RQ?oc=5",
-          "summary": "B.A. Schrock Wealth Management Inc."
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZzd2Zkc4eHoxU0xpa1ducTVKNmRDU3kwdDVESDQ3OUNCLV9aZG96UTl4WnBnQTYzcERfTWZtLUtFdUNDREtyU2VrSE9aQkRHcV8zSFFwd3JEakhJbzE3SE95WWIzeEJlWEJNOExocVRoc2F3dVlGOGo4MEo4S3FmbmlFMkNsU0tuOHJnX2xvT3hfUlN4SkM4VDlKQVZ0TmZQSTRTd0hHQmVibVBYdHpTT2diS3ZSX1RHSU5UaDktNXRXVEJydHV6MHhiZV82UEQ5TmlfaGxB?oc=5",
+          "summary": "16,808 International Business Machines Corporation $IBM Shares Sold by NFSG Corp MarketBeat"
         }
       ],
       "sourcesCount": 16
@@ -5345,24 +5363,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html",
           "summary": "Bartın'ın Amasra ilçesinde etkili olan fırtına nedeniyle denizde dalga boyu 6 metreye ulaştı. Fırtına nedeniyle balıkçı tekneleri denize açılmayıp, limana demirledi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "67c1c60e4b47",
-      "title": "'It's so close' - Finucane has to settle for keirin bronze",
-      "summary": "Great Britain's Emma Finucane is beaten on the line and has to settle for bronze in the women's keirin on the final day the UCI World Track Championships in China.",
-      "link": "https://www.bbc.co.uk/sport/cycling/videos/c6vgxp7npk2wo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 08:50:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/cycling/videos/c6vgxp7npk2wo?at_medium=RSS&at_campaign=rss",
-          "summary": "Great Britain's Emma Finucane is beaten on the line and has to settle for bronze in the women's keirin on the final day the UCI World Track Championships in China."
         }
       ],
       "sourcesCount": 1
