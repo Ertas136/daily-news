@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:50:21.157546+00:00",
+  "updated": "2026-10-18T11:12:41.175315+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -2331,6 +2331,29 @@
       "sourcesCount": 1
     },
     {
+      "id": "dd08f8d0736a",
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "summary": "Leo's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+      "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 11:09:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Leo's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace."
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+          "summary": "Pope Leo greets crowds at Vatican in first event since cancer surgery Reuters"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "0c23a61088ff",
       "title": "Emniyet ve jandarma ekipleri geçmiş yıllara ait 60 cinayeti aydınlattı",
       "summary": "Emniyet ve jandarma ekiplerinin çalışmalarıyla bu sene geçmiş yıllara ait 60 cinayet aydınlatıldı. İçişleri Bakanı Mustafa Çiftçi, \"Cinayet işleyip izini kaybettirdiğini, aradan zaman geçtiği için artık bulunamayacağını düşünenler büyük bir yanılgı içerisinde\" mesajını paylaştı.",
@@ -2380,6 +2403,78 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-7789-milyar-lira-katki-saglanacak-960452.html",
           "summary": "Devlet yeni yılda kişi ve kurumlardan alınan paylardan 778 milyar 937 milyon 447 bin lira gelir elde etmeyi hedefliyor."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fe0b6e873f7e",
+      "title": "Parisians wake up to protest damage and looted shops",
+      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 10:58:39 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+          "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "85126632508d",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 10:53:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+          "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ac5ef2080b38",
+      "title": "Ki in China: Sehen auch die Chinesen die Menschheit durch KI bedroht?",
+      "summary": "Chinas Öffentlichkeit blickt optimistischer auf Künstliche Intelligenz als der Westen. Zugleich setzen chinesische Forscher auf eine Form von KI, die nicht nur Daten verarbeitet, sondern über Roboter mit der physischen Welt interagieren soll.",
+      "link": "https://www.faz.net/aktuell/feuilleton/debatten/fuerchtet-man-auch-in-china-dass-ki-die-menschheit-vernichtet-accg-201307435.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 10:52:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/feuilleton/debatten/fuerchtet-man-auch-in-china-dass-ki-die-menschheit-vernichtet-accg-201307435.html",
+          "summary": "Chinas Öffentlichkeit blickt optimistischer auf Künstliche Intelligenz als der Westen. Zugleich setzen chinesische Forscher auf eine Form von KI, die nicht nur Daten verarbeitet, sondern über Roboter mit der physischen Welt interagieren soll."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9327d7b9b3d7",
+      "title": "Großbrand: Mehrere Tote nach „schwerwiegendem Vorfall“ auf Militärstützpunkt in Kanada",
+      "summary": "Noch ist unklar, wie es zu dem Großbrand kommen konnte. Laut Verteidigungsminister McGuinty laufen die Untersuchungen.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/grossbrand-auf-militaerstuetzpunkt-in-kanada-tote-und-verletzte-accg-201598326.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 10:50:45 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/grossbrand-auf-militaerstuetzpunkt-in-kanada-tote-und-verletzte-accg-201598326.html",
+          "summary": "Noch ist unklar, wie es zu dem Großbrand kommen konnte. Laut Verteidigungsminister McGuinty laufen die Untersuchungen."
         }
       ],
       "sourcesCount": 1
@@ -2637,10 +2732,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "5ef2a215d685",
-      "title": "SteelPeak Wealth LLC Buys 50,406 Shares of International Business Machines Corporation $IBM - MarketBeat",
-      "summary": "SteelPeak Wealth LLC Buys 50,406 Shares of International Business Machines Corporation $IBM MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLTVzNTVMdzkzYkp0aXkyTC1WT2l4b0R6NzdyTzdXZmJ1RHpxVmhVT1E0YVdZMGh0RmppbEJFZTJCZnNvSEwyd2ZRS1ZiREdnT0lWY1RXblp2dnJYNnFCWUhiWWxKVC1uTnpHVXNRVE9KdDFjWW5aT0JrWFR0OTh3S3E2RGZvanBDMlQ5bEZTTUROYkF5bHhCc1Z1NWlQMFFnWTh1TDNGaUJXV0ZHbk5sQ3hnRTNxNTA4UThiWmNyd2JIaUJxSk93dTc1T2RBU1lTdmRfOUttclI5LUxnN0xRNmhQSVI?oc=5",
+      "id": "b569481363f2",
+      "title": "International Business Machines Corporation $IBM Shares Sold by Fulcrum Wealth Advisors LLC - MarketBeat",
+      "summary": "International Business Machines Corporation $IBM Shares Sold by Fulcrum Wealth Advisors LLC MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV1RLV2tYMEJLRWVKc0pFOU5SY3J5LTNLNnF1OTBFem1xZko5ZkN2Wnpod1ZibDZHU0dYbXEwaEdKM1J0QWI3ZEFnTFgzUnphYXNnNlpQcUhPeFZrMUF6YjItZ0tIRmFONnc5TmliM2ktRnVTbkpyWGc4ZGJRMjQ4cm1XeFNhUUM1czdJZW5IdjVnWW92R1o5b2pZYnRSNU1BQmFUOWpYT3VzaVpOY1c3Umd6aUVYcjFURE5HeXRnV19VN1NLUTdBMnhQY3hfa2lBODZkTVdNNlVMMlpvUl9SMEVoOUtpdw?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
       "topic": "wirtschaft",
@@ -2648,18 +2743,23 @@
       "coverage": [
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLTVzNTVMdzkzYkp0aXkyTC1WT2l4b0R6NzdyTzdXZmJ1RHpxVmhVT1E0YVdZMGh0RmppbEJFZTJCZnNvSEwyd2ZRS1ZiREdnT0lWY1RXblp2dnJYNnFCWUhiWWxKVC1uTnpHVXNRVE9KdDFjWW5aT0JrWFR0OTh3S3E2RGZvanBDMlQ5bEZTTUROYkF5bHhCc1Z1NWlQMFFnWTh1TDNGaUJXV0ZHbk5sQ3hnRTNxNTA4UThiWmNyd2JIaUJxSk93dTc1T2RBU1lTdmRfOUttclI5LUxnN0xRNmhQSVI?oc=5",
-          "summary": "SteelPeak Wealth LLC Buys 50,406 Shares of International Business Machines Corporation $IBM MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV1RLV2tYMEJLRWVKc0pFOU5SY3J5LTNLNnF1OTBFem1xZko5ZkN2Wnpod1ZibDZHU0dYbXEwaEdKM1J0QWI3ZEFnTFgzUnphYXNnNlpQcUhPeFZrMUF6YjItZ0tIRmFONnc5TmliM2ktRnVTbkpyWGc4ZGJRMjQ4cm1XeFNhUUM1czdJZW5IdjVnWW92R1o5b2pZYnRSNU1BQmFUOWpYT3VzaVpOY1c3Umd6aUVYcjFURE5HeXRnV19VN1NLUTdBMnhQY3hfa2lBODZkTVdNNlVMMlpvUl9SMEVoOUtpdw?oc=5",
           "summary": "International Business Machines Corporation $IBM Shares Sold by Fulcrum Wealth Advisors LLC MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLTVzNTVMdzkzYkp0aXkyTC1WT2l4b0R6NzdyTzdXZmJ1RHpxVmhVT1E0YVdZMGh0RmppbEJFZTJCZnNvSEwyd2ZRS1ZiREdnT0lWY1RXblp2dnJYNnFCWUhiWWxKVC1uTnpHVXNRVE9KdDFjWW5aT0JrWFR0OTh3S3E2RGZvanBDMlQ5bEZTTUROYkF5bHhCc1Z1NWlQMFFnWTh1TDNGaUJXV0ZHbk5sQ3hnRTNxNTA4UThiWmNyd2JIaUJxSk93dTc1T2RBU1lTdmRfOUttclI5LUxnN0xRNmhQSVI?oc=5",
+          "summary": "SteelPeak Wealth LLC Buys 50,406 Shares of International Business Machines Corporation $IBM MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclBzWWtTRWtDVWlSU3pWY1daVmVnZW81ZU10NFdtcDd5U29iM2JLR3hPeTZSLXl1a1ViT1BYdFZnQUhmYmRUZlNlNFB0V0tjaTRmaEZmdVN2SkhBMFRxak80S3NJd3dxaUx5MnNBNkFsQWJ4ZG1mRmFnSVA2VU1NLTZDUWVrMURaQXZWYldyVVBCZkcxQWM5VTZ5OFlwU3N5cTJDeVIwNFliYjRyc2Z1WGdsWjVqSi1WdzI2bWdFVXBweUpxcXZlUXltWHREYnRqVGxZTkNYemJkU2RkTHF4TmM0eWNsdDdG?oc=5",
           "summary": "International Business Machines Corporation $IBM Stock Bought by Onyx Bridge Wealth Group LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1dZYlV1aV9KZUJfamw4OWFRWGpXRm5hV3MweDJ0NFlRYXl4Z0J0QTlKTGVEZG1zRkpHWHI0Snc5Z002cjBOMHQ1TE5ObnJFcHNocFhBcldaNUoyblE5YlN2clpqZHQyWnowQ0dtVGVoa0I3TUhSSGtGVDdqcE04VjVjdE02QmtBZEFDdkYzdHo5bGRfaGtEbnRvYmpOalZKdkxqcm9ORGViejRtWm0xaDBUQ2F1YlJ3emdIZ2ZfMkRObDl5VjMzQ29US3Z6OHRwMXNiZmZOS0ptenV5RXlMd2c1WGpIbFhGc3FlWlhLZGEzMWhoWk9GbEdxUzg?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock: Birch Hill Investment Advisors LLC Decreases Position MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
@@ -2688,6 +2788,11 @@
         },
         {
           "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHQzUldZcGZteDAzcUdCR20zRUFSOW9DbzEza2g0YmYtVW9LWkNEb3BVazBYbjhITW1NcUR6b0NYbkE0WktPc2M5WFJKdUthNFd6UmJna0N0UU1kVVRNMC0tNDBBSkFiekc5elo5Yy1UWDRfX18xeXBmcDJyX2s0OUZScU82VFZiY0p4eUNnYVBPdXUwb0dHQnZXWS0yeHlwdGxHSTMxem92Zm1KWjNFTnlLY1p5NTc0VGQzdWN1eTdVbmY5dTZXZUJoelM3c09DLWszMWoyaTlvZlVXeU5jLXdFN3BvMGVNbVIwUjRhWC1LdjhLV2I0?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock: Milestone Asset Management LLC Decreases Holdings MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNF9samVNTEdQY1BDckpoczJ4M0xRUklfUDFfdjlJU0p3N1h1eEFLTEJ5NUtqVjJGNUR3UE9xWEQ4eF9WVXY4ZzV0aGZFSEplaVp4dGNGaU85Rjh0c1c3X3BZWGpZcXlYajhsR2QxUGFUOXVxQWN1QzRQOVJic0JINF9TQU44MTNaOEtmWmJqN0sxUjg5Y1k5WmsxR2gzWElvMnVvcGdweTQzdnF3MXJzS1FqNDFZekFkTy16RW00STMyX0JSR2hFbzJMUnpxT3JQc2RhcTZfeUNtLUVJamFCQnZfZmRQTUJtckdLcTln?oc=5",
           "summary": "International Business Machines Corporation $IBM Holdings Lessened by Curated Wealth Partners LLC MarketBeat"
         },
@@ -2698,8 +2803,23 @@
         },
         {
           "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOFlTdHRaQjJpSk1DVTYxUDhQTXFKTFY4RjhMSk1XYVJ6NHlpeU03OFVCeTh1eWQtakloZGpDZG1RMVJsS3FUWTF6QUg5djRjUmF5NkVEMS0xMjFnWFlXZWZRMHpQeG9BY2RyYV9DakxMaW8xYmRCdm9FUEttS00xMWQ4YmpvaEFMSmV1OVlheVp2cnR2ZGY1VW5wb2RjM2t5cC1tZUw3QV9uWkNsX2hBNHZ4YXpzNzdXWmVoczcxcUFsWXhNVXZvVXI5c1duamd5d0JuSkVWWm5ObW9wbHdKelhYMFBzZ2NRWGw3dA?oc=5",
+          "summary": "International Business Machines Corporation $IBM Position Raised by Financial & Tax Architects LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYnFGRFEzeUF0VGQxSldOWFphb2dablNzNm1LVzY4N2ljUlh4WXVOMWdWUFU1UmxMOC1ZUzZUcjE2UExBNHVFcTB4ekU3TFRsU3MwWlZfUWR1WXpFV3d2NTlQcHlycjJ0ZnllYVdZRmlBUGx0UnJadzlOMlpRNm4wZWNuOWs3OXNsY3lCLVoxTXoxdzdOVGJleXdHMERXR04yT3FIMjVmeXRibUk5emZyVlJsOFdBRXZmTG54V3JaZHJKUUJ2UXBRS3FLb2JFSkRrajBtTkNKSGpSUlVPVVZnYzI1T1ZyU256aHhIZkFR?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock Purchased by Assenagon Asset Management S.A. MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa2F2VWJrelFLUzgyb1pVdFBOTUVSdEF4MzlqY3d4amQtbUxEWk1ENnhxYlRxQUNJVGEwWDMzLVdxYldMTW00SG1YTUQwVE45bDFqWHZtTHNnaHBTNmY0dzFlV0QzMGRRM3V1REJXZEstcm13aUtHa01IS2xkTkVkWEhPT3pHdkpRZlZYMFJ6X1B1Smc4a1RUSzZFaHBTcDlDbnpWX2JJVDJ6ZzdqV0k2Y0N6SVltSlBrcDZnMmVrbFFZZUFTdThlT3UzSGxadHZVbnZEUHQtck1FTUR3YVNkUHp6dnAyS205bFcyRWpzN3QxU2pFQlE?oc=5",
           "summary": "International Business Machines Corporation $IBM Shares Newly Bought by Harrell Investment Partners LLC MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR3VWdzQ5clJFZlpEcXpwcl9nZGloS3ZXNWVkRTZ5bktvc2RsQnFHejNfWXJTZVdIWmc4Z3h5TlJfVVgxd3FuUmFvaGVEQmRLWDV6XzM0dVVyYlY2Z19rajBKUkNRUnJ4M1VlczNuTU9oS0FocmI2SjM1Zzc3YmZockZjYUcwV29EamZsSnVXRUg0UFZjZm1RQWJQUDRvbG5TQ1owbENLWTNJSWZwRWpsaDkyT3FoWUxzcjJHZl84YmVpREtsTzgxUlBaX1locmthU2V1M2NDTTVXcEo1MTJ3djhTakNiNjA3aTBhVTUwRndkakx3ZDhNTEZobGhxNlU?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock: Thurston Springer Miller Herd & Titak Inc. Lowers Position MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
@@ -2710,9 +2830,37 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPelRjUENBQ2JTUi1nZkJ6ZGVJUEtDTzRlTWhRXzZGd1hwckVXOUtkR3c1ZTFXQjlUZG5hWkpzRGlpVWNXTkdiN19meVpLQTlmcjBtc0h2QlNOb0JJb3BEcW52dGhSN2tKd3V5MXpyMlNoY0txcXM4cTlhZHVEQ2FycFRRRkpUMUlwVGtrNFNpQ01BaWZtWEp2R3JRR0tGemNHSXBmbXNubEdYd0pHcnRuS3pob0JMLUlBYUdleHhycHQ5RDcwTWtXR1RrMjl4WU5mU2RjczBiQnlLeS15LXdfUXhQRFJZSHh3Qk4zUUtoM1prZDJ5Ni13RQ?oc=5",
           "summary": "B.A. Schrock Wealth Management Inc."
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONGQ1VXQtVFhWTW5aMzRTaU96T2lhRzFqMmZESnc1Vno0TzdFVkdNR0JYMWpNdHBIaF9obTg4UFFGc0hZUWVTR1dEemRLM2x5aHpoQ0g1LTRGTVFhZzQzbUVyQVk3eG1fU2lzeHlFRUMyTlk3Szg1cHRWeWVTNHRrLUtJaEh6d1dHM3RLMlU5WjNMX0RfS3RZbU1vV1NhakZCZElOdHUtM1dHcGhPNkFqTXpDalVrMENXZkQ4VDc2bU1rdW42ckZSQ0VMOTJlTkJiNm1rdU94Ul9ZQXpxVFBnbTZXYw?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock: Cultivar Capital Inc. Reduces Stake MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3MwOXhQNmF3OFd5VFZBNlNCRXNaMFN2dHBuRE1Sa05FOFYxeXFPQUdLU0NxYXdCM254SjRFSnRGZF9VWGlnWkRtaDNyaHVrS18wMGpYNGxud2tZNkhRM2Y5MFBubkNia0Rtb0ZKSWpKdDB3RVJvMlBsM3J3VEpkNDRqRG85WjlZY3dheVJRX2dNaUdjUHJOOExzekx0WmFsb1ZrUjNlNHhVWmh4YXI4THZSQ3gzM2FyUk52VWtVVUx4REtEVGM5X1R3?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Stock Falls 1% - Should You Sell? MarketBeat"
         }
       ],
-      "sourcesCount": 13
+      "sourcesCount": 20
+    },
+    {
+      "id": "cdcf88a0e386",
+      "title": "Is Credo Technology Group Holding (CRDO) Undervalued As OCP News Tests Its AI Story? - Yahoo Finance",
+      "summary": "Is Credo Technology Group Holding (CRDO) Undervalued As OCP News Tests Its AI Story? Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlQ0UTlKeldNQ0VjWlpvTWptUU9jTjE2bU9BUExGVFRrMFVfSXJXNjBWTFdsUDJjdGcwWjdnXy1kUTZ3OFlJd2FVVUdzaGQzMEgwdUhOdFczYlFZRDdNd0hXVEYxdElLNDRYdVVfazFBWWIwVlZYZzVpWVpPc3hzMVJKdnBYSnh2NVp4enRoV0JJLU05VVZNOE1kSjJrSTN3a3c?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 10:12:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlQ0UTlKeldNQ0VjWlpvTWptUU9jTjE2bU9BUExGVFRrMFVfSXJXNjBWTFdsUDJjdGcwWjdnXy1kUTZ3OFlJd2FVVUdzaGQzMEgwdUhOdFczYlFZRDdNd0hXVEYxdElLNDRYdVVfazFBWWIwVlZYZzVpWVpPc3hzMVJKdnBYSnh2NVp4enRoV0JJLU05VVZNOE1kSjJrSTN3a3c?oc=5",
+          "summary": "Is Credo Technology Group Holding (CRDO) Undervalued As OCP News Tests Its AI Story? Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "867e2423bc71",
@@ -2764,42 +2912,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abdde-bir-aracin-futbol-sahasindakilere-carpmasi-sonucu-2-kisi-oldu-11-kisi-yaralandi-960449.html",
           "summary": "ABD'nin Kansas eyaletindeki Wichita kentinde bir aracın futbol sahasındakilere çarpması sonucu biri 6 yaşındaki çocuk olmak üzere 2 kişi hayatını kaybetti, 11 kişi yaralandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "85126632508d",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 09:56:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-          "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fc060e25feb8",
-      "title": "Steuern sparen: Gelungener Start ins Anlegerleben",
-      "summary": "Ab 2027 zahlt der Staat jedem Kind zwischen sechs und 18 Jahren zehn Euro im Monat – zur Altersvorsorge. Doch die Frühstartrente wird das klassische Sparen fürs Kind nicht ersetzen.",
-      "link": "https://www.faz.net/aktuell/finanzen/fruehstartrente-gelungener-start-ins-anlegerleben-accg-201465211.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 09:55:36 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/finanzen/fruehstartrente-gelungener-start-ins-anlegerleben-accg-201465211.html",
-          "summary": "Ab 2027 zahlt der Staat jedem Kind zwischen sechs und 18 Jahren zehn Euro im Monat – zur Altersvorsorge. Doch die Frühstartrente wird das klassische Sparen fürs Kind nicht ersetzen."
         }
       ],
       "sourcesCount": 1
@@ -3193,24 +3305,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e3af41397be3",
-      "title": "Rache als Motiv?: Tödliche Messerattacke im Altenheim",
-      "summary": "In einem Seniorenheim im Münsterland stirbt eine Frau nach dem Angriff eines Bewohners. Zwei weitere Frauen werden schwer verletzt.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/angriff-in-seniorenheim-im-muensterland-ein-toter-zwei-schwerverletzte-201591547.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 08:25:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/angriff-in-seniorenheim-im-muensterland-ein-toter-zwei-schwerverletzte-201591547.html",
-          "summary": "In einem Seniorenheim im Münsterland stirbt eine Frau nach dem Angriff eines Bewohners. Zwei weitere Frauen werden schwer verletzt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a2dd470bc8f9",
       "title": "Deutschland Liveblog: Junge Union fordert Ächtung der Koalition in Berlin",
       "summary": "Auch Söder unterstützt den Antrag der JU +++ Berlins CDU-Landeschef Evers nennt Sondierungspapier „Kapitulationserklärung“ +++ Özdemir rät Landesverband von Regierungsbildung mit Linken ab +++ alle Entwicklungen im Liveblog",
@@ -3335,49 +3429,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "cff0cdae77d3",
-      "title": "International Business Machines Corporation $IBM Stock: Birch Hill Investment Advisors LLC Decreases Position - MarketBeat",
-      "summary": "International Business Machines Corporation $IBM Stock: Birch Hill Investment Advisors LLC Decreases Position MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1dZYlV1aV9KZUJfamw4OWFRWGpXRm5hV3MweDJ0NFlRYXl4Z0J0QTlKTGVEZG1zRkpHWHI0Snc5Z002cjBOMHQ1TE5ObnJFcHNocFhBcldaNUoyblE5YlN2clpqZHQyWnowQ0dtVGVoa0I3TUhSSGtGVDdqcE04VjVjdE02QmtBZEFDdkYzdHo5bGRfaGtEbnRvYmpOalZKdkxqcm9ORGViejRtWm0xaDBUQ2F1YlJ3emdIZ2ZfMkRObDl5VjMzQ29US3Z6OHRwMXNiZmZOS0ptenV5RXlMd2c1WGpIbFhGc3FlWlhLZGEzMWhoWk9GbEdxUzg?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Sun, 18 Oct 2026 08:08:54 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1dZYlV1aV9KZUJfamw4OWFRWGpXRm5hV3MweDJ0NFlRYXl4Z0J0QTlKTGVEZG1zRkpHWHI0Snc5Z002cjBOMHQ1TE5ObnJFcHNocFhBcldaNUoyblE5YlN2clpqZHQyWnowQ0dtVGVoa0I3TUhSSGtGVDdqcE04VjVjdE02QmtBZEFDdkYzdHo5bGRfaGtEbnRvYmpOalZKdkxqcm9ORGViejRtWm0xaDBUQ2F1YlJ3emdIZ2ZfMkRObDl5VjMzQ29US3Z6OHRwMXNiZmZOS0ptenV5RXlMd2c1WGpIbFhGc3FlWlhLZGEzMWhoWk9GbEdxUzg?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Birch Hill Investment Advisors LLC Decreases Position MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHQzUldZcGZteDAzcUdCR20zRUFSOW9DbzEza2g0YmYtVW9LWkNEb3BVazBYbjhITW1NcUR6b0NYbkE0WktPc2M5WFJKdUthNFd6UmJna0N0UU1kVVRNMC0tNDBBSkFiekc5elo5Yy1UWDRfX18xeXBmcDJyX2s0OUZScU82VFZiY0p4eUNnYVBPdXUwb0dHQnZXWS0yeHlwdGxHSTMxem92Zm1KWjNFTnlLY1p5NTc0VGQzdWN1eTdVbmY5dTZXZUJoelM3c09DLWszMWoyaTlvZlVXeU5jLXdFN3BvMGVNbVIwUjRhWC1LdjhLV2I0?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Milestone Asset Management LLC Decreases Holdings MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYnFGRFEzeUF0VGQxSldOWFphb2dablNzNm1LVzY4N2ljUlh4WXVOMWdWUFU1UmxMOC1ZUzZUcjE2UExBNHVFcTB4ekU3TFRsU3MwWlZfUWR1WXpFV3d2NTlQcHlycjJ0ZnllYVdZRmlBUGx0UnJadzlOMlpRNm4wZWNuOWs3OXNsY3lCLVoxTXoxdzdOVGJleXdHMERXR04yT3FIMjVmeXRibUk5emZyVlJsOFdBRXZmTG54V3JaZHJKUUJ2UXBRS3FLb2JFSkRrajBtTkNKSGpSUlVPVVZnYzI1T1ZyU256aHhIZkFR?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock Purchased by Assenagon Asset Management S.A. MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR3VWdzQ5clJFZlpEcXpwcl9nZGloS3ZXNWVkRTZ5bktvc2RsQnFHejNfWXJTZVdIWmc4Z3h5TlJfVVgxd3FuUmFvaGVEQmRLWDV6XzM0dVVyYlY2Z19rajBKUkNRUnJ4M1VlczNuTU9oS0FocmI2SjM1Zzc3YmZockZjYUcwV29EamZsSnVXRUg0UFZjZm1RQWJQUDRvbG5TQ1owbENLWTNJSWZwRWpsaDkyT3FoWUxzcjJHZl84YmVpREtsTzgxUlBaX1locmthU2V1M2NDTTVXcEo1MTJ3djhTakNiNjA3aTBhVTUwRndkakx3ZDhNTEZobGhxNlU?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Thurston Springer Miller Herd & Titak Inc. Lowers Position MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONGQ1VXQtVFhWTW5aMzRTaU96T2lhRzFqMmZESnc1Vno0TzdFVkdNR0JYMWpNdHBIaF9obTg4UFFGc0hZUWVTR1dEemRLM2x5aHpoQ0g1LTRGTVFhZzQzbUVyQVk3eG1fU2lzeHlFRUMyTlk3Szg1cHRWeWVTNHRrLUtJaEh6d1dHM3RLMlU5WjNMX0RfS3RZbU1vV1NhakZCZElOdHUtM1dHcGhPNkFqTXpDalVrMENXZkQ4VDc2bU1rdW42ckZSQ0VMOTJlTkJiNm1rdU94Ul9ZQXpxVFBnbTZXYw?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Cultivar Capital Inc. Reduces Stake MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3MwOXhQNmF3OFd5VFZBNlNCRXNaMFN2dHBuRE1Sa05FOFYxeXFPQUdLU0NxYXdCM254SjRFSnRGZF9VWGlnWkRtaDNyaHVrS18wMGpYNGxud2tZNkhRM2Y5MFBubkNia0Rtb0ZKSWpKdDB3RVJvMlBsM3J3VEpkNDRqRG85WjlZY3dheVJRX2dNaUdjUHJOOExzekx0WmFsb1ZrUjNlNHhVWmh4YXI4THZSQ3gzM2FyUk52VWtVVUx4REtEVGM5X1R3?oc=5",
-          "summary": "International Business Machines (NYSE:IBM) Stock Falls 1% - Should You Sell? MarketBeat"
-        }
-      ],
-      "sourcesCount": 6
     },
     {
       "id": "a5de56067fb1",
@@ -3600,13 +3651,13 @@
       "title": "China proposes export controls on solar-manufacturing technologies - Reuters",
       "summary": "China proposes export controls on solar-manufacturing technologies Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
-      "sourceName": "Google News – Reuters",
+      "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
       "time": "Sun, 18 Oct 2026 06:22:00 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – Reuters",
+          "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
           "summary": "China proposes export controls on solar-manufacturing technologies Reuters"
         }
@@ -4367,24 +4418,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "26a10e43722c",
-      "title": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say - Reuters",
-      "summary": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 17 Oct 2026 22:10:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5",
-          "summary": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e9908c4bb9c9",
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
       "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
@@ -4997,24 +5030,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
           "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c273cfefcf14",
-      "title": "Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05",
-      "summary": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
-      "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 17 Oct 2026 18:00:52 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
-          "summary": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort."
         }
       ],
       "sourcesCount": 1
