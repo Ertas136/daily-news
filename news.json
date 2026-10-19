@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T00:12:26.792545+00:00",
+  "updated": "2026-10-19T01:08:02.901869+00:00",
   "articles": [
     {
       "id": "fa3f05d9463c",
@@ -15,24 +15,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
           "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9c28d76e9e9a",
-      "title": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered - NBC News",
-      "summary": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3BfVDlBclVpS3ZLU2V4Zm1qa0tGTWlKbEJ1c1Q1RmlNRGZSYm5jMEhnSXNCN21QQS1UcnFzTjlYc250d0JjT1N5NmVHT1gwclVNWU05M2xNaUhXRVU1T1NOcVNldHRBcEtBZWk5LWNwclBrVlNJVG9oR21yYkJFYVMxXzlLQVpOZFFfNlN5RWhvNVhZR1YyTldmN25NX2JrUjFZZzZISDduVEI0ZDNGcXdLS2U?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3BfVDlBclVpS3ZLU2V4Zm1qa0tGTWlKbEJ1c1Q1RmlNRGZSYm5jMEhnSXNCN21QQS1UcnFzTjlYc250d0JjT1N5NmVHT1gwclVNWU05M2xNaUhXRVU1T1NOcVNldHRBcEtBZWk5LWNwclBrVlNJVG9oR21yYkJFYVMxXzlLQVpOZFFfNlN5RWhvNVhZR1YyTldmN25NX2JrUjFZZzZISDduVEI0ZDNGcXdLS2U?oc=5",
-          "summary": "Hundreds missing after flood hits Nepal-Tibet border, 157 bodies recovered NBC News"
         }
       ],
       "sourcesCount": 1
@@ -105,6 +87,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1526922.html",
           "summary": "Nina Warken, CDU, Bundesgesundheitsministerin, zur \"Allianz Postinfektiöse Erkrankungen\""
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "187626453234",
+      "title": "FIFA’s latest crisis shows why sport needs independent oversight - Play the Game.org",
+      "summary": "FIFA’s latest crisis shows why sport needs independent oversight Play the Game.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzR4YTJvMHB5aE1MQUhMWEFuQ1VHTUdoVDBTWW9fZFJrZERnN21RODlScUc5YlhqeG5kR1pVQkhvaDhlZGR6VjQ2YVR2dXk2bnhyTWg2YkVtaWJtbS10QUgza2lEY1ZZOHBZWHlqbnhzek9VVEZ2Rl80T0trR3VqaHlqNENBZER5WlctM3Y0bDRsMC1xT0pJVUZuWUZaZzg?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzR4YTJvMHB5aE1MQUhMWEFuQ1VHTUdoVDBTWW9fZFJrZERnN21RODlScUc5YlhqeG5kR1pVQkhvaDhlZGR6VjQ2YVR2dXk2bnhyTWg2YkVtaWJtbS10QUgza2lEY1ZZOHBZWHlqbnhzek9VVEZ2Rl80T0trR3VqaHlqNENBZER5WlctM3Y0bDRsMC1xT0pJVUZuWUZaZzg?oc=5",
+          "summary": "FIFA’s latest crisis shows why sport needs independent oversight Play the Game.org"
         }
       ],
       "sourcesCount": 1
@@ -799,24 +799,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1230ea112708",
-      "title": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” - FISU",
-      "summary": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” FISU",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVllNNk9SZ2lScGpveUFFeFFudGFSelRPSGc0LVFkZWNRcDVKM0NwSnlleVJVTUFMWERoVDdlUVdQUjZpbUZGNm1HY2tIQnBxZmxIa2tZVWg1OGd3VDlSZlFCUTZwSGNRb3p5MFVHeWRzX2hJT2Z5cnJiWkJFTXZZWWpOZjc4T29nTWd0Mm1EdzZld3R3bXhGU1c4dVlPanA5cHA0VHlLcWNRWXZ3bXI5cmtSNnB2anhFaWFKWFZwaUVVWTdBYm9pbWVoaWJqeTNMTlBjeTdDNFBMX1VNb1hHRDJab3dLc3F3YjA2V3oxbThQbnl2RnRj?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVllNNk9SZ2lScGpveUFFeFFudGFSelRPSGc0LVFkZWNRcDVKM0NwSnlleVJVTUFMWERoVDdlUVdQUjZpbUZGNm1HY2tIQnBxZmxIa2tZVWg1OGd3VDlSZlFCUTZwSGNRb3p5MFVHeWRzX2hJT2Z5cnJiWkJFTXZZWWpOZjc4T29nTWd0Mm1EdzZld3R3bXhGU1c4dVlPanA5cHA0VHlLcWNRWXZ3bXI5cmtSNnB2anhFaWFKWFZwaUVVWTdBYm9pbWVoaWJqeTNMTlBjeTdDNFBMX1VNb1hHRDJab3dLc3F3YjA2V3oxbThQbnl2RnRj?oc=5",
-          "summary": "“Real progress isn’t measured by isolated achievements, but by the ability to carry them into every context, including university sport” FISU"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "773e9089fce1",
       "title": "How long will humans be needed for translation?",
       "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
@@ -1156,24 +1138,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "2d16bcad82b4",
-      "title": "IPC brings flagship sport science conference to Tokyo - Inside The Games",
-      "summary": "IPC brings flagship sport science conference to Tokyo Inside The Games",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEVfYnVTRmFPX0VjQndhY1IxR1ZudllBY09CbTQ2RDhHalRFckpMRjFRQTdLY3VXRXRkZnRWNDZxdzA2X19IZExhQWdWNF9vMkdveGh0Ni1RZlBNVElscklJTnpHSDBqTTcxcnJhMlBOR3dNMng3UWxNTkExN1NKeU9OZUs1VzRJc2NpV1pGbG9JenBGZC1mbg?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 09:29:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEVfYnVTRmFPX0VjQndhY1IxR1ZudllBY09CbTQ2RDhHalRFckpMRjFRQTdLY3VXRXRkZnRWNDZxdzA2X19IZExhQWdWNF9vMkdveGh0Ni1RZlBNVElscklJTnpHSDBqTTcxcnJhMlBOR3dNMng3UWxNTkExN1NKeU9OZUs1VzRJc2NpV1pGbG9JenBGZC1mbg?oc=5",
-          "summary": "IPC brings flagship sport science conference to Tokyo Inside The Games"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "70c305ca40b5",
       "title": "Uzay, teknoloji ve yeni neslin geleceği IAC 2026'da ele alınacak",
       "summary": "Teknoloji, uzay ve yeni neslin geleceği 77. Uluslararası Uzay Kongresi'nde (IAC 2026) ele alınacak.",
@@ -1187,24 +1151,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/uzay-teknoloji-ve-yeni-neslin-gelecegi-iac-2026da-ele-alinacak-959225.html",
           "summary": "Teknoloji, uzay ve yeni neslin geleceği 77. Uluslararası Uzay Kongresi'nde (IAC 2026) ele alınacak."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f65004597216",
-      "title": "England's greatest international? Kane is now a serious contender - BBC",
-      "summary": "England's greatest international? Kane is now a serious contender BBC",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSjRCNFZ1OEhkUXBGNnpyM1lQSDVDdmdWWHUzV3hZUDJrcFV0eHluc1UxYmF6Vi1TMXdpZ0d2SXU0SVJZYzdzWC1rVzl0a2xpRWx2RVVEU3Z0ZW94VFJ5M09FcHZxc0Z1?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSjRCNFZ1OEhkUXBGNnpyM1lQSDVDdmdWWHUzV3hZUDJrcFV0eHluc1UxYmF6Vi1TMXdpZ0d2SXU0SVJZYzdzWC1rVzl0a2xpRWx2RVVEU3Z0ZW94VFJ5M09FcHZxc0Z1?oc=5",
-          "summary": "England's greatest international? Kane is now a serious contender BBC"
         }
       ],
       "sourcesCount": 1
@@ -1241,6 +1187,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUk0YXVwQmtaSjBMTDNwTm51U3M5M25mZVJOdWVJREhKTUZDaTlHYWRlMHIzNVd4SWdkNlJIVE8wakxYVFdoUjVJUkZpcUVQWmdsMUsxZl9aMTBURGRtYUhzN1pORE1NVzI0LWMwX3hRb1VkZ0ZDQl80VzFsWUxoVDlBMGNjOGJvNmZqVVJn?oc=5",
           "summary": "Boxing legends unite to celebrate International Boxing Day IBA - International Boxing Association"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "76d7b52c6560",
+      "title": "International Olympic Committee announces new Policy on the Protection of the Female (Women’s) Category in Olympic Sport - Olympics",
+      "summary": "International Olympic Committee announces new Policy on the Protection of the Female (Women’s) Category in Olympic Sport Olympics",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaUVLTEJYUVRIdXFZT3dOdWMtTjV5M2JuS1QwQXIzOEVVekJqRVhyOXRLRlhwNVZaYVpxNUNodjhqTU9HLVBpUjlwLVlOUWl0MEtWS0lfdGQ2UG5NOWUwaEZLb2JmdXg1WmRLY3ZIdVBzUUt2dUZDbDFlMjhTN0oxRURkaTYxd1B1M3pydjAtMGJ3MVNUX0tISm9OaWlEM0RBbFBoNXg1RnNBLXVtejF5SVBjRXB3SlBpME5LSlJwZGttY1QtLW9BM1hFck1OcUpUdkEzWThuOTlxYnh3UUo3ekJ3Z01QVTg?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaUVLTEJYUVRIdXFZT3dOdWMtTjV5M2JuS1QwQXIzOEVVekJqRVhyOXRLRlhwNVZaYVpxNUNodjhqTU9HLVBpUjlwLVlOUWl0MEtWS0lfdGQ2UG5NOWUwaEZLb2JmdXg1WmRLY3ZIdVBzUUt2dUZDbDFlMjhTN0oxRURkaTYxd1B1M3pydjAtMGJ3MVNUX0tISm9OaWlEM0RBbFBoNXg1RnNBLXVtejF5SVBjRXB3SlBpME5LSlJwZGttY1QtLW9BM1hFck1OcUpUdkEzWThuOTlxYnh3UUo3ekJ3Z01QVTg?oc=5",
+          "summary": "International Olympic Committee announces new Policy on the Protection of the Female (Women’s) Category in Olympic Sport Olympics"
         }
       ],
       "sourcesCount": 1
@@ -1529,24 +1493,6 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
           "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dac1e7560dfb",
-      "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
-      "summary": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit.",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 15 Oct 2026 13:52:23 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
-          "summary": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit."
         }
       ],
       "sourcesCount": 1
@@ -1930,6 +1876,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "9301b47935e0",
+      "title": "Shohei Ohtani has always been a bigger international star than LeBron James, says ex-Super Bowl champion - Yahoo Sports",
+      "summary": "Shohei Ohtani has always been a bigger international star than LeBron James, says ex-Super Bowl champion Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXhuZkxwVUlXS3BYNTJ3aUtfMGhtMTVCd3JFTVN5Q0kzV0lLSzBsbzFyQjRIVkVmSVdBUXJ5VkUwdGZFUVJQRktzd1VrN2h4aW1UMjZvWERRVklTdGRRblV6anpmT1RuWWs4bVloT0xDU0JLWUcwWG9jYmMwVzFsUDVxVVFGaG5PVk4wUU1jRHR4Y2lM?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 27 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXhuZkxwVUlXS3BYNTJ3aUtfMGhtMTVCd3JFTVN5Q0kzV0lLSzBsbzFyQjRIVkVmSVdBUXJ5VkUwdGZFUVJQRktzd1VrN2h4aW1UMjZvWERRVklTdGRRblV6anpmT1RuWWs4bVloT0xDU0JLWUcwWG9jYmMwVzFsUDVxVVFGaG5PVk4wUU1jRHR4Y2lM?oc=5",
+          "summary": "Shohei Ohtani has always been a bigger international star than LeBron James, says ex-Super Bowl champion Yahoo Sports"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "786be4b6a2c7",
       "title": "Fussball: Juventus unterliegt Lazio – Woltemade bleibt torlos",
       "summary": "Der deutsche Stürmer kommt zur Pause auf den Platz, bleibt aber torlos. Er kann die nächste Pleite von Juventus nicht abwenden.",
@@ -1943,6 +1907,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/sport/fussball/juventus-turin-verliert-0-3-gegen-lazio-rom-201599359.html",
           "summary": "Der deutsche Stürmer kommt zur Pause auf den Platz, bleibt aber torlos. Er kann die nächste Pleite von Juventus nicht abwenden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "30d1e6ab8701",
+      "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Reuters",
+      "summary": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 23:52:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+          "summary": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2105,6 +2087,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-mailand-meloni-beruft-sicherheitssitzung-ein-201599347.html",
           "summary": "Rund um den Mailänder Dom plündern vermummte Jugendliche erneut Geschäfte, die Polizei setzte Wasserwerfer und Tränengas ein. Nun will Ministerpräsidentin Meloni über weitere Maßnahmen beraten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "12c42c1c875e",
+      "title": "Anthropic to commit 5% stake to new 'public benefit fund' - Reuters",
+      "summary": "Anthropic to commit 5% stake to new 'public benefit fund' Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 23:06:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
+          "summary": "Anthropic to commit 5% stake to new 'public benefit fund' Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2817,24 +2817,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e770bf9f9178",
-      "title": "Feuer auf Militärbasis in Kanada: Tote und viele Verletzte",
-      "summary": "Bei einem Großbrand auf einer Militärbasis in Kanada sind mindestens vier Menschen ums Leben gekommen, Dutzende wurden verletzt. Über mögliche Hintergründe wurde nichts bekannt.",
-      "link": "https://www.zdfheute.de/panorama/kanada-feuer-brand-militaerbasis-wainwright-tote-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Sun, 18 Oct 2026 19:42:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/kanada-feuer-brand-militaerbasis-wainwright-tote-100.html",
-          "summary": "Bei einem Großbrand auf einer Militärbasis in Kanada sind mindestens vier Menschen ums Leben gekommen, Dutzende wurden verletzt. Über mögliche Hintergründe wurde nichts bekannt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "66715992d2d2",
       "title": "Local community colleges expanding surgical technology program - Augusta Free Press",
       "summary": "Local community colleges expanding surgical technology program Augusta Free Press",
@@ -2928,24 +2910,6 @@
         }
       ],
       "sourcesCount": 2
-    },
-    {
-      "id": "12c42c1c875e",
-      "title": "Anthropic to commit 5% stake to new public benefit fund - Reuters",
-      "summary": "Anthropic to commit 5% stake to new public benefit fund Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 18 Oct 2026 19:11:37 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
-          "summary": "Anthropic to commit 5% stake to new public benefit fund Reuters"
-        }
-      ],
-      "sourcesCount": 1
     },
     {
       "id": "9ebd37ce3b19",
@@ -3483,14 +3447,9 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1ppa1FaQ2pCY3ZkUUxNMWktUnNoZ2VLYjZPSXVMX3JFZnZNeUtNTHdpZHp5Q3NMQUdZMVRiZTJSMVd1NklfOVNscURjYUZKdTdpODZPVFhIdndBY3ZVRUlXUlowVUhkQ3pxUU9wY2lCNmhwQ2F1TVhuVzdMT3BPZE1GR0ZQWksyektKczlna2JjV1JwNHdubWwydDhHck92bk1KdGZ2aFRLcXNFS29qVzhkc09ELUlTbnhMM0tvbnZfVkdqVDdGcUdSUXZxZFnSAdQBQVVfeXFMTUdfeXBBcGJQaHNyWldBdGZzckVNNmwxc3drdGR1OFNpZVVhckRKbU4zT2VmYkk5QzJpLU85cmpaR0RrZWhtTmZic2NMcDlOOW9BV3hfeEdYdmJWdVZtY2tCeEtwVFc5N242QV9pcmFfQkRXNV9GRkphcTBnOXE4MUJJZ29XdS1JUDBqYXBpV2xqLUFrM2FYSldPRUc2c1dxZHNCdW41YXpZX010d3l6cm1hLVJsSEFha3pqMlJsVHNaZ1lqN0NCcGRWcmVnSGtpaThuaHk?oc=5",
           "summary": "Why RLX Technology Bears Were Right Before The Drop Simply Wall Street"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0Rla3BjVW1sNmhDREh5NGtxU0VuM0Z2dHJESThzQ3Vwc0VyRV9teTVOaFRLRVpMWjJkTFhPQ1l3RVNYaVVUTjZWZ0EzOFk3RUg1YmhOVFVDWnVNWWZYZUJ0T1llVzNyWjNrZGdqMTRvTFdJc1Z6N0RySmJFM01oV3A3NTgxQzBWNEkzbTVvUXp5ZjV5Tmd3cnp3MTkyMmNJekFwVWtMYUZHSHFjR29jZ0ZEVHp6eEVqeE1RZ082REh1M180WGxn0gHMAUFVX3lxTFBET3Z2SGc4TU5vS2o0NUlUREdCQjNYcFF3TTE2UHJvU2ZZRGxJWWJMQzgxTU5tQjM3NDlYMm1MT0dMOV9WTnRqZmNSZE1kMVY1UU1FaUxpczA2QnZsb2pGdTlUV3JpM3dpeUwzODJjX1NaaFNGV0pFaG5PbDd5dERNdDJiUDNEaFhyRU5sYVdwT21QS2J1cm9YLVVDMVFhUmt3ZXpNUS1vN0hNS2N5UkFqc1lqQWpzMUlmWUJHUkMtNVlaSGs0SjBjanlCbg?oc=5",
-          "summary": "BlackSky Technology Fell While Sales Rose Simply Wall Street"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "17e92c94b911",
@@ -4164,6 +4123,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "23cb2be41a64",
+      "title": "BlackSky Technology Fell While Sales Rose - Simply Wall Street",
+      "summary": "BlackSky Technology Fell While Sales Rose Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0Rla3BjVW1sNmhDREh5NGtxU0VuM0Z2dHJESThzQ3Vwc0VyRV9teTVOaFRLRVpMWjJkTFhPQ1l3RVNYaVVUTjZWZ0EzOFk3RUg1YmhOVFVDWnVNWWZYZUJ0T1llVzNyWjNrZGdqMTRvTFdJc1Z6N0RySmJFM01oV3A3NTgxQzBWNEkzbTVvUXp5ZjV5Tmd3cnp3MTkyMmNJekFwVWtMYUZHSHFjR29jZ0ZEVHp6eEVqeE1RZ082REh1M180WGxn0gHMAUFVX3lxTFBET3Z2SGc4TU5vS2o0NUlUREdCQjNYcFF3TTE2UHJvU2ZZRGxJWWJMQzgxTU5tQjM3NDlYMm1MT0dMOV9WTnRqZmNSZE1kMVY1UU1FaUxpczA2QnZsb2pGdTlUV3JpM3dpeUwzODJjX1NaaFNGV0pFaG5PbDd5dERNdDJiUDNEaFhyRU5sYVdwT21QS2J1cm9YLVVDMVFhUmt3ZXpNUS1vN0hNS2N5UkFqc1lqQWpzMUlmWUJHUkMtNVlaSGs0SjBjanlCbg?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 14:39:28 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0Rla3BjVW1sNmhDREh5NGtxU0VuM0Z2dHJESThzQ3Vwc0VyRV9teTVOaFRLRVpMWjJkTFhPQ1l3RVNYaVVUTjZWZ0EzOFk3RUg1YmhOVFVDWnVNWWZYZUJ0T1llVzNyWjNrZGdqMTRvTFdJc1Z6N0RySmJFM01oV3A3NTgxQzBWNEkzbTVvUXp5ZjV5Tmd3cnp3MTkyMmNJekFwVWtMYUZHSHFjR29jZ0ZEVHp6eEVqeE1RZ082REh1M180WGxn0gHMAUFVX3lxTFBET3Z2SGc4TU5vS2o0NUlUREdCQjNYcFF3TTE2UHJvU2ZZRGxJWWJMQzgxTU5tQjM3NDlYMm1MT0dMOV9WTnRqZmNSZE1kMVY1UU1FaUxpczA2QnZsb2pGdTlUV3JpM3dpeUwzODJjX1NaaFNGV0pFaG5PbDd5dERNdDJiUDNEaFhyRU5sYVdwT21QS2J1cm9YLVVDMVFhUmt3ZXpNUS1vN0hNS2N5UkFqc1lqQWpzMUlmWUJHUkMtNVlaSGs0SjBjanlCbg?oc=5",
+          "summary": "BlackSky Technology Fell While Sales Rose Simply Wall Street"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "1576530a21f7",
       "title": "How Did Seagate (STX) Triple Selling a Technology Everyone Buried? - Yahoo Finance",
       "summary": "How Did Seagate (STX) Triple Selling a Technology Everyone Buried? Yahoo Finance",
@@ -4745,24 +4722,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8f81c5a1ae46",
-      "title": "Gleaning group gives £1m of produce to food banks",
-      "summary": "Gleaning Cornwall warns that more funding is needed as costs rise sharply.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Sun, 18 Oct 2026 11:03:04 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
-          "summary": "Gleaning Cornwall warns that more funding is needed as costs rise sharply."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d8e81d2fc009",
       "title": "Gelecek yılın bütçesine pay gelirlerinden 778,9 milyar lira katkı sağlanacak",
       "summary": "Devlet yeni yılda kişi ve kurumlardan alınan paylardan 778 milyar 937 milyon 447 bin lira gelir elde etmeyi hedefliyor.",
@@ -4889,24 +4848,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "bcd7e562d22f",
-      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXVEcEVIUGFTSFdmQnBPRUlxT004TEY1UUMtQlJCdUo1a2tSWG5ZTTM5dGlab1Bxd1JBelJWcER4a25MZVhzUUYya1NoNktOaGZJdEUwdVpDcmhDNFdrMVRQWE9lNXZLWFZ2YzhZNW9SbjlFY0dYbmp3UWJJQnE4MTBiazNMUzJoQkgxZXY0eWVhS3ViX2FGdXJGcTkzVjhUOVBvWEE3RHk3cXNPVGfSAbMBQVVfeXFMT1ZBQmdKcFJfZFc2blZBLXhpTXN0VWhWN01mNW5MNHZMVE51QVVVWkIzeXRFelBRdzBsRGVkNFRnZ2ltYTRKVHFjUkkySTl0SG9xTl9YWm1DR3VVYUkteDc3eHp4R1hJM3ZDRzBYZm1idVBuWjV3Y0xyd1RheXB3V1ZHVXVSZVd0enVyWmhXLU1LQnBzWjk0azNPMExGNFQ5dHpTOTl1V081WFRKRXRMT2kwczA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 10:41:38 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXVEcEVIUGFTSFdmQnBPRUlxT004TEY1UUMtQlJCdUo1a2tSWG5ZTTM5dGlab1Bxd1JBelJWcER4a25MZVhzUUYya1NoNktOaGZJdEUwdVpDcmhDNFdrMVRQWE9lNXZLWFZ2YzhZNW9SbjlFY0dYbmp3UWJJQnE4MTBiazNMUzJoQkgxZXY0eWVhS3ViX2FGdXJGcTkzVjhUOVBvWEE3RHk3cXNPVGfSAbMBQVVfeXFMT1ZBQmdKcFJfZFc2blZBLXhpTXN0VWhWN01mNW5MNHZMVE51QVVVWkIzeXRFelBRdzBsRGVkNFRnZ2ltYTRKVHFjUkkySTl0SG9xTl9YWm1DR3VVYUkteDc3eHp4R1hJM3ZDRzBYZm1idVBuWjV3Y0xyd1RheXB3V1ZHVXVSZVd0enVyWmhXLU1LQnBzWjk0azNPMExGNFQ5dHpTOTl1V081WFRKRXRMT2kwczA?oc=5",
-          "summary": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools ABC News - Breaking News, Latest News and Videos"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "03fcb45e479e",
       "title": "Iran urges US to accept proposal to reopen Strait of Hormuz - Reuters",
       "summary": "Iran urges US to accept proposal to reopen Strait of Hormuz Reuters",
@@ -4950,7 +4891,7 @@
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 10:16:00 GMT",
+      "time": "Sun, 18 Oct 2026 10:20:46 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
@@ -4999,11 +4940,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQel8td25DVF9SVlFzODNPcFhqM2NPajZvcTg1QWVVSC1rX0Y5d0c1UnY3MEd5ZWJQdThCQ1FnbkVXZ3dUOWkxWUJQWjRJMTNCRWdINGtCdndlWEVzQlVmZi14NVFuNi12X1FYNlpiQjNBVFRlVlZjY2d3eWRmUHZUTVN4d25Td002U0FBNGNsWUl2N1Q3UUZXaDVFcC1FS1BEVnRrTmM1NVN0SkhyUEVIMzcyMElpRTcxSk9Kek5HeFo0Tm9lSU1tYXN0VmxOcXlKdUNQcmd5WllJT2VRZ0s1ZFhR?oc=5",
           "summary": "International Business Machines Corporation $IBM Shares Sold by TD Waterhouse Canada Inc. MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQmxBenFpUzE4eW1QM0dnRTlMQ3lGTXZEVWJjNDdBbVVGTUJET3RtLU9QbFotdnJwQXJSb1B1aXZUS2tvb0hCd1N5SmtXSjc0d1NBS3BxaE1pRVNFSkRoUi1tR3hsc0Q4VlFyZFd0VzNuZmVTNDBBZ3lia2RGRXp4N0pwUHpOaFVBYTFiTWdTZzM0MjVxTVhOT2xncXA3cFFWVzNVYTNWY2E1amhvZjd3dzlKbnhEUjctNDJleGdEaWdjdFNHTGRJR3ZlZHlVZXFiUC1sUlFTaGpqa0xJel9LbE12OHhzWm1yR25WdW9pZ2kzWkZacFc4M1VKN2IyUXM?oc=5",
-          "summary": "Cantor Fitzgerald Investment Advisors L.P. Buys 38,962 Shares of International Business Machines Corporation $IBM MarketBeat"
         },
         {
           "sourceName": "Google News – International Business",
@@ -5061,7 +4997,7 @@
           "summary": "International Business Machines Corporation $IBM Shares Sold by Banque Pictet & Cie SA MarketBeat"
         }
       ],
-      "sourcesCount": 18
+      "sourcesCount": 17
     },
     {
       "id": "cdcf88a0e386",
@@ -5478,6 +5414,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "3c008fca3fc1",
+      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - WTOP News",
+      "summary": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFBVQmtpMXNrLXhvQzhjQWxqZHZNanFjUnkzblNId19SNXBqSy1aY1Eyek9DRXJtY1JRa1cxMEZ4Mi1nZHZicFdNVkY1US1YbkxmQS1CUC1pVHY1VjBHOVVRV3BOWHFORzVSUU5adGxBSU5zSVlqd1QwMDk1d1o1RXl4TTJNXzJ0VVRGWWdfZVprcUxRT1Z2eTdhZ3FVR09CRndEUzdrY0xyOTVBMnRN?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 18 Oct 2026 07:07:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFBVQmtpMXNrLXhvQzhjQWxqZHZNanFjUnkzblNId19SNXBqSy1aY1Eyek9DRXJtY1JRa1cxMEZ4Mi1nZHZicFdNVkY1US1YbkxmQS1CUC1pVHY1VjBHOVVRV3BOWHFORzVSUU5adGxBSU5zSVlqd1QwMDk1d1o1RXl4TTJNXzJ0VVRGWWdfZVprcUxRT1Z2eTdhZ3FVR09CRndEUzdrY0xyOTVBMnRN?oc=5",
+          "summary": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools WTOP News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c3d38a3417bc",
       "title": "Landleben: „Sobald das Garagentor bei einem offen ist, kannste dir’n Bierchen nehmen“",
       "summary": "Unser Autor hatte eine glückliche Kindheit auf dem Dorf, doch seit dem Studium lebt er in der Stadt. Zur Obsternte kehrt er zurück und fragt Schulfreunde und seine Oma: Was reizt euch am Landleben?",
@@ -5514,19 +5468,65 @@
       "sourcesCount": 1
     },
     {
-      "id": "5c734d7d12e9",
-      "title": "Lithuanians forced to take shelter after suspected drone enters airspace - Reuters",
-      "summary": "Lithuanians forced to take shelter after suspected drone enters airspace Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
+      "id": "92acfbb256b7",
+      "title": "Rubio arrives in Central Asia while other US officials hit foreign policy hot spots - Reuters",
+      "summary": "Rubio arrives in Central Asia while other US officials hit foreign policy hot spots Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
       "sourceName": "Google News – Reuters",
       "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 18 Oct 2026 05:42:00 GMT",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 05:03:00 GMT",
       "coverage": [
         {
           "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
-          "summary": "Lithuanians forced to take shelter after suspected drone enters airspace Reuters"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
+          "summary": "Rubio arrives in Central Asia while other US officials hit foreign policy hot spots Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "637f8440e8f8",
+      "title": "Is International Business Machines (IBM) A Bargain Or Fully Priced? - Simply Wall Street",
+      "summary": "Is International Business Machines (IBM) A Bargain Or Fully Priced? Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYTlybjdYVVlmRXh0WTNkMVNXbUhqa0JUNFE5dTJSTDFyeG9Md0JuMU1VenEtWVZIVmJ5cURnUDVyUjJvLVVVRk1kQTJJUWJaaXRGWWpsVFFSamZUM0Z4cVpkRlZGZWRxcExHVlhPQXpzSlF4cUJ2dTZuNG9aZXBzZjlUQzlJRXlueE5XQVBtWjlEY2JSWjdQc2dwVkw2VzNyWjNSOUxGS1RDWUdIUGppZlNFUU9lbUh6MlExaS1KcmYtNHhXS1dBV09ZZGZuRGd0SDVIajk5UHhiOWR2ZWRGU9IB5gFBVV95cUxONWE4ZUJka2NDczBuRDZvNm5hWUE3ck9QdnFrWndycW1qV2plMFlLemM4T1RyeThaTEFnQ01LS1VJU0JxX3ZDYjFHR3JOamJYYVduZ0o0bHgxNURjS1VReXg2RmIzR3QyZHA0eWF6R3FrRXVkUzFkMEFROE1Yd0ZLcnpCTXhseGk1NmhZZ2w2cWQzN2QwYi1BTGJrcHBmMzFPcGNPNDdqeHNyS3M2SG9GbzdxRnl3cGM4andiVGZ4WERWYjZ3VUUtZHhBSm8ybnRSaGppczNhU3JOQ0RScTZGSXF3aHFiZw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 18 Oct 2026 03:41:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYTlybjdYVVlmRXh0WTNkMVNXbUhqa0JUNFE5dTJSTDFyeG9Md0JuMU1VenEtWVZIVmJ5cURnUDVyUjJvLVVVRk1kQTJJUWJaaXRGWWpsVFFSamZUM0Z4cVpkRlZGZWRxcExHVlhPQXpzSlF4cUJ2dTZuNG9aZXBzZjlUQzlJRXlueE5XQVBtWjlEY2JSWjdQc2dwVkw2VzNyWjNSOUxGS1RDWUdIUGppZlNFUU9lbUh6MlExaS1KcmYtNHhXS1dBV09ZZGZuRGd0SDVIajk5UHhiOWR2ZWRGU9IB5gFBVV95cUxONWE4ZUJka2NDczBuRDZvNm5hWUE3ck9QdnFrWndycW1qV2plMFlLemM4T1RyeThaTEFnQ01LS1VJU0JxX3ZDYjFHR3JOamJYYVduZ0o0bHgxNURjS1VReXg2RmIzR3QyZHA0eWF6R3FrRXVkUzFkMEFROE1Yd0ZLcnpCTXhseGk1NmhZZ2w2cWQzN2QwYi1BTGJrcHBmMzFPcGNPNDdqeHNyS3M2SG9GbzdxRnl3cGM4andiVGZ4WERWYjZ3VUUtZHhBSm8ybnRSaGppczNhU3JOQ0RScTZGSXF3aHFiZw?oc=5",
+          "summary": "Is International Business Machines (IBM) A Bargain Or Fully Priced? Simply Wall Street"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDZ1YkotT0gzc1pCa21CR3hXZjUxQ00wYXhXdDZTazNVcFBFR2FWTWpOOE1POVVUR0hTMjdhckVyM0x4b2JESENLbTJHbXhrZzl1YVVSelJ4MVF3b1UwaWRGYnRodzdfb2tJdy0yV25kZUQzYmpsTFJueHVKVXhNSGdya1hIUG1ub0Z6SHZ0M2trYVBLd3dOd2NZZ2FNdWUwNGpHSVRBMVpRcnA2SG5nbU84WdIBuAFBVV95cUxORklMTUY5UlMwTExWOF9QWjJQYnhXZkQtdzloWW1TUUxnUzNIeVBTc0tlQWF6OENEQkctNnpKeDJvWm9YZVFVUmQ3b2prWjhWNUhPenZlV3V2S05LYmgwSGU0SFh6YWNGeGdsMUE2ME4waWRIdFhnbjVZTHFTVXE5ZTVfb1M5ZGZRa2taVE41eXFPQ01MQk1UQktCNHV4TUkxaHFYZnJ6UGFKRHhycTVsa1dEY2xmMzZy?oc=5",
+          "summary": "International Business Machines (IBM) Q3 2026 Preview: EPS Est. $2.87, Reports October 21 AlphaStreet"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTm9YUTd0a29adFd3N0d3cmFVcDU4WXhfMW5Sdi1SeDJVRDhlcU04U2ZQalRFMmZqTEpZQ18xaXVlZkZLSEZLNHF0YUNCZ25KcUg1TTNaTERFaXA2VmhFbXZKUlRMQXFTUE44anFjWXVWc1h3Wi1hdHVxcGVtcjhaNFA4bjFBMHIyQi1uMWE2SkxHakROOWtuMlNNbGZSQ2NheHRtQVVsLXA3anpqSkVfTkFMd0M3TlJNVnhsV3NUWXdKWXllNWVlQ2FCbDk?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Shares Up 2.7% on Analyst Upgrade MarketBeat"
+        }
+      ],
+      "sourcesCount": 3
+    },
+    {
+      "id": "dd0c1a41f983",
+      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
+      "summary": "Rubio says Trump to take up to 60 days to weigh Russia sanctions Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 18 Oct 2026 03:38:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
+          "summary": "Rubio says Trump to take up to 60 days to weigh Russia sanctions Reuters"
         }
       ],
       "sourcesCount": 1
