@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:55:41.497370+00:00",
+  "updated": "2026-10-20T20:17:09.606431+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -596,6 +596,78 @@
       "sourcesCount": 1
     },
     {
+      "id": "6aeaed8247a9",
+      "title": "Machtwechsel im Kongress?",
+      "summary": "Nur noch rund ein Drittel der Amerikaner sind zufrieden mit der Arbeit des Präsidenten. Republikanische Kandidaten fürchten, dass Trump im Wahlkampf eher schadet als hilft.",
+      "link": "https://www.zdfheute.de/politik/ausland/usa-midterms-maga-republikaner-waehler-unzufrieden-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 22:04:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/usa-midterms-maga-republikaner-waehler-unzufrieden-100.html",
+          "summary": "Nur noch rund ein Drittel der Amerikaner sind zufrieden mit der Arbeit des Präsidenten. Republikanische Kandidaten fürchten, dass Trump im Wahlkampf eher schadet als hilft."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "33da340f6275",
+      "title": "Demonstranten kleben sich vor Rheinmetall-Standorten fest",
+      "summary": "An mehreren Standorten des Rüstungsunternehmens Rheinmetall haben sich Demonstranten festgeklebt. Damit wollen sie gegen Waffenlieferungen an Israel protestieren.",
+      "link": "https://www.zdfheute.de/panorama/rheinmetall-demonstration-protest-israel-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 20 Oct 2026 22:03:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/rheinmetall-demonstration-protest-israel-100.html",
+          "summary": "An mehreren Standorten des Rüstungsunternehmens Rheinmetall haben sich Demonstranten festgeklebt. Damit wollen sie gegen Waffenlieferungen an Israel protestieren."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7e65e4392bc7",
+      "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+      "summary": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 22:01:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+          "summary": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ecf19ebc81e1",
+      "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+      "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 21:56:31 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+          "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8ee5a168383d",
       "title": "7 ilde bahis operasyonunda 22 tutuklama",
       "summary": "Siirt merkezli 7 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 27 şüpheliden 22'si tutuklandı. Şüphelilerin banka ve kripto hesaplarında 2025-2026 yıllarında 1 milyar 498 milyon 377 bin 676 liralık işlem hacmi tespit edildi.",
@@ -704,6 +776,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0f70e7615542",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 20:01:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+          "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "efea7463d38a",
       "title": "EU rüstet sich für Wettlauf um die Arktis",
       "summary": "Die Arktis könnte die nächste Konfliktzone der Weltmächte werden. Die Europäer wollen dabei nicht länger zuschauen - wie sie planen, ihre Präsenz auszubauen.",
@@ -745,6 +835,42 @@
       "sourcesCount": 2
     },
     {
+      "id": "d55530d0c786",
+      "title": "Großmächte-Gipfel: In Shenzhen droht die Rückkehr imperialer Politik",
+      "summary": "Trump hat seine Bereitschaft signalisiert, an einem Gipfel mit Putin und Xi in China teilzunehmen. Es würde auch über die Ukraine verhandelt.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/dreiergipfel-in-china-ueber-die-ukraine-ohne-ukraine-201604727.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 19:52:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/dreiergipfel-in-china-ueber-die-ukraine-ohne-ukraine-201604727.html",
+          "summary": "Trump hat seine Bereitschaft signalisiert, an einem Gipfel mit Putin und Xi in China teilzunehmen. Es würde auch über die Ukraine verhandelt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c2b4bb3672bd",
+      "title": "Ukrainekrieg: Trumps verdrehte Sicht auf die Welt",
+      "summary": "Der amerikanische Präsident schlägt sich im Ukrainekrieg auf die Seite des Angreifers Russland. Wieder kann Deutschland hier einiges lernen.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/trumps-verdrehte-sicht-auf-die-welt-201605085.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 19:49:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/trumps-verdrehte-sicht-auf-die-welt-201605085.html",
+          "summary": "Der amerikanische Präsident schlägt sich im Ukrainekrieg auf die Seite des Angreifers Russland. Wieder kann Deutschland hier einiges lernen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "863a1c2284c2",
       "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
       "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an.",
@@ -781,10 +907,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "7121252673f0",
+      "id": "5281351ee503",
       "title": "Tech Life",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Technology",
       "region": "international",
       "topic": "technologie",
@@ -792,7 +918,7 @@
       "coverage": [
         {
           "sourceName": "BBC Technology",
-          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
           "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
         },
         {
@@ -868,6 +994,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "32fd49ffa446",
+      "title": "Welcome to the future of work: More meetings and nagging bots - The Washington Post",
+      "summary": "Welcome to the future of work: More meetings and nagging bots The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3Yzby02bS1lU3NRT0tha2hVN1ZFajZfYk8xLVhUNU5HUm1TT09pTWxnUzlENDBQZUFLSnlxMEFobjhfV3VVcjNGS2RKaVZpNlRITTBFN1cwbE14eHF0MUFXdDd6bGM4cmVQbDFDTU85RzhlY205bVBiS193X0NMb2VDdGxHTG82eEhRQmVUaVZrdHloRkZCRXZTSUxqRmRJSzFmc0RIN0lsWFFfUkVPQnRn?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 19:40:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3Yzby02bS1lU3NRT0tha2hVN1ZFajZfYk8xLVhUNU5HUm1TT09pTWxnUzlENDBQZUFLSnlxMEFobjhfV3VVcjNGS2RKaVZpNlRITTBFN1cwbE14eHF0MUFXdDd6bGM4cmVQbDFDTU85RzhlY205bVBiS193X0NMb2VDdGxHTG82eEhRQmVUaVZrdHloRkZCRXZTSUxqRmRJSzFmc0RIN0lsWFFfUkVPQnRn?oc=5",
+          "summary": "Welcome to the future of work: More meetings and nagging bots The Washington Post"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0f963a2e386a",
       "title": "Liveblog Nahost: Netanjahus Ziel bleibt der Sturz des Mullah-Regimes",
       "summary": "„Wir müssen die Beseitigung des iranischen Regimes vollenden“ +++ Großbritannien will Saudi-Arabien mit Kampfflugzeugen unterstützen +++ Berichte über Treffen zwischen Hegseth und Netanjahu in Israel +++ alle Entwicklungen im Liveblog",
@@ -935,6 +1079,42 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/investorengipfel-der-bundesregierung-viel-show-wenig-substanz-201604712.html",
           "summary": "Es ist gut, dass die Bundesregierung einen Investorengipfel veranstaltet. Der Inhalt ist allerdings noch verbesserungsfähig."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e53c98bd193c",
+      "title": "Wayfair’s Fiona Tan on building teams and transforming how customers shop - National Retail Federation | NRF",
+      "summary": "Wayfair’s Fiona Tan on building teams and transforming how customers shop National Retail Federation | NRF",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVVnNmdsUE1EY2U0WDV4anpCdkQ3dTIxS1lIcWQydDBnX0lZdFdZTUpoQWhjdnBvY0FBZTFoLU1rN002bWxqb0ZHWnMyeHFCQmhvLVZFcWc1YThLRDN5THcwUG9pajV1bVVUM3VJVXZOZUdLYmxmMGhTSjdIV0h2cUw3YTZQbGIyMm9hRVJzRUFKSmo2d3Rqc05CdkI?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 19:21:52 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVVnNmdsUE1EY2U0WDV4anpCdkQ3dTIxS1lIcWQydDBnX0lZdFdZTUpoQWhjdnBvY0FBZTFoLU1rN002bWxqb0ZHWnMyeHFCQmhvLVZFcWc1YThLRDN5THcwUG9pajV1bVVUM3VJVXZOZUdLYmxmMGhTSjdIV0h2cUw3YTZQbGIyMm9hRVJzRUFKSmo2d3Rqc05CdkI?oc=5",
+          "summary": "Wayfair’s Fiona Tan on building teams and transforming how customers shop National Retail Federation | NRF"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a8f8d47040db",
+      "title": "Auf welche US-Staaten es jetzt ankommt",
+      "summary": "Fünf Staaten stehen bei den anstehenden Midterms besonders im Fokus. Wer dort gewinnen könnte und welche Folgen die Ergebnisse für Trumps Präsidentschaft haben, analysiert ZDFheute live.",
+      "link": "https://www.zdfheute.de/video/zdfheute-live/midterms-trump-wahl-usa-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 19:20:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-live/midterms-trump-wahl-usa-video-100.html",
+          "summary": "Fünf Staaten stehen bei den anstehenden Midterms besonders im Fokus. Wer dort gewinnen könnte und welche Folgen die Ergebnisse für Trumps Präsidentschaft haben, analysiert ZDFheute live."
         }
       ],
       "sourcesCount": 1
@@ -1287,10 +1467,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "41e2b00cc944",
-      "title": "Merz lockt Investoren mit deutschen Klischees",
-      "summary": "Beim Investitionsgipfel in Berlin beginnt Kanzler Friedrich Merz seine Rede mit Ironie und deutschen Klischees. Lockt er damit Investoren an?",
-      "link": "https://www.zdfheute.de/video/merz-ironisch-investitionsgipfel-video-100.html",
+      "id": "e95f241bef42",
+      "title": "Merz probiert es mit Ironie",
+      "summary": "Beim Investitionsgipfel in Berlin beginnt Bundeskanzler Friedrich Merz seine Rede mit Ironie. Er zählt mehrere deutsche Klischees auf, um Investoren zu überzeugen.",
+      "link": "https://www.zdfheute.de/video/merz-investitionsgipfel-ironie-deutsche-klischees-video-100.html",
       "sourceName": "ZDF",
       "region": "germany",
       "topic": "politik",
@@ -1298,8 +1478,8 @@
       "coverage": [
         {
           "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/merz-ironisch-investitionsgipfel-video-100.html",
-          "summary": "Beim Investitionsgipfel in Berlin beginnt Kanzler Friedrich Merz seine Rede mit Ironie und deutschen Klischees. Lockt er damit Investoren an?"
+          "link": "https://www.zdfheute.de/video/merz-investitionsgipfel-ironie-deutsche-klischees-video-100.html",
+          "summary": "Beim Investitionsgipfel in Berlin beginnt Bundeskanzler Friedrich Merz seine Rede mit Ironie. Er zählt mehrere deutsche Klischees auf, um Investoren zu überzeugen."
         }
       ],
       "sourcesCount": 1
@@ -1343,7 +1523,7 @@
     {
       "id": "2b84d1f4a447",
       "title": "Liveblog Ukrainekrieg: Selenskyj: Ukraine muss an möglichem Treffen von Putin, Trump und Xi teilnehmen",
-      "summary": "Nach Treffen mit US-Sondergesandten in Oslo +++ Selenskyj spricht mit Rubio über Starlink +++ Trump beklagt mangelnde Gegenleistung der Ukraine für Hilfe im Krieg +++ alle Neuigkeiten im Liveblog",
+      "summary": "Nach Treffen mit US-Sondergesandten Witkoff in Oslo — US-Gesandter reist nun nach Russland +++ Selenskyj spricht mit Rubio über Starlink +++ Trump beklagt mangelnde Gegenleistung der Ukraine für Hilfe im Krieg +++ alle Neuigkeiten im Liveblog",
       "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-ukraine-muss-an-moeglichem-treffen-von-putin-trump-und-xi-teilnehmen-faz-110683325.html",
       "sourceName": "FAZ",
       "region": "international",
@@ -1353,7 +1533,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-ukraine-muss-an-moeglichem-treffen-von-putin-trump-und-xi-teilnehmen-faz-110683325.html",
-          "summary": "Nach Treffen mit US-Sondergesandten in Oslo +++ Selenskyj spricht mit Rubio über Starlink +++ Trump beklagt mangelnde Gegenleistung der Ukraine für Hilfe im Krieg +++ alle Neuigkeiten im Liveblog"
+          "summary": "Nach Treffen mit US-Sondergesandten Witkoff in Oslo — US-Gesandter reist nun nach Russland +++ Selenskyj spricht mit Rubio über Starlink +++ Trump beklagt mangelnde Gegenleistung der Ukraine für Hilfe im Krieg +++ alle Neuigkeiten im Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -1521,24 +1701,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1cf55d1e2184",
-      "title": "Demokratie lernen auf Schalke",
-      "summary": "Statt Unterricht im Klassenraum diskutieren Jugendliche auf Schalke über Fast Fashion, Demokratie und Gesellschaft. Das Projekt \"Schalke macht Schule\" macht das möglich.",
-      "link": "https://www.zdfheute.de/panorama/schalke-stadion-arena-gelsenkirchen-schule-kooperation-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Tue, 20 Oct 2026 17:43:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/schalke-stadion-arena-gelsenkirchen-schule-kooperation-100.html",
-          "summary": "Statt Unterricht im Klassenraum diskutieren Jugendliche auf Schalke über Fast Fashion, Demokratie und Gesellschaft. Das Projekt \"Schalke macht Schule\" macht das möglich."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "236841fc9e6f",
       "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
       "summary": "Die neue Arktis-Strategie der Europäischen Kommission macht deutlich: Die EU will ihre Präsenz dort verstärken, wo die \"tektonischen Platten der Geopolitik aufeinanderprallen\", wie Kommissionschefin von der Leyen sagt. Von Thomas Spickhofen.",
@@ -1570,6 +1732,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzc2ZmhTMzVGbDJPbllETHhxZ19oVUJYMVViMThyZWNwY2JiRlJUWDFSdndCOERUVlo1M19GOUVpcG5NZXE2ZnZiLTl1VEpHeEVtekF3RFV2bDg2RnZqeUFpMFpvMjB0eF80dmxWOWI1Y2RVdHZSaW1JTFo3bzJmSnNCSThURFZ3UDl4Qkc2M2FMd3F6YTJKUmNpbkItNm94RUZJeFdtaVVsMEtVT1Nkd2RJT1pFallGZ1k2cWVPX1E0N0FDYlE?oc=5",
           "summary": "Davenport's highly acclaimed cybersecurity programs prepare students for in-demand careers Davenport University"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0ef02e873663",
+      "title": "Ara Institute of Canterbury acquires naming rights for Christchurch's Hagley Oval - Australasian Leisure Management Magazine",
+      "summary": "Ara Institute of Canterbury acquires naming rights for Christchurch's Hagley Oval Australasian Leisure Management Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1VEQWM0WnRMQ1hLNmJ4ODdpX2JvQ3FkNWZxUUxkZmUtWUhHZnVQSk5FMjhrZEVFRlBTQWxJS3daNHM1TDBsZ1cyV3BJV1pHajA1bHFrM1JxeTBjbzZ5X0luODlsRXdxaHZiSDBCb3RHTXFvaTFITTNpNTgwZHFISmJHWWUwTGFzMEdtWkJWU01lQjlrbnFOS3pndDZ2dVZvMHlBUWZ3NXJ2dGF5MEtLaUFtNUtyZw?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 20 Oct 2026 17:36:45 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1VEQWM0WnRMQ1hLNmJ4ODdpX2JvQ3FkNWZxUUxkZmUtWUhHZnVQSk5FMjhrZEVFRlBTQWxJS3daNHM1TDBsZ1cyV3BJV1pHajA1bHFrM1JxeTBjbzZ5X0luODlsRXdxaHZiSDBCb3RHTXFvaTFITTNpNTgwZHFISmJHWWUwTGFzMEdtWkJWU01lQjlrbnFOS3pndDZ2dVZvMHlBUWZ3NXJ2dGF5MEtLaUFtNUtyZw?oc=5",
+          "summary": "Ara Institute of Canterbury acquires naming rights for Christchurch's Hagley Oval Australasian Leisure Management Magazine"
         }
       ],
       "sourcesCount": 1
@@ -1629,24 +1809,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5b2c7e59520f",
-      "title": "Energiepolitik der EU: Mehr CO₂-Zertifikate, laxere Erdgasregeln – und dennoch steigende Energiepreise",
-      "summary": "Im Kampf gegen steigende Energiepreise lässt die Europäische Union Ausnahmen von ihren Klimaschutzregeln zu. Die bestehenden Knappheiten kann sie damit nicht beseitigen.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/mehr-co-zertifikate-und-trotzdem-hoehere-energiepreise-201604790.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 17:24:14 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/mehr-co-zertifikate-und-trotzdem-hoehere-energiepreise-201604790.html",
-          "summary": "Im Kampf gegen steigende Energiepreise lässt die Europäische Union Ausnahmen von ihren Klimaschutzregeln zu. Die bestehenden Knappheiten kann sie damit nicht beseitigen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "180f39b50bcb",
       "title": "Wales great Faletau still has drive for fourth World Cup",
       "summary": "Wales boss Steve Tandy believes Taulupe Faletau is a World Cup contender despite missing out on the Nations Championship squad.",
@@ -1678,24 +1840,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
           "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5ab4a2ab7dcf",
-      "title": "Business-Ticker: Carrefour kappt wegen Frankreich-Unruhen Prognose",
-      "summary": "Chef von Frankreichs Einzelhandelsriesen spricht von bespielloser Situation +++ Adidas jubelt über Rekordergebnis +++ Deutschlandticket soll auch für Gelegenheitsfahrer kommen +++ Neuigkeiten im Unternehmen-Liveblog",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-carrefour-warnt-wegen-unruhen-in-frankreich-die-anleger-faz-200452404.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 20 Oct 2026 16:59:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-carrefour-warnt-wegen-unruhen-in-frankreich-die-anleger-faz-200452404.html",
-          "summary": "Chef von Frankreichs Einzelhandelsriesen spricht von bespielloser Situation +++ Adidas jubelt über Rekordergebnis +++ Deutschlandticket soll auch für Gelegenheitsfahrer kommen +++ Neuigkeiten im Unternehmen-Liveblog"
         }
       ],
       "sourcesCount": 1
@@ -1804,6 +1948,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT205ak0wVV9EYllxdHlsNFR6Q19wSVBXMWZjN2NxdmtYd2hYUGFKNklCZjZ2ajdwY0ZURkFodW9Fa1E1ZTFuSFJQV3RRMUpmSy1DWXpCaTZidmNicTh6S2ZSS0E2X2JYTThJNG13OEdNRU9Qelk2Tmgwd3dXLTdNalNnWXlaTDFhT3lSbHY3Mmp5Tmp0Z1NFOTYwMA?oc=5",
           "summary": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e72d6f068109",
+      "title": "NATO to send planes and drones to Black Sea after attacks on shipping - Reuters",
+      "summary": "NATO to send planes and drones to Black Sea after attacks on shipping Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 16:39:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw?oc=5",
+          "summary": "NATO to send planes and drones to Black Sea after attacks on shipping Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1930,6 +2092,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/frankreich-wer-protestiert-video-100.html",
           "summary": "In französischen Städten kommt es momentan zu gewalttätigen Ausschreitungen. Jacob Ross von der Deutschen Gesellschaft für Auswärtige Politik erklärt, wer da gerade protestiert."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ee6237205b00",
+      "title": "FIU’s defense-related research on display at recent Army conference - Florida International University",
+      "summary": "FIU’s defense-related research on display at recent Army conference Florida International University",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObThKaU51aW1rS09Ic1RwbksxUXhvUUg4bl9DVFNSdVhocTJITElsLUtnSXF5amFVVjhERGdsR19GTmE1eVlXZmQxdTVBU0wwaHhwR2RfUlNkdFZvRks3QTRmN2trWTcwTTZWaGpYb1hnaWhDcGFvZV8tbmtJcWlTX285VWlaWExyQ1A3aEotclB1RXozNWZV?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Tue, 20 Oct 2026 16:16:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObThKaU51aW1rS09Ic1RwbksxUXhvUUg4bl9DVFNSdVhocTJITElsLUtnSXF5amFVVjhERGdsR19GTmE1eVlXZmQxdTVBU0wwaHhwR2RfUlNkdFZvRks3QTRmN2trWTcwTTZWaGpYb1hnaWhDcGFvZV8tbmtJcWlTX285VWlaWExyQ1A3aEotclB1RXozNWZV?oc=5",
+          "summary": "FIU’s defense-related research on display at recent Army conference Florida International University"
         }
       ],
       "sourcesCount": 1
@@ -2097,24 +2277,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "d3b000873660",
-      "title": "Arzttermine: Deutlich längere Wartezeit 2027 erwartet",
-      "summary": "Im kommenden Jahr dürften Patienten noch einmal deutlich länger auf Arzttermine warten. Die Kassenärztliche Bundesvereinigung macht dafür Sparmaßnahmen verantwortlich.",
-      "link": "https://www.zdfheute.de/politik/deutschland/arzt-termin-wartezeit-2027-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 15:59:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/arzt-termin-wartezeit-2027-100.html",
-          "summary": "Im kommenden Jahr dürften Patienten noch einmal deutlich länger auf Arzttermine warten. Die Kassenärztliche Bundesvereinigung macht dafür Sparmaßnahmen verantwortlich."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7fe058073e7c",
       "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
       "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
@@ -2128,6 +2290,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
           "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b8b2f7031a43",
+      "title": "Food importer files new lawsuit to block Trump’s Canada tariffs By Reuters - Investing.com",
+      "summary": "Food importer files new lawsuit to block Trump’s Canada tariffs By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0hneHdwR3puTWxrSnpSSE5mbGFCZUFzMUhzbGkwVzdocFQ3S2FCd0cyZWNfQ1UxWHF1UUJYV2J0R3pGbkRTeWRsMU5ncVZ6Mk5nMWdTeGRZNmo5WGZTb3d0NjNhamFOdUhzUmJHTG1GTjMtV01kazlwajFRWGt6ZS16enpNY1E3Mlc5TVY1d1Jvc0xwRFcxU0Vna0Nhblk5WnZZQUd2ZWd2akwtZENRbTk0Q2c5blpUaWlvbW5R?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 15:58:56 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0hneHdwR3puTWxrSnpSSE5mbGFCZUFzMUhzbGkwVzdocFQ3S2FCd0cyZWNfQ1UxWHF1UUJYV2J0R3pGbkRTeWRsMU5ncVZ6Mk5nMWdTeGRZNmo5WGZTb3d0NjNhamFOdUhzUmJHTG1GTjMtV01kazlwajFRWGt6ZS16enpNY1E3Mlc5TVY1d1Jvc0xwRFcxU0Vna0Nhblk5WnZZQUd2ZWd2akwtZENRbTk0Q2c5blpUaWlvbW5R?oc=5",
+          "summary": "Food importer files new lawsuit to block Trump’s Canada tariffs By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -2871,24 +3051,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0ef02e873663",
-      "title": "Ara Institute of Canterbury acquires naming rights for Christchurch's Hagley Oval - Australasian Leisure Management Magazine",
-      "summary": "Ara Institute of Canterbury acquires naming rights for Christchurch's Hagley Oval Australasian Leisure Management Magazine",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1VEQWM0WnRMQ1hLNmJ4ODdpX2JvQ3FkNWZxUUxkZmUtWUhHZnVQSk5FMjhrZEVFRlBTQWxJS3daNHM1TDBsZ1cyV3BJV1pHajA1bHFrM1JxeTBjbzZ5X0luODlsRXdxaHZiSDBCb3RHTXFvaTFITTNpNTgwZHFISmJHWWUwTGFzMEdtWkJWU01lQjlrbnFOS3pndDZ2dVZvMHlBUWZ3NXJ2dGF5MEtLaUFtNUtyZw?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 20 Oct 2026 14:06:37 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1VEQWM0WnRMQ1hLNmJ4ODdpX2JvQ3FkNWZxUUxkZmUtWUhHZnVQSk5FMjhrZEVFRlBTQWxJS3daNHM1TDBsZ1cyV3BJV1pHajA1bHFrM1JxeTBjbzZ5X0luODlsRXdxaHZiSDBCb3RHTXFvaTFITTNpNTgwZHFISmJHWWUwTGFzMEdtWkJWU01lQjlrbnFOS3pndDZ2dVZvMHlBUWZ3NXJ2dGF5MEtLaUFtNUtyZw?oc=5",
-          "summary": "Ara Institute of Canterbury acquires naming rights for Christchurch's Hagley Oval Australasian Leisure Management Magazine"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d5df5a86b599",
       "title": "Nucleus Research Releases 2026 Full Suite Talent Acquisition Technology Value Matrix - PR Newswire",
       "summary": "Nucleus Research Releases 2026 Full Suite Talent Acquisition Technology Value Matrix PR Newswire",
@@ -2992,24 +3154,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/snooker/articles/c6rey5xxy3vqo?at_medium=RSS&at_campaign=rss",
           "summary": "Snooker's World Championship without Ronnie O'Sullivan is hard to conceive, after years of him being so often the central figure at the Crucible. But it may not be far away."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "719554eeba72",
-      "title": "Q&A: Alumni fellow and AI thought leader on graduating in the 'Intelligence Age' - The Pennsylvania State University",
-      "summary": "Q&A: Alumni fellow and AI thought leader on graduating in the 'Intelligence Age' The Pennsylvania State University",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnpUdS1wRmxCRlAyakhnQkJ6Z0UxM1Y1bl9iWlRxc0lBRGNtOV8wSTZkd1ZpRUNVeWcyTklGaVoyZlZ2T2ZjVmd4aGRZZHQ0S0l1NkZoVDhxRjc0dURRM0FXdXd5dkpkd1NaRnJnYTRTRzIwZFJjSXpWbmg4NnVjeFEzaGNMS3dDNy00bzA4azhuYmxSSDZEVlZ6d0ZYT2IxTWE1YzRKTENKN0dlamJna1AxNWFaUms?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 13:40:38 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnpUdS1wRmxCRlAyakhnQkJ6Z0UxM1Y1bl9iWlRxc0lBRGNtOV8wSTZkd1ZpRUNVeWcyTklGaVoyZlZ2T2ZjVmd4aGRZZHQ0S0l1NkZoVDhxRjc0dURRM0FXdXd5dkpkd1NaRnJnYTRTRzIwZFJjSXpWbmg4NnVjeFEzaGNMS3dDNy00bzA4azhuYmxSSDZEVlZ6d0ZYT2IxTWE1YzRKTENKN0dlamJna1AxNWFaUms?oc=5",
-          "summary": "Q&A: Alumni fellow and AI thought leader on graduating in the 'Intelligence Age' The Pennsylvania State University"
         }
       ],
       "sourcesCount": 1
@@ -3388,14 +3532,9 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVd5enh1YjYtaWQ3RGtDeG9qY01XdkxSbTRxMnJXYXcwNkp3SlhraWx2QlJJOV92eF9NQUVYRUI1RWlwejN3RG1aZW1Rbl9lQ0xId29RVGdhcEotQ21jbWpqZnVWRzQzX0FGdUJ4ZS15dTRvb1p6aEZ3cUxCdkJqNzh2Ql84eFFu0gGOAUFVX3lxTE5aTl9iNXkxZlBTcVNKZ2JURE1qUm4yNUNiYUYzMlZqb3dQNVFvZ01zTHlXTlVNS0l4RUFTS0RobmIxWWJPNjJtZ25mYU5VT00tRXRST0xEMFFKaVdxUThDcl9YQTE4RXUzc0Vzb0lzMHlsQXB4eTNJekNJUzZ4YUh0RGh5MFh5YXpfNGhqWkE?oc=5",
           "summary": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows CNBC"
-        },
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndSd0N2Um9RWGtEUDU1MHBGUm1LU3RkT2RpRFVDbVNzRHdNTGVGYnk1MU1pSUFCQklWMnZERzc0bEJ0VDVUWUp5N3JHV3M0eVFMaGRFOEdwcjU0WlUxOG55enFWb09Id3AySlhLenVTT0k4Zk51WUhuQ05oVlBSWmg3d3NmLTFzOVBJTHVsc3RSN21WaGdwYjNCa19RSTRGWUhIXzQ1a25mSDhxQ0JwdzNJRUZiaHdXZTREOQ?oc=5",
-          "summary": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Reuters"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "12e344ee9c59",
@@ -3447,24 +3586,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/karadenizin-su-urunleri-ihracati-9-ayda-322-milyon-dolari-asti-960630.html",
           "summary": "Karadeniz Bölgesi'nden yılın ocak-eylül döneminde yapılan su ürünleri ihracatı, 322 milyon 393 bin 650 dolara ulaştı. Su ürünlerine en çok talep Rusya, Yunanistan ve Belarus'tan geldi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5370578465f0",
-      "title": "Welfare Supervisor Accused of Stealing $20K in Food Stamps and Trading EBT Cards for Crack Cocaine - inkl",
-      "summary": "Welfare Supervisor Accused of Stealing $20K in Food Stamps and Trading EBT Cards for Crack Cocaine inkl",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2YtZ3FQZjZjbUV5Zk9KR3gxSjhhOU9leHhCZHpGVWVIWHZkYVk3VlZhVl96c2JVX0RHSDR0WkpiVDA4TmJucVJWdTlpdF9Td1FCdVQ3VGRjYUF0bmxyYXlpNFJVNUp3TEw5OWQ3OHZ3bDZEcVhweElyZG5qZldJUjVidllDY29NcXNiS1FxZU1rMmljZnNwY0ZTQW1hbTdZSGlidjRQcmVZczI5ektjMExoM3lOakh6UTZzTmZFZ3c?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 12:18:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2YtZ3FQZjZjbUV5Zk9KR3gxSjhhOU9leHhCZHpGVWVIWHZkYVk3VlZhVl96c2JVX0RHSDR0WkpiVDA4TmJucVJWdTlpdF9Td1FCdVQ3VGRjYUF0bmxyYXlpNFJVNUp3TEw5OWQ3OHZ3bDZEcVhweElyZG5qZldJUjVidllDY29NcXNiS1FxZU1rMmljZnNwY0ZTQW1hbTdZSGlidjRQcmVZczI5ektjMExoM3lOakh6UTZzTmZFZ3c?oc=5",
-          "summary": "Welfare Supervisor Accused of Stealing $20K in Food Stamps and Trading EBT Cards for Crack Cocaine inkl"
         }
       ],
       "sourcesCount": 1
@@ -3627,24 +3748,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-131-fonun-66si-tamamen-tasfiye-edildi-960626.html",
           "summary": "Hazine ve Maliye Bakanı Şimşek, fon tasfiyelerinin şeffaflıkla yapıldığını, herhangi bir kamu kaynağının kullanılmayacağını söyledi. Bakan Şimşek, \"Toplamda 131 fon, 7 portföy yönetim şirketi bünyesindeki 131 fon tasfiyeye alındı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ea68001421be",
-      "title": "E-Mail-Konten der AfD gehackt und Daten ins Netz gestellt",
-      "summary": "Hacker haben im September E-Mail-Konten der AfD angegriffen, wie die Partei bestätigt. Sie lässt offen, welche AfD-Politiker von dem Cyberangriff betroffen sind.",
-      "link": "https://www.zdfheute.de/politik/deutschland/afd-hackerangriff-e-mail-konten-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 11:51:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/afd-hackerangriff-e-mail-konten-100.html",
-          "summary": "Hacker haben im September E-Mail-Konten der AfD angegriffen, wie die Partei bestätigt. Sie lässt offen, welche AfD-Politiker von dem Cyberangriff betroffen sind."
         }
       ],
       "sourcesCount": 1
@@ -3902,24 +4005,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "028538817960",
-      "title": "Surveillance and AI will help shape election decisons - Nashville Banner",
-      "summary": "Surveillance and AI will help shape election decisons Nashville Banner",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUJFUUtuOEY2d1ZjYXlUcmJlOGw0aG1abXhVZ0syMVBtbjVJNjh6Q3l0VXI3SEd1R2doN2xHSmloMEV2YzNKaG95RmxmUzRXSmdnU09OdFFCSlJDazNlM2phX1JScUFXdWRhNFpwcFMtb0owdVRGQ0E4eElUeVpnVDdTUjJrUm9OTGc3YWphOFliSENCcWgzSm9JT0t1bUVF?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 11:03:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUJFUUtuOEY2d1ZjYXlUcmJlOGw0aG1abXhVZ0syMVBtbjVJNjh6Q3l0VXI3SEd1R2doN2xHSmloMEV2YzNKaG95RmxmUzRXSmdnU09OdFFCSlJDazNlM2phX1JScUFXdWRhNFpwcFMtb0owdVRGQ0E4eElUeVpnVDdTUjJrUm9OTGc3YWphOFliSENCcWgzSm9JT0t1bUVF?oc=5",
-          "summary": "Surveillance and AI will help shape election decisons Nashville Banner"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "68889886b6c1",
       "title": "Frankfurter PR-Erfolg: Ein Schatten über der Harmonie",
       "summary": "Krösche verabschiedet sich unter Tränen, Beck wird auf der Mitgliederversammlung mit 99 Prozent bestätigt. Doch was passiert, wenn die Ultras bei der Eintracht nach Richtlinienkompetenz streben?",
@@ -4077,24 +4162,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/dunyanin-saatinden-artik-1-saniye-eksilecek-960613.html",
           "summary": "Dünya genelinde zamanı belirleyen uluslararası kuruluşlar, atom saatleriyle Dünya’nın dönüşü arasındaki farkı dengelemek için kullanılan “artık saniye” uygulamasını kaldırmayı gündeme aldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bcec1c086311",
-      "title": "Trump approval rating falls to career low in new poll - USA Today",
-      "summary": "Trump approval rating falls to career low in new poll USA Today",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcktXNnV6TXNuNXpndHIzOEVFcGFCRk1yZG5VampSLW9vR2l2T1VjM21CckJ5NE02Qy1WQ0daRDNwYTZFY1hDblg3d1ZadHlXOXRVdy1Lbnp1YVMyUEw0em5xNThNM2JTODV6bjY4dGJRVE0zN0EzdmFHXzhvTEk2UGl4eDI5OWhJWG1KbGduTVY3MzJyaldZRnRSdkdROGFVWlJKcHlNMndjeWVUZWc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 10:22:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcktXNnV6TXNuNXpndHIzOEVFcGFCRk1yZG5VampSLW9vR2l2T1VjM21CckJ5NE02Qy1WQ0daRDNwYTZFY1hDblg3d1ZadHlXOXRVdy1Lbnp1YVMyUEw0em5xNThNM2JTODV6bjY4dGJRVE0zN0EzdmFHXzhvTEk2UGl4eDI5OWhJWG1KbGduTVY3MzJyaldZRnRSdkdROGFVWlJKcHlNMndjeWVUZWc?oc=5",
-          "summary": "Trump approval rating falls to career low in new poll USA Today"
         }
       ],
       "sourcesCount": 1
@@ -4401,6 +4468,24 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3FEOXhaTFZfNFUxSC1MczhnWk1HdEtPUXpBOHdoTGJuTjJlcHVUV1VxcEdOTEFFNUxPRFNnZGhZeTAyS3ZnWUg5QTRMT0d2MUktV2NLcTFYZVhaZVRVNWxkdFVhMlRyaWZJLTdsTDlCT2NWWmt4YVN5aUtjS1hJX3NpTTExdkRmZVY5WGQtREJIVjYtZGozMXNBc2wtM01CZUVrNndyWnVUdkpCQ1JDOWw2SQ?oc=5",
           "summary": "SPORTEL Awards celebrate the best of international sport in Monaco Riviera Radio"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "99305c549383",
+      "title": "'Two Good Men Died at Area 51. They Weren't Killed by Aliens', Says Lawyer Who Sued the Secret Base - inkl",
+      "summary": "'Two Good Men Died at Area 51. They Weren't Killed by Aliens', Says Lawyer Who Sued the Secret Base inkl",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2RMdmY4d202V0d6U2xlWWhIdFh0ZmQxcV9BNjdxaTBfQ19rYzdfUjZrOW5VOVlrdzZ6SThTXzFNX0k3bVo0SjFqbU9JUTFnUDdkaEJiLU4wd2xDQ0JhSnNId0NKT0k5T0NRUWVISS1SMUo0eHA0UTZMRFFiWXp6RWRYY2xKQ2tsTllCVkg2V29tZUNqWDNOdktyWER5OGx3QmR3T1Jfb1JaWmhPNlhDS2NGR1JWUG9XRUpsaQ?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 09:03:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2RMdmY4d202V0d6U2xlWWhIdFh0ZmQxcV9BNjdxaTBfQ19rYzdfUjZrOW5VOVlrdzZ6SThTXzFNX0k3bVo0SjFqbU9JUTFnUDdkaEJiLU4wd2xDQ0JhSnNId0NKT0k5T0NRUWVISS1SMUo0eHA0UTZMRFFiWXp6RWRYY2xKQ2tsTllCVkg2V29tZUNqWDNOdktyWER5OGx3QmR3T1Jfb1JaWmhPNlhDS2NGR1JWUG9XRUpsaQ?oc=5",
+          "summary": "'Two Good Men Died at Area 51. They Weren't Killed by Aliens', Says Lawyer Who Sued the Secret Base inkl"
         }
       ],
       "sourcesCount": 1
@@ -5342,96 +5427,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-uzay-ajansi-iac-2026da-iki-anlasma-imzaladi-959317.html",
           "summary": "Türkiye Uzay Ajansı (TUA) 77. Uluslararası Uzay Kongresi'nde (IAC 2026) Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin uzay ajansları ve Birleşik Krallık Uzay Ajansı (UKSA) ile iki anlaşma imzaladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6aa640a6392c",
-      "title": "77. Uluslararası Uzay Kongresi 9 Ekimde halka açılıyor",
-      "summary": "Türkiye'nin ev sahipliğinde Antalya’da gerçekleştirilen 77. Uluslararası Uzay Kongresi (IAC 2026)', 9 Ekim Cuma günü 'Halk Günü' paneline e ev sahipliği yapmaya hazırlanıyor.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/77-uluslararasi-uzay-kongresi-9-ekimde-halka-aciliyor-959298.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 15:18:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/77-uluslararasi-uzay-kongresi-9-ekimde-halka-aciliyor-959298.html",
-          "summary": "Türkiye'nin ev sahipliğinde Antalya’da gerçekleştirilen 77. Uluslararası Uzay Kongresi (IAC 2026)', 9 Ekim Cuma günü 'Halk Günü' paneline e ev sahipliği yapmaya hazırlanıyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4037d60c72b2",
-      "title": "HÜRSAT 2027'de göreve başlayacak",
-      "summary": "TUSAŞ Genel Müdürü Mehmet Demiroğlu, HÜRSAT-1 uydusunun gelecek yılın ortalarında, HÜRSAT-2'nin de ROKETSAN'ın ŞİMŞEK-1 roketiyle 2028-2029 bandında fırlatılmasının planlandığını açıkladı.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/hursat-2027de-goreve-baslayacak-959266.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 11:15:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/hursat-2027de-goreve-baslayacak-959266.html",
-          "summary": "TUSAŞ Genel Müdürü Mehmet Demiroğlu, HÜRSAT-1 uydusunun gelecek yılın ortalarında, HÜRSAT-2'nin de ROKETSAN'ın ŞİMŞEK-1 roketiyle 2028-2029 bandında fırlatılmasının planlandığını açıkladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "653df1403eb9",
-      "title": "Prof. Dr. Aziz Sancar'dan Türk bilim insanlarına çağrı",
-      "summary": "Nobel ödüllü Türk bilim insanı Prof. Dr.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/prof-dr-aziz-sancardan-turk-bilim-insanlarina-cagri-959571.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 11:01:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/prof-dr-aziz-sancardan-turk-bilim-insanlarina-cagri-959571.html",
-          "summary": "Nobel ödüllü Türk bilim insanı Prof. Dr."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "910319020061",
-      "title": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
-      "summary": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
-      "link": "https://www.tagesschau.de/video/video-1661224.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "germany",
-      "topic": "wissenschaft",
-      "time": "Tue, 06 Oct 2026 10:29:01 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1661224.html",
-          "summary": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "70c305ca40b5",
-      "title": "Uzay, teknoloji ve yeni neslin geleceği IAC 2026'da ele alınacak",
-      "summary": "Teknoloji, uzay ve yeni neslin geleceği 77. Uluslararası Uzay Kongresi'nde (IAC 2026) ele alınacak.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/uzay-teknoloji-ve-yeni-neslin-gelecegi-iac-2026da-ele-alinacak-959225.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 06 Oct 2026 07:31:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/uzay-teknoloji-ve-yeni-neslin-gelecegi-iac-2026da-ele-alinacak-959225.html",
-          "summary": "Teknoloji, uzay ve yeni neslin geleceği 77. Uluslararası Uzay Kongresi'nde (IAC 2026) ele alınacak."
         }
       ],
       "sourcesCount": 1
