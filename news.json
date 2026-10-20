@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:39:31.228860+00:00",
+  "updated": "2026-10-20T17:59:53.862239+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -213,24 +213,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1666086.html",
           "summary": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "46640d087a09",
-      "title": "Inkontinenz: Wenn junge Sportlerinnen betroffen sind",
-      "summary": "Millionen Menschen leben mit Inkontinenz. Auch junge Sportlerinnen können betroffen sein.",
-      "link": "https://www.zdfheute.de/video/deutschland-inkontinenz-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Wed, 14 Oct 2026 11:36:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/deutschland-inkontinenz-100.html",
-          "summary": "Millionen Menschen leben mit Inkontinenz. Auch junge Sportlerinnen können betroffen sein."
         }
       ],
       "sourcesCount": 1
@@ -560,6 +542,47 @@
       "sourcesCount": 1
     },
     {
+      "id": "894a26897959",
+      "title": "Wirtschaft vor acht vom 20.10.2026",
+      "summary": "Wirtschaft vor acht vom 20.10.2026",
+      "link": "https://www.tagesschau.de/video/video-1669678.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "germany",
+      "topic": "wirtschaft",
+      "time": "Tue, 20 Oct 2026 19:56:23 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/video/video-1669678.html",
+          "summary": "Wirtschaft vor acht vom 20.10.2026"
+        },
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
+          "summary": "Update Wirtschaft vom 20.10.2026"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
+      "id": "863a1c2284c2",
+      "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
+      "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an.",
+      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 19:49:19 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
+          "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "22e96774c10c",
       "title": "Prens Harry ailesiyle barışmak istediğini söyledi",
       "summary": "Prens Harry, GQ dergisine verdiği röportajda babası ve ağabeyiyle arasını düzeltmek istediğini belirtti. Dünyada yaşanan diğer sorunlara dikkat çeken Harry, yaşananların geride bırakılması ve bağların yeniden kurulmasının en önemli öncelik olduğunu ifade etti.",
@@ -614,6 +637,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "54cd4db5e229",
+      "title": "Drohne rettet erstmals Soldat aus Kampfgebiet",
+      "summary": "In der Ukraine ist die erste Personenrettung per Drohne gelungen. Streitkräfte zeigen in einem Imagefilm die spektakuläre Aktion.",
+      "link": "https://www.zdfheute.de/video/erste-drohnenrettung-ukraine-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 19:13:59 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/erste-drohnenrettung-ukraine-video-100.html",
+          "summary": "In der Ukraine ist die erste Personenrettung per Drohne gelungen. Streitkräfte zeigen in einem Imagefilm die spektakuläre Aktion."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c85955fd6d7d",
       "title": "Ultra işlenmiş gıdalar beyin damarlarına sessizce zarar veriyor",
       "summary": "Uzmanlar, yoğun şekilde işlenmiş gıdaların tüketimi ile orta yaşlı bireylerin beyin damarlarında görülen hasarlar arasında bir bağlantı tespit etti. Belirti vermeden ilerleyebilen bu durum, günlük beslenme alışkanlıklarının beyin sağlığı üzerindeki etkilerini yeniden gündeme taşıdı.",
@@ -663,6 +704,24 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
           "summary": "Der Rückruf von Millionen VW-Fahrzeugen liegt noch nicht lange zurück, nun muss Volkswagen erneut einen Mangel beheben. Auch in Deutschland sind viele Autos betroffen - wegen fehlerhafter Batterien."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5d6db4f3aa2b",
+      "title": "Fragezeichen um Bayern-Trainer Kompany: \"Nicht sicher, ob er dabei ist\"",
+      "summary": "FC-Bayern-Trainer Vincent Kompany plagt weiterhin eine Virusinfektion. Nachdem er deshalb schon am Wochenende nur eingeschränkt coachen konnte, droht er nun gegen Arsenal ganz auszufallen.",
+      "link": "https://www.sportschau.de/regional/br/br-fragezeichen-um-kompany-nicht-sicher-ob-er-morgen-dabei-ist-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 18:54:04 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/br/br-fragezeichen-um-kompany-nicht-sicher-ob-er-morgen-dabei-ist-102.html",
+          "summary": "FC-Bayern-Trainer Vincent Kompany plagt weiterhin eine Virusinfektion. Nachdem er deshalb schon am Wochenende nur eingeschränkt coachen konnte, droht er nun gegen Arsenal ganz auszufallen."
         }
       ],
       "sourcesCount": 1
@@ -794,6 +853,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "32fd49ffa446",
+      "title": "Welcome to the future of work: More meetings and nagging bots - The Washington Post",
+      "summary": "Welcome to the future of work: More meetings and nagging bots The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3Yzby02bS1lU3NRT0tha2hVN1ZFajZfYk8xLVhUNU5HUm1TT09pTWxnUzlENDBQZUFLSnlxMEFobjhfV3VVcjNGS2RKaVZpNlRITTBFN1cwbE14eHF0MUFXdDd6bGM4cmVQbDFDTU85RzhlY205bVBiS193X0NMb2VDdGxHTG82eEhRQmVUaVZrdHloRkZCRXZTSUxqRmRJSzFmc0RIN0lsWFFfUkVPQnRn?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 17:48:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3Yzby02bS1lU3NRT0tha2hVN1ZFajZfYk8xLVhUNU5HUm1TT09pTWxnUzlENDBQZUFLSnlxMEFobjhfV3VVcjNGS2RKaVZpNlRITTBFN1cwbE14eHF0MUFXdDd6bGM4cmVQbDFDTU85RzhlY205bVBiS193X0NMb2VDdGxHTG82eEhRQmVUaVZrdHloRkZCRXZTSUxqRmRJSzFmc0RIN0lsWFFfUkVPQnRn?oc=5",
+          "summary": "Welcome to the future of work: More meetings and nagging bots The Washington Post"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6819fdb6deb8",
+      "title": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses - Big Technology | Alex Kantrowitz",
+      "summary": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses Big Technology | Alex Kantrowitz",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbHZDYmRzQ2VIeDdSc3liWjFqUWhlSXdSYU5hWU9fX0pVbk9wUGVqZGc5R2wybHN2cDI2YlV3Y2NWZ2FCNElJRGRoZ09GMEVxa2U5TEltWVJiV1lLQ1oyZElIb0lZcnhxNllnU3RUaExINV9URzVIVFNZdm8zdw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 17:47:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbHZDYmRzQ2VIeDdSc3liWjFqUWhlSXdSYU5hWU9fX0pVbk9wUGVqZGc5R2wybHN2cDI2YlV3Y2NWZ2FCNElJRGRoZ09GMEVxa2U5TEltWVJiV1lLQ1oyZElIb0lZcnhxNllnU3RUaExINV9URzVIVFNZdm8zdw?oc=5",
+          "summary": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses Big Technology | Alex Kantrowitz"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "1cf55d1e2184",
       "title": "Demokratie lernen auf Schalke",
       "summary": "Statt Unterricht im Klassenraum diskutieren Jugendliche auf Schalke über Fast Fashion, Demokratie und Gesellschaft. Das Projekt \"Schalke macht Schule\" macht das möglich.",
@@ -830,6 +925,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e452d1c99325",
+      "title": "Rot-grün-rot: Es ist Zeit, in Berlin die Reißleine zu ziehen",
+      "summary": "Auf mehreren Ebenen wäre Rot-Grün-Rot für Berlin schädlich. Zu was haben Sozialdemokraten und Grüne da das Tor aufgemacht?",
+      "link": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-fuer-berlin-eine-schlimme-entwicklung-201605075.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 17:34:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-fuer-berlin-eine-schlimme-entwicklung-201605075.html",
+          "summary": "Auf mehreren Ebenen wäre Rot-Grün-Rot für Berlin schädlich. Zu was haben Sozialdemokraten und Grüne da das Tor aufgemacht?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ff7e710f6a2d",
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
@@ -850,7 +963,7 @@
     {
       "id": "a8e8cd36aeaa",
       "title": "Anschlag auf UkraineHilfe: „Wir werden alles abschicken, was wir retten konnten“",
-      "summary": "Kurz nach einem Brandanschlag auf ein Lager der Ukrainehilfe in Frankfurt startet schon der neuee Hilfstransport in die Partnerstadt Lemberg. Die Helfer wollen sich nicht einschüchtern lassen.",
+      "summary": "Kurz nach dem Brandanschlag auf ein Lager der Ukrainehilfe in Frankfurt startet schon der neue Hilfstransport in die Partnerstadt Lemberg. Die Helfer wollen sich nicht einschüchtern lassen.",
       "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/brandanschlag-auf-frankfurter-ukrainehilfe-der-krieg-ist-mittlerweile-ueberall-201604833.html",
       "sourceName": "FAZ",
       "region": "local",
@@ -860,7 +973,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/brandanschlag-auf-frankfurter-ukrainehilfe-der-krieg-ist-mittlerweile-ueberall-201604833.html",
-          "summary": "Kurz nach einem Brandanschlag auf ein Lager der Ukrainehilfe in Frankfurt startet schon der neuee Hilfstransport in die Partnerstadt Lemberg. Die Helfer wollen sich nicht einschüchtern lassen."
+          "summary": "Kurz nach dem Brandanschlag auf ein Lager der Ukrainehilfe in Frankfurt startet schon der neue Hilfstransport in die Partnerstadt Lemberg. Die Helfer wollen sich nicht einschüchtern lassen."
         }
       ],
       "sourcesCount": 1
@@ -1244,26 +1357,8 @@
       "sourcesCount": 1
     },
     {
-      "id": "0420afff2ca1",
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 16:11:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-          "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "bc9d0d11ca42",
-      "title": "Schäden durch Gewalt und Plünderungen: Frankreichs böses Erwachen nach den Unruhen",
+      "title": "Gewalt und Plünderungen: Frankreichs böses Erwachen nach den Unruhen",
       "summary": "Die Regierung verhängt Ausgangssperren, verspricht ausgeraubten Händlern Hilfe – und versucht, Plünderware aus dem Netz zu verbannen. Wie sieht die vorläufige Schadensbilanz aus?",
       "link": "https://www.faz.net/aktuell/wirtschaft/frankreich-nach-den-krawallen-milliardenschaeden-und-ausgangssperren-201604734.html",
       "sourceName": "FAZ",
@@ -1537,6 +1632,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f6074f6fd959",
+      "title": "Google says services recovering after cloud outage hits UK banks and websites - BBC",
+      "summary": "Google says services recovering after cloud outage hits UK banks and websites BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpXzh5emhtUVNwT0NDNW1BaFJBejllaEg0SUlVUXJQRWxrRnpYUmZYZ0Q2VDBnSWQtLUVFNHp1YmM1c2h3V0drbXZldVZEanZoRkN2anp5Q3dwUlU?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 20 Oct 2026 15:37:26 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpXzh5emhtUVNwT0NDNW1BaFJBejllaEg0SUlVUXJQRWxrRnpYUmZYZ0Q2VDBnSWQtLUVFNHp1YmM1c2h3V0drbXZldVZEanZoRkN2anp5Q3dwUlU?oc=5",
+          "summary": "Google says services recovering after cloud outage hits UK banks and websites BBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "52cbbc7d1ec2",
       "title": "Gabar'da ilk hedef günlük 100 bin varil petrol",
       "summary": "Terörden arındırılan Gabar'da Türkiye'nin en kaliteli petrolünü ürettiklerini söyleyen Bakan Bayraktar, \"Günde yaklaşık 85 bin varil inşallah Gabar'da yeni yaptığımız keşiflerle bu rakam 100 binin üzerine 2027 yılında çıkmış olacak\" açıklamasını yaptı.",
@@ -1604,6 +1717,24 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/sp-global-ratings-turkiyede-hanehalkinin-liraya-guveni-direncli-kalmaya-devam-ediyor-960650.html",
           "summary": "S&P Global Ratings, Türkiye'de hanehalkının liraya güveninin dirençli kalmaya devam ettiğini ve Orta Doğu'daki savaştan kaynaklanan enerji fiyat şokunun enflasyonda yukarı yönlü baskı oluşturmasına rağmen ülke ekonomisinin şokun etkilerini atlatabileceğini bildirdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "593f153aa261",
+      "title": "Explainer: Kremlin says work is ongoing to ease humanitarian situation in Russian-controlled town of Oleshky - Reuters",
+      "summary": "Explainer: Kremlin says work is ongoing to ease humanitarian situation in Russian-controlled town of Oleshky Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnE1c2NDczBwNVFTUkdHUVFoQ09KMDNab0Rzc1JPbzdvR2hjRHZRTFFDblQ3UE91NTd4eHc3YmFPbEFtTEpiRTVWSVRtVHNhSHgwa09DeVZRcmtYSzRYM0JZT0tNc21veGp0X3FPOU12aU14OHR3Y3hYbmZhclEzODNkWjFRZ1ltU1Z2ZVUzV0IyVzFQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 15:27:55 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnE1c2NDczBwNVFTUkdHUVFoQ09KMDNab0Rzc1JPbzdvR2hjRHZRTFFDblQ3UE91NTd4eHc3YmFPbEFtTEpiRTVWSVRtVHNhSHgwa09DeVZRcmtYSzRYM0JZT0tNc21veGp0X3FPOU12aU14OHR3Y3hYbmZhclEzODNkWjFRZ1ltU1Z2ZVUzV0IyVzFQ?oc=5",
+          "summary": "Explainer: Kremlin says work is ongoing to ease humanitarian situation in Russian-controlled town of Oleshky Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1730,24 +1861,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/news/articles/c3rryje5wy28o?at_medium=RSS&at_campaign=rss",
           "summary": "The judge said she was satisfied the boxer was defending himself during the incident."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "890cceb86d58",
-      "title": "Penn State DuBois Wildlife Technology program supports statewide forest walks - The Pennsylvania State University",
-      "summary": "Penn State DuBois Wildlife Technology program supports statewide forest walks The Pennsylvania State University",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFdpYTNhT1lwbllaU0twb0ZMTlgwVHdEZUdPd2pBekZZcHc4dGFoMmtucmRmTzJpN3VORFItSDN3SGJ0MkM2dmxzRnFaSXVHNjlXNV9laWVQOHVmVHItQ3lSRlBwVFZ4cHI4bWhfa2VUNF9aMlZKUWR0Q21VdTlPaUpiQU1iOWZSV3hreDBpM29jYkdTY3Vud2wtdWlKR2RSY0lSOHdEZjhWbHdqckRyQ3BOZ2dRUQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 15:11:10 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFdpYTNhT1lwbllaU0twb0ZMTlgwVHdEZUdPd2pBekZZcHc4dGFoMmtucmRmTzJpN3VORFItSDN3SGJ0MkM2dmxzRnFaSXVHNjlXNV9laWVQOHVmVHItQ3lSRlBwVFZ4cHI4bWhfa2VUNF9aMlZKUWR0Q21VdTlPaUpiQU1iOWZSV3hreDBpM29jYkdTY3Vud2wtdWlKR2RSY0lSOHdEZjhWbHdqckRyQ3BOZ2dRUQ?oc=5",
-          "summary": "Penn State DuBois Wildlife Technology program supports statewide forest walks The Pennsylvania State University"
         }
       ],
       "sourcesCount": 1
@@ -1902,24 +2015,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0d24a7034c93",
-      "title": "Racing technology for the road: The new M Motorsport frame for the BMW M 1000 RR. - BMW Group",
-      "summary": "Racing technology for the road: The new M Motorsport frame for the BMW M 1000 RR. BMW Group",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMWVnNmxGMHVwdnBsLW4yU25YTXIzdVFwaHdJbmdCelRhd1ZjNTV6WXBheFZRLXFRcmZwcGs0YnAwX1hmUXVsbDY3dklRVTY3RHBmNVJXUl9xNmFHeUg4bHRjUDJCU2ZhdmlUMHgxbDZyNWo1VldrOEpxZ2lETHVyUzJZQWlSNkN4VG1EZmFSal96QWIzUlZfc2s1dVZPcDB3ZjQzUzNzcXhNcWRyenVrdEY5bXRyYXpnUS1YY2hITHRjVWZTNFp6LW56eTQtVS01eERRcDNQZzJwNWtQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 20 Oct 2026 15:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMWVnNmxGMHVwdnBsLW4yU25YTXIzdVFwaHdJbmdCelRhd1ZjNTV6WXBheFZRLXFRcmZwcGs0YnAwX1hmUXVsbDY3dklRVTY3RHBmNVJXUl9xNmFHeUg4bHRjUDJCU2ZhdmlUMHgxbDZyNWo1VldrOEpxZ2lETHVyUzJZQWlSNkN4VG1EZmFSal96QWIzUlZfc2s1dVZPcDB3ZjQzUzNzcXhNcWRyenVrdEY5bXRyYXpnUS1YY2hITHRjVWZTNFp6LW56eTQtVS01eERRcDNQZzJwNWtQ?oc=5",
-          "summary": "Racing technology for the road: The new M Motorsport frame for the BMW M 1000 RR. BMW Group"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "87dd66d2a87c",
       "title": "F.A.Z. PODCAST FÜR DEUTSCHLAND: Gewaltausbruch in Frankreich: „Dem Staat ist die Kontrolle entglitten“",
       "summary": "In Frankreich plündern Randalierer Geschäfte und brennen ein Rathaus nieder. Wer den Notruf wählt, kommt nicht durch.",
@@ -2064,24 +2159,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5d4fe03b3aaf",
-      "title": "Baden-Württemberg: Wo der erste Schnee fallen könnte",
-      "summary": "Der Oktober war in Baden-Württemberg bislang vergleichsweise mild. Nun sinkt die Schneefallgrenze.",
-      "link": "https://www.faz.net/aktuell/gesellschaft/erste-schneeflocken-am-feldberg-dwd-kuendigt-wetterwechsel-an-201606091.html",
-      "sourceName": "FAZ",
-      "region": "local",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 14:45:27 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/erste-schneeflocken-am-feldberg-dwd-kuendigt-wetterwechsel-an-201606091.html",
-          "summary": "Der Oktober war in Baden-Württemberg bislang vergleichsweise mild. Nun sinkt die Schneefallgrenze."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "b13010a84ce1",
       "title": "Romanian parliament confirms new prime minister after months of deadlock - Reuters",
       "summary": "Romanian parliament confirms new prime minister after months of deadlock Reuters",
@@ -2203,24 +2280,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWdIaGhublgtSkNMWm80QjN0di10aHlQTkxiUjNrYmtmOXBweXBsSTI1NUFxbEM3US1MNmpNY2dKZFpHOVA4em9jTU5LYmkxOUx2TGNfMXQwYzBoMUJhNHVSVXRTYUkwWTNQdHpXeWtIdjEwUmNLVmVPbW84ZXdYZ3hrMjZHbnVYLWEtMjN3ckh4OXdNbmZ5WmlPOWNRNlhzNGptMjRmS0pDYjJJUGFkXzBuOUw5ekl4LURBQk95YVUtQQ?oc=5",
           "summary": "Operators Leverage Technology, Infrastructure Expansions To Grow Permian Production American Oil & Gas Reporter"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e6f274689092",
-      "title": "American Pharmacists Month: How Technology Breeds Sustainable Pharmacy Practice - Drug Topics",
-      "summary": "American Pharmacists Month: How Technology Breeds Sustainable Pharmacy Practice Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGJUVzhSNG9ybU05Z1RRaGZIaXZaaE5YemJjZjZYUmJqNF9GNURLTnBsOUQ0Vmt5TWV6cVM2V3V3R1c3UEVXd0RzV0NEbjRFRnN3a0FrM19obE1yTTVMUVVqNjM4NS1XLXd2cXZlUXJadzR0VTFQWWdhcjdBWjQ4ZTVVVko5cm9iOHhN?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 14:19:39 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGJUVzhSNG9ybU05Z1RRaGZIaXZaaE5YemJjZjZYUmJqNF9GNURLTnBsOUQ0Vmt5TWV6cVM2V3V3R1c3UEVXd0RzV0NEbjRFRnN3a0FrM19obE1yTTVMUVVqNjM4NS1XLXd2cXZlUXJadzR0VTFQWWdhcjdBWjQ4ZTVVVko5cm9iOHhN?oc=5",
-          "summary": "American Pharmacists Month: How Technology Breeds Sustainable Pharmacy Practice Drug Topics"
         }
       ],
       "sourcesCount": 1
@@ -2527,6 +2586,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
           "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a521e757c840",
+      "title": "Davenport's highly acclaimed cybersecurity programs prepare students for in-demand careers - Davenport University",
+      "summary": "Davenport's highly acclaimed cybersecurity programs prepare students for in-demand careers Davenport University",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzc2ZmhTMzVGbDJPbllETHhxZ19oVUJYMVViMThyZWNwY2JiRlJUWDFSdndCOERUVlo1M19GOUVpcG5NZXE2ZnZiLTl1VEpHeEVtekF3RFV2bDg2RnZqeUFpMFpvMjB0eF80dmxWOWI1Y2RVdHZSaW1JTFo3bzJmSnNCSThURFZ3UDl4Qkc2M2FMd3F6YTJKUmNpbkItNm94RUZJeFdtaVVsMEtVT1Nkd2RJT1pFallGZ1k2cWVPX1E0N0FDYlE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 13:38:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzc2ZmhTMzVGbDJPbllETHhxZ19oVUJYMVViMThyZWNwY2JiRlJUWDFSdndCOERUVlo1M19GOUVpcG5NZXE2ZnZiLTl1VEpHeEVtekF3RFV2bDg2RnZqeUFpMFpvMjB0eF80dmxWOWI1Y2RVdHZSaW1JTFo3bzJmSnNCSThURFZ3UDl4Qkc2M2FMd3F6YTJKUmNpbkItNm94RUZJeFdtaVVsMEtVT1Nkd2RJT1pFallGZ1k2cWVPX1E0N0FDYlE?oc=5",
+          "summary": "Davenport's highly acclaimed cybersecurity programs prepare students for in-demand careers Davenport University"
         }
       ],
       "sourcesCount": 1
@@ -3036,24 +3113,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX09NYUFXbkU3UGEwbnZXc1U3NHc1d2NpeDlNNHJ5bFYwaXBSUEVSMjZBRWdYNnNpNXRZMUFWRDJqSXVsTmJjRG5PMUs5OUxYazlYZElkdlhOQ29YZjBBNG1vMWI1QnNPSnREWWtsUUJhdjBOZU9BbUM2T0s4UmJ5R3d4X1ZZVVJIaUJBVjNNTlZXcFl1cnhuNXZ2enhBbDltMjgyWGJPNGJjeDgy0gGyAUFVX3lxTE9tejEzbUJGUWE4R0N2d3dHVkVYUzRpcmtVVkhsRlpybHhNbnEwNTk3b3Y0SEF4bXBoeUtxdldiem1qVHY0alRqZjJRcTViY1RQT09BaFIwZ3dFQ3M5RjA0UWxTMzQyRm9hMlpUVVIwT3BldjhoRDl2Mi1ickF1UmM3eDA3OG1rN1BfY040MmgyOHZhTU5lWkFVQWpUaUNnM2FSMmN0RlBEMW1PWEFZUThyeVE?oc=5",
           "summary": "The Download: the claim shaking up AI and the internet’s agent problem MIT Technology Review"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f6074f6fd959",
-      "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites - BBC",
-      "summary": "Google Cloud says 'power event' behind outage hitting UK banks and websites BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpXzh5emhtUVNwT0NDNW1BaFJBejllaEg0SUlVUXJQRWxrRnpYUmZYZ0Q2VDBnSWQtLUVFNHp1YmM1c2h3V0drbXZldVZEanZoRkN2anp5Q3dwUlU?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 20 Oct 2026 12:09:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpXzh5emhtUVNwT0NDNW1BaFJBejllaEg0SUlVUXJQRWxrRnpYUmZYZ0Q2VDBnSWQtLUVFNHp1YmM1c2h3V0drbXZldVZEanZoRkN2anp5Q3dwUlU?oc=5",
-          "summary": "Google Cloud says 'power event' behind outage hitting UK banks and websites BBC"
         }
       ],
       "sourcesCount": 1
@@ -3941,24 +4000,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "cb7c60b91d33",
-      "title": "Unter Druck in Baku - BVB sucht die Angriffslust",
-      "summary": "Die letzte Etappe einer intensiven Woche steht an: Borussia Dortmund reist zum Champions-League-Spiel nach Baku - und steht dort unter Druck.",
-      "link": "https://www.sportschau.de/regional/wdr/wdr-unter-druck-in-baku-bvb-sucht-die-angriffslust-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 20 Oct 2026 09:22:34 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-unter-druck-in-baku-bvb-sucht-die-angriffslust-100.html",
-          "summary": "Die letzte Etappe einer intensiven Woche steht an: Borussia Dortmund reist zum Champions-League-Spiel nach Baku - und steht dort unter Druck."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8c7623872a7f",
       "title": "SPORTEL Awards celebrate the best of international sport in Monaco - Riviera Radio",
       "summary": "SPORTEL Awards celebrate the best of international sport in Monaco Riviera Radio",
@@ -4738,29 +4779,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f44965cecbd0",
-      "title": "Trump warns Kansans that US will 'burn' like France if Democrats win - Yahoo",
-      "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWdjUnBVRGxScl9VRjN3X21ZUWtvWVdLSmluZm04SEVGMUVpM2xrWGV1V25PcjNYdkVfTXFSYjl0MElYcXZXZVV3cE8yaXFEN3FtNE9GYjc2NkU0ZGFqRHd5RUE2dzN4d2hVUXFVUi1nUkJRODB1UGN3SWtHeS1Fa0QwZVJZRG9OS000d2dWanc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 04:01:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWdjUnBVRGxScl9VRjN3X21ZUWtvWVdLSmluZm04SEVGMUVpM2xrWGV1V25PcjNYdkVfTXFSYjl0MElYcXZXZVV3cE8yaXFEN3FtNE9GYjc2NkU0ZGFqRHd5RUE2dzN4d2hVUXFVUi1nUkJRODB1UGN3SWtHeS1Fa0QwZVJZRG9OS000d2dWanc?oc=5",
-          "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Yahoo"
-        },
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzBFWW9JSHRPSk43aERfeE1lM0xjYVotbmdUanRNRXd2NlNqVkpMbU82dWJTTEQ3RVlwV0wxWUhhRlJDaEo3SGdORF85QmNFWDA5amw5S3JnY2FVeWpxUzl1azQtLTlISXJTM1R3YUtyZ3NaMTVna1B5NlJBZVBrREowQkpKMUQ5MzBtemptel95RWlwcGs0ak1zamJIVTE5MDV5VC12by1va09DZ2ljUQ?oc=5",
-          "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Reuters"
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
       "id": "6ed17c07556e",
       "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
       "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
@@ -4833,24 +4851,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "29f9ee2b5b6b",
-      "title": "Shares down again as oil stays high; AI earnings in focus - Reuters",
-      "summary": "Shares down again as oil stays high; AI earnings in focus Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 02:09:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
-          "summary": "Shares down again as oil stays high; AI earnings in focus Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "5c7456644efb",
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
       "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
@@ -4864,6 +4864,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
           "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "fbee92837d51",
+      "title": "Trump warns Kansans that US will 'burn' like France if Democrats win - Reuters",
+      "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzBFWW9JSHRPSk43aERfeE1lM0xjYVotbmdUanRNRXd2NlNqVkpMbU82dWJTTEQ3RVlwV0wxWUhhRlJDaEo3SGdORF85QmNFWDA5amw5S3JnY2FVeWpxUzl1azQtLTlISXJTM1R3YUtyZ3NaMTVna1B5NlJBZVBrREowQkpKMUQ5MzBtemptel95RWlwcGs0ak1zamJIVTE5MDV5VC12by1va09DZ2ljUQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 01:50:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzBFWW9JSHRPSk43aERfeE1lM0xjYVotbmdUanRNRXd2NlNqVkpMbU82dWJTTEQ3RVlwV0wxWUhhRlJDaEo3SGdORF85QmNFWDA5amw5S3JnY2FVeWpxUzl1azQtLTlISXJTM1R3YUtyZ3NaMTVna1B5NlJBZVBrREowQkpKMUQ5MzBtemptel95RWlwcGs0ak1zamJIVTE5MDV5VC12by1va09DZ2ljUQ?oc=5",
+          "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5419,24 +5437,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/basketball/nba/die-wichtigsten-fragen-rund-um-nba-start,basketball-nba-faq-100.html",
           "summary": "Heute Abend startet die NBA in die neue Saison. LeBron James will mit 41 Jahren um den Titel spielen und Dennis Schröder hat mal wieder ein neues Team."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "770d089c0677",
-      "title": "Fenerbahçe Teknik Direktörü İsmail Kartal istifa etti",
-      "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, görevinden istifa etti.",
-      "link": "https://www.trthaber.com/haber/spor/fenerbahce-teknik-direktoru-ismail-kartal-istifa-etti-956504.html",
-      "sourceName": "TRT Haber Sport",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Thu, 10 Sep 2026 22:28:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Sport",
-          "link": "https://www.trthaber.com/haber/spor/fenerbahce-teknik-direktoru-ismail-kartal-istifa-etti-956504.html",
-          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, görevinden istifa etti."
         }
       ],
       "sourcesCount": 1
