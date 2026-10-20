@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T03:22:11.453702+00:00",
+  "updated": "2026-10-20T03:58:48.382824+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -602,7 +602,7 @@
     },
     {
       "id": "8e836f0c7a15",
-      "title": "Japanische Raummission \"Idefix\" startet zum Marsmond",
+      "title": "Japanische Raummission startet mit \"Idefix\" zum Marsmond",
       "summary": "Und los geht die Reise: Der deutsch-französische Rover \"Idefix\" ist auf dem Weg zum Marsmond Phobos. Geplante Ankunft: 2029.",
       "link": "https://www.zdfheute.de/wissen/idefix-marsmond-japanische-raummission-100.html",
       "sourceName": "ZDF",
@@ -674,7 +674,7 @@
     },
     {
       "id": "65449e802b01",
-      "title": "Ökonomin zu KI in Deutschland: Sitzen auf einem Datenschatz",
+      "title": "Ökonomin: Sitzen auf einem Datenschatz",
       "summary": "Ulrike Malmendier sieht \"enorme Chancen\" für Deutschland bei industrieller KI. Dafür brauche es Rechenkapazitäten und zukunftsorientierte Investitionen, sagt die Ökonomin.",
       "link": "https://www.zdfheute.de/politik/deutschland/malmendier-kuenstliche-intelligenz-industrie-deutschland-100.html",
       "sourceName": "ZDF",
@@ -686,6 +686,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/malmendier-kuenstliche-intelligenz-industrie-deutschland-100.html",
           "summary": "Ulrike Malmendier sieht \"enorme Chancen\" für Deutschland bei industrieller KI. Dafür brauche es Rechenkapazitäten und zukunftsorientierte Investitionen, sagt die Ökonomin."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "04875649e3be",
+      "title": "Mutmaßlicher Angriff: Australische Abgeordnete hat offenbar nur noch ein Bein",
+      "summary": "Die bei einem mutmaßlichen Angriff schwer verletzte australische Politikerin ist in der Nacht operiert worden. Sie befindet sich nach Regierungsangaben weiter „in einem kritischen Zustand“.",
+      "link": "https://www.faz.net/aktuell/politik/ausland/mutmasslicher-angriff-australische-abgeordnete-hat-offenbar-nur-noch-ein-bein-accg-201603722.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 03:40:15 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/politik/ausland/mutmasslicher-angriff-australische-abgeordnete-hat-offenbar-nur-noch-ein-bein-accg-201603722.html",
+          "summary": "Die bei einem mutmaßlichen Angriff schwer verletzte australische Politikerin ist in der Nacht operiert worden. Sie befindet sich nach Regierungsangaben weiter „in einem kritischen Zustand“."
         }
       ],
       "sourcesCount": 1
@@ -2565,24 +2583,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4517f95187de",
-      "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv - Al Jazeera",
-      "summary": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDN1dHFPNm14b3paaGYtVm14ZWVNUTdHLThxSjE5ZHlfbnI1blhIQV9jUm5vbXBaWDRlSWZqYWNlQk1xakQ2VnZFSkg5dl8zeUx4cEhHRm04eDR2clpTNmpMUVFoQUpqUXdqVkhrMFFvVmM0R3FfWHVxZTFmX1YtNXpndXBwUjQxZnhCNi1seFg2WjZnYnRWcnZveU5YUGJLcWVCR01mSktYTXZkVEVF0gG0AUFVX3lxTFB0a0FnRjZsQ2FkNEtneXYta1pXWi1jQ1VSN0hOejlsbFRJOWY0aC1IMFk4ZTlDVG9ScDItazNwQzg3UldkZkpOSUFIWm0yTlVUakZmQm1mQl9sZF9RQ1hDNWRQeUgxQjJyUFVkWnpySEpJRWYtb2thVzhBRzdfQWVjbGptVEF3Y0dpajhFV2d4ZGxBSTIzU0NKZWNXTHgzR1hlTnlPRW5hM2Y5aUNNcnpqR1JzWA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDN1dHFPNm14b3paaGYtVm14ZWVNUTdHLThxSjE5ZHlfbnI1blhIQV9jUm5vbXBaWDRlSWZqYWNlQk1xakQ2VnZFSkg5dl8zeUx4cEhHRm04eDR2clpTNmpMUVFoQUpqUXdqVkhrMFFvVmM0R3FfWHVxZTFmX1YtNXpndXBwUjQxZnhCNi1seFg2WjZnYnRWcnZveU5YUGJLcWVCR01mSktYTXZkVEVF0gG0AUFVX3lxTFB0a0FnRjZsQ2FkNEtneXYta1pXWi1jQ1VSN0hOejlsbFRJOWY0aC1IMFk4ZTlDVG9ScDItazNwQzg3UldkZkpOSUFIWm0yTlVUakZmQm1mQl9sZF9RQ1hDNWRQeUgxQjJyUFVkWnpySEpJRWYtb2thVzhBRzdfQWVjbGptVEF3Y0dpajhFV2d4ZGxBSTIzU0NKZWNXTHgzR1hlTnlPRW5hM2Y5aUNNcnpqR1JzWA?oc=5",
-          "summary": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv Al Jazeera"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "549a541eb61e",
       "title": "Türkiye, Uluslar Ligi'nde deplasmanda İtalya karşısında",
       "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında yarın deplasmanda İtalya ile karşı karşıya gelecek.",
@@ -3400,6 +3400,29 @@
       "sourcesCount": 1
     },
     {
+      "id": "4234dc07223b",
+      "title": "Trump Approval Falls To Record Low Of 31% As Midterms Near, Reuters/Ipsos Poll Finds - HuffPost",
+      "summary": "Trump Approval Falls To Record Low Of 31% As Midterms Near, Reuters/Ipsos Poll Finds HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDd3Qk5DQzAwdHBfdW83UVFCVFJyakd4dDlfdWJEN1pwZ1FLenpBTlpGOVMwQ2hkbnRiQ050ZmxjSUhUQ1I4Z2g3bGNvMWc2ZkJTLVFLZml0R1JLOEZuNFRpS3A4TUFzeS1hbkVmY2lMTkFxcVE1YWtFZkFkSUt0OGtwU0lHOW12b1BYLWdaLTM4dzVpaGMtZGZ4eUJ6QkphdUcxctIBqgFBVV95cUxOdnpDYl9ibDRHOUZlc28teG9aOGhhOVR2VXRXcjMyTEhkYlpoYjh6NldKZ1Nkam4tYWZaLUhqMmQ0ZmstVUVncVNlbjlnclE1Y0hVamJ0YUZuczlRMlduS2ZxMC1MemJxQ2dRMGFYbDR6NmI2bkdpVU5uU01ZdVhaNzhpNGNRa1VQUkc2ZVFsNk90eXpUV1BrQ2ZsdVRhUVVmNjBlOGlGSG44dw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 19 Oct 2026 23:45:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDd3Qk5DQzAwdHBfdW83UVFCVFJyakd4dDlfdWJEN1pwZ1FLenpBTlpGOVMwQ2hkbnRiQ050ZmxjSUhUQ1I4Z2g3bGNvMWc2ZkJTLVFLZml0R1JLOEZuNFRpS3A4TUFzeS1hbkVmY2lMTkFxcVE1YWtFZkFkSUt0OGtwU0lHOW12b1BYLWdaLTM4dzVpaGMtZGZ4eUJ6QkphdUcxctIBqgFBVV95cUxOdnpDYl9ibDRHOUZlc28teG9aOGhhOVR2VXRXcjMyTEhkYlpoYjh6NldKZ1Nkam4tYWZaLUhqMmQ0ZmstVUVncVNlbjlnclE1Y0hVamJ0YUZuczlRMlduS2ZxMC1MemJxQ2dRMGFYbDR6NmI2bkdpVU5uU01ZdVhaNzhpNGNRa1VQUkc2ZVFsNk90eXpUV1BrQ2ZsdVRhUVVmNjBlOGlGSG44dw?oc=5",
+          "summary": "Trump Approval Falls To Record Low Of 31% As Midterms Near, Reuters/Ipsos Poll Finds HuffPost"
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5",
+          "summary": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds Reuters"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "02d4c1a95f41",
       "title": "New 4D biofabrication technology holds promise for tissue engineering, wound healing - Phys.org",
       "summary": "New 4D biofabrication technology holds promise for tissue engineering, wound healing Phys.org",
@@ -3754,24 +3777,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e35e083a1c96",
-      "title": "Hegseth meets Netanyahu in unannounced visit to Israel, Axios reports - Reuters",
-      "summary": "Hegseth meets Netanyahu in unannounced visit to Israel, Axios reports Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazNPMm5GbVJUYTRwVVVraElGMVptZkdyb0pkbklkdWMzY01zYWlkYTNNTDlxMFVnanBvVkczd3ozNUxZbDJ0Wl9JQ1hDOGtLZjJsM0hzeXRDTUpFYkhnWHFnQUFqRnZEVFFXZ1hHY1Vrb2hmbk1kaVNUTWZEZ0hoWURkZ080ZUlNQnVBaFhLWVNpTDliV3BmVHMzU05EQWUzTWdlNVd4dHpFNmhEUTZoRWVYVFJLQ1U?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 19 Oct 2026 22:47:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazNPMm5GbVJUYTRwVVVraElGMVptZkdyb0pkbklkdWMzY01zYWlkYTNNTDlxMFVnanBvVkczd3ozNUxZbDJ0Wl9JQ1hDOGtLZjJsM0hzeXRDTUpFYkhnWHFnQUFqRnZEVFFXZ1hHY1Vrb2hmbk1kaVNUTWZEZ0hoWURkZ080ZUlNQnVBaFhLWVNpTDliV3BmVHMzU05EQWUzTWdlNVd4dHpFNmhEUTZoRWVYVFJLQ1U?oc=5",
-          "summary": "Hegseth meets Netanyahu in unannounced visit to Israel, Axios reports Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2a49b6609f96",
       "title": "Japan startet Mission zu Mars-Monden",
       "summary": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material von der Marsregion zur Erde gebracht werden soll.",
@@ -3809,7 +3814,7 @@
     },
     {
       "id": "47dcbf96f569",
-      "title": "BBL-Pokal: Alba ringt Titelverteidiger Bamberg nieder",
+      "title": "Achtelfinale im BBL-Pokal: Alba ringt Titelverteidiger Bamberg nieder",
       "summary": "Trotz akuter Personalnot schlägt Alba Berlin im BBL-Pokal Titelverteidiger Bamberg mit 83:71. Nach schwacher erster Hälfte drehten die Albatrosse nach der Pause auf und sicherten sich verdient das Weiterkommen.",
       "link": "https://www.sportschau.de/regional/rbb/rbb-bbl-pokal-alba-ringt-titelverteidiger-bamberg-nieder-100.html",
       "sourceName": "Tagesschau Sport",
@@ -3862,24 +3867,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "af0fc85dcac4",
-      "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft - South China Morning Post",
-      "summary": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 19 Oct 2026 22:36:07 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
-          "summary": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft South China Morning Post"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "49429e353607",
       "title": "Maddison's magic moment for Spurs - 18 months in the making",
       "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
@@ -3893,6 +3880,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&at_campaign=rss",
           "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d4bfce74809d",
+      "title": "Warum Bayer Leverkusen wieder ein Spitzenteam ist",
+      "summary": "Nach dem verpatzten Bundesliga-Saisonstart in Elversberg hat sich Bayer Leverkusen gefangen. Was sind die Gründe für den Aufschwung?",
+      "link": "https://www.sportschau.de/regional/wdr/wdr-warum-bayer-leverkusen-wieder-ein-spitzenteam-ist-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "local",
+      "topic": "sport",
+      "time": "Mon, 19 Oct 2026 22:27:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/wdr/wdr-warum-bayer-leverkusen-wieder-ein-spitzenteam-ist-100.html",
+          "summary": "Nach dem verpatzten Bundesliga-Saisonstart in Elversberg hat sich Bayer Leverkusen gefangen. Was sind die Gründe für den Aufschwung?"
         }
       ],
       "sourcesCount": 1
@@ -4114,6 +4119,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "6e220eb4cbf4",
+      "title": "Division of Information Technology releases Fiscal Year 2026 Annual Report - Virginia Tech News",
+      "summary": "Division of Information Technology releases Fiscal Year 2026 Annual Report Virginia Tech News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzFZemxOdU81a3NRb0NkSkg5M3FKb0t4djdyYXFpbUZYZFlCdE5pM2NMR1FHMDFHZm16MlB6T2M4dWdQY3kzNEtqdWV6TDl3MGpBNjF0RnNOUzJ0Q1hCUmxWa3E0ZlFqX3ZOMFF6ZjE4eFo3Y3BNallIRDN3WVBzMw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Mon, 19 Oct 2026 21:49:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzFZemxOdU81a3NRb0NkSkg5M3FKb0t4djdyYXFpbUZYZFlCdE5pM2NMR1FHMDFHZm16MlB6T2M4dWdQY3kzNEtqdWV6TDl3MGpBNjF0RnNOUzJ0Q1hCUmxWa3E0ZlFqX3ZOMFF6ZjE4eFo3Y3BNallIRDN3WVBzMw?oc=5",
+          "summary": "Division of Information Technology releases Fiscal Year 2026 Annual Report Virginia Tech News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "af7879f841a4",
       "title": "Nobel Prize-winning technology being studied at University of Illinois - WAND",
       "summary": "Nobel Prize-winning technology being studied at University of Illinois WAND",
@@ -4135,24 +4158,6 @@
         }
       ],
       "sourcesCount": 2
-    },
-    {
-      "id": "6e220eb4cbf4",
-      "title": "Division of Information Technology releases Fiscal Year 2026 Annual Report - Virginia Tech News",
-      "summary": "Division of Information Technology releases Fiscal Year 2026 Annual Report Virginia Tech News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzFZemxOdU81a3NRb0NkSkg5M3FKb0t4djdyYXFpbUZYZFlCdE5pM2NMR1FHMDFHZm16MlB6T2M4dWdQY3kzNEtqdWV6TDl3MGpBNjF0RnNOUzJ0Q1hCUmxWa3E0ZlFqX3ZOMFF6ZjE4eFo3Y3BNallIRDN3WVBzMw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Mon, 19 Oct 2026 21:45:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzFZemxOdU81a3NRb0NkSkg5M3FKb0t4djdyYXFpbUZYZFlCdE5pM2NMR1FHMDFHZm16MlB6T2M4dWdQY3kzNEtqdWV6TDl3MGpBNjF0RnNOUzJ0Q1hCUmxWa3E0ZlFqX3ZOMFF6ZjE4eFo3Y3BNallIRDN3WVBzMw?oc=5",
-          "summary": "Division of Information Technology releases Fiscal Year 2026 Annual Report Virginia Tech News"
-        }
-      ],
-      "sourcesCount": 1
     },
     {
       "id": "2b63c819611b",
@@ -4442,7 +4447,7 @@
     {
       "id": "7604d8c4829b",
       "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
       "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
       "region": "international",
@@ -4452,7 +4457,7 @@
         {
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities."
+          "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots."
         }
       ],
       "sourcesCount": 1
@@ -4669,24 +4674,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOLXJPSFNfejJwU2pJWjBfM1drVEZUNkRZTnFPaUhmOThaQnI2aVY4bkRIX0FQV28zSDZCdTF1WFVCRVZqTnZUaTcxMnFWTXFSUS1OanRiTzBhX0F3SlBOOU1neEw1ZUpRNkZzc25GX1lpYms1MTI1aUJJSHc0Y0tqNmtha2RMZ3U3cUtDd1NwTmlyd0ZvMElPbThGdXNCSndkN2J1U21zaDNUSTgwd2sxTkpqV3gzalZiTUNVVjRFc0oxZ3JqdE5zQnVPU3p0TXNkMDBaZE1vRGFGMk85aHlIWjA1cnYwS0Z4VmFYXzV4LXVhb2c4eXV2QTNtTGg0RHF5dVE?oc=5",
           "summary": "International Business Machines Corporation expected to post earnings of $2.86 a share - Earnings Preview TradingView"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "20a7e1ebafcc",
-      "title": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds - Reuters",
-      "summary": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Mon, 19 Oct 2026 20:34:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5",
-          "summary": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5502,6 +5489,24 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQa3hVcjRtUzRLMUdVM3V3dXJLSkpUTUdwWjIxc05Dek9LaW5yX1RXVDNLX01ZUmVEbEJKNWhpdVA2ZDR4cDl2LXljR0tIc1dGamZLNy1CTDdQY1VvTzFXVDN0ckdnUnN1Y3d2TTZVNWl6UzgteG9SRC1ORnNmT3JydFhjdTFWQXNUV182Qk5uNXQ4RFZRMlRMUzNpMkFiLXBBQ2t1QUEyMHpleVRJWWY2eUxEWEpmLW1QR0pxU28wTzZWQzAtWDVkX2NJajFIVmxINkhyX3p4QnRnMTdHUk80TElNYVdDbWpqMDVtOG9FWThxMlNKVXRuckg5UVpmdnRZdERhS09lZ0JZRWtHWWVCMVozRHBFNW5FeXc?oc=5",
           "summary": "SME XPO Global Business Delegations: An Iconic International Business Learning Experience WBOC TV"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "49d117ffc6f5",
+      "title": "French Prime Minister calls for partial curfews after weekend riots - Reuters",
+      "summary": "French Prime Minister calls for partial curfews after weekend riots Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS05IaFlBa0paMExacEp0cGpsM0JDeGF2RmZTR3JDZWxxRUZ4TGF4TVMtV09yay1PQjFhMnJRT3UteEtWQV9nUU9DMHFfaU1Kd054UlF3aFh1WGtuaUlFWTQ0RXExNVNfT3RwRFhLLW82XzhpNEFNdjd6X2RmVXNETzVsYTR5TjBFWTFrbHZ5NVhpcnNpbDF6UGVaSU9sMnR4d1hxZlVSLTY?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Mon, 19 Oct 2026 17:24:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS05IaFlBa0paMExacEp0cGpsM0JDeGF2RmZTR3JDZWxxRUZ4TGF4TVMtV09yay1PQjFhMnJRT3UteEtWQV9nUU9DMHFfaU1Kd054UlF3aFh1WGtuaUlFWTQ0RXExNVNfT3RwRFhLLW82XzhpNEFNdjd6X2RmVXNETzVsYTR5TjBFWTFrbHZ5NVhpcnNpbDF6UGVaSU9sMnR4d1hxZlVSLTY?oc=5",
+          "summary": "French Prime Minister calls for partial curfews after weekend riots Reuters"
         }
       ],
       "sourcesCount": 1
