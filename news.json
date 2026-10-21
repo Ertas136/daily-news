@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T19:56:23.982219+00:00",
+  "updated": "2026-10-21T20:18:54.656435+00:00",
   "articles": [
     {
       "id": "dd4d752a85d8",
@@ -92,6 +92,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f2c15b56b5c6",
+      "title": "PHP'deki güvenlik açığı nedeniyle dünya çapında çok sayıda site kapatıldı",
+      "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı.",
+      "link": "https://www.trthaber.com/haber/dunya/phpdeki-guvenlik-acigi-nedeniyle-dunya-capinda-cok-sayida-site-kapatildi-960823.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 22:57:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/phpdeki-guvenlik-acigi-nedeniyle-dunya-capinda-cok-sayida-site-kapatildi-960823.html",
+          "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a03126191bd0",
       "title": "Kullanıcıları gizlilik konusunda yanılttığı için Meta'ya 25 milyar dolar ceza verildi",
       "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle sosyal medya şirketi Meta'nın eyalete 25 milyar dolar ceza ödemesine hükmetti.",
@@ -128,10 +146,46 @@
       "sourcesCount": 1
     },
     {
-      "id": "e6551b23de51",
-      "title": "Emir Sarıgül hakkında tutuklama talebi",
-      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül, tutuklama talebiyle hakimliğe sevk edildi.",
-      "link": "https://www.trthaber.com/haber/turkiye/emir-sarigul-hakkinda-tutuklama-talebi-960820.html",
+      "id": "6ad79b6068b2",
+      "title": "Cambridge-Analytica-Skandal: Meta soll Milliarden zahlen",
+      "summary": "Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta zu einem Milliarden-Bußgeld verurteilt worden. Hintergrund ist der Missbrauch von Nutzerdaten.",
+      "link": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 22:13:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
+          "summary": "Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta zu einem Milliarden-Bußgeld verurteilt worden. Hintergrund ist der Missbrauch von Nutzerdaten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "246675965235",
+      "title": "Skistar Emma Aicher vor Saisonstart: Alles auf null - und alles ist drin",
+      "summary": "Nach einer überragenden Saison mit Olympia-Silber und drei Weltcupsiegen startet Emma Aicher in Sölden in den Winter. Die 22-Jährige greift nach der großen Kristallkugel.",
+      "link": "https://www.sportschau.de/regional/swr/swr-skistar-emma-aicher-alles-auf-null-und-alles-ist-drin-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 21:57:05 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-skistar-emma-aicher-alles-auf-null-und-alles-ist-drin-100.html",
+          "summary": "Nach einer überragenden Saison mit Olympia-Silber und drei Weltcupsiegen startet Emma Aicher in Sölden in den Winter. Die 22-Jährige greift nach der großen Kristallkugel."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4b502a467b01",
+      "title": "İstanbul'da kara para soruşturmasında Sarıgül tutuklandı",
+      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-sorusturmasinda-sarigul-tutuklandi-960820.html",
       "sourceName": "TRT Haber Türkei",
       "region": "international",
       "topic": "technologie",
@@ -139,8 +193,8 @@
       "coverage": [
         {
           "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/emir-sarigul-hakkinda-tutuklama-talebi-960820.html",
-          "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül, tutuklama talebiyle hakimliğe sevk edildi."
+          "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-sorusturmasinda-sarigul-tutuklandi-960820.html",
+          "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı."
         }
       ],
       "sourcesCount": 1
@@ -164,19 +218,37 @@
       "sourcesCount": 1
     },
     {
-      "id": "646d819b7595",
-      "title": "Vatikan: Krebs bei Papst Leo hat nicht gestreut",
-      "summary": "Der Lungenkrebs bei Papst Leo hat nach Angaben seiner Ärzte nicht gestreut. Untersuchungen hätten ergeben, dass die Erkrankung lokal begrenzt gewesen sei.",
-      "link": "https://www.zdfheute.de/panorama/papst-leo-krebs-erkrankung-100.html",
-      "sourceName": "ZDF",
+      "id": "ed35c5381d15",
+      "title": "TSG-Coach Ilzer warnt vor Lyon als Party-Crasher",
+      "summary": "Hoffenheims Trainer Christian Ilzer hat in dieser Woche eigentlich Grund zum Feiern. Vor dem Spiel gegen Lyon aber warnt er vor dem französischen Team.",
+      "link": "https://www.sportschau.de/regional/swr/swr-tsg-coach-ilzer-warnt-vor-lyon-als-party-crasher-102.html",
+      "sourceName": "Tagesschau Sport",
       "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 21:36:00 +0200",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 21:52:59 +0200",
       "coverage": [
         {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/papst-leo-krebs-erkrankung-100.html",
-          "summary": "Der Lungenkrebs bei Papst Leo hat nach Angaben seiner Ärzte nicht gestreut. Untersuchungen hätten ergeben, dass die Erkrankung lokal begrenzt gewesen sei."
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-tsg-coach-ilzer-warnt-vor-lyon-als-party-crasher-102.html",
+          "summary": "Hoffenheims Trainer Christian Ilzer hat in dieser Woche eigentlich Grund zum Feiern. Vor dem Spiel gegen Lyon aber warnt er vor dem französischen Team."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "97bf713be27d",
+      "title": "Freiburgs Coach Schuster sieht Ähnlichkeit zwischen SC und AS Monaco",
+      "summary": "Freiburgs Trainer Julian Schuster strahlt vor dem Conference-League-Spiel bei der AS Monaco Vorfreude aus. Auf einen Stamm-Innenverteidiger muss er aber verzichten.",
+      "link": "https://www.sportschau.de/regional/swr/swr-freiburgs-coach-schuster-sieht-vor-spiel-in-monaco-aehnlichkeit-zwischen-sc-und-as-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 21:50:25 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-freiburgs-coach-schuster-sieht-vor-spiel-in-monaco-aehnlichkeit-zwischen-sc-und-as-100.html",
+          "summary": "Freiburgs Trainer Julian Schuster strahlt vor dem Conference-League-Spiel bei der AS Monaco Vorfreude aus. Auf einen Stamm-Innenverteidiger muss er aber verzichten."
         }
       ],
       "sourcesCount": 1
@@ -313,24 +385,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0ed2faf19746",
-      "title": "Wie polnische Investoren die deutsche Wirtschaft stärken",
-      "summary": "Während Deutschlands Wirtschaft schwächelt, expandieren polnische Unternehmen ins Nachbarland. Sie bringen Flexibilität, Innovation und schaffen Arbeitsplätze.",
-      "link": "https://www.zdfheute.de/politik/deutschland/polen-unternehmen-investoren-in-deutschland-wirtschaft-bip-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 20:57:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/polen-unternehmen-investoren-in-deutschland-wirtschaft-bip-100.html",
-          "summary": "Während Deutschlands Wirtschaft schwächelt, expandieren polnische Unternehmen ins Nachbarland. Sie bringen Flexibilität, Innovation und schaffen Arbeitsplätze."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4d1b68974b8f",
       "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
       "summary": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich?",
@@ -457,6 +511,65 @@
       "sourcesCount": 1
     },
     {
+      "id": "8606a392f951",
+      "title": "Batavia hospital debuts AI-powered technology meant to improve heart care - 13WHAM-TV",
+      "summary": "Batavia hospital debuts AI-powered technology meant to improve heart care 13WHAM-TV",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWko3eG5nMUJZNDlVa1N4ZWl1WXdxTVg1WHNZRzRQWHV4SDRtbnpWamF1VndlNXRtOW5qdjJvYnA5b3NaY3BhTHZjTksxYmZxcURMUGltVEczOUNrdTR6WXhMZF9MTXY3c0E5aHZkRGE0RTV4OExKVXlEMmtPQXhmWktBR1pNcWJ0bGliRUNzWm9uek9JM0RsWTEzOUxpYUdzSG0zTEl1UEVRa09uVEQ3Sjg4TDZDRTh2cVpGMy1iR3ExNkNpSC1fdkJiQnRuUE5ISXJVbkZqd01WcUhaUDBtMkhkR0ZrMWJsRUc2Vm5sZzVBSjcwRUxfUE1iQkNlblgwNTdSMTNHaUdfWU5rOGZLSDZQRlNDUXRXM1IyTWRidVdZaGJSMnJ6Qml0WTY5bzNRVWRNZTFlOHo5cXBaRHcxWEY4eXJwcTc5UHFLWm5KMUlzOVE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:12:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWko3eG5nMUJZNDlVa1N4ZWl1WXdxTVg1WHNZRzRQWHV4SDRtbnpWamF1VndlNXRtOW5qdjJvYnA5b3NaY3BhTHZjTksxYmZxcURMUGltVEczOUNrdTR6WXhMZF9MTXY3c0E5aHZkRGE0RTV4OExKVXlEMmtPQXhmWktBR1pNcWJ0bGliRUNzWm9uek9JM0RsWTEzOUxpYUdzSG0zTEl1UEVRa09uVEQ3Sjg4TDZDRTh2cVpGMy1iR3ExNkNpSC1fdkJiQnRuUE5ISXJVbkZqd01WcUhaUDBtMkhkR0ZrMWJsRUc2Vm5sZzVBSjcwRUxfUE1iQkNlblgwNTdSMTNHaUdfWU5rOGZLSDZQRlNDUXRXM1IyTWRidVdZaGJSMnJ6Qml0WTY5bzNRVWRNZTFlOHo5cXBaRHcxWEY4eXJwcTc5UHFLWm5KMUlzOVE?oc=5",
+          "summary": "Batavia hospital debuts AI-powered technology meant to improve heart care 13WHAM-TV"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ba0545f0d1a6",
+      "title": "Deutsche in der NBA: Frischer Aufwind für die Hornissen",
+      "summary": "Nach der ernüchternden Ära von Michael Jordan als Besitzer ordnen sich die Charlotte Hornets neu. Drei deutsche Talente sollen dem NBA-Team eine neue Identität geben und es aus dem Mittelmaß führen.",
+      "link": "https://www.faz.net/aktuell/sport/mehr-sport/charlotte-hornets-dennis-schroeder-als-mentor-fuer-deutsche-nba-talente-201599984.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 20:10:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/mehr-sport/charlotte-hornets-dennis-schroeder-als-mentor-fuer-deutsche-nba-talente-201599984.html",
+          "summary": "Nach der ernüchternden Ära von Michael Jordan als Besitzer ordnen sich die Charlotte Hornets neu. Drei deutsche Talente sollen dem NBA-Team eine neue Identität geben und es aus dem Mittelmaß führen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "424fef187018",
+      "title": "Ärzte geben Entwarnung: Lungenkrebs bei Papst Leo XIV. hat nicht gestreut",
+      "summary": "Nach der Tumoroperation von Papst Leo XIV. geben seine Ärzte Entwarnung.",
+      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/papst-leo-xiv-aerzte-geben-nach-lungenkrebs-op-entwarnung-201609884.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 20:09:16 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/gesellschaft/menschen/papst-leo-xiv-aerzte-geben-nach-lungenkrebs-op-entwarnung-201609884.html",
+          "summary": "Nach der Tumoroperation von Papst Leo XIV. geben seine Ärzte Entwarnung."
+        },
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/papst-leo-krebs-erkrankung-100.html",
+          "summary": "Der Lungenkrebs bei Papst Leo hat nach Angaben seiner Ärzte nicht gestreut. Untersuchungen hätten ergeben, dass die Erkrankung lokal begrenzt gewesen sei."
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "92227c5a3910",
       "title": "İran Devrim Muhafızları Sözcüsü: Bombaların anası nükleer faaliyetlerimizi durduramaz",
       "summary": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen bombayı kullanabileceğini ancak bunun İran'ın nükleer sanayi faaliyetlerini durdurmayacağını söyledi.",
@@ -488,6 +601,42 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/sievers-am-puls-unsicherheit-zukunft-sorgen-kinderwunsch-krieg-100.html",
           "summary": "Globale Krisen wirken gerade bis ins Leben jedes Einzelnen hinein. Die chaotische Weltlage bestimmt wirtschaftliche Entscheidungen und private Lebensplanung."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9b244db8d399",
+      "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+      "summary": "Manchester United skipper Bruno Fernandes has blamed head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 19:59:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+          "summary": "Manchester United skipper Bruno Fernandes has blamed head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4a38058068dd",
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "local",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 19:58:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+          "summary": "Russia's President Putin does not feel under pressure right now to end the war."
         }
       ],
       "sourcesCount": 1
@@ -588,6 +737,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "aafc342c1317",
+      "title": "Champions League: United blamiert sich in Como – Sané und Gündoğan siegen mit Istanbul",
+      "summary": "Como 1907 mischt weiter die Champions League auf. Gegen Manchester United spielen die Italiener groß auf und siegen klar.",
+      "link": "https://www.faz.net/aktuell/sport/fussball/champions-league-como-demontiert-manchester-united-201609854.html",
+      "sourceName": "FAZ",
+      "region": "turkey",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 19:40:16 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/fussball/champions-league-como-demontiert-manchester-united-201609854.html",
+          "summary": "Como 1907 mischt weiter die Champions League auf. Gegen Manchester United spielen die Italiener groß auf und siegen klar."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e4c6624cb225",
       "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
       "summary": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP.",
@@ -619,6 +786,24 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
           "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "302c4547b233",
+      "title": "Putin agrees to resume 3-way peace talks with Ukraine and US - Reuters",
+      "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 19:27:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+          "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US Reuters"
         }
       ],
       "sourcesCount": 1
@@ -660,19 +845,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "6c6fe97a2ecb",
-      "title": "People are vibe coding copyrighted apps with AI – will tech firms sue? - New Scientist",
-      "summary": "People are vibe coding copyrighted apps with AI – will tech firms sue? New Scientist",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmhPNXNpT2luTDRDcG1OaWZkY0x5RmFQNkRzcGExVklRTmtGSkZ5VEFDZTRVc2JLM1pXcDg0Qm5pblhqZTZOcGFCeDhYblBMYTlZb0RlbE40RzBWd1Jpck1EN1F4dDVlMlctSzdZWDdqOVpEdU1aTDlWN3VTYWNHU2pkQ1MtaXBPSG5Od0VVU1JCV2FKNkpMcDhodWV2LXo3ai1uTHB4SFNqWXJibWdQU3RiRQ?oc=5",
+      "id": "de568b5ec422",
+      "title": "The AI-Hacking Apocalypse Began Last Night - The Atlantic",
+      "summary": "The AI-Hacking Apocalypse Began Last Night The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdKZU5nOWV4bXBPUm1TUnE2NUgyUjF0amJLSE1UUXFYREhtSnRZQUdSNUJLQ0xnMmhzY05WWHpMYnFjRHNIbnRIRW5iMC1vTjlJc244bFZXaUdnNFNtcG5wd0JLVk9hT1BFeGRlRVprdVZua2EtU2dBUUlEWThXa202N0czUHlVeGdrOW1sMDdxM1FmMG5sQw?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 19:19:12 GMT",
+      "time": "Wed, 21 Oct 2026 19:21:21 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmhPNXNpT2luTDRDcG1OaWZkY0x5RmFQNkRzcGExVklRTmtGSkZ5VEFDZTRVc2JLM1pXcDg0Qm5pblhqZTZOcGFCeDhYblBMYTlZb0RlbE40RzBWd1Jpck1EN1F4dDVlMlctSzdZWDdqOVpEdU1aTDlWN3VTYWNHU2pkQ1MtaXBPSG5Od0VVU1JCV2FKNkpMcDhodWV2LXo3ai1uTHB4SFNqWXJibWdQU3RiRQ?oc=5",
-          "summary": "People are vibe coding copyrighted apps with AI – will tech firms sue? New Scientist"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdKZU5nOWV4bXBPUm1TUnE2NUgyUjF0amJLSE1UUXFYREhtSnRZQUdSNUJLQ0xnMmhzY05WWHpMYnFjRHNIbnRIRW5iMC1vTjlJc244bFZXaUdnNFNtcG5wd0JLVk9hT1BFeGRlRVprdVZua2EtU2dBUUlEWThXa202N0czUHlVeGdrOW1sMDdxM1FmMG5sQw?oc=5",
+          "summary": "The AI-Hacking Apocalypse Began Last Night The Atlantic"
         }
       ],
       "sourcesCount": 1
@@ -823,7 +1008,7 @@
     },
     {
       "id": "ff01f3416f22",
-      "title": "Witkoff in Moskau: Trumps fatale Botschaft an Putin",
+      "title": "Witkoff in Russland: Trumps fatale Botschaft an Putin",
       "summary": "Der russische Präsident sieht sich durch das Verhalten der Amerikaner in seinem Glauben bestätigt, Russland habe den längeren Atem. Ein Frieden rückt in weite Ferne.",
       "link": "https://www.faz.net/aktuell/politik/ukraine/steve-witkoff-bei-putin-ein-symbolischer-sieg-des-kremls-201608444.html",
       "sourceName": "FAZ",
@@ -835,27 +1020,14 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ukraine/steve-witkoff-bei-putin-ein-symbolischer-sieg-des-kremls-201608444.html",
           "summary": "Der russische Präsident sieht sich durch das Verhalten der Amerikaner in seinem Glauben bestätigt, Russland habe den längeren Atem. Ein Frieden rückt in weite Ferne."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "706624bceb1d",
-      "title": "Witkoff in Russland: Trumps Erfolge von Putins Gnaden",
-      "summary": "Trumps Emissär Steve Witkoff dankt Putin dafür, dass er einen Amerikaner freigelassen hat. Der russische Präsident verspricht neben Diesel auch rasche Düngerlieferungen.",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/steve-witkoff-in-russland-trumps-erfolge-von-putins-gnaden-201607803.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 18:46:34 GMT",
-      "coverage": [
+        },
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/ukraine/steve-witkoff-in-russland-trumps-erfolge-von-putins-gnaden-201607803.html",
           "summary": "Trumps Emissär Steve Witkoff dankt Putin dafür, dass er einen Amerikaner freigelassen hat. Der russische Präsident verspricht neben Diesel auch rasche Düngerlieferungen."
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "8085ddbd032f",
@@ -1056,6 +1228,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "fd202e7eccf6",
+      "title": "Geste von AfD-Politiker sorgt für Aufregung in Schwerin",
+      "summary": "In der konstituierenden Sitzung des Landtags von Mecklenburg-Vorpommern hat der AfD-Politiker Thormann eine umstrittene Geste gezeigt. Das sorgt nun für Diskussionen.",
+      "link": "https://www.zdfheute.de/politik/deutschland/schwerin-landtag-thormann-geste-white-power-afd-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 18:07:34 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/schwerin-landtag-thormann-geste-white-power-afd-100.html",
+          "summary": "In der konstituierenden Sitzung des Landtags von Mecklenburg-Vorpommern hat der AfD-Politiker Thormann eine umstrittene Geste gezeigt. Das sorgt nun für Diskussionen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4c0112277dee",
       "title": "Die Halloween-Parade der Pinguine",
       "summary": "Süßes, sonst gibt’s Saures: Im selbstgemachten Halloween-Kostüm spazieren Pinguine durch den Matsue Vogel Park in Japan.",
@@ -1069,6 +1259,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/halloween-pinguine-kostuem-japan-100.html",
           "summary": "Süßes, sonst gibt’s Saures: Im selbstgemachten Halloween-Kostüm spazieren Pinguine durch den Matsue Vogel Park in Japan."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2f4540b92c66",
+      "title": "Technology, War, and the Limits of Innovation Power in the Middle East - Lawfare",
+      "summary": "Technology, War, and the Limits of Innovation Power in the Middle East Lawfare",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlkzV3k5eDJUanNuZHFDUWREeWdEcjducDhpZ1VqWG9KZHB4c2lrZmZBT0wyVV9BeENTR2pqTnoycG8wN1VEVDd4TXpvRUVBWXVmQ3hIUWZuVnF3SDdLRzM2bklDc2haUjNMeWZBUEM1MWRrTEhoOTZFMmxsaXdUZmIzcGFMNng4TnhsNFZtU2h5ajZZWFhZVWdjM28xZ0wtbEJKYXJQU1N6cWs?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 18:05:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlkzV3k5eDJUanNuZHFDUWREeWdEcjducDhpZ1VqWG9KZHB4c2lrZmZBT0wyVV9BeENTR2pqTnoycG8wN1VEVDd4TXpvRUVBWXVmQ3hIUWZuVnF3SDdLRzM2bklDc2haUjNMeWZBUEM1MWRrTEhoOTZFMmxsaXdUZmIzcGFMNng4TnhsNFZtU2h5ajZZWFhZVWdjM28xZ0wtbEJKYXJQU1N6cWs?oc=5",
+          "summary": "Technology, War, and the Limits of Innovation Power in the Middle East Lawfare"
         }
       ],
       "sourcesCount": 1
@@ -1421,24 +1629,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b40b6c715a90",
-      "title": "Kreml: Putin zu Gesprächen mit Ukraine und USA bereit",
-      "summary": "Nach einem Treffen mit dem US-Sondergesandten Witkoff zeigt sich der Kreml zu trilateralen Gesprächen über den Ukraine-Krieg bereit. Die Verhandlungen könnten im November beginnen.",
-      "link": "https://www.zdfheute.de/politik/ausland/russland-gespraeche-usa-ukraine-krieg-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 17:01:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/russland-gespraeche-usa-ukraine-krieg-100.html",
-          "summary": "Nach einem Treffen mit dem US-Sondergesandten Witkoff zeigt sich der Kreml zu trilateralen Gesprächen über den Ukraine-Krieg bereit. Die Verhandlungen könnten im November beginnen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "dd065b9d406f",
       "title": "Family of prison officer killed by IRA receives state apology",
       "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
@@ -1763,19 +1953,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "302c4547b233",
-      "title": "Putin agrees to resume 3-way peace talks with Ukraine and US - Reuters",
-      "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
-      "sourceName": "Google News – Reuters",
+      "id": "6bb1d0f1f823",
+      "title": "Football Scores & Fixtures - BBC",
+      "summary": "Football Scores & Fixtures BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
+      "sourceName": "Google News – International Sport",
       "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 15:44:38 GMT",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 15:43:32 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
-          "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US Reuters"
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
+          "summary": "Football Scores & Fixtures BBC"
         }
       ],
       "sourcesCount": 1
@@ -1884,24 +2074,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
           "summary": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3daa32b06f06",
-      "title": "Köln: Festnahmen nach Schüssen auf Uhrengeschäft",
-      "summary": "In der Kölner Innenstadt gab es in der Nacht auf Mittwoch wieder eine Schussattacke auf ein Geschäft. Steckt die „Gen-Z-Mafia“ dahinter?",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schuesse-auf-koelner-uhrengeschaeft-zwei-verdaechtige-festgenommen-201608772.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 15:29:58 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schuesse-auf-koelner-uhrengeschaeft-zwei-verdaechtige-festgenommen-201608772.html",
-          "summary": "In der Kölner Innenstadt gab es in der Nacht auf Mittwoch wieder eine Schussattacke auf ein Geschäft. Steckt die „Gen-Z-Mafia“ dahinter?"
         }
       ],
       "sourcesCount": 1
@@ -2159,42 +2331,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "fea84b7ae196",
-      "title": "Niederlande: Ministerpräsident Jetten bekommt ein Kind – von einer Leihmutter",
-      "summary": "Anders als Jens Spahn muss der liberale Politiker nicht um seine Zukunft fürchten: Er hält sich an niederländisches Recht und wird von seiner Partei gestützt.",
-      "link": "https://www.faz.net/aktuell/politik/ausland/niederlande-ministerpraesident-jetten-bekommt-kind-von-leihmutter-201607633.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 15:05:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ausland/niederlande-ministerpraesident-jetten-bekommt-kind-von-leihmutter-201607633.html",
-          "summary": "Anders als Jens Spahn muss der liberale Politiker nicht um seine Zukunft fürchten: Er hält sich an niederländisches Recht und wird von seiner Partei gestützt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c9c935a1f93d",
-      "title": "The Data-Center Rebellion Is Just Beginning - The Atlantic",
-      "summary": "The Data-Center Rebellion Is Just Beginning The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkdPeWtueWU3TllBdHZCV1NHSmFHSlZ3TzVTUldneFh5YlFCSUtNRE83N1M3T2E1Nl9VeldocGVXcVhPVTdxbVYwYW44UlV6c3l6UzJ6eUMybG1zcXVKNEQ5VTQ0emNhc0hOaFV1d2hZSzdCZWJ2RDlwMVE2UUJiYTdveW5CV0NBWURzTDJn?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 15:00:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkdPeWtueWU3TllBdHZCV1NHSmFHSlZ3TzVTUldneFh5YlFCSUtNRE83N1M3T2E1Nl9VeldocGVXcVhPVTdxbVYwYW44UlV6c3l6UzJ6eUMybG1zcXVKNEQ5VTQ0emNhc0hOaFV1d2hZSzdCZWJ2RDlwMVE2UUJiYTdveW5CV0NBWURzTDJn?oc=5",
-          "summary": "The Data-Center Rebellion Is Just Beginning The Atlantic"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ec4ba251a28a",
       "title": "Uykudan önceki lokmalar karaciğeri tehdit ediyor",
       "summary": "Yaklaşık 200 bin kişinin verilerinin incelendiği bir araştırma, gece geç saatte yemek yemek ile karaciğer hastalıkları arasında bağlantı olduğunu ortaya koydu.",
@@ -2226,9 +2362,14 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbnlXd2ZRLUlGWlo0eUlRRHdrdmtDejFITW9DUHdoSzFjYmNHM3hGSV9nX3VMb0xDRnlmOE8zc2tGTFRXX1FTSTFnUDVvVnhpWGR3amNmYnZtZUJ0QkQ2WlhoN3M5MmJ6akFfMlVodjBkdWw3d0tNdlhhSTlHVHZZOWNjblN3OGloOGd0NzN3Rk1xUzNhWlVPN1VBUllhMG5EejNuNmlfTDh2RWpxY0x0amZlX2UzUQ?oc=5",
           "summary": "Ohio State Holds Groundbreaking Ceremony for Timashev Technology Tower JobsOhio"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmg0aUhxbElqQ29mNHBEMVlYU01qTUNXaWh6NUtoYzJnZnctVnV6TUNOTkVZQk1GTU01M3BvMzNDMFpTMmVFVU5jazBVdHVGUXJFXzJLZ2pZdWZsX05BUUhlYnplRW95RXltZFNHMksyRzVmbDU3NkIzMHpzejRzclQzejNaYUxoXzl2ZXhlXzhzeE92TDFOZnVjVmRJOVI4TTU4NmpwZGhZbHlxY1R2TC1jMXlYT2NQQU9TTE9R?oc=5",
+          "summary": "Ohio State breaks ground on Timashev Technology Tower 10TV"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "5e0747cfa669",
@@ -2262,24 +2403,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/wirtschaft/e20-benzin-treibhausgas-verbrenner-toedter-100.html",
           "summary": "Mehr Bioethanol im Benzin soll Treibhausgase einsparen. Experte Toedter erklärt, welches Potenzial E20 für den Klimaschutz hat und welche Autos für den Kraftstoff ausgelegt sind."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5ea6d02e1471",
-      "title": "Apple will have limited iPhone Duo units available in stores on Friday - Reuters",
-      "summary": "Apple will have limited iPhone Duo units available in stores on Friday Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXZTMU9WWlI5RHdJWm9rSFN6SXF1Q2ZfRUxXM1Y4dzVwbUVzNjNxeFRjcUdnRUpJcXZMUnVweXYySjRBcldhTTNFTk1vR3lCOVBrU2RxMUltNUtvVklUb2tJVk5oUmhRWTdjYmhpYjlIazFpYlhkb0pGbVF6UTRqS19mWUVfVmh4UDRqb1pUVEFJaEhTdlF6YWd3UVZxZVBITlFJR2FLOGUweDhsd1hpTHhxeU5EbjJTTkNtazUwa0ZvbU0?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 14:44:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXZTMU9WWlI5RHdJWm9rSFN6SXF1Q2ZfRUxXM1Y4dzVwbUVzNjNxeFRjcUdnRUpJcXZMUnVweXYySjRBcldhTTNFTk1vR3lCOVBrU2RxMUltNUtvVklUb2tJVk5oUmhRWTdjYmhpYjlIazFpYlhkb0pGbVF6UTRqS19mWUVfVmh4UDRqb1pUVEFJaEhTdlF6YWd3UVZxZVBITlFJR2FLOGUweDhsd1hpTHhxeU5EbjJTTkNtazUwa0ZvbU0?oc=5",
-          "summary": "Apple will have limited iPhone Duo units available in stores on Friday Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2532,24 +2655,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
           "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e4b39b41a124",
-      "title": "VCU research propels wearable technology that could enhance health monitoring - VCU News",
-      "summary": "VCU research propels wearable technology that could enhance health monitoring VCU News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZV1hCTmtjMkpicmpkcWJJYVpnUHlSRlVLU2FzYjAyY1NOQ3VVdTBhT01DX2pmRHFIcG55TFhxVTFpSTNIMDdiNGlheV9kSVFMQkhRaFZnUmNYNmlPZ0pDbEtORVc5WEt2R1JuUXg1dnppTlNxdFJBQm5R?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 14:04:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZV1hCTmtjMkpicmpkcWJJYVpnUHlSRlVLU2FzYjAyY1NOQ3VVdTBhT01DX2pmRHFIcG55TFhxVTFpSTNIMDdiNGlheV9kSVFMQkhRaFZnUmNYNmlPZ0pDbEtORVc5WEt2R1JuUXg1dnppTlNxdFJBQm5R?oc=5",
-          "summary": "VCU research propels wearable technology that could enhance health monitoring VCU News"
         }
       ],
       "sourcesCount": 1
@@ -2825,24 +2930,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6e40b14c8fe8",
-      "title": "Pakistanda yolcu otobüsünün devrilmesi sonucu 10 kişi öldü, 32 kişi yaralandı",
-      "summary": "Pakistan’ın Pencap eyaletine bağlı Racanpur bölgesinde yolcu otobüsünün devrilmesi sonucu 10 kişi yaşamını yitirdi, 32 kişi yaralandı.",
-      "link": "https://www.trthaber.com/haber/dunya/pakistanda-yolcu-otobusunun-devrilmesi-sonucu-10-kisi-oldu-32-kisi-yaralandi-960760.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 13:28:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/pakistanda-yolcu-otobusunun-devrilmesi-sonucu-10-kisi-oldu-32-kisi-yaralandi-960760.html",
-          "summary": "Pakistan’ın Pencap eyaletine bağlı Racanpur bölgesinde yolcu otobüsünün devrilmesi sonucu 10 kişi yaşamını yitirdi, 32 kişi yaralandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9491b11b72dd",
       "title": "Liveblog Ukrainekrieg: EU verlangt von SpaceX volle Starlink-Dienste für die Ukraine",
       "summary": "Sprecher von der Leyens nennt Drosselung „äußerst besorgniserregend“ +++ Moskau zu neuen Verhandlungen Ukraine und USA bereit +++ Putin schlägt Treffen mit Trump in China vor +++ alle Neuigkeiten im Liveblog",
@@ -2982,24 +3069,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
           "summary": "Nach 50 Jahren ist Schluss: Alice Schwarzer stellt ihr feministisches Magazin \"Emma\" ein. Im Dezember erscheint die letzte Ausgabe."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "590b9afebee1",
-      "title": "Vor der Israel-Wahl: Netanjahu soll auf weitere Angriffe gegen Iran dringen",
-      "summary": "Israels Regierungschef lässt laut Medienberichten eine neue Offensive gegen Iran planen. Donald Trump scheint noch zu zögern.",
-      "link": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-laut-berichten-dringt-netanjahu-auf-weitere-iran-angriffe-201607992.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 13:07:46 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-laut-berichten-dringt-netanjahu-auf-weitere-iran-angriffe-201607992.html",
-          "summary": "Israels Regierungschef lässt laut Medienberichten eine neue Offensive gegen Iran planen. Donald Trump scheint noch zu zögern."
         }
       ],
       "sourcesCount": 1
@@ -3486,6 +3555,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/championsleague/unantastbar-ist-nur-wappen-real-mourinho-und-vini-jr-unter-druck,real-madrid-mourinho-vinicius-jr-100.html",
           "summary": "Bei Real Madrid brennt wieder einmal der Baum. Die Ergebnisse stimmen nicht, Trainer José Mourinho steht unter Druck."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "39019d685800",
+      "title": "Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months - Yahoo Finance",
+      "summary": "Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGZiNW1ZS2NSU2tlWUI3dWVIa3BGa29BemtncHFaY2lCUWpxbW51Y1RsMEItelRSNEJMdS1tLTM1dy1GTmt4a0xva3pvRnJLSUs3alU4Zl9iZzg1ZDVJOGtqblh1dHZWYjhaN3pZbXJlYkNJWXpMTmNRWEpUeDl5bng5SXNNNUMzcHI3Z2YyRGRWM3RPOFVUSy02RTBBaWg5ZUdJOGRjellvZ3Y3SmI5cHNFOXpjZXFVWng4V3pFUVdxWnpZcVhWMWF3UFpwRTVIVzFMRWFJUjR5aVo2SEdWMVZWOUlubkhxeUpFVUQ2aFJvQjhxcEx3?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 11:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGZiNW1ZS2NSU2tlWUI3dWVIa3BGa29BemtncHFaY2lCUWpxbW51Y1RsMEItelRSNEJMdS1tLTM1dy1GTmt4a0xva3pvRnJLSUs3alU4Zl9iZzg1ZDVJOGtqblh1dHZWYjhaN3pZbXJlYkNJWXpMTmNRWEpUeDl5bng5SXNNNUMzcHI3Z2YyRGRWM3RPOFVUSy02RTBBaWg5ZUdJOGRjellvZ3Y3SmI5cHNFOXpjZXFVWng4V3pFUVdxWnpZcVhWMWF3UFpwRTVIVzFMRWFJUjR5aVo2SEdWMVZWOUlubkhxeUpFVUQ2aFJvQjhxcEx3?oc=5",
+          "summary": "Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -4226,24 +4313,6 @@
       "sourcesCount": 3
     },
     {
-      "id": "e7e08bd9825d",
-      "title": "Michael Biegert appointed Managing Director of DOLL Airport Equipment - Airside International",
-      "summary": "Michael Biegert appointed Managing Director of DOLL Airport Equipment Airside International",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJaQ1lGU0dqamhiRXJTbGxKS2VBeXhZWTh0Z3ZEVzc1bmgyc3VzQU1yem5FRG5iMGR1c2ZqUE94VEJYUnRJWmVkaUZKeXZxVWxNblhXcXcyZWdtTkRZdFZzUTlYUGRJQ2pkc1ZaN29kSEdHWGU5NTNrYnFOU1REQ2thMi1PdVNnSWRES0dkN2FDMlowWVctZQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 08:38:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJaQ1lGU0dqamhiRXJTbGxKS2VBeXhZWTh0Z3ZEVzc1bmgyc3VzQU1yem5FRG5iMGR1c2ZqUE94VEJYUnRJWmVkaUZKeXZxVWxNblhXcXcyZWdtTkRZdFZzUTlYUGRJQ2pkc1ZaN29kSEdHWGU5NTNrYnFOU1REQ2thMi1PdVNnSWRES0dkN2FDMlowWVctZQ?oc=5",
-          "summary": "Michael Biegert appointed Managing Director of DOLL Airport Equipment Airside International"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "39d3961ffc36",
       "title": "Bär durchstöbert Bibliothek",
       "summary": "Im US-Bundesstaat Kalifornien ist ein Bär in eine Bibliothek eingedrungen und darin umhergeirrt. Kameras zeichneten den Vorfall auf.",
@@ -4347,24 +4416,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR05UMFZJYmJBU09HenNyYnNJd3ZGbnRkTTc5Y0JwRWF4R18wOTlUa25uOVIwMDNMOHNldWt3SWRWanRPUTJZcWUtNVBSMWY4YkJiQ2FYbFItRjJ5RFNaWkZiYUliWTgwMFVabjA0UEZqdXpkX2JHbDRxTUdiYjQzdnlTM0pSbm9sWHJ5aHRlVkNZbDRjZXoxQWpUYw?oc=5",
           "summary": "Inbound MICE arrivals for NZ surge past pre-pandemic levels TTGmice"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2b5f6956b663",
-      "title": "Australian MP loses both legs after alleged car attack, husband says",
-      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 07:56:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
         }
       ],
       "sourcesCount": 1
@@ -4748,24 +4799,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6fb9e13e258e",
-      "title": "Tandy on copping flak and his tough Wales calls",
-      "summary": "Wales boss Steve Tandy on making tough Nations Championship selection calls as he counts down to the 2027 World Cup in Australia.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8y5607px4z7o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 05:29:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8y5607px4z7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Wales boss Steve Tandy on making tough Nations Championship selection calls as he counts down to the 2027 World Cup in Australia."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "312a96686e0c",
       "title": "AfD-Politiker: Woher dieser seltsame Nazifimmel?",
       "summary": "AfD-Politiker fallen mit Aussagen auf, die klingen, als stammten sie aus den Dreißigerjahren. Das ist nicht nur empörend, sondern auch dumm.",
@@ -4815,6 +4848,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
           "summary": "Menschenrechtsorganisationen kritisieren, dass etwa die Hälfte der 90.000 Menschen in El Salvadors Gefängnissen unschuldig inhaftiert ist. Nun hat Präsident Bukele überraschend angekündigt, Tausende freizulassen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5abda02ef30a",
+      "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say - Reuters",
+      "summary": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 04:49:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
+          "summary": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5018,24 +5069,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "34692a51bfb9",
-      "title": "Sport for Mobility opens international competition pathways for Para athletes - Paralympic.org.",
-      "summary": "Sport for Mobility opens international competition pathways for Para athletes Paralympic.org.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDY3WjdDZ2ptdzNFYTctS0s1MWprZzdfMi1rc18ta0NPQ1dPaWFWN2JjUjZiVmRIRi14dUpHdHNIeGdtVDl0U2FtVHBnNV9TVFZrSWktUzJpREp3clBHNFpraDFkQk5oZ0ZsVHZCWjh6Qll4U1kzSW92QjFLc3RGTldndE9XMWs4?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDY3WjdDZ2ptdzNFYTctS0s1MWprZzdfMi1rc18ta0NPQ1dPaWFWN2JjUjZiVmRIRi14dUpHdHNIeGdtVDl0U2FtVHBnNV9TVFZrSWktUzJpREp3clBHNFpraDFkQk5oZ0ZsVHZCWjh6Qll4U1kzSW92QjFLc3RGTldndE9XMWs4?oc=5",
-          "summary": "Sport for Mobility opens international competition pathways for Para athletes Paralympic.org."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c99a36fde8a2",
       "title": "Messi milli takıma veda edecek",
       "summary": "Milli takım kariyerini noktaladığını açıklayan Lionel Messi, Arjantin'in gelecek ay Benin ile yapacağı hazırlık maçında son kez sahaya çıkacak.",
@@ -5049,6 +5082,24 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/messi-milli-takima-veda-edecek-956960.html",
           "summary": "Milli takım kariyerini noktaladığını açıklayan Lionel Messi, Arjantin'in gelecek ay Benin ile yapacağı hazırlık maçında son kez sahaya çıkacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9e830aea74b0",
+      "title": "Press kit: Alaska Airlines unveils its international Business Class Suites experience - Alaska Airlines",
+      "summary": "Press kit: Alaska Airlines unveils its international Business Class Suites experience Alaska Airlines",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHMtR2dFU2ZmVmdNRHhwdmM1cnJqbzhJMllyVk1oVjVYOUVGTXgxMmdvNzhZcEhROEpWTHhNdG5SYWF1MDV0X2NHVjNDRnpXV3pWcEdWNU9QNGhhc05GTnlpb0lHd19DUFRBNkVtSXBCblhNdXpOMlNYYTBpV3FVQ0VTUHZHODBEd29JeEM1UEx0MWZRS0UzalRsLTlWZ25qMHYzdV95RnhVWmY0bnJrVHBidE1TR3piYjBRMHhUd2t3OFlR?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 16 Sep 2026 04:06:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHMtR2dFU2ZmVmdNRHhwdmM1cnJqbzhJMllyVk1oVjVYOUVGTXgxMmdvNzhZcEhROEpWTHhNdG5SYWF1MDV0X2NHVjNDRnpXV3pWcEdWNU9QNGhhc05GTnlpb0lHd19DUFRBNkVtSXBCblhNdXpOMlNYYTBpV3FVQ0VTUHZHODBEd29JeEM1UEx0MWZRS0UzalRsLTlWZ25qMHYzdV95RnhVWmY0bnJrVHBidE1TR3piYjBRMHhUd2t3OFlR?oc=5",
+          "summary": "Press kit: Alaska Airlines unveils its international Business Class Suites experience Alaska Airlines"
         }
       ],
       "sourcesCount": 1
@@ -5121,6 +5172,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1666086.html",
           "summary": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4c23339645b2",
+      "title": "Business School graduate programs earn top U.S. rankings, climb sharply in QS International Trade Rankings 2027 - University of Miami News",
+      "summary": "Business School graduate programs earn top U.S. rankings, climb sharply in QS International Trade Rankings 2027 University of Miami News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMnQwc2k3REY1QXFsZHRITmZyVG1EdFo4SzNtekNsN3RiQTkyeWFpTm8xSzlreE9BdkFaX0JmVkdpQzdLb00yYXhMSUNNR0FfN0dtV3dpLW9wd0xuVzQwYU12enJQbF9xUF9IdG9YWm5mV1JtM05MV0tsTVNnV1dTeEI1RVdFc25mR1NFNDdsblF4ZXI4Nnc4bU11ZmR3NUo5aU9yN3A4WC0xLTF3ZjFOcnJQR1p6R2p4WTV3QlFUbkZyQ3FzYnp1MUVkSTkyT3pFTDhibXk5Q0I4ZFRFS3BOREpicmhITnhDVENaUWVR?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 14:36:05 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMnQwc2k3REY1QXFsZHRITmZyVG1EdFo4SzNtekNsN3RiQTkyeWFpTm8xSzlreE9BdkFaX0JmVkdpQzdLb00yYXhMSUNNR0FfN0dtV3dpLW9wd0xuVzQwYU12enJQbF9xUF9IdG9YWm5mV1JtM05MV0tsTVNnV1dTeEI1RVdFc25mR1NFNDdsblF4ZXI4Nnc4bU11ZmR3NUo5aU9yN3A4WC0xLTF3ZjFOcnJQR1p6R2p4WTV3QlFUbkZyQ3FzYnp1MUVkSTkyT3pFTDhibXk5Q0I4ZFRFS3BOREpicmhITnhDVENaUWVR?oc=5",
+          "summary": "Business School graduate programs earn top U.S. rankings, climb sharply in QS International Trade Rankings 2027 University of Miami News"
         }
       ],
       "sourcesCount": 1
@@ -5373,60 +5442,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdEWjJIaVZoZDdjTVA0eGtLU180Qm4zczZYUC1ZblRsXzBjZk8tRDlnRk1NRUZlZExtai1HS0pqdkRPX0wwWEpqQm1ZU1E0TEltYThpdHdHYmlqTTB6djJPcjVWaGkyLXl3ZnBReFl1dy1rTFJDYTZIalRwNm9JRXBMVG16THRVN2VKX1F4eUI4dFNjaEpyMktVUWVTbWwyTmdaZzlEdXdlN3BTcWJCaGF2X1phWmlYS09MOGdUSS05b0g1am02d2VGTmU?oc=5",
           "summary": "Mixed martial arts — without the wire cage and the blood — bids to make the Olympics www.ap.org"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "83ea075c496f",
-      "title": "Elisabeth L'Orange, KI-Expertin, zu den KI-Initiativen am Standort Deutschland",
-      "summary": "Elisabeth L'Orange, KI-Expertin, zu den KI-Initiativen am Standort Deutschland",
-      "link": "https://www.tagesschau.de/video/video-1517602.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Tue, 21 Oct 2025 15:24:33 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1517602.html",
-          "summary": "Elisabeth L'Orange, KI-Expertin, zu den KI-Initiativen am Standort Deutschland"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "97adc53cddb3",
-      "title": "Sürüklenerek karaya oturan 238 metre uzunluğundaki tanker kurtarıldı",
-      "summary": "Karadeniz'deki ağır hava koşulları nedeniyle İstanbul Sarıyer açıklarında karaya oturan 238 metrelik BANDA isimli ham petrol tankeri, ekiplerin çalışmasıyla bulunduğu yerden kurtarıldı.",
-      "link": "https://www.trthaber.com/haber/turkiye/suruklenerek-karaya-oturan-238-metre-uzunlugundaki-tanker-kurtarildi-960687.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 23:28:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/suruklenerek-karaya-oturan-238-metre-uzunlugundaki-tanker-kurtarildi-960687.html",
-          "summary": "Karadeniz'deki ağır hava koşulları nedeniyle İstanbul Sarıyer açıklarında karaya oturan 238 metrelik BANDA isimli ham petrol tankeri, ekiplerin çalışmasıyla bulunduğu yerden kurtarıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "688b51f07c5a",
-      "title": "The tech helping crack decades-old cold cases",
-      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 23:13:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-          "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
         }
       ],
       "sourcesCount": 1
