@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T20:18:54.656435+00:00",
+  "updated": "2026-10-21T20:57:03.591802+00:00",
   "articles": [
     {
       "id": "dd4d752a85d8",
@@ -92,6 +92,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "4a5fa2867495",
+      "title": "Trump, RusyaUkrayna Savaşı'nda çözüme hiç olmadığı kadar yakın olduklarını belirtti",
+      "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını vurguladı.",
+      "link": "https://www.trthaber.com/haber/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti-960826.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 23:36:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti-960826.html",
+          "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını vurguladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "60af9b19d996",
+      "title": "Soykırımcı İsrail, Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
+      "summary": "Soykırımcı İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal gerçekleştirdiği bildirildi.",
+      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-12-saatte-23-saldiri-gerceklestirdi-960825.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 23:20:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-12-saatte-23-saldiri-gerceklestirdi-960825.html",
+          "summary": "Soykırımcı İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal gerçekleştirdiği bildirildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "dbc2880fb176",
+      "title": "Siber Güvenlik Başkanlığından ulusal ölçekte uyarı",
+      "summary": "Siber Güvenlik Başkanlığı, dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-960824.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 23:15:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-960824.html",
+          "summary": "Siber Güvenlik Başkanlığı, dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f2c15b56b5c6",
       "title": "PHP'deki güvenlik açığı nedeniyle dünya çapında çok sayıda site kapatıldı",
       "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı.",
@@ -110,6 +164,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "e19bbd43b857",
+      "title": "Champions League: Bayern und Arsenal mit intensivem Unentschieden",
+      "summary": "Der FC Bayern München hat sich in der Champions League in einem hochintensiven und umkämpften Duell mit dem FC Arsenal die Punkte geteilt.",
+      "link": "https://www.sportschau.de/fussball/championsleague/bayern-starten-mit-gnabry-und-bischof-gegen-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 22:52:36 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/championsleague/bayern-starten-mit-gnabry-und-bischof-gegen-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
+          "summary": "Der FC Bayern München hat sich in der Champions League in einem hochintensiven und umkämpften Duell mit dem FC Arsenal die Punkte geteilt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1530aaa69264",
+      "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+      "summary": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
+      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 22:47:20 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+          "summary": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a03126191bd0",
       "title": "Kullanıcıları gizlilik konusunda yanılttığı için Meta'ya 25 milyar dolar ceza verildi",
       "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle sosyal medya şirketi Meta'nın eyalete 25 milyar dolar ceza ödemesine hükmetti.",
@@ -123,6 +213,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/kullanicilari-gizlilik-konusunda-yanilttigi-icin-metaya-25-milyar-dolar-ceza-verildi-960822.html",
           "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle sosyal medya şirketi Meta'nın eyalete 25 milyar dolar ceza ödemesine hükmetti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 22:27:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -159,6 +267,42 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
           "summary": "Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta zu einem Milliarden-Bußgeld verurteilt worden. Hintergrund ist der Missbrauch von Nutzerdaten."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "542b3bead259",
+      "title": "Basketball: Gladiators Trier gegen Split - Souveräner Sieg nach schwerem Start",
+      "summary": "Die Gladiators Trier haben im FIBA Europe Cup den nächsten Sieg geholt. Gegen den KK Split drehte das Team nach schwachem Start auf.",
+      "link": "https://www.sportschau.de/regional/swr/swr-gladiators-trier-gegen-split-souveraener-sieg-nach-schwerem-start-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 22:12:58 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-gladiators-trier-gegen-split-souveraener-sieg-nach-schwerem-start-100.html",
+          "summary": "Die Gladiators Trier haben im FIBA Europe Cup den nächsten Sieg geholt. Gegen den KK Split drehte das Team nach schwachem Start auf."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d51f21760174",
+      "title": "Ulm verliert auch EuroCup-Spiel in Thessaloniki",
+      "summary": "Die Ulmer Basketballer spielen sich allmählich in eine Krise. Nach zuletzt vier Niederlagen auf nationaler Ebene verlieren sie auch im EuroCup in Thessaloniki.",
+      "link": "https://www.sportschau.de/regional/swr/swr-ulmer-basketballer-verlieren-auch-eurocup-spiel-in-thessaloniki-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "regional",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 22:09:17 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-ulmer-basketballer-verlieren-auch-eurocup-spiel-in-thessaloniki-100.html",
+          "summary": "Die Ulmer Basketballer spielen sich allmählich in eine Krise. Nach zuletzt vier Niederlagen auf nationaler Ebene verlieren sie auch im EuroCup in Thessaloniki."
         }
       ],
       "sourcesCount": 1
@@ -213,24 +357,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-suren-israil-saldirilari-nedeniyle-ozellikle-cocuklar-ciddi-risklerle-karsi-karsiya-960819.html",
           "summary": "Birleşmiş Milletler (BM), Gazze'de soykırımcı İsrail'in devam eden ve sivil kayıplara yol açan saldırıları konusunda \"derin endişe\" duyduklarını belirterek, özellikle çocukların \"ciddi risklerle\" karşı karşıya olduğu uyarısında bulundu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ed35c5381d15",
-      "title": "TSG-Coach Ilzer warnt vor Lyon als Party-Crasher",
-      "summary": "Hoffenheims Trainer Christian Ilzer hat in dieser Woche eigentlich Grund zum Feiern. Vor dem Spiel gegen Lyon aber warnt er vor dem französischen Team.",
-      "link": "https://www.sportschau.de/regional/swr/swr-tsg-coach-ilzer-warnt-vor-lyon-als-party-crasher-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 21:52:59 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/swr/swr-tsg-coach-ilzer-warnt-vor-lyon-als-party-crasher-102.html",
-          "summary": "Hoffenheims Trainer Christian Ilzer hat in dieser Woche eigentlich Grund zum Feiern. Vor dem Spiel gegen Lyon aber warnt er vor dem französischen Team."
         }
       ],
       "sourcesCount": 1
@@ -421,19 +547,109 @@
       "sourcesCount": 1
     },
     {
-      "id": "e19bbd43b857",
-      "title": "Bayern starten mit Gnabry und Bischof gegen Arsenal",
-      "summary": "Der FC Bayern München startet ins Champions-League-Duell gegen den FC Arsenal mit Tom Bischof und Serge Gnabry in der Startelf, die den gesperrten Michael Olise und den verhinderten Joshua Kimmich ersetzen.",
-      "link": "https://www.sportschau.de/fussball/championsleague/bayern-starten-mit-gnabry-und-bischof-gegen-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 20:32:32 +0200",
+      "id": "c714a3fdc9cc",
+      "title": "Government websites go dark after AI-discovered flaw sparks security scramble - Reuters",
+      "summary": "Government websites go dark after AI-discovered flaw sparks security scramble Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 20:46:47 GMT",
       "coverage": [
         {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/championsleague/bayern-starten-mit-gnabry-und-bischof-gegen-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
-          "summary": "Der FC Bayern München startet ins Champions-League-Duell gegen den FC Arsenal mit Tom Bischof und Serge Gnabry in der Startelf, die den gesperrten Michael Olise und den verhinderten Joshua Kimmich ersetzen."
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+          "summary": "Government websites go dark after AI-discovered flaw sparks security scramble Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "039ee7eed232",
+      "title": "Paz, Fabregas and Como teach Man Utd a lesson",
+      "summary": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 20:46:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "42a280f536bb",
+      "title": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy - Reuters",
+      "summary": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 20:43:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+          "summary": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "927a9d9641ce",
+      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations - The New York Times",
+      "summary": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cand0NERUN2JLakxSaHRfYVM3NkdSV3pIZ2hZSmVDakM4VW9qdUNtNW1KWVBHOVZOQlBfQjhWUnFrbnU3cUxsZ1RFLThTcnJuV1REWE93eV9BdmZwUHFNQVlvekdxUGJSTFdoYmV1QUxaNGpvNkRkZkV2WWtvNUU?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:37:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cand0NERUN2JLakxSaHRfYVM3NkdSV3pIZ2hZSmVDakM4VW9qdUNtNW1KWVBHOVZOQlBfQjhWUnFrbnU3cUxsZ1RFLThTcnJuV1REWE93eV9BdmZwUHFNQVlvekdxUGJSTFdoYmV1QUxaNGpvNkRkZkV2WWtvNUU?oc=5",
+          "summary": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations The New York Times"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f08c9e7a99d7",
+      "title": "Datenskandal: Meta soll 25 Milliarden Dollar Strafe zahlen",
+      "summary": "Ein Rechtsstreit um einen der größten Skandale in seiner Geschichte endet für den Internetkonzern mit einem harten Urteil. Damit setzt sich eine Serie teurer juristischer Auseinandersetzungen fort.",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:37:45 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html",
+          "summary": "Ein Rechtsstreit um einen der größten Skandale in seiner Geschichte endet für den Internetkonzern mit einem harten Urteil. Damit setzt sich eine Serie teurer juristischer Auseinandersetzungen fort."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "695b12fd0182",
+      "title": "Virginia Tech showcases mining technology to top U.S. energy official - WDBJ7",
+      "summary": "Virginia Tech showcases mining technology to top U.S. energy official WDBJ7",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXJTdERzd1djeU5HcWRidDlHcUI1dHlqaXJKc3Y3bjlxaG9fUFRPQW9UbEdjX0NUS2pvTEZBTl9WRlJ0TzNJcDF2S3plaTBjN0I3bTZ5QUtSZVVpb2FJY1R3U2JsMGxlT0dSMWR6RjFnT2JCUDBvcGZaR0FDVkw2QnRPTWRkcXI5ekRic19weF9JbVFOM2lpajBfUnp0X3fSAbMBQVVfeXFMTWFQXzVraU51bzR3by1WM21fbTJ0cmVfNWh1eVJpTWplNFdpeFh6ZEotWkdGdVY2anF0WDc1UW40TEs2N2RMUUtyclNkYnV5RUhOb2tSUVBvYndfOV9kY0ZDTE9mVnlSeUNVakJ0NF94TllldE51TjVkbnZoZHFxSEJVR1VDaWFBZ0xEWmRZb3JSUnEwSkFNSklWNE5vdDdqbnZlUUFRTjhjZC1KQ2JSUWo1Vk0?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXJTdERzd1djeU5HcWRidDlHcUI1dHlqaXJKc3Y3bjlxaG9fUFRPQW9UbEdjX0NUS2pvTEZBTl9WRlJ0TzNJcDF2S3plaTBjN0I3bTZ5QUtSZVVpb2FJY1R3U2JsMGxlT0dSMWR6RjFnT2JCUDBvcGZaR0FDVkw2QnRPTWRkcXI5ekRic19weF9JbVFOM2lpajBfUnp0X3fSAbMBQVVfeXFMTWFQXzVraU51bzR3by1WM21fbTJ0cmVfNWh1eVJpTWplNFdpeFh6ZEotWkdGdVY2anF0WDc1UW40TEs2N2RMUUtyclNkYnV5RUhOb2tSUVBvYndfOV9kY0ZDTE9mVnlSeUNVakJ0NF94TllldE51TjVkbnZoZHFxSEJVR1VDaWFBZ0xEWmRZb3JSUnEwSkFNSklWNE5vdDdqbnZlUUFRTjhjZC1KQ2JSUWo1Vk0?oc=5",
+          "summary": "Virginia Tech showcases mining technology to top U.S. energy official WDBJ7"
         }
       ],
       "sourcesCount": 1
@@ -457,6 +673,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0f6b2525bd87",
+      "title": "Cruise Planners Sets the Standard for AI and Technology Innovation in the Travel Industry - PR Newswire",
+      "summary": "Cruise Planners Sets the Standard for AI and Technology Innovation in the Travel Industry PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVUJvYzQtcWNCSFE0VTQzc1drWk1DS2IzRS1pMHF3ZFFrYTVMZUwzRjM1UVZNRVB3a2lQcEVvOW5FRThHeWNxR1pjbFJ2cm9icWlqVmFBZTFTc1dzOGxuc29HczRVRXBrbGpuSE5aVUd0RTFuNTlHNWpEdmRiVHJrVGczOG9GSjQxRzlNSjc0UEI5MngyeDN5aHgxMUg5T0RCMkVleTREMlE3dm12c2pBMGRMOTdjZzBWOXVxYlQ1TWdqYUFpRFVXekM4Ym1hc09vOF9neW5JVGVtZzBhWFE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:24:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVUJvYzQtcWNCSFE0VTQzc1drWk1DS2IzRS1pMHF3ZFFrYTVMZUwzRjM1UVZNRVB3a2lQcEVvOW5FRThHeWNxR1pjbFJ2cm9icWlqVmFBZTFTc1dzOGxuc29HczRVRXBrbGpuSE5aVUd0RTFuNTlHNWpEdmRiVHJrVGczOG9GSjQxRzlNSjc0UEI5MngyeDN5aHgxMUg5T0RCMkVleTREMlE3dm12c2pBMGRMOTdjZzBWOXVxYlQ1TWdqYUFpRFVXekM4Ym1hc09vOF9neW5JVGVtZzBhWFE?oc=5",
+          "summary": "Cruise Planners Sets the Standard for AI and Technology Innovation in the Travel Industry PR Newswire"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "06107ab80f6d",
       "title": "Bangladeş'te yıl başından bu yana dang humması nedeniyle ölenlerin sayısı 364'e çıktı",
       "summary": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364’e yükseldi.",
@@ -470,24 +704,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti-960810.html",
           "summary": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364’e yükseldi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 20:23:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -511,19 +727,96 @@
       "sourcesCount": 1
     },
     {
-      "id": "8606a392f951",
-      "title": "Batavia hospital debuts AI-powered technology meant to improve heart care - 13WHAM-TV",
-      "summary": "Batavia hospital debuts AI-powered technology meant to improve heart care 13WHAM-TV",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWko3eG5nMUJZNDlVa1N4ZWl1WXdxTVg1WHNZRzRQWHV4SDRtbnpWamF1VndlNXRtOW5qdjJvYnA5b3NaY3BhTHZjTksxYmZxcURMUGltVEczOUNrdTR6WXhMZF9MTXY3c0E5aHZkRGE0RTV4OExKVXlEMmtPQXhmWktBR1pNcWJ0bGliRUNzWm9uek9JM0RsWTEzOUxpYUdzSG0zTEl1UEVRa09uVEQ3Sjg4TDZDRTh2cVpGMy1iR3ExNkNpSC1fdkJiQnRuUE5ISXJVbkZqd01WcUhaUDBtMkhkR0ZrMWJsRUc2Vm5sZzVBSjcwRUxfUE1iQkNlblgwNTdSMTNHaUdfWU5rOGZLSDZQRlNDUXRXM1IyTWRidVdZaGJSMnJ6Qml0WTY5bzNRVWRNZTFlOHo5cXBaRHcxWEY4eXJwcTc5UHFLWm5KMUlzOVE?oc=5",
+      "id": "5b1076279280",
+      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+      "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:19:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+          "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f82803c82d7a",
+      "title": "Chelsea eye Brighton's Ayari - Thursday's gossip",
+      "summary": "Brighton midfielder Yasin Ayari is being targeted by Chelsea, Barcelona and Real Madrid are keeping an eye on Aston Villa's Johan Manzambi and Arsenal striker Viktor Gyokeres could be on moved on.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cme3xk2jkyv0o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 20:17:45 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cme3xk2jkyv0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Brighton midfielder Yasin Ayari is being targeted by Chelsea, Barcelona and Real Madrid are keeping an eye on Aston Villa's Johan Manzambi and Arsenal striker Viktor Gyokeres could be on moved on."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8d87d90e98a4",
+      "title": "Earnings Flash (IBM) International Business Machines Corporation Reports Q3 Revenue $17.10B, vs. FactSet Est of $16.82B - marketscreener.com",
+      "summary": "Earnings Flash (IBM) International Business Machines Corporation Reports Q3 Revenue $17.10B, vs. FactSet Est of $16.82B marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0tLNTc4WHZpREQ4dFE5Y09XOTV6ZndZWl9CNEtsRHBvem1YUEItbENHR09HSXdGaEFweURpMmVzTzA5alY5SklFazZKWndJaWYtd1c1RV9SR1lqZmJlYWdUMmFPQXhXbDdZZHZWenF5Y3dHQ294aFJaMDNsaUtHNW13VVBZMUQzRk1UYTJIdGpxM3U3MXY1SXM1WnJfUzluNldGUjB5ZzFuQldTX0FMS05CWTktMWRkNW1KdE5VRkpkZTVKZ0Vibm5jU0NMZVZMVTFRVDdyR0I1ajk4V0hPQmZB?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 20:16:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0tLNTc4WHZpREQ4dFE5Y09XOTV6ZndZWl9CNEtsRHBvem1YUEItbENHR09HSXdGaEFweURpMmVzTzA5alY5SklFazZKWndJaWYtd1c1RV9SR1lqZmJlYWdUMmFPQXhXbDdZZHZWenF5Y3dHQ294aFJaMDNsaUtHNW13VVBZMUQzRk1UYTJIdGpxM3U3MXY1SXM1WnJfUzluNldGUjB5ZzFuQldTX0FMS05CWTktMWRkNW1KdE5VRkpkZTVKZ0Vibm5jU0NMZVZMVTFRVDdyR0I1ajk4V0hPQmZB?oc=5",
+          "summary": "Earnings Flash (IBM) International Business Machines Corporation Reports Q3 Revenue $17.10B, vs. FactSet Est of $16.82B marketscreener.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "558aa57358f0",
+      "title": "Batavia hospital debuts AI-powered technology meant to improve heart care - 13wham.com",
+      "summary": "Batavia hospital debuts AI-powered technology meant to improve heart care 13wham.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNi1tUVdjdHdSQ3VqSHVUVjkwdnJ0Z25vRW9HY2U5LXg0MTBmSnE5NzBzcFNjbF90eXBmaU52b3Fvd3dDSHU1MFBUb1lUWXkzc1hvbGhjTldWREtSSGpGMU1CR05zT04zakhSbHQwcWFoU1JaVGJOWG9Iem9lQV82d1puVk9IX2tLZGtuWG5GdDR4TDhuRWFGUXU5YmhEMlBXUGJUVHRkMUFMVnlFanpkZE9ZREttQk1XTTk0S0VGeFpTbGpXUWZQbFdfSkVIdWJqZ2lqV25KSUdveVJ0Wm1HRFpQUWMwVlRNb2RCX2dtV01oODJlbXZpZzN3Uk82aFNZSzVHSEJqNkx2aHdzRnVYdC04eW1aNTA2dWd1VTdvUmFHejFzNUs2NzJIMG1fLWxGc1pEaWVXSndBOXJ2b0lZckJ1YU92YkFDaVR2VFptUlQzZVhYNVIzQ24yYzFwUQ?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 20:12:21 GMT",
+      "time": "Wed, 21 Oct 2026 20:13:54 GMT",
       "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNi1tUVdjdHdSQ3VqSHVUVjkwdnJ0Z25vRW9HY2U5LXg0MTBmSnE5NzBzcFNjbF90eXBmaU52b3Fvd3dDSHU1MFBUb1lUWXkzc1hvbGhjTldWREtSSGpGMU1CR05zT04zakhSbHQwcWFoU1JaVGJOWG9Iem9lQV82d1puVk9IX2tLZGtuWG5GdDR4TDhuRWFGUXU5YmhEMlBXUGJUVHRkMUFMVnlFanpkZE9ZREttQk1XTTk0S0VGeFpTbGpXUWZQbFdfSkVIdWJqZ2lqV25KSUdveVJ0Wm1HRFpQUWMwVlRNb2RCX2dtV01oODJlbXZpZzN3Uk82aFNZSzVHSEJqNkx2aHdzRnVYdC04eW1aNTA2dWd1VTdvUmFHejFzNUs2NzJIMG1fLWxGc1pEaWVXSndBOXJ2b0lZckJ1YU92YkFDaVR2VFptUlQzZVhYNVIzQ24yYzFwUQ?oc=5",
+          "summary": "Batavia hospital debuts AI-powered technology meant to improve heart care 13wham.com"
+        },
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWko3eG5nMUJZNDlVa1N4ZWl1WXdxTVg1WHNZRzRQWHV4SDRtbnpWamF1VndlNXRtOW5qdjJvYnA5b3NaY3BhTHZjTksxYmZxcURMUGltVEczOUNrdTR6WXhMZF9MTXY3c0E5aHZkRGE0RTV4OExKVXlEMmtPQXhmWktBR1pNcWJ0bGliRUNzWm9uek9JM0RsWTEzOUxpYUdzSG0zTEl1UEVRa09uVEQ3Sjg4TDZDRTh2cVpGMy1iR3ExNkNpSC1fdkJiQnRuUE5ISXJVbkZqd01WcUhaUDBtMkhkR0ZrMWJsRUc2Vm5sZzVBSjcwRUxfUE1iQkNlblgwNTdSMTNHaUdfWU5rOGZLSDZQRlNDUXRXM1IyTWRidVdZaGJSMnJ6Qml0WTY5bzNRVWRNZTFlOHo5cXBaRHcxWEY4eXJwcTc5UHFLWm5KMUlzOVE?oc=5",
           "summary": "Batavia hospital debuts AI-powered technology meant to improve heart care 13WHAM-TV"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
+      "id": "f22fac9a177f",
+      "title": "EXCLUSIVE: US orders departure of diplomats from Saudi Arabia amid Houthi strikes - Reuters",
+      "summary": "EXCLUSIVE: US orders departure of diplomats from Saudi Arabia amid Houthi strikes Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 20:11:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+          "summary": "EXCLUSIVE: US orders departure of diplomats from Saudi Arabia amid Houthi strikes Reuters"
         }
       ],
       "sourcesCount": 1
@@ -570,6 +863,24 @@
       "sourcesCount": 2
     },
     {
+      "id": "50a5c84ec50c",
+      "title": "Pope does not need further treatment after lung cancer surgery",
+      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 20:09:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+          "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "92227c5a3910",
       "title": "İran Devrim Muhafızları Sözcüsü: Bombaların anası nükleer faaliyetlerimizi durduramaz",
       "summary": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen bombayı kullanabileceğini ancak bunun İran'ın nükleer sanayi faaliyetlerini durdurmayacağını söyledi.",
@@ -601,6 +912,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/sievers-am-puls-unsicherheit-zukunft-sorgen-kinderwunsch-krieg-100.html",
           "summary": "Globale Krisen wirken gerade bis ins Leben jedes Einzelnen hinein. Die chaotische Weltlage bestimmt wirtschaftliche Entscheidungen und private Lebensplanung."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4712e8e9102d",
+      "title": "Ex-England defender Bertrand eyes £87m AFC Wimbledon deal",
+      "summary": "Ryan Bertrand leading a consortium that has proposed an £87m minority investment into League One side AFC Wimbledon.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwdr8zxp884mo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 20:02:23 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwdr8zxp884mo?at_medium=RSS&at_campaign=rss",
+          "summary": "Ryan Bertrand leading a consortium that has proposed an £87m minority investment into League One side AFC Wimbledon."
         }
       ],
       "sourcesCount": 1
@@ -719,24 +1048,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "42a280f536bb",
-      "title": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy - Reuters",
-      "summary": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 19:45:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-          "summary": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "aafc342c1317",
       "title": "Champions League: United blamiert sich in Como – Sané und Gündoğan siegen mit Istanbul",
       "summary": "Como 1907 mischt weiter die Champions League auf. Gegen Manchester United spielen die Italiener groß auf und siegen klar.",
@@ -845,24 +1156,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "de568b5ec422",
-      "title": "The AI-Hacking Apocalypse Began Last Night - The Atlantic",
-      "summary": "The AI-Hacking Apocalypse Began Last Night The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdKZU5nOWV4bXBPUm1TUnE2NUgyUjF0amJLSE1UUXFYREhtSnRZQUdSNUJLQ0xnMmhzY05WWHpMYnFjRHNIbnRIRW5iMC1vTjlJc244bFZXaUdnNFNtcG5wd0JLVk9hT1BFeGRlRVprdVZua2EtU2dBUUlEWThXa202N0czUHlVeGdrOW1sMDdxM1FmMG5sQw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 19:21:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdKZU5nOWV4bXBPUm1TUnE2NUgyUjF0amJLSE1UUXFYREhtSnRZQUdSNUJLQ0xnMmhzY05WWHpMYnFjRHNIbnRIRW5iMC1vTjlJc244bFZXaUdnNFNtcG5wd0JLVk9hT1BFeGRlRVprdVZua2EtU2dBUUlEWThXa202N0czUHlVeGdrOW1sMDdxM1FmMG5sQw?oc=5",
-          "summary": "The AI-Hacking Apocalypse Began Last Night The Atlantic"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "cd7031222b7e",
       "title": "Marktbericht: DAX startet dank KI durch",
       "summary": "Von neuer KI-Zuversicht nach guten Unternehmensdaten getragen, nahm der DAX heute wieder kräftig Fahrt auf. Ein Treiber war das Thema Künstliche Intelligenz.",
@@ -881,24 +1174,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f22fac9a177f",
-      "title": "EXCLUSIVE: US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials - Reuters",
-      "summary": "EXCLUSIVE: US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 19:13:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
-          "summary": "EXCLUSIVE: US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4473c09d7e50",
       "title": "Trump to tout crackdown on overseas crypto scams - Reuters",
       "summary": "Trump to tout crackdown on overseas crypto scams Reuters",
@@ -912,24 +1187,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
           "summary": "Trump to tout crackdown on overseas crypto scams Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c714a3fdc9cc",
-      "title": "Government websites go dark after AI-discovered flaw sparks security scramble - Reuters",
-      "summary": "Government websites go dark after AI-discovered flaw sparks security scramble Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 19:06:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-          "summary": "Government websites go dark after AI-discovered flaw sparks security scramble Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1030,24 +1287,6 @@
       "sourcesCount": 2
     },
     {
-      "id": "8085ddbd032f",
-      "title": "This is the way to deploy the latest Nvidia technology 'much faster': Nvidia partner - Fox Business",
-      "summary": "This is the way to deploy the latest Nvidia technology 'much faster': Nvidia partner Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMEpscXF2R3B6OGN2UGcxRm1veUtVeUxIUTJTRlFMcWhUd1pNTUc2RmtRbUhTUVdqaWNWMi1WYzRIU3lOczVIUjd4NDB1bGhJTnYwZG44ZVAyQlU?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 18:45:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMEpscXF2R3B6OGN2UGcxRm1veUtVeUxIUTJTRlFMcWhUd1pNTUc2RmtRbUhTUVdqaWNWMi1WYzRIU3lOczVIUjd4NDB1bGhJTnYwZG44ZVAyQlU?oc=5",
-          "summary": "This is the way to deploy the latest Nvidia technology 'much faster': Nvidia partner Fox Business"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "218e88554937",
       "title": "ABD, Rusya ve Ukrayna üçlü görüşme yapacak",
       "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya'nın ABD ve Ukrayna ile üçlü müzakereleri kasım ayında yeniden başlatmaya hazır olduğunu bildirdi. ABD'li yetkili, Rusya'nın Ukrayna ile üçlü görüşme yapılması yönündeki ABD teklifini kabul ettiğini doğruladı.",
@@ -1061,24 +1300,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abd-rusya-ve-ukrayna-uclu-gorusme-yapacak-960803.html",
           "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya'nın ABD ve Ukrayna ile üçlü müzakereleri kasım ayında yeniden başlatmaya hazır olduğunu bildirdi. ABD'li yetkili, Rusya'nın Ukrayna ile üçlü görüşme yapılması yönündeki ABD teklifini kabul ettiğini doğruladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "927a9d9641ce",
-      "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy - The New York Times",
-      "summary": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cand0NERUN2JLakxSaHRfYVM3NkdSV3pIZ2hZSmVDakM4VW9qdUNtNW1KWVBHOVZOQlBfQjhWUnFrbnU3cUxsZ1RFLThTcnJuV1REWE93eV9BdmZwUHFNQVlvekdxUGJSTFdoYmV1QUxaNGpvNkRkZkV2WWtvNUU?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 18:36:32 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cand0NERUN2JLakxSaHRfYVM3NkdSV3pIZ2hZSmVDakM4VW9qdUNtNW1KWVBHOVZOQlBfQjhWUnFrbnU3cUxsZ1RFLThTcnJuV1REWE93eV9BdmZwUHFNQVlvekdxUGJSTFdoYmV1QUxaNGpvNkRkZkV2WWtvNUU?oc=5",
-          "summary": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -1151,24 +1372,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
           "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f08c9e7a99d7",
-      "title": "US-Gericht: Facebook-Mutter Meta zu 25 Milliarden Dollar Strafe verurteilt",
-      "summary": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt Meta nun die Quittung – im US-Bundesstaat New Mexico.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 18:14:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html",
-          "summary": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt Meta nun die Quittung – im US-Bundesstaat New Mexico."
         }
       ],
       "sourcesCount": 1
@@ -1336,6 +1539,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ed35c5381d15",
+      "title": "TSG-Coach Ilzer warnt vor Lyon als Party-Crasher",
+      "summary": "Hoffenheims Trainer Christian Ilzer hat in dieser Woche eigentlich Grund zum Feiern. Vor dem Spiel gegen Lyon aber warnt er vor dem französischen Team.",
+      "link": "https://www.sportschau.de/regional/swr/swr-tsg-coach-ilzer-warnt-vor-lyon-als-party-crasher-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 17:40:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/swr/swr-tsg-coach-ilzer-warnt-vor-lyon-als-party-crasher-102.html",
+          "summary": "Hoffenheims Trainer Christian Ilzer hat in dieser Woche eigentlich Grund zum Feiern. Vor dem Spiel gegen Lyon aber warnt er vor dem französischen Team."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "dd7cf79c07f3",
       "title": "Yapay zeka dedektörleri edebiyat dünyasını karıştırdı: Yazarlar haksız yere suçlanıyor",
       "summary": "Yapay zeka araçlarının yaygınlaşması, edebi eserlerin yaratım sürecine yönelik şüpheleri artırırken, güvenilirliği tartışmalı olan yapay zeka dedektörleri birçok yazarın haksız yere suçlanmasına ve ödüllerinden mahrum kalmasına yol açıyor.",
@@ -1444,6 +1665,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abden-spacexe-ukraynada-hizmetleri-yeniden-baslatma-cagrisi-960794.html",
           "summary": "Avrupa Birliği (AB) Komisyonu, Ukrayna'nın kullandığı SpaceX'e ait Starlink uydu sisteminde yavaşlama meydana geldiği iddiaları üzerine şirkete bu hizmetleri acilen yeniden devreye alma çağrısı yaptı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "23e280ec42e2",
+      "title": "Supreme Court won't allow Trump administration restrictions on transgender inmates - Reuters",
+      "summary": "Supreme Court won't allow Trump administration restrictions on transgender inmates Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb05XM3ZlNDVMQU42NUZWTWl0TF95di1wZTVSOVBxYVkwNWEyTDdWZjhvaGdwbFE1M1JNTEVhMkNxcFFBczZzZUI4blV5bGNxMnRrX1djZ3BrZTlvYXpxMG0zTmNJWE0wRkMzY19OYUlMX1YwXy1XeDg2NUJtOWNGeGxia2xjUDlfdnJTaWJzUHotZlRIQ1VRMXJydm11eW9VTm44bVlWTnE4cFRDNnVGQmwxNkxzbDgzUEhXTQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 17:25:55 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb05XM3ZlNDVMQU42NUZWTWl0TF95di1wZTVSOVBxYVkwNWEyTDdWZjhvaGdwbFE1M1JNTEVhMkNxcFFBczZzZUI4blV5bGNxMnRrX1djZ3BrZTlvYXpxMG0zTmNJWE0wRkMzY19OYUlMX1YwXy1XeDg2NUJtOWNGeGxia2xjUDlfdnJTaWJzUHotZlRIQ1VRMXJydm11eW9VTm44bVlWTnE4cFRDNnVGQmwxNkxzbDgzUEhXTQ?oc=5",
+          "summary": "Supreme Court won't allow Trump administration restrictions on transgender inmates Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1863,6 +2102,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a962b5d3809f",
+      "title": "PHP developers issue updates to fix vulnerabilities, says flaw was found in 2024 - Reuters",
+      "summary": "PHP developers issue updates to fix vulnerabilities, says flaw was found in 2024 Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMC1UZmVrbUN1RzZ3Y0lqdG5KWnBvamhfX25rU3Itai12dkxlVnJOVXpYS2ZMcTIycWo4UHN0bW9qTFVZTG8td01ZYWtsOVpGelh2QTZVX3BFU1NQOVEzWDhFTG5SNnczOTNhQ1VaQl9DRHNaMTlYaDk4TE50SlZPYVFPOWVRcnduNDJaVkxtN05XVURtbkVaRWI2QkVHUVJqbkY4Y2FNNzlnTHhEeDdoREJCdDI?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 16:07:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMC1UZmVrbUN1RzZ3Y0lqdG5KWnBvamhfX25rU3Itai12dkxlVnJOVXpYS2ZMcTIycWo4UHN0bW9qTFVZTG8td01ZYWtsOVpGelh2QTZVX3BFU1NQOVEzWDhFTG5SNnczOTNhQ1VaQl9DRHNaMTlYaDk4TE50SlZPYVFPOWVRcnduNDJaVkxtN05XVURtbkVaRWI2QkVHUVJqbkY4Y2FNNzlnTHhEeDdoREJCdDI?oc=5",
+          "summary": "PHP developers issue updates to fix vulnerabilities, says flaw was found in 2024 Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "2e174927c16c",
       "title": "Hind Recebi katleden İsrailli komutanın tutuklanması istendi",
       "summary": "Hind Receb Vakfı, Gazze’de 5 yaşındaki Hind Receb ve ailesinin acımasızca katledilmesiyle bağlantılı olduğunu belirttiği eli kanlı İsrailli komutan Sean Glass’ın tutuklanması için ABD Adalet Bakanlığına başvurdu.",
@@ -1971,6 +2228,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "46533351b5aa",
+      "title": "Human rights commission urges oversight of technology used in Latin American environmental crime - WLRN",
+      "summary": "Human rights commission urges oversight of technology used in Latin American environmental crime WLRN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2RzVm5DM0NqcjVFS2hucXNGRm1aY2dyaG1vT1VOZXc0Z0ZBd3psTXBQN1ROT2NjWHhhNldPNkxWQkc1WEFDVU9SRmNpNFpsQnVQemliTTdqaWVzY1RfaVBNVTFYWE9kNENQRGtwRnB0QzFCZVpxaXVZb2JRVHQyR1RTLVJjdXBXal9VNlBNTGEwUE9oOHZwWEx2ekNYZkJnY0dQN3loUERLcFVXZDlWWG0xUEFibTYxMHh2YkxzOEJxMWFGaEVZd2RscVlDMHFXdGI4?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 15:42:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2RzVm5DM0NqcjVFS2hucXNGRm1aY2dyaG1vT1VOZXc0Z0ZBd3psTXBQN1ROT2NjWHhhNldPNkxWQkc1WEFDVU9SRmNpNFpsQnVQemliTTdqaWVzY1RfaVBNVTFYWE9kNENQRGtwRnB0QzFCZVpxaXVZb2JRVHQyR1RTLVJjdXBXal9VNlBNTGEwUE9oOHZwWEx2ekNYZkJnY0dQN3loUERLcFVXZDlWWG0xUEFibTYxMHh2YkxzOEJxMWFGaEVZd2RscVlDMHFXdGI4?oc=5",
+          "summary": "Human rights commission urges oversight of technology used in Latin American environmental crime WLRN"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6a79e9800530",
       "title": "Versicherungspflicht: Ein gerechtfertigter Eingriff",
       "summary": "Jeder Hausbesitzer soll sich bald gegen Naturkatastrophen versichern müssen. Der Staat beseitigt damit einen teuren Fehlanreiz.",
@@ -2038,24 +2313,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
           "summary": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7016957b6757",
-      "title": "Rural hospital independence depends on making technology count - Healthcare IT News",
-      "summary": "Rural hospital independence depends on making technology count Healthcare IT News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemZpQjBzWnlLZjBqMWt4MlJIS29lQkhGLWZ5MHk0S1FWc19EUGJBRE1KanplOEtSbE9yc1B2UUlVVEF2cGFuUml4YkVfaGdkU0M4RnVZZk5pWHl6N2Q4NEpTTUVjbk1DRVp2czU0SnVDemtRQ0kyOXJkd0psQXN0QUJhZ0RuaXVsZGUwWk5uZk4xVy1YQkJhbS1ZbkJpZw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 15:31:54 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemZpQjBzWnlLZjBqMWt4MlJIS29lQkhGLWZ5MHk0S1FWc19EUGJBRE1KanplOEtSbE9yc1B2UUlVVEF2cGFuUml4YkVfaGdkU0M4RnVZZk5pWHl6N2Q4NEpTTUVjbk1DRVp2czU0SnVDemtRQ0kyOXJkd0psQXN0QUJhZ0RuaXVsZGUwWk5uZk4xVy1YQkJhbS1ZbkJpZw?oc=5",
-          "summary": "Rural hospital independence depends on making technology count Healthcare IT News"
         }
       ],
       "sourcesCount": 1
@@ -2331,6 +2588,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "c9c935a1f93d",
+      "title": "The Data-Center Rebellion Is Just Beginning - The Atlantic",
+      "summary": "The Data-Center Rebellion Is Just Beginning The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkdPeWtueWU3TllBdHZCV1NHSmFHSlZ3TzVTUldneFh5YlFCSUtNRE83N1M3T2E1Nl9VeldocGVXcVhPVTdxbVYwYW44UlV6c3l6UzJ6eUMybG1zcXVKNEQ5VTQ0emNhc0hOaFV1d2hZSzdCZWJ2RDlwMVE2UUJiYTdveW5CV0NBWURzTDJn?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 15:00:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkdPeWtueWU3TllBdHZCV1NHSmFHSlZ3TzVTUldneFh5YlFCSUtNRE83N1M3T2E1Nl9VeldocGVXcVhPVTdxbVYwYW44UlV6c3l6UzJ6eUMybG1zcXVKNEQ5VTQ0emNhc0hOaFV1d2hZSzdCZWJ2RDlwMVE2UUJiYTdveW5CV0NBWURzTDJn?oc=5",
+          "summary": "The Data-Center Rebellion Is Just Beginning The Atlantic"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "ec4ba251a28a",
       "title": "Uykudan önceki lokmalar karaciğeri tehdit ediyor",
       "summary": "Yaklaşık 200 bin kişinin verilerinin incelendiği bir araştırma, gece geç saatte yemek yemek ile karaciğer hastalıkları arasında bağlantı olduğunu ortaya koydu.",
@@ -2362,14 +2637,9 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbnlXd2ZRLUlGWlo0eUlRRHdrdmtDejFITW9DUHdoSzFjYmNHM3hGSV9nX3VMb0xDRnlmOE8zc2tGTFRXX1FTSTFnUDVvVnhpWGR3amNmYnZtZUJ0QkQ2WlhoN3M5MmJ6akFfMlVodjBkdWw3d0tNdlhhSTlHVHZZOWNjblN3OGloOGd0NzN3Rk1xUzNhWlVPN1VBUllhMG5EejNuNmlfTDh2RWpxY0x0amZlX2UzUQ?oc=5",
           "summary": "Ohio State Holds Groundbreaking Ceremony for Timashev Technology Tower JobsOhio"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmg0aUhxbElqQ29mNHBEMVlYU01qTUNXaWh6NUtoYzJnZnctVnV6TUNOTkVZQk1GTU01M3BvMzNDMFpTMmVFVU5jazBVdHVGUXJFXzJLZ2pZdWZsX05BUUhlYnplRW95RXltZFNHMksyRzVmbDU3NkIzMHpzejRzclQzejNaYUxoXzl2ZXhlXzhzeE92TDFOZnVjVmRJOVI4TTU4NmpwZGhZbHlxY1R2TC1jMXlYT2NQQU9TTE9R?oc=5",
-          "summary": "Ohio State breaks ground on Timashev Technology Tower 10TV"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "5e0747cfa669",
@@ -2786,24 +3056,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "80e1a1be60f8",
-      "title": "Columbus startup Tandem uses technology to staff child care classrooms with substitutes - Ohio Tech News",
-      "summary": "Columbus startup Tandem uses technology to staff child care classrooms with substitutes Ohio Tech News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN191NEJMai1hbDZyODJMemlHRWx6c0wwNVZCZlRENmg1cEotaUZ4YTFGREZTX2x1MXJVNmJ5NVJzUUNEQ2FmOERMYVpYYnhKVjJ5N25hODg3Q2ZNR09TbWc5SVB6bThYLWdFTDN3VlJfNFhQMXNaS1pIRy1GS2pXMTBRVFlHQUhyOW44UzRFOGU?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 13:54:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN191NEJMai1hbDZyODJMemlHRWx6c0wwNVZCZlRENmg1cEotaUZ4YTFGREZTX2x1MXJVNmJ5NVJzUUNEQ2FmOERMYVpYYnhKVjJ5N25hODg3Q2ZNR09TbWc5SVB6bThYLWdFTDN3VlJfNFhQMXNaS1pIRy1GS2pXMTBRVFlHQUhyOW44UzRFOGU?oc=5",
-          "summary": "Columbus startup Tandem uses technology to staff child care classrooms with substitutes Ohio Tech News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "753d8d0ea69a",
       "title": "Hannes Steinbach - Charlottes NBA-Hoffnung kommt aus Würzburg",
       "summary": "Hannes Steinbach wurde im Sommer in die NBA zu den Charlotte Hornets gedraftet. In der Pre-Season konnte der Würzburger auf sich aufmerksam machen und hat einen prominenten Mentor als Teamkollegen.",
@@ -2817,24 +3069,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/br/br-hannes-steinbach-charlottes-nba-hoffnung-kommt-aus-wuerzburg-102.html",
           "summary": "Hannes Steinbach wurde im Sommer in die NBA zu den Charlotte Hornets gedraftet. In der Pre-Season konnte der Würzburger auf sich aufmerksam machen und hat einen prominenten Mentor als Teamkollegen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "97f87b80d4cb",
-      "title": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılar düzenledi",
-      "summary": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilar-duzenledi-960762.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 13:52:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilar-duzenledi-960762.html",
-          "summary": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi."
         }
       ],
       "sourcesCount": 1
@@ -2912,24 +3146,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "75ccb6d2b9aa",
-      "title": "Brüksel'deki öğrenci gösterilerinde polis şiddeti iddialarına ilişkin 26 şikayet",
-      "summary": "Belçika'da Polis Hizmetleri Daimi Denetleme Komitesi (P Komitesi), Brüksel'de öğrencilerin düzenlediği protestolarda polis şiddeti iddiasıyla 26 şikayet aldığını bildirdi.",
-      "link": "https://www.trthaber.com/haber/dunya/brukseldeki-ogrenci-gosterilerinde-polis-siddeti-iddialarina-iliskin-26-sikayet-960761.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 13:30:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/brukseldeki-ogrenci-gosterilerinde-polis-siddeti-iddialarina-iliskin-26-sikayet-960761.html",
-          "summary": "Belçika'da Polis Hizmetleri Daimi Denetleme Komitesi (P Komitesi), Brüksel'de öğrencilerin düzenlediği protestolarda polis şiddeti iddiasıyla 26 şikayet aldığını bildirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9491b11b72dd",
       "title": "Liveblog Ukrainekrieg: EU verlangt von SpaceX volle Starlink-Dienste für die Ukraine",
       "summary": "Sprecher von der Leyens nennt Drosselung „äußerst besorgniserregend“ +++ Moskau zu neuen Verhandlungen Ukraine und USA bereit +++ Putin schlägt Treffen mit Trump in China vor +++ alle Neuigkeiten im Liveblog",
@@ -2997,24 +3213,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYU5EeWhGNno4ZFVsSFk1aGJmYXg3SjlIc0FYbUMza09YaDJ1elVaSHVhMTZIMWl6UE1QWk1vVjVRVVFpenVBbmRMV0JScTdWZmwzaWkxRjNmYnkwRWpORGZJYVh6dlFFdWx0TmRJbFRwNGNlaHhSa2FSVDUwQW5TZFZ2WGhBOUNBX3hyUUVwQ09QdnllQUsxV21YQW5hWWo3bFA0ZlRuckp2NnFnbUh1WjNueFM3MEV1RWZjaDMxcXZkbmVhT1lGLXowb1dnSGlOZU1tWUdtWEdxZ19LU2xjRVJjeHFNc1RzNTllZ3BUQTQ2OURZUkdhRW9SZlpXRlpISVQxWGdZYmk3bzZTY1N5WlNReFJNaGFOOFY3NXRRR0dOUQ?oc=5",
           "summary": "Tractor Supply Names Fahim Siddiqui Executive Vice President, Chief Technology and Digital Officer Tractor Supply"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "981cbabd9062",
-      "title": "Barca condemn PSG tifo inciting 'violence and hatred'",
-      "summary": "Barcelona report Paris Saint-Germain to Uefa after a tifo featuring a message which they say \"incites violence and hatred in sport\" was displayed ahead of Tuesday's Champions League match.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1jwp9827o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 13:12:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1jwp9827o?at_medium=RSS&at_campaign=rss",
-          "summary": "Barcelona report Paris Saint-Germain to Uefa after a tifo featuring a message which they say \"incites violence and hatred in sport\" was displayed ahead of Tuesday's Champions League match."
         }
       ],
       "sourcesCount": 1
@@ -3200,19 +3398,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "8e284df77509",
-      "title": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says - Bloomberg.com",
-      "summary": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON012VDViOENReHF3NlFXaEQ0ejJKRG4xNDVhenZDVUZIMDc5NWdCQVI3Nm9xXzVsQzhCRlBHMTczeDNTQ0N6YWtKV1JvQmdvTzVfUnhMMHk2ZmZ0d1BjLUJmWERDY1BxNlFNaHl2UnVYTGpZbjIxUmxicG1JbHFJcXBmdHN6RTQzaktpWUdwSHRsRUtVRnVHN1Q5MEZZQjZrN0V1ZTUtVVpVaVM4OW1Qcg?oc=5",
+      "id": "48ed8ae06b67",
+      "title": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says - Yahoo Finance",
+      "summary": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnlYY3NzZHlGYjUxelB6THp5RkM5aTBJc3dMZExhSlAwOG9JNGJ6cXpncC1VUDZZeXdFWFl0MUNfdFBFM1ZQZkwtNi1RaFhqRS1CaE5yUU1sUjVfY2hOWEZZcTBYSHI1dmlTandpN0ZQVjBsNElFeGdxSnpCWGFudUVENUVGT0Y0bmhCdGE4bEhOVHMtbWI4?oc=5",
       "sourceName": "Google News – Reuters",
-      "region": "local",
-      "topic": "politik",
+      "region": "international",
+      "topic": "wirtschaft",
       "time": "Wed, 21 Oct 2026 12:35:52 GMT",
       "coverage": [
         {
           "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON012VDViOENReHF3NlFXaEQ0ejJKRG4xNDVhenZDVUZIMDc5NWdCQVI3Nm9xXzVsQzhCRlBHMTczeDNTQ0N6YWtKV1JvQmdvTzVfUnhMMHk2ZmZ0d1BjLUJmWERDY1BxNlFNaHl2UnVYTGpZbjIxUmxicG1JbHFJcXBmdHN6RTQzaktpWUdwSHRsRUtVRnVHN1Q5MEZZQjZrN0V1ZTUtVVpVaVM4OW1Qcg?oc=5",
-          "summary": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says Bloomberg.com"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnlYY3NzZHlGYjUxelB6THp5RkM5aTBJc3dMZExhSlAwOG9JNGJ6cXpncC1VUDZZeXdFWFl0MUNfdFBFM1ZQZkwtNi1RaFhqRS1CaE5yUU1sUjVfY2hOWEZZcTBYSHI1dmlTandpN0ZQVjBsNElFeGdxSnpCWGFudUVENUVGT0Y0bmhCdGE4bEhOVHMtbWI4?oc=5",
+          "summary": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -3488,24 +3686,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b147fc0e4292",
-      "title": "Toro adds Chief Technology Officer position - Golf Course Industry",
-      "summary": "Toro adds Chief Technology Officer position Golf Course Industry",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zSEcwUkgtVmJxMU5WRy05S2RrZ3NELTB4UUFtU1pzUy0zVWRrWWxYdFB1dm9vcV9qVzgxUmpoZlNsRkxBUGx0NVJ3RC1RelFIWEZhSklVZVE0dXVRM1B0QjQ2d2hwZENKRGREYmRmUFFER3VDTTBOTFZR?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 11:39:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zSEcwUkgtVmJxMU5WRy05S2RrZ3NELTB4UUFtU1pzUy0zVWRrWWxYdFB1dm9vcV9qVzgxUmpoZlNsRkxBUGx0NVJ3RC1RelFIWEZhSklVZVE0dXVRM1B0QjQ2d2hwZENKRGREYmRmUFFER3VDTTBOTFZR?oc=5",
-          "summary": "Toro adds Chief Technology Officer position Golf Course Industry"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "06312cf48de2",
       "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
       "summary": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg zusammengekommen.",
@@ -3591,24 +3771,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti-960741.html",
           "summary": "Sigorta sektörünün bu yılın 9 ayında toplam prim üretimi, geçen yılın aynı dönemine kıyasla yüzde 28 artarak 1 trilyon 97 milyar 137,4 milyon liraya ulaştı. Katılım sigortacılığı tarafında ise yıllık yüzde 44,7 artışla 68 milyar 252,5 milyon liralık prim üretildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7c3a7849498f",
-      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Reuters",
-      "summary": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 11:04:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
-          "summary": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4105,42 +4267,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4665021c189e",
-      "title": "Why Eze is struggling to find his form at Arsenal",
-      "summary": "Eberechi Eze has been struggling for form this season for Arsenal, but there could be hope that the forward turns it around.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 09:22:07 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo?at_medium=RSS&at_campaign=rss",
-          "summary": "Eberechi Eze has been struggling for form this season for Arsenal, but there could be hope that the forward turns it around."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "54d1f0124b84",
-      "title": "Komodo Water Wins UNIDO-WTCA Blue Economy Award for “Blue Renewable Energy,” Opening Opportunities for International Growth - Independent Observer",
-      "summary": "Komodo Water Wins UNIDO-WTCA Blue Economy Award for “Blue Renewable Energy,” Opening Opportunities for International Growth Independent Observer",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMzFXTHE4X005dnM1N0lRZGhQVnZNX2YyYXhRNm1FTlVlSmFqOF9mejFUUktxTDJnTXdkdDcwUnVxUklONGRDSFNVLUR4ZVo3U0MxNl9Lc0ZCc1N1UjFHQm83dEprekQxVm00eHY4MFRtclBqSkdNRWswUU1NYzE1a0hCVThLa3JYNzZsVXI2Rnk4QkZpUU5SYkdLSzBPdzFrZEF0OTN5LVM3SjIyanlmTUR4eTRlZS1DNXJ1RkY1TGVQUW1DTHpqNnFnbVNZLVB1SDlQUWU2MlUybVZU?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 09:15:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMzFXTHE4X005dnM1N0lRZGhQVnZNX2YyYXhRNm1FTlVlSmFqOF9mejFUUktxTDJnTXdkdDcwUnVxUklONGRDSFNVLUR4ZVo3U0MxNl9Lc0ZCc1N1UjFHQm83dEprekQxVm00eHY4MFRtclBqSkdNRWswUU1NYzE1a0hCVThLa3JYNzZsVXI2Rnk4QkZpUU5SYkdLSzBPdzFrZEF0OTN5LVM3SjIyanlmTUR4eTRlZS1DNXJ1RkY1TGVQUW1DTHpqNnFnbVNZLVB1SDlQUWU2MlUybVZU?oc=5",
-          "summary": "Komodo Water Wins UNIDO-WTCA Blue Economy Award for “Blue Renewable Energy,” Opening Opportunities for International Growth Independent Observer"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "b89096983637",
       "title": "Küresel piyasalarda yön arayışı sürüyor",
       "summary": "Küresel piyasalar, güçlü şirket bilançolarına karşın yapay zeka yatırımlarına ilişkin belirsizlikler ve jeopolitik risklerin etkisiyle karışık seyrediyor.",
@@ -4311,6 +4437,24 @@
         }
       ],
       "sourcesCount": 3
+    },
+    {
+      "id": "e7e08bd9825d",
+      "title": "Michael Biegert appointed Managing Director of DOLL Airport Equipment - Airside International",
+      "summary": "Michael Biegert appointed Managing Director of DOLL Airport Equipment Airside International",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJaQ1lGU0dqamhiRXJTbGxKS2VBeXhZWTh0Z3ZEVzc1bmgyc3VzQU1yem5FRG5iMGR1c2ZqUE94VEJYUnRJWmVkaUZKeXZxVWxNblhXcXcyZWdtTkRZdFZzUTlYUGRJQ2pkc1ZaN29kSEdHWGU5NTNrYnFOU1REQ2thMi1PdVNnSWRES0dkN2FDMlowWVctZQ?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 08:38:55 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJaQ1lGU0dqamhiRXJTbGxKS2VBeXhZWTh0Z3ZEVzc1bmgyc3VzQU1yem5FRG5iMGR1c2ZqUE94VEJYUnRJWmVkaUZKeXZxVWxNblhXcXcyZWdtTkRZdFZzUTlYUGRJQ2pkc1ZaN29kSEdHWGU5NTNrYnFOU1REQ2thMi1PdVNnSWRES0dkN2FDMlowWVctZQ?oc=5",
+          "summary": "Michael Biegert appointed Managing Director of DOLL Airport Equipment Airside International"
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "39d3961ffc36",
@@ -4565,24 +4709,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8ff34b4d5b07",
-      "title": "SpaceX profits skyrocket to $4.4 billion as revenue jumps 161%, AI business surges 830% - The Times of India",
-      "summary": "SpaceX profits skyrocket to $4.4 billion as revenue jumps 161%, AI business surges 830% The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTFZmYy02VGxzN2p5VV9ZbExKUHI1UWw3UG92eWJ5MUFvaDhyRE0wUExsalhUS0JmXzVSbWpibzJoOW9lRjJPZnNzX2NYMnI2Ylk1UmlQcDZ3M3lXbmx6RXdteFItV1l4Q1lEeklyU3lmNDdOY0M5ZGwzZXFwOTlmbnRaSTBLeUtVbm1GX2lPOUk4WllMMnoyZDVUQlJrcS1samdNNV84Mldsakx4Sm9HWXRXTEVNNEp1b01DR1hTRzk2QXg3cjRsS2ZzblFkZHhfNHNZUEpMdGtBbTQ4OE5vT3E2cWNkTHhSOHJoTEpxSDlxVmVTT2ItaE1iOWJld3JGQ01DZk81SEnSAY4CQVVfeXFMT1ZfVk9peVU3MnhLV0libkxTeWlGYVh5Z1hlRkR6Z19TZ182ZFVPdkwwa1hKNXpIclZDUXJ1SjJHMDN5SjhLcGQ5dHQzcFN3NlQ2VjdMbmkwZHFtcFlYTWpqNFZta0xuaXgzVUNOVXp6eExOZnF2VVlqZFo4UEx3WG81RkdDdVFDa3pjbTZGcHRGSnJISGM1ZjJ4S0Z0VG43eFNHcmJfZERqMmJWODNoUk9RaTVOY3dvbFJuUUxBejBmdjhjZUI0SUllVkFtZXVqajZJcDh4M0x5aHhPLW9wZTc1ekdKTTV0UlVkbEdkZnNKM2pIMS02NXZmNVZycTEwZTlMNGZlQjYwcXVLN1l3?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 06:54:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTFZmYy02VGxzN2p5VV9ZbExKUHI1UWw3UG92eWJ5MUFvaDhyRE0wUExsalhUS0JmXzVSbWpibzJoOW9lRjJPZnNzX2NYMnI2Ylk1UmlQcDZ3M3lXbmx6RXdteFItV1l4Q1lEeklyU3lmNDdOY0M5ZGwzZXFwOTlmbnRaSTBLeUtVbm1GX2lPOUk4WllMMnoyZDVUQlJrcS1samdNNV84Mldsakx4Sm9HWXRXTEVNNEp1b01DR1hTRzk2QXg3cjRsS2ZzblFkZHhfNHNZUEpMdGtBbTQ4OE5vT3E2cWNkTHhSOHJoTEpxSDlxVmVTT2ItaE1iOWJld3JGQ01DZk81SEnSAY4CQVVfeXFMT1ZfVk9peVU3MnhLV0libkxTeWlGYVh5Z1hlRkR6Z19TZ182ZFVPdkwwa1hKNXpIclZDUXJ1SjJHMDN5SjhLcGQ5dHQzcFN3NlQ2VjdMbmkwZHFtcFlYTWpqNFZta0xuaXgzVUNOVXp6eExOZnF2VVlqZFo4UEx3WG81RkdDdVFDa3pjbTZGcHRGSnJISGM1ZjJ4S0Z0VG43eFNHcmJfZERqMmJWODNoUk9RaTVOY3dvbFJuUUxBejBmdjhjZUI0SUllVkFtZXVqajZJcDh4M0x5aHhPLW9wZTc1ekdKTTV0UlVkbEdkZnNKM2pIMS02NXZmNVZycTEwZTlMNGZlQjYwcXVLN1l3?oc=5",
-          "summary": "SpaceX profits skyrocket to $4.4 billion as revenue jumps 161%, AI business surges 830% The Times of India"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e59d4d5cb311",
       "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
       "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
@@ -4727,6 +4853,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0a255343a973",
+      "title": "A possible SpaceX-Tesla merger? Here’s what people are saying By Reuters - Investing.com",
+      "summary": "A possible SpaceX-Tesla merger? Here’s what people are saying By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjNKQ3hVcXppd2FZM3VxdnQ5eHctVUZOak9NYk9Ia0Q2ckxlcXVBVFJ4V0xMeTZVXzRqQzFKX1JyM2RIcU9BUTZMcHFneEpIUWlxNWNfUTVGSjFvOXQybmxwOXlJMjRXZDlwWGRzcTBNa1p5clB0QU9yY0pSMTIzdkdYVVVNRlIzbVdiZVNHMF82TVhWSVNjSkRzZU5KREdkVWwzNVd0c3RUNk5HaTNGeVBwVkp6dw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Wed, 21 Oct 2026 06:16:57 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjNKQ3hVcXppd2FZM3VxdnQ5eHctVUZOak9NYk9Ia0Q2ckxlcXVBVFJ4V0xMeTZVXzRqQzFKX1JyM2RIcU9BUTZMcHFneEpIUWlxNWNfUTVGSjFvOXQybmxwOXlJMjRXZDlwWGRzcTBNa1p5clB0QU9yY0pSMTIzdkdYVVVNRlIzbVdiZVNHMF82TVhWSVNjSkRzZU5KREdkVWwzNVd0c3RUNk5HaTNGeVBwVkp6dw?oc=5",
+          "summary": "A possible SpaceX-Tesla merger? Here’s what people are saying By Reuters Investing.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "04ab6540da24",
       "title": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says - Reuters",
       "summary": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says Reuters",
@@ -4848,24 +4992,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
           "summary": "Menschenrechtsorganisationen kritisieren, dass etwa die Hälfte der 90.000 Menschen in El Salvadors Gefängnissen unschuldig inhaftiert ist. Nun hat Präsident Bukele überraschend angekündigt, Tausende freizulassen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5abda02ef30a",
-      "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say - Reuters",
-      "summary": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 04:49:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
-          "summary": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say Reuters"
         }
       ],
       "sourcesCount": 1
@@ -5316,132 +5442,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
           "summary": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "84e254c5404b",
-      "title": "Weltgesundheitsorganisation warnt vor Ausbreitung von Fettleibigkeit",
-      "summary": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen.",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 10:21:57 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
-          "summary": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dbd0bcd7b5bd",
-      "title": "Türkiye podcast endüstrisinin durumu değerlendirildi",
-      "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Wed, 07 Oct 2026 09:17:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
-          "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b24bc37d0b1e",
-      "title": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide - International Testing Agency",
-      "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
-          "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "80737cd9b2f6",
-      "title": "Schuldspruch wegen Finanzvergehen: Mögliche Folgen für Manchester City",
-      "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in fast allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt.",
-      "link": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Tue, 29 Sep 2026 11:41:01 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
-          "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in fast allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "35da65a97c8c",
-      "title": "Cumhurbaşkanlığı Kupası'nda şampiyon Fenerbahçe",
-      "summary": "Fenerbahçe Tarfin, 39’uncu Erkekler Cumhurbaşkanlığı Kupası karşılaşmasında Beşiktaş'ı 72-59 mağlup ederek kupanın sahibi oldu.",
-      "link": "https://www.trthaber.com/haber/spor/cumhurbaskanligi-kupasinda-sampiyon-fenerbahce-957731.html",
-      "sourceName": "TRT Haber Sport",
-      "region": "turkey",
-      "topic": "sport",
-      "time": "Tue, 22 Sep 2026 22:07:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Sport",
-          "link": "https://www.trthaber.com/haber/spor/cumhurbaskanligi-kupasinda-sampiyon-fenerbahce-957731.html",
-          "summary": "Fenerbahçe Tarfin, 39’uncu Erkekler Cumhurbaşkanlığı Kupası karşılaşmasında Beşiktaş'ı 72-59 mağlup ederek kupanın sahibi oldu."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6d717e5e708d",
-      "title": "Gründung einer Allianz für Frauengesundheit in Berlin",
-      "summary": "Gründung einer Allianz für Frauengesundheit in Berlin",
-      "link": "https://www.tagesschau.de/video/video-1653672.html",
-      "sourceName": "Tagesschau Wissen",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Tue, 22 Sep 2026 17:44:26 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wissen",
-          "link": "https://www.tagesschau.de/video/video-1653672.html",
-          "summary": "Gründung einer Allianz für Frauengesundheit in Berlin"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9e14cc888356",
-      "title": "Mixed martial arts — without the wire cage and the blood — bids to make the Olympics - www.ap.org",
-      "summary": "Mixed martial arts — without the wire cage and the blood — bids to make the Olympics www.ap.org",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdEWjJIaVZoZDdjTVA0eGtLU180Qm4zczZYUC1ZblRsXzBjZk8tRDlnRk1NRUZlZExtai1HS0pqdkRPX0wwWEpqQm1ZU1E0TEltYThpdHdHYmlqTTB6djJPcjVWaGkyLXl3ZnBReFl1dy1rTFJDYTZIalRwNm9JRXBMVG16THRVN2VKX1F4eUI4dFNjaEpyMktVUWVTbWwyTmdaZzlEdXdlN3BTcWJCaGF2X1phWmlYS09MOGdUSS05b0g1am02d2VGTmU?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdEWjJIaVZoZDdjTVA0eGtLU180Qm4zczZYUC1ZblRsXzBjZk8tRDlnRk1NRUZlZExtai1HS0pqdkRPX0wwWEpqQm1ZU1E0TEltYThpdHdHYmlqTTB6djJPcjVWaGkyLXl3ZnBReFl1dy1rTFJDYTZIalRwNm9JRXBMVG16THRVN2VKX1F4eUI4dFNjaEpyMktVUWVTbWwyTmdaZzlEdXdlN3BTcWJCaGF2X1phWmlYS09MOGdUSS05b0g1am02d2VGTmU?oc=5",
-          "summary": "Mixed martial arts — without the wire cage and the blood — bids to make the Olympics www.ap.org"
         }
       ],
       "sourcesCount": 1
