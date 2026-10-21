@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T23:49:37.097157+00:00",
+  "updated": "2026-10-21T00:15:07.693963+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -51,6 +51,42 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/uefa-uluslar-liginde-sezon-basliyor-957812.html",
           "summary": "UEFA Uluslar Ligi'nde 2026-2027 sezonu, yarın oynanacak maçlarla başlayacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e82934bfe721",
+      "title": "Bursa'da otomobile çarpan motosikletin sürücüsü öldü",
+      "summary": "Bursa'nın İnegöl ilçesindeki trafik kazasında 19 yaşındaki motosiklet sürücüsü hayatını kaybetti.",
+      "link": "https://www.trthaber.com/haber/turkiye/bursada-otomobile-carpan-motosikletin-surucusu-oldu-960694.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 02:51:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/bursada-otomobile-carpan-motosikletin-surucusu-oldu-960694.html",
+          "summary": "Bursa'nın İnegöl ilçesindeki trafik kazasında 19 yaşındaki motosiklet sürücüsü hayatını kaybetti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ae4398ad3038",
+      "title": "Trump yönetimi 300 binden fazla vizeyi iptal etti",
+      "summary": "ABD'de Başkan Donald Trump yönetiminin, göreve geldiği günden bugüne 300 binden fazla vizeyi iptal ettiği açıklandı.",
+      "link": "https://www.trthaber.com/haber/dunya/trump-yonetimi-300-binden-fazla-vizeyi-iptal-etti-960693.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 02:47:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/trump-yonetimi-300-binden-fazla-vizeyi-iptal-etti-960693.html",
+          "summary": "ABD'de Başkan Donald Trump yönetiminin, göreve geldiği günden bugüne 300 binden fazla vizeyi iptal ettiği açıklandı."
         }
       ],
       "sourcesCount": 1
@@ -614,6 +650,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "acc13d6c5577",
+      "title": "Borneo is burning - living on the frontline of Asia's toxic haze",
+      "summary": "Months of fires in Indonesia have cloaked Southeast Asia in haze and made hundreds of thousands of people sick.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 23:51:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+          "summary": "Months of fires in Indonesia have cloaked Southeast Asia in haze and made hundreds of thousands of people sick."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0a285f2d7cfa",
       "title": "ABD Başkanı Trump'a göre İran ile savaş çok yakında sona erecek",
       "summary": "ABD Başkanı Donald Trump, İran ile savaşın çok yakında sona ereceğini ve petrol fiyatlarının hızla düşeceğini savunarak, İran'ın \"gelecekte de nükleer silaha sahip olmayacağından\" emin olmak istediklerini söyledi.",
@@ -650,6 +704,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "6ebf708c777c",
+      "title": "DSM, a next-generation leisure platform company, has begun cruising toward its opening next spring - 매일경제",
+      "summary": "DSM, a next-generation leisure platform company, has begun cruising toward its opening next spring 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qekJqNjNjMkoxbUVBbTRBQ3dGSmtfNnE5bGg3UDNZZG8xWkw4UHJ3RUs4TFc0MUxQNlRwSC1iSFVEb3hOSFBSUlJ4R1Zpc2M?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 20 Oct 2026 23:46:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qekJqNjNjMkoxbUVBbTRBQ3dGSmtfNnE5bGg3UDNZZG8xWkw4UHJ3RUs4TFc0MUxQNlRwSC1iSFVEb3hOSFBSUlJ4R1Zpc2M?oc=5",
+          "summary": "DSM, a next-generation leisure platform company, has begun cruising toward its opening next spring 매일경제"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e37ea0c48ac9",
       "title": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower - Ohio State News",
       "summary": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower Ohio State News",
@@ -663,14 +735,45 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4Qm9OcWlrUEU4QXBZaVUwUHVQRGkwYTZNTGdvcm9KMFFMOHBCQkt2cUh3VG05VkVRTUJidnJPMVdrNHpqQ0FYZmxhcFh0T1d4Mmh3VmdZT3gxQ29HeHprRExVQktzNEFtSnJFZ3FjdjRlZk5LY1N6bl9mZUxJb1ZCdnFTSmxqSEw2eGRmUTZMbGRDSUtv?oc=5",
           "summary": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower Ohio State News"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmg0aUhxbElqQ29mNHBEMVlYU01qTUNXaWh6NUtoYzJnZnctVnV6TUNOTkVZQk1GTU01M3BvMzNDMFpTMmVFVU5jazBVdHVGUXJFXzJLZ2pZdWZsX05BUUhlYnplRW95RXltZFNHMksyRzVmbDU3NkIzMHpzejRzclQzejNaYUxoXzl2ZXhlXzhzeE92TDFOZnVjVmRJOVI4TTU4NmpwZGhZbHlxY1R2TC1jMXlYT2NQQU9TTE9R?oc=5",
-          "summary": "Ohio State breaks ground on Timashev Technology Tower 10TV"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
+    },
+    {
+      "id": "fb88ae550486",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 23:41:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+          "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "71fc8e774afc",
+      "title": "Christina Applegate says new technology revealed her MS misdiagnosis - Yahoo",
+      "summary": "Christina Applegate says new technology revealed her MS misdiagnosis Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWZyTmJsbnhYd3NUTUlkSlppNzI2My10Y2FtWTl4VzNvMjRscnBUa3AyamFOejFRbnA4NmFKQlFyeVBQOWJjakhuMHhMZzlfdTRrWHNaWk92RUh1emlpVS1oT0t2bFg1QTZwUFg3MEpkZURPWEFqbDVrMUs4eFl5RzEtR3JWbUV3OUloNmRFWkl0UEJPWXZFeA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 23:30:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWZyTmJsbnhYd3NUTUlkSlppNzI2My10Y2FtWTl4VzNvMjRscnBUa3AyamFOejFRbnA4NmFKQlFyeVBQOWJjakhuMHhMZzlfdTRrWHNaWk92RUh1emlpVS1oT0t2bFg1QTZwUFg3MEpkZURPWEFqbDVrMUs4eFl5RzEtR3JWbUV3OUloNmRFWkl0UEJPWXZFeA?oc=5",
+          "summary": "Christina Applegate says new technology revealed her MS misdiagnosis Yahoo"
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "97adc53cddb3",
@@ -695,13 +798,13 @@
       "title": "Elon Musk says Tesla-SpaceX merger being considered",
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
+      "sourceName": "BBC World",
       "region": "international",
       "topic": "wissenschaft",
       "time": "Tue, 20 Oct 2026 23:24:47 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Business",
+          "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
           "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
         }
@@ -709,19 +812,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "fe71014b4270",
-      "title": "Goodlettsville police use DNA technology to arrest senior center thieves - WKRN News 2",
-      "summary": "Goodlettsville police use DNA technology to arrest senior center thieves WKRN News 2",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnpZWmFtMFA3WENfLWFRTGZ4WVd3UTNVbXdLd1plUGxFZmtHOUhLZVRoUjdOd2R4SnltTldpUzlWMjNfS3liWFFwOGRHRnMxeFFLVkk5dE1uT2lEMXY1SVdGcHZGYUMzdC1fcVVaVmRTOV9BemNJSG5IWHlLbkdjNmJ6eDFLVm9PVnRBNzVCb1hCbEx3NnJKTGMwWVdmVWNfcWpZcnBmRHlGWkU2aWc?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "fd4582eba657",
+      "title": "Is Donald Trump ready to do business with Myanmar?",
+      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+      "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
       "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 23:16:28 GMT",
+      "topic": "wirtschaft",
+      "time": "Tue, 20 Oct 2026 23:21:39 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnpZWmFtMFA3WENfLWFRTGZ4WVd3UTNVbXdLd1plUGxFZmtHOUhLZVRoUjdOd2R4SnltTldpUzlWMjNfS3liWFFwOGRHRnMxeFFLVkk5dE1uT2lEMXY1SVdGcHZGYUMzdC1fcVVaVmRTOV9BemNJSG5IWHlLbkdjNmJ6eDFLVm9PVnRBNzVCb1hCbEx3NnJKTGMwWVdmVWNfcWpZcnBmRHlGWkU2aWc?oc=5",
-          "summary": "Goodlettsville police use DNA technology to arrest senior center thieves WKRN News 2"
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+          "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah."
         }
       ],
       "sourcesCount": 1
@@ -984,19 +1087,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "71608ec1cbad",
-      "title": "In Depth with Dan: Wake Schools technology in the classroom - WRAL",
-      "summary": "In Depth with Dan: Wake Schools technology in the classroom WRAL",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmh4QVJPTmJsTlluZERZb1Fkb3NpYXptcmpTc1B2OVE5QjBsUWxjTlFGSS01MWowWTNhLUp4TnAtV2xKZlpBaGplNW9xRmMteHJzWWJ6XzRXbDc5QzZYV3hNSDNRa3pqUmFMbkRlaExIdHZTZ0hnRVp5aU10QTZTelB1RDVHM19rWWFR?oc=5",
+      "id": "5d96e7dd7f1a",
+      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems - The New York Times",
+      "summary": "China Criticizes U.S. Ban on DeepSeek A.I.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdVZndlVicHFmaDlMM3NsN0dzallEX1hVUVgzVzB4TkJpOE9UcjJHUGJvTnVfSmN1QnNPeUFwZU55VXhEWVJTRkpSNkdzOVMwNmo5WFlMZG5oLVZINnpqLTBGSUxTQk5tM2tKMDdkS2I0OHZTdFE4ZDhxak8?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 22:26:33 GMT",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 22:24:29 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmh4QVJPTmJsTlluZERZb1Fkb3NpYXptcmpTc1B2OVE5QjBsUWxjTlFGSS01MWowWTNhLUp4TnAtV2xKZlpBaGplNW9xRmMteHJzWWJ6XzRXbDc5QzZYV3hNSDNRa3pqUmFMbkRlaExIdHZTZ0hnRVp5aU10QTZTelB1RDVHM19rWWFR?oc=5",
-          "summary": "In Depth with Dan: Wake Schools technology in the classroom WRAL"
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdVZndlVicHFmaDlMM3NsN0dzallEX1hVUVgzVzB4TkJpOE9UcjJHUGJvTnVfSmN1QnNPeUFwZU55VXhEWVJTRkpSNkdzOVMwNmo5WFlMZG5oLVZINnpqLTBGSUxTQk5tM2tKMDdkS2I0OHZTdFE4ZDhxak8?oc=5",
+          "summary": "China Criticizes U.S. Ban on DeepSeek A.I."
         }
       ],
       "sourcesCount": 1
@@ -1033,6 +1136,24 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/ankarada-ego-otobusu-ust-gecidin-ayagina-carpti-24-yarali-960684.html",
           "summary": "Ankara'nın Etimesgut ilçesinde yoldan çıkan EGO otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı. Otobüste sıkışan şoför kurtarılarak sağlık ekiplerine teslim edildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d6c1ee15c90d",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Tue, 20 Oct 2026 22:22:17 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+          "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
         }
       ],
       "sourcesCount": 1
@@ -1475,6 +1596,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
           "summary": "No formal investigation has started, but the regulator is making inquiries into the case."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b8b2f7031a43",
+      "title": "Food importer files new lawsuit to block Trump’s Canada tariffs By Reuters - Investing.com",
+      "summary": "Food importer files new lawsuit to block Trump’s Canada tariffs By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0hneHdwR3puTWxrSnpSSE5mbGFCZUFzMUhzbGkwVzdocFQ3S2FCd0cyZWNfQ1UxWHF1UUJYV2J0R3pGbkRTeWRsMU5ncVZ6Mk5nMWdTeGRZNmo5WGZTb3d0NjNhamFOdUhzUmJHTG1GTjMtV01kazlwajFRWGt6ZS16enpNY1E3Mlc5TVY1d1Jvc0xwRFcxU0Vna0Nhblk5WnZZQUd2ZWd2akwtZENRbTk0Q2c5blpUaWlvbW5R?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 20:48:45 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0hneHdwR3puTWxrSnpSSE5mbGFCZUFzMUhzbGkwVzdocFQ3S2FCd0cyZWNfQ1UxWHF1UUJYV2J0R3pGbkRTeWRsMU5ncVZ6Mk5nMWdTeGRZNmo5WGZTb3d0NjNhamFOdUhzUmJHTG1GTjMtV01kazlwajFRWGt6ZS16enpNY1E3Mlc5TVY1d1Jvc0xwRFcxU0Vna0Nhblk5WnZZQUd2ZWd2akwtZENRbTk0Q2c5blpUaWlvbW5R?oc=5",
+          "summary": "Food importer files new lawsuit to block Trump’s Canada tariffs By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -1932,6 +2071,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "3df9188a5e81",
+      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+      "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 19:08:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+          "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c85955fd6d7d",
       "title": "Ultra işlenmiş gıdalar beyin damarlarına sessizce zarar veriyor",
       "summary": "Uzmanlar, yoğun şekilde işlenmiş gıdaların tüketimi ile orta yaşlı bireylerin beyin damarlarında görülen hasarlar arasında bir bağlantı tespit etti. Belirti vermeden ilerleyebilen bu durum, günlük beslenme alışkanlıklarının beyin sağlığı üzerindeki etkilerini yeniden gündeme taşıdı.",
@@ -2107,24 +2264,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cqdr86m4r36po?at_medium=RSS&at_campaign=rss",
           "summary": "Trabzonspor president Ertugrul Dogan is among 147 club officials given a 45-day ban by the Turkish Football Federation (TFF) for breaching betting rules."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ea815844f47a",
-      "title": "WATCH: Conversations on how Formula 1 is transforming business, technology, media and culture during Grand Prix Week in Austin, Texas. - Axios",
-      "summary": "WATCH: Conversations on how Formula 1 is transforming business, technology, media and culture during Grand Prix Week in Austin, Texas. Axios",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QeWVkOHNsWkdPVWNncGxGaEpzUVRNbTljU2ZiZFUxaG1UNzJJM0lXM19mRHJGUXN6TXZHZHdLZzNJc1ZTckVlR0FJU2tORURBcWdBVU53NjZtLUJzOXY0eFhsNWkzY0hHek1MelctZWpKd01YZUlR?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 18:37:49 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QeWVkOHNsWkdPVWNncGxGaEpzUVRNbTljU2ZiZFUxaG1UNzJJM0lXM19mRHJGUXN6TXZHZHdLZzNJc1ZTckVlR0FJU2tORURBcWdBVU53NjZtLUJzOXY0eFhsNWkzY0hHek1MelctZWpKd01YZUlR?oc=5",
-          "summary": "WATCH: Conversations on how Formula 1 is transforming business, technology, media and culture during Grand Prix Week in Austin, Texas. Axios"
         }
       ],
       "sourcesCount": 1
@@ -2539,24 +2678,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c62l4xggpnv4o?at_medium=RSS&at_campaign=rss",
           "summary": "Wales boss Steve Tandy believes Taulupe Faletau is a World Cup contender despite missing out on the Nations Championship squad."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a6390fdb63a3",
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 16:59:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
         }
       ],
       "sourcesCount": 1
@@ -2989,24 +3110,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
           "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "cf88eaf23edc",
-      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
-      "summary": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 15:51:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-          "summary": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3552,24 +3655,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "72ba4090e9e0",
-      "title": "\"Marzipan\"-Krösche verlässt Frankfurt unter Tränen",
-      "summary": "Der langjährige Eintracht-Sportvorstand findet bei seiner Abschiedsrede auf der Mitgliederversammlung die passenden Worte - und wird von seinen Emotionen übermannt.",
-      "link": "https://www.sportschau.de/regional/hr/hr-mitgliederversammlung-der-eintracht-markus-kroesche-geht-unter-traenen-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Tue, 20 Oct 2026 13:51:47 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/hr/hr-mitgliederversammlung-der-eintracht-markus-kroesche-geht-unter-traenen-100.html",
-          "summary": "Der langjährige Eintracht-Sportvorstand findet bei seiner Abschiedsrede auf der Mitgliederversammlung die passenden Worte - und wird von seinen Emotionen übermannt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "01e90827161b",
       "title": "A Milli Takım'da Sergen Yalçın dönemi",
       "summary": "A Milli Futbol Takımı'nda Vincenzo Montella'nın yerine göreve getirilen Sergen Yalçın, ay-yıldızlıların tarihindeki 48. teknik direktörü oldu.",
@@ -4038,24 +4123,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/karadenizin-su-urunleri-ihracati-9-ayda-322-milyon-dolari-asti-960630.html",
           "summary": "Karadeniz Bölgesi'nden yılın ocak-eylül döneminde yapılan su ürünleri ihracatı, 322 milyon 393 bin 650 dolara ulaştı. Su ürünlerine en çok talep Rusya, Yunanistan ve Belarus'tan geldi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5370578465f0",
-      "title": "Welfare Supervisor Accused of Stealing $20K in Food Stamps and Trading EBT Cards for Crack Cocaine - inkl",
-      "summary": "Welfare Supervisor Accused of Stealing $20K in Food Stamps and Trading EBT Cards for Crack Cocaine inkl",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2YtZ3FQZjZjbUV5Zk9KR3gxSjhhOU9leHhCZHpGVWVIWHZkYVk3VlZhVl96c2JVX0RHSDR0WkpiVDA4TmJucVJWdTlpdF9Td1FCdVQ3VGRjYUF0bmxyYXlpNFJVNUp3TEw5OWQ3OHZ3bDZEcVhweElyZG5qZldJUjVidllDY29NcXNiS1FxZU1rMmljZnNwY0ZTQW1hbTdZSGlidjRQcmVZczI5ektjMExoM3lOakh6UTZzTmZFZ3c?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 12:18:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2YtZ3FQZjZjbUV5Zk9KR3gxSjhhOU9leHhCZHpGVWVIWHZkYVk3VlZhVl96c2JVX0RHSDR0WkpiVDA4TmJucVJWdTlpdF9Td1FCdVQ3VGRjYUF0bmxyYXlpNFJVNUp3TEw5OWQ3OHZ3bDZEcVhweElyZG5qZldJUjVidllDY29NcXNiS1FxZU1rMmljZnNwY0ZTQW1hbTdZSGlidjRQcmVZczI5ektjMExoM3lOakh6UTZzTmZFZ3c?oc=5",
-          "summary": "Welfare Supervisor Accused of Stealing $20K in Food Stamps and Trading EBT Cards for Crack Cocaine inkl"
         }
       ],
       "sourcesCount": 1
@@ -4817,6 +4884,29 @@
       "sourcesCount": 1
     },
     {
+      "id": "dfc8d7bf1cc7",
+      "title": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters - Yahoo Finance",
+      "summary": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3FzUjAwbGtKMG13MFNmZFNJT3JnU2EwNWllSWZHX2llZkRDcXVEUDh3aWFyb1lHNzFyLWxoZmhfeXVrOW04UTViOVF5TzhQMWhMeUZSRk5yRzRLbE1VZ09Ta251bm5ua04yOGFNSmdzcmZ3V3dCZlhiaEtib3U2QUU3WEZqV0ZUbjBfanZaUWpmRVhEVmFYcGNxQQ?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 09:53:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3FzUjAwbGtKMG13MFNmZFNJT3JnU2EwNWllSWZHX2llZkRDcXVEUDh3aWFyb1lHNzFyLWxoZmhfeXVrOW04UTViOVF5TzhQMWhMeUZSRk5yRzRLbE1VZ09Ta251bm5ua04yOGFNSmdzcmZ3V3dCZlhiaEtib3U2QUU3WEZqV0ZUbjBfanZaUWpmRVhEVmFYcGNxQQ?oc=5",
+          "summary": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters Yahoo Finance"
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+          "summary": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders Reuters"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "1d07067ba4b6",
       "title": "Yapay zeka fotoğraftan kanser hastalarının yaşam süresini tahmin ediyor",
       "summary": "ABD’deki Mass General Brigham araştırmacıları, kanser hastalarının yüz fotoğrafını analiz ederek biyolojik yaşlarını ve hayatta kalma risklerini tahmin edebilen iki yapay zekâ aracı geliştirdi.",
@@ -5110,24 +5200,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "d259fa031b08",
-      "title": "NASA'nın minyatür insan beyinleri uzay istasyonuna ulaştı",
-      "summary": "NASA'nın deney kapsamında Uluslararası Uzay İstasyonu'na gönderdiği minyatür insan beyni modelleri, mikro yerçekimi ve radyasyonun beyin hücreleri üzerindeki etkilerini incelemek için kullanılacak. Araştırmanın, uzay yolculuklarının yaşlanma ve nörolojik hastalıklarla ilişkisini anlamaya katkı sağlaması hedefleniyor.",
-      "link": "https://www.trthaber.com/haber/dunya/nasanin-minyatur-insan-beyinleri-uzay-istasyonuna-ulasti-960588.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 08:16:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/nasanin-minyatur-insan-beyinleri-uzay-istasyonuna-ulasti-960588.html",
-          "summary": "NASA'nın deney kapsamında Uluslararası Uzay İstasyonu'na gönderdiği minyatür insan beyni modelleri, mikro yerçekimi ve radyasyonun beyin hücreleri üzerindeki etkilerini incelemek için kullanılacak. Araştırmanın, uzay yolculuklarının yaşlanma ve nörolojik hastalıklarla ilişkisini anlamaya katkı sağlaması hedefleniyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fcffa07a4415",
       "title": "VW Polo und Co.: Jahreswagen",
       "summary": "VW hat jede Menge Probleme. Bei den neuen elektrischen Kleinwagen von Volkswagen, Cupra und Škoda aber nur eines: Die Lieferzeiten werden länger und länger.",
@@ -5294,33 +5366,15 @@
       "title": "How is the US economy really doing under President Trump?",
       "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
       "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
+      "sourceName": "BBC Business",
       "region": "international",
       "topic": "wirtschaft",
       "time": "Tue, 20 Oct 2026 05:00:45 GMT",
       "coverage": [
         {
-          "sourceName": "BBC World",
+          "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
           "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8e30c7a4ddce",
-      "title": "If I Could Only Buy 1 Quantum Computing Stock With $1,000, It Would Be This One. - The Motley Fool",
-      "summary": "If I Could Only Buy 1 Quantum Computing Stock With $1,000, It Would Be This One. The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGlKY21xSGs5c2YxYm90VTA2MlBZa2E4WXBiRWZnS3U5YmxmTEg4LXI3eXlkRi1lT1QwazFpQjBMYl9ycDBPOHRGd3I1UWx2b1RvTHEwdTluVjNiY25xTmgwMUhWQ0FpUjB4X1lMNlJ0ajU0SXFtRkwtSHhYN3YwTWVjTl9CZFFMZk01eklxd2pJTHZQYS1XTA?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 05:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGlKY21xSGs5c2YxYm90VTA2MlBZa2E4WXBiRWZnS3U5YmxmTEg4LXI3eXlkRi1lT1QwazFpQjBMYl9ycDBPOHRGd3I1UWx2b1RvTHEwdTluVjNiY25xTmgwMUhWQ0FpUjB4X1lMNlJ0ajU0SXFtRkwtSHhYN3YwTWVjTl9CZFFMZk01eklxd2pJTHZQYS1XTA?oc=5",
-          "summary": "If I Could Only Buy 1 Quantum Computing Stock With $1,000, It Would Be This One. The Motley Fool"
         }
       ],
       "sourcesCount": 1
@@ -5393,60 +5447,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/ankarada-kacakcilik-operasyonu-11-supheli-hakkinda-islem-baslatildi-960577.html",
           "summary": "Başkentteki kaçakçılık operasyonunda yakalanan 11 şüpheli hakkında işlem başlatıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "26da7bffb335",
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 02:45:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4acdd8be8324",
-      "title": "Ankara'da aranan 169 kişi yakalandı",
-      "summary": "Ankara'da jandarmanın operasyonlarında çeşitli suçlardan aranan 169 kişi yakalandı.",
-      "link": "https://www.trthaber.com/haber/turkiye/ankarada-aranan-169-kisi-yakalandi-960576.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 02:30:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/ankarada-aranan-169-kisi-yakalandi-960576.html",
-          "summary": "Ankara'da jandarmanın operasyonlarında çeşitli suçlardan aranan 169 kişi yakalandı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5c7456644efb",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 01:52:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-          "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest."
         }
       ],
       "sourcesCount": 1
