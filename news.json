@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:25:49.156426+00:00",
+  "updated": "2026-10-21T17:56:08.443349+00:00",
   "articles": [
     {
       "id": "dd4d752a85d8",
@@ -92,6 +92,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "317b3ec2fb66",
+      "title": "Şarkıcı IAMDDB, İsrail'i yapay zeka videosunda kimliğini çalmakla suçladı",
+      "summary": "Angola asıllı İngiliz rapçi Diana De Brito (IAMDDB), İsrail hükümetinin resmi sosyal medya hesabından yapılan propaganda paylaşımında, kendi görüntülerinin rızası dışında kullanıldığını belirterek, \"Kimliğimi neden çaldın?\" ifadesini kullandı.",
+      "link": "https://www.trthaber.com/haber/dunya/sarkici-iamddb-israili-yapay-zeka-videosunda-kimligini-calmakla-sucladi-960811.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:28:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/sarkici-iamddb-israili-yapay-zeka-videosunda-kimligini-calmakla-sucladi-960811.html",
+          "summary": "Angola asıllı İngiliz rapçi Diana De Brito (IAMDDB), İsrail hükümetinin resmi sosyal medya hesabından yapılan propaganda paylaşımında, kendi görüntülerinin rızası dışında kullanıldığını belirterek, \"Kimliğimi neden çaldın?\" ifadesini kullandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "06107ab80f6d",
+      "title": "Bangladeş'te yıl başından bu yana dang humması nedeniyle ölenlerin sayısı 364'e çıktı",
+      "summary": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364’e yükseldi.",
+      "link": "https://www.trthaber.com/haber/dunya/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti-960810.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 20:23:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti-960810.html",
+          "summary": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364’e yükseldi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "92227c5a3910",
       "title": "İran Devrim Muhafızları Sözcüsü: Bombaların anası nükleer faaliyetlerimizi durduramaz",
       "summary": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen bombayı kullanabileceğini ancak bunun İran'ın nükleer sanayi faaliyetlerini durdurmayacağını söyledi.",
@@ -105,6 +141,42 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-960808.html",
           "summary": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen bombayı kullanabileceğini ancak bunun İran'ın nükleer sanayi faaliyetlerini durdurmayacağını söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c4c24d85fc20",
+      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+      "summary": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft.",
+      "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+      "sourceName": "Tagesschau Ausland",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 19:48:20 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Ausland",
+          "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+          "summary": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e4c6624cb225",
+      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+      "summary": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP.",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+      "sourceName": "Tagesschau Wirtschaft",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 19:32:26 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wirtschaft",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+          "summary": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP."
         }
       ],
       "sourcesCount": 1
@@ -202,7 +274,7 @@
     {
       "id": "60d62f74cd82",
       "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-      "summary": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil Internets basiert.",
+      "summary": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert.",
       "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
       "sourceName": "Tagesschau Wirtschaft",
       "region": "germany",
@@ -212,7 +284,7 @@
         {
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-          "summary": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil Internets basiert."
+          "summary": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert."
         }
       ],
       "sourcesCount": 1
@@ -236,6 +308,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5e5b4606e142",
+      "title": "Live: Was bringen Gespräche mit Putin?",
+      "summary": "Trumps Unterhändler Witkoff hat den russischen Präsidenten getroffen. Weitere Gespräche sollen folgen.",
+      "link": "https://www.zdfheute.de/video/zdfheute-live/witkoff-putin-treffen-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 18:35:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/zdfheute-live/witkoff-putin-treffen-video-100.html",
+          "summary": "Trumps Unterhändler Witkoff hat den russischen Präsidenten getroffen. Weitere Gespräche sollen folgen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4c0112277dee",
       "title": "Die Halloween-Parade der Pinguine",
       "summary": "Süßes, sonst gibt’s Saures: Im selbstgemachten Halloween-Kostüm spazieren Pinguine durch den Matsue Vogel Park in Japan.",
@@ -254,24 +344,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e4c6624cb225",
-      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-      "summary": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP.",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-      "sourceName": "Tagesschau Wirtschaft",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 17:59:08 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Wirtschaft",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-          "summary": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "bba854432413",
       "title": "\"Eine Zunahme der Fähigkeiten und Macht bei KI\"",
       "summary": "Digitalexperte Sascha Lobo widerspricht bei \"Markus Lanz\" düsteren Warnungen vor künstlicher Intelligenz. Er sieht dahinter auch wirtschaftliche Interessen.",
@@ -285,6 +357,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/wirtschaft/lanz-ki-panik-sascha-lobo-100.html",
           "summary": "Digitalexperte Sascha Lobo widerspricht bei \"Markus Lanz\" düsteren Warnungen vor künstlicher Intelligenz. Er sieht dahinter auch wirtschaftliche Interessen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "020c23c2780c",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 17:42:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+          "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
         }
       ],
       "sourcesCount": 1
@@ -344,6 +434,29 @@
       "sourcesCount": 1
     },
     {
+      "id": "96a992c257bf",
+      "title": "Sawyer & Company Inc Makes New Investment in International Business Machines Corporation $IBM - MarketBeat",
+      "summary": "Sawyer & Company Inc Makes New Investment in International Business Machines Corporation $IBM MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNWxMenZIYUVWVHR2MS1FdTRJMi1zblpDdjlBQjhhd04tcGF0a1VwWk5DVEl6VDQtejluQ25GSmlPUEpIN0tqTVZvYTNIOTZqcUwyck9OeGp6Q3ROYk5fQTJFeC1uOGF3c0pyOF9qQXBDM1lPS2VCZGVxV0dpQjgxODY3UmoyWjN0cDFiR19OV2ljRHR5ZXhwNGdSclVMNHlCWDJsTHhMdzJaRTBGQTNJMjI0ZlNLQ3JlWi05UzZmMmVRRjM0WDNNeWh2bGVVU3A1NHJIWTJ0ZmxhRWlDeG5ycXR1c1g3UQ?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 17:29:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNWxMenZIYUVWVHR2MS1FdTRJMi1zblpDdjlBQjhhd04tcGF0a1VwWk5DVEl6VDQtejluQ25GSmlPUEpIN0tqTVZvYTNIOTZqcUwyck9OeGp6Q3ROYk5fQTJFeC1uOGF3c0pyOF9qQXBDM1lPS2VCZGVxV0dpQjgxODY3UmoyWjN0cDFiR19OV2ljRHR5ZXhwNGdSclVMNHlCWDJsTHhMdzJaRTBGQTNJMjI0ZlNLQ3JlWi05UzZmMmVRRjM0WDNNeWh2bGVVU3A1NHJIWTJ0ZmxhRWlDeG5ycXR1c1g3UQ?oc=5",
+          "summary": "Sawyer & Company Inc Makes New Investment in International Business Machines Corporation $IBM MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMWVPYml3MVhpMnE4cE9JWFQ3VUxKZ2hDbzVSSlc5RnE0VE5wa0ZINFFOM0JDT041NFRZRG5PMm5Fc0tseGhjT1B1WTJtNHV2akk3MDd1NHl3d2g4eUNlWk8xZ2RLTmI1N1UtdFhXMWR3djFEZ29zaHZCOWJOZlZlSFN0TDI5UTNpSF9UendZa3hjaUotcThHU29XVG4yMFIwc25HU0JBb1JMVURvdWJnU3R2R2pELVBKajBmT2lHOU40ak1pbTZrcWt2TjdBZFJyMUhfNExpbEVQcGZIeWlDZnFuSzhLZ2VUUXp1VV9oWlZxdjVIcURubkF3?oc=5",
+          "summary": "Prime Capital Investment Advisors LLC Buys 6,395 Shares of International Business Machines Corporation $IBM MarketBeat"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "1d6ce8de68f2",
       "title": "ABden SpaceXe Ukraynada hizmetleri yeniden başlatma çağrısı",
       "summary": "Avrupa Birliği (AB) Komisyonu, Ukrayna'nın kullandığı SpaceX'e ait Starlink uydu sisteminde yavaşlama meydana geldiği iddiaları üzerine şirkete bu hizmetleri acilen yeniden devreye alma çağrısı yaptı.",
@@ -357,6 +470,60 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abden-spacexe-ukraynada-hizmetleri-yeniden-baslatma-cagrisi-960794.html",
           "summary": "Avrupa Birliği (AB) Komisyonu, Ukrayna'nın kullandığı SpaceX'e ait Starlink uydu sisteminde yavaşlama meydana geldiği iddiaları üzerine şirkete bu hizmetleri acilen yeniden devreye alma çağrısı yaptı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3d61014e396f",
+      "title": "Fördergeld-Affäre: So etwas tut man nicht",
+      "summary": "Kontrolliert die Stadt Frankfurt hinreichend, was mit ihrem Fördergeld geschieht? Ein Fall um den SPD-Politiker Rahul Kumar weckt Zweifel.",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-spd-unter-druck-wegen-foerdergeld-affaere-um-rahul-kumar-201608877.html",
+      "sourceName": "FAZ",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 17:24:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-spd-unter-druck-wegen-foerdergeld-affaere-um-rahul-kumar-201608877.html",
+          "summary": "Kontrolliert die Stadt Frankfurt hinreichend, was mit ihrem Fördergeld geschieht? Ein Fall um den SPD-Politiker Rahul Kumar weckt Zweifel."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5dc8dbc4f3c3",
+      "title": "Fort Bend County sheriff to address license plate reader technology, privacy concerns at press conference - Click2Houston",
+      "summary": "Fort Bend County sheriff to address license plate reader technology, privacy concerns at press conference Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMFZYSUVaeU9JYkY2VUhHdnZud1h2eG9SS3RWWmxNZ1ZNZElUQ1NKZVp3Smo3aVNsSlRSQ3NKYU5wWTRlY0Z4bFlQbU15WGlRMVRpY1JjeV9FWDBFV0thNTNJLXBYMndwQlVyMEZRMHluTnBmUUtvYzVLOVc2MFhxQmZ5T01vZXFnczJIV2RaODFhUUtadDgxZmpPc0tzZkZpWGdCVndpQmRMQWd1T0dOVHotMWctT2FhRjk2TjJvUk9XSUhMc2lDYkFPMUIxTkVvdGV2THlFN05xcWlCbFhJZl9WSXB5OFVGVE1lRnRB?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 17:24:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMFZYSUVaeU9JYkY2VUhHdnZud1h2eG9SS3RWWmxNZ1ZNZElUQ1NKZVp3Smo3aVNsSlRSQ3NKYU5wWTRlY0Z4bFlQbU15WGlRMVRpY1JjeV9FWDBFV0thNTNJLXBYMndwQlVyMEZRMHluTnBmUUtvYzVLOVc2MFhxQmZ5T01vZXFnczJIV2RaODFhUUtadDgxZmpPc0tzZkZpWGdCVndpQmRMQWd1T0dOVHotMWctT2FhRjk2TjJvUk9XSUhMc2lDYkFPMUIxTkVvdGV2THlFN05xcWlCbFhJZl9WSXB5OFVGVE1lRnRB?oc=5",
+          "summary": "Fort Bend County sheriff to address license plate reader technology, privacy concerns at press conference Click2Houston"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b2e4c835fe14",
+      "title": "Gravierende Sicherheitslücke: Millionen Webseiten bedroht",
+      "summary": "Eine schwerwiegende Sicherheitslücke bedroht Millionen Webseiten weltweit. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat eine offizielle Warnung herausgegeben.",
+      "link": "https://www.zdfheute.de/politik/sicherheitsluecke-php-webseiten-onlinedienste-cybersicherheit-bsi-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 17:22:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/sicherheitsluecke-php-webseiten-onlinedienste-cybersicherheit-bsi-100.html",
+          "summary": "Eine schwerwiegende Sicherheitslücke bedroht Millionen Webseiten weltweit. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat eine offizielle Warnung herausgegeben."
         }
       ],
       "sourcesCount": 1
@@ -465,6 +632,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
           "summary": "Government websites go dark after AI-discovered flaw sparks security scramble Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "40d6cb94d0cd",
+      "title": "Micron Technology Maps AI Memory Future With HBM, DRAM and NAND Roadmap - Yahoo Finance",
+      "summary": "Micron Technology Maps AI Memory Future With HBM, DRAM and NAND Roadmap Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1ZvQzVYV1hfOVNGNlk0UXhNZTJHSlhrcVNCYUVrWWhjMTlzQUtvLV9xUjc4RWFvakRTTmM2WG1RWlBOT3BJTHlxaHJBdFFGSGJzSFd0UEoyalNHZ2F5MmpuelY4UThTNGVVWjljZWkwTkxYWnltM09DUFFJQkttcEJNTGNidVFMRDRwU0pCbTJGcHItbGNiOEsxT2Q?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 17:04:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1ZvQzVYV1hfOVNGNlk0UXhNZTJHSlhrcVNCYUVrWWhjMTlzQUtvLV9xUjc4RWFvakRTTmM2WG1RWlBOT3BJTHlxaHJBdFFGSGJzSFd0UEoyalNHZ2F5MmpuelY4UThTNGVVWjljZWkwTkxYWnltM09DUFFJQkttcEJNTGNidVFMRDRwU0pCbTJGcHItbGNiOEsxT2Q?oc=5",
+          "summary": "Micron Technology Maps AI Memory Future With HBM, DRAM and NAND Roadmap Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -614,6 +799,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "6bb1d0f1f823",
+      "title": "Football Scores & Fixtures - BBC",
+      "summary": "Football Scores & Fixtures BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 21 Oct 2026 16:45:56 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
+          "summary": "Football Scores & Fixtures BBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "42b9ef423f70",
       "title": "Trumpın Ukrayna politikası Cumhuriyetçileri kızdırdı",
       "summary": "ABD Başkanı Donald Trump’ın Rusya politikasına tepki gösteren bazı Cumhuriyetçiler, Ukrayna savaşını yönetme biçimi nedeniyle başkanın siyasi gündemine desteklerini çekebilecekleri uyarısında bulundu.",
@@ -645,24 +848,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxqQkdiOXBuOUE1R0tpenMtMFdRM2lDRzkweHB5cm93clBRM2h4dEI3M1pFZ0V4QlVyNXA1dzZPWGFiOThtbUVGQTBNVmJfZ2F0UXQyOTRXa3FiS0RMSGxpZ1duMVdGQW84cEd3NkxRQ25IajVnbTdmakFJUnFPb0ZwOWRLZTl6VmVFWVp6OXc0RlhYZFRxcEpvN1N5clJKTzAtNUtrNGJ5bVRPNm1nczgtbDJxQVlQWVFNOXRmbDVTckVDN0E?oc=5",
           "summary": "Former Hungarian central bank chief Matolcsy detained in probe into loss of bank funds Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "020c23c2780c",
-      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 16:38:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-          "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
         }
       ],
       "sourcesCount": 1
@@ -717,24 +902,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmY0R0YxSF9RUWJVdTJiRGEzWExETWNMcnF3dXBaNDZqU05wVWtzaG4xeTNkSnNuSlF4U2hkckJZTFV5ME1MeFl2OWg2emZtdkN4ZS1YNG1jNm5xdkpMd0oyNDRwZGo1SHV0bHJwWEVEMVdyMHFkaGUtaDVYbHZUS21uS20xa21ubDYtX2U3cW84Vi1XNnM1cTVFdGhOSHB3MUR6SQ?oc=5",
           "summary": "Sioux Falls pet business makes S.D. history in international ethics awards SiouxFalls.Business"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f98c16a5301f",
-      "title": "New LIFEPAK 35 monitors bring updated technology to Hamilton County EMS - WTVC",
-      "summary": "New LIFEPAK 35 monitors bring updated technology to Hamilton County EMS WTVC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkZOUHVPLXh4Rlk3RXp2WGJwVWNCcDl4T0tSWXlsOXRjcnVsemhyRkZzWTE3bEw1aHgzOVBpY29JdU9xa1k2WXdVdURISWlBTFZjM0phdjZiTi1mcmhiODZVdW9CNjV4dnFjYkR1S1lVbHNDQWpWbTdvUlIyZDRHV0RGNWl3WnFKc3lyU2VhalQ0bGdkdTgwRlI1TGhJLWRRd3JkbTVvYlFjYkE?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 16:34:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkZOUHVPLXh4Rlk3RXp2WGJwVWNCcDl4T0tSWXlsOXRjcnVsemhyRkZzWTE3bEw1aHgzOVBpY29JdU9xa1k2WXdVdURISWlBTFZjM0phdjZiTi1mcmhiODZVdW9CNjV4dnFjYkR1S1lVbHNDQWpWbTdvUlIyZDRHV0RGNWl3WnFKc3lyU2VhalQ0bGdkdTgwRlI1TGhJLWRRd3JkbTVvYlFjYkE?oc=5",
-          "summary": "New LIFEPAK 35 monitors bring updated technology to Hamilton County EMS WTVC"
         }
       ],
       "sourcesCount": 1
@@ -956,24 +1123,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
           "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6bb1d0f1f823",
-      "title": "Football Scores & Fixtures - BBC",
-      "summary": "Football Scores & Fixtures BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 15:43:32 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
-          "summary": "Football Scores & Fixtures BBC"
         }
       ],
       "sourcesCount": 1
@@ -1547,24 +1696,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f4edce6f0639",
-      "title": "China’s Free A.I. Models Are Thrown Into Uncertainty - The New York Times",
-      "summary": "China’s Free A.I. Models Are Thrown Into Uncertainty The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 14:43:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?oc=5",
-          "summary": "China’s Free A.I. Models Are Thrown Into Uncertainty The New York Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "399065d392e2",
       "title": "How climate change, new technology are shaping the future of extremes in peak power demands - Phys.org",
       "summary": "How climate change, new technology are shaping the future of extremes in peak power demands Phys.org",
@@ -1674,8 +1805,8 @@
     },
     {
       "id": "d162719adad5",
-      "title": "Viele Seiten Offline: Gravierende Sicherheitslücke bedroht Millionen Websites",
-      "summary": "Betroffen ist die weit verbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert. Viele Städte, Krankenhäuser und Universitäten reagieren.",
+      "title": "Lücke in PHP-Code: Vorsorgliche Sperre von Webseiten trifft Internetnutzer",
+      "summary": "Städte, Krankenhäuser und Webshops müssen dringend eine Sicherheitslücke schließen. Auch Bundesländer nehmen Seiten wichtiger Behörden vom Netz.",
       "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gravierende-sicherheitsluecke-in-php-bedroht-millionen-websites-201609383.html",
       "sourceName": "FAZ",
       "region": "international",
@@ -1685,15 +1816,10 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gravierende-sicherheitsluecke-in-php-bedroht-millionen-websites-201609383.html",
-          "summary": "Betroffen ist die weit verbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert. Viele Städte, Krankenhäuser und Universitäten reagieren."
-        },
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/sicherheitsluecke-php-webseiten-onlinedienste-cybersicherheit-bsi-100.html",
-          "summary": "Eine schwerwiegende Sicherheitslücke bedroht Millionen Webseiten weltweit. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat eine offizielle Warnung herausgegeben."
+          "summary": "Städte, Krankenhäuser und Webshops müssen dringend eine Sicherheitslücke schließen. Auch Bundesländer nehmen Seiten wichtiger Behörden vom Netz."
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "f6a9c239a6f9",
@@ -2002,6 +2128,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "80e1a1be60f8",
+      "title": "Columbus startup Tandem uses technology to staff child care classrooms with substitutes - Ohio Tech News",
+      "summary": "Columbus startup Tandem uses technology to staff child care classrooms with substitutes Ohio Tech News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN191NEJMai1hbDZyODJMemlHRWx6c0wwNVZCZlRENmg1cEotaUZ4YTFGREZTX2x1MXJVNmJ5NVJzUUNEQ2FmOERMYVpYYnhKVjJ5N25hODg3Q2ZNR09TbWc5SVB6bThYLWdFTDN3VlJfNFhQMXNaS1pIRy1GS2pXMTBRVFlHQUhyOW44UzRFOGU?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 13:54:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN191NEJMai1hbDZyODJMemlHRWx6c0wwNVZCZlRENmg1cEotaUZ4YTFGREZTX2x1MXJVNmJ5NVJzUUNEQ2FmOERMYVpYYnhKVjJ5N25hODg3Q2ZNR09TbWc5SVB6bThYLWdFTDN3VlJfNFhQMXNaS1pIRy1GS2pXMTBRVFlHQUhyOW44UzRFOGU?oc=5",
+          "summary": "Columbus startup Tandem uses technology to staff child care classrooms with substitutes Ohio Tech News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "753d8d0ea69a",
       "title": "Hannes Steinbach - Charlottes NBA-Hoffnung kommt aus Würzburg",
       "summary": "Hannes Steinbach wurde im Sommer in die NBA zu den Charlotte Hornets gedraftet. In der Pre-Season konnte der Würzburger auf sich aufmerksam machen und hat einen prominenten Mentor als Teamkollegen.",
@@ -2231,24 +2375,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFRoblRDSmc0M29nMmdaV0dTQjkxQ3JyY0J3NmRYSmg2NXdhRm5ESEQwdk1hVVFCbnZuRlJTemtvaF9rYV9WTWRmMWxnWDE0T2lXTjhpMlRXTDRSaTVMcnlncTRyeG96NkdRTHMzeVlOSVNSWlNoZkRfUUlHMVpLdTctWFhfaGxVd0pFYlRhMjNsVTlzYVJneG80WTdaV1daQURvT0RQN1Q2WGFoUkhPSkhoYkxpcFJu?oc=5",
           "summary": "Police to deploy live facial recognition technology at Chelsea-Spurs game Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8d9308f15772",
-      "title": "Germany's military warns of 'significant' Russian sabotage threat - Reuters",
-      "summary": "Germany's military warns of 'significant' Russian sabotage threat Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVRoRl9JRkgwV2ZQYm5oMFAyOGVVXzItQUhZdXB3dDlCNVQ1RERQLVpYdGtWNHhFcWVLQktIQ0xRU1Y0N3R5VDNvYXFKdUI1ZUw2SDFvV3NEaVBkamtQYUNYZVVzQ1BqQzRHSVpfdlcwQkg0TFh4cldkNFNNbXhIbzhuT2JQeTZkc1J5MmR3TWlqeWg5MUxrWHJ2a0JLMGtZdzAxT0NOak44aXI0MFJ3T2pKTmJaWFZ2RXJWdFViSQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 13:25:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVRoRl9JRkgwV2ZQYm5oMFAyOGVVXzItQUhZdXB3dDlCNVQ1RERQLVpYdGtWNHhFcWVLQktIQ0xRU1Y0N3R5VDNvYXFKdUI1ZUw2SDFvV3NEaVBkamtQYUNYZVVzQ1BqQzRHSVpfdlcwQkg0TFh4cldkNFNNbXhIbzhuT2JQeTZkc1J5MmR3TWlqeWg5MUxrWHJ2a0JLMGtZdzAxT0NOak44aXI0MFJ3T2pKTmJaWFZ2RXJWdFViSQ?oc=5",
-          "summary": "Germany's military warns of 'significant' Russian sabotage threat Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2591,6 +2717,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON012VDViOENReHF3NlFXaEQ0ejJKRG4xNDVhenZDVUZIMDc5NWdCQVI3Nm9xXzVsQzhCRlBHMTczeDNTQ0N6YWtKV1JvQmdvTzVfUnhMMHk2ZmZ0d1BjLUJmWERDY1BxNlFNaHl2UnVYTGpZbjIxUmxicG1JbHFJcXBmdHN6RTQzaktpWUdwSHRsRUtVRnVHN1Q5MEZZQjZrN0V1ZTUtVVpVaVM4OW1Qcg?oc=5",
           "summary": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says Bloomberg.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8139efc101cf",
+      "title": "Trump Administration Tried to Shut Down Pollution… - inkl",
+      "summary": "Trump Administration Tried to Shut Down Pollution… inkl",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkpTaFFWRTZkTG1CbTk5bzAyVHo0WDB3WkdxMmtSVHA1NWVOMWNCWEwtWHlmZW5rVUo0WVRJbTl1a1Q1eXB3aERDcm1zaU16Tkw4ZHV1S1FZTFVvY0lKQnRzU2R2aVJTNWFWaWl0ZHdTcmxUanpHcVFXM3NjMTZGcHE0aFhKZDZGcXhmLUtXSlZVVzVLeDZxRGxqUFBGM014SVd6MVJ6UnlFeGtWTXNuYVZKdlRfdHotMmxwTzhTeDBDaXRaMzdNMkVaYmY1SlF2bnZvSmZHenBhMXc?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 12:33:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkpTaFFWRTZkTG1CbTk5bzAyVHo0WDB3WkdxMmtSVHA1NWVOMWNCWEwtWHlmZW5rVUo0WVRJbTl1a1Q1eXB3aERDcm1zaU16Tkw4ZHV1S1FZTFVvY0lKQnRzU2R2aVJTNWFWaWl0ZHdTcmxUanpHcVFXM3NjMTZGcHE0aFhKZDZGcXhmLUtXSlZVVzVLeDZxRGxqUFBGM014SVd6MVJ6UnlFeGtWTXNuYVZKdlRfdHotMmxwTzhTeDBDaXRaMzdNMkVaYmY1SlF2bnZvSmZHenBhMXc?oc=5",
+          "summary": "Trump Administration Tried to Shut Down Pollution… inkl"
         }
       ],
       "sourcesCount": 1
@@ -3262,24 +3406,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3a154dec041e",
-      "title": "Trump gewählt, nun frustriert: Eine Kleinstadt vor der Wahl",
-      "summary": "Pam hat Trump gewählt. Heute sagt sie, von seinen Versprechen sei wenig übrig geblieben.",
-      "link": "https://www.zdfheute.de/politik/ausland/midterms-usa-themen-trump-wahlen-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 10:30:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/midterms-usa-themen-trump-wahlen-100.html",
-          "summary": "Pam hat Trump gewählt. Heute sagt sie, von seinen Versprechen sei wenig übrig geblieben."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0922e0ece4c8",
       "title": "Bill und Tom Kaulitz: \"Jetzt schon der Rekordbrecher\"",
       "summary": "\"Wetten, dass..?\" wird bald von Bill und Tom Kaulitz moderiert. Die Tokio Hotel-Zwillinge geben sich vor ihrer großen Premiere gewohnt ehrlich.",
@@ -3352,6 +3478,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "0d90c204cc1e",
+      "title": "MAGMA RESORT SANTORINI, OFFERS EXCEPTIONAL DESTINATION FOR INTERNATIONAL EVENTS IN 2027 - Breaking Travel News",
+      "summary": "MAGMA RESORT SANTORINI, OFFERS EXCEPTIONAL DESTINATION FOR INTERNATIONAL EVENTS IN 2027 Breaking Travel News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdm9ObjJsbmtta0FLSENxM1hYVE1Oa1JzSU5jYlAxajhzSEhYNnlJam9zcnVjMkRKeVNaNXdCRE5EbmxORjVueEJqQTlULTI3dEVJeEM1bk9XU2FkSDl2VG0tUnlnVTBWODd1ZFJxY2pzZWJWUEJCOU52MzFrM1hIazg0MzZnQXNCUThVR3pWMzJnRy1USDhxMkVBenBSeERUSFppdFNCQTdyelM0bWZvMmlXSDFpLUpTWE53RkQzVnFhdw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 10:13:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdm9ObjJsbmtta0FLSENxM1hYVE1Oa1JzSU5jYlAxajhzSEhYNnlJam9zcnVjMkRKeVNaNXdCRE5EbmxORjVueEJqQTlULTI3dEVJeEM1bk9XU2FkSDl2VG0tUnlnVTBWODd1ZFJxY2pzZWJWUEJCOU52MzFrM1hIazg0MzZnQXNCUThVR3pWMzJnRy1USDhxMkVBenBSeERUSFppdFNCQTdyelM0bWZvMmlXSDFpLUpTWE53RkQzVnFhdw?oc=5",
+          "summary": "MAGMA RESORT SANTORINI, OFFERS EXCEPTIONAL DESTINATION FOR INTERNATIONAL EVENTS IN 2027 Breaking Travel News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "bc9373815cad",
       "title": "OpenAIın yapay zekaları kendi güvenlik denetimini devre dışı bıraktı",
       "summary": "ABD'li yapay zeka şirketi OpenAI, GPT-6.1 Sol ve GPT-6 Astra modellerinin şirket içindeki yazılım görevleri sırasında yapay zeka sistemlerindeki uyumsuzlukları tespit eden izleme mekanizmalarını devre dışı bıraktığını ve güvenlik uyarılarını engellediğini bildirdi.",
@@ -3383,24 +3527,6 @@
           "sourceName": "TRT Haber Wirtschaft",
           "link": "https://www.trthaber.com/haber/ekonomi/emisyon-ticaret-sisteminin-isleyis-kurallari-belirlendi-960726.html",
           "summary": "Türkiye'de net sıfır hedefine uygun sera gazı emisyonlarının piyasa temelli bir mekanizmayla azaltımını teşvik etmek amacıyla kurulacak piyasaların işletilmesine yönelik kurallar netleştirildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3218447f986f",
-      "title": "DLL: Outcomes First. Technology Second. - The Cannata Report -",
-      "summary": "DLL: Outcomes First. Technology Second.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ETThfYnJtcGktcW5sUzQ4T015MkZFSUZ4aTkwUDZ1Q010bUtETldrVmJOd29seUhGWWVTU0Q1bVVNY2RiVENid2x0MDBmWmVXb0RRblUxdEVBZUZEek13aGt2WkJoUmh0OG9wNE80bjhrVWEtOEhzLXVB?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 10:00:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ETThfYnJtcGktcW5sUzQ4T015MkZFSUZ4aTkwUDZ1Q010bUtETldrVmJOd29seUhGWWVTU0Q1bVVNY2RiVENid2x0MDBmWmVXb0RRblUxdEVBZUZEek13aGt2WkJoUmh0OG9wNE80bjhrVWEtOEhzLXVB?oc=5",
-          "summary": "DLL: Outcomes First. Technology Second."
         }
       ],
       "sourcesCount": 1
@@ -3455,24 +3581,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
           "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an. Was macht die Schweiz besser als Deutschland?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2d1164bb15ab",
-      "title": "ABD Savunma Bakanı Ukrayna'ya yönelik tutumlarının değişmediğini söyledi",
-      "summary": "ABD Savunma Bakanı Pete Hegseth, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadığı iddialarının ardından, bu ülkeye yönelik tutumlarının değişmediğini belirtti.",
-      "link": "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-ukraynaya-yonelik-tutumlarinin-degismedigini-soyledi-960724.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 09:50:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-ukraynaya-yonelik-tutumlarinin-degismedigini-soyledi-960724.html",
-          "summary": "ABD Savunma Bakanı Pete Hegseth, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadığı iddialarının ardından, bu ülkeye yönelik tutumlarının değişmediğini belirtti."
         }
       ],
       "sourcesCount": 1
@@ -3563,24 +3671,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2pPVjdkdWVwMkpMUmJEOWczQmo0dmhCdHhCTkNxb0lqSjJEbThRRW54bV93S1VoNG1Ya0ppOWRBQjhMSnFIbVdsLWM2R0hYcWxqWDlyU09hOV9JYlVpeXItQVhiU1B4UWRVVkwzSW13LVNJdU9RbHNZUmtpNnpyNXZKd0F6LXlMeWZtQjRCMTRwV2NHTVdyMDJ5VXZ0d2ZYTjZGWXRtXzhzQQ?oc=5",
           "summary": "Inside an NFL headset: The technology, chaos and split-second conversations behind every play The New York Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ab63d3d2b1b4",
-      "title": "Türkiye ile Libya'nın deniz yetki anlaşması neden önemli?",
-      "summary": "Türkiye’nin Doğu Akdeniz’deki konumunu güçlendiren Libya ile deniz yetki anlaşması, iki ülkenin denizlerdeki haklarını ortak zeminde buluşturdu. Peki, Libya Parlamentosu'nun da onayladığı anlaşma hangi kazanımları beraberinde getiriyor?",
-      "link": "https://www.trthaber.com/haber/dunya/turkiye-ile-libyanin-deniz-yetki-anlasmasi-neden-onemli-960725.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 09:36:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/turkiye-ile-libyanin-deniz-yetki-anlasmasi-neden-onemli-960725.html",
-          "summary": "Türkiye’nin Doğu Akdeniz’deki konumunu güçlendiren Libya ile deniz yetki anlaşması, iki ülkenin denizlerdeki haklarını ortak zeminde buluşturdu. Peki, Libya Parlamentosu'nun da onayladığı anlaşma hangi kazanımları beraberinde getiriyor?"
         }
       ],
       "sourcesCount": 1
@@ -3694,24 +3784,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo?at_medium=RSS&at_campaign=rss",
           "summary": "Eberechi Eze has been struggling for form this season for Arsenal, but there could be hope that the forward turns it around."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "fc17f9ef1516",
-      "title": "Prime Capital Investment Advisors LLC Buys 6,395 Shares of International Business Machines Corporation $IBM - MarketBeat",
-      "summary": "Prime Capital Investment Advisors LLC Buys 6,395 Shares of International Business Machines Corporation $IBM MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMWVPYml3MVhpMnE4cE9JWFQ3VUxKZ2hDbzVSSlc5RnE0VE5wa0ZINFFOM0JDT041NFRZRG5PMm5Fc0tseGhjT1B1WTJtNHV2akk3MDd1NHl3d2g4eUNlWk8xZ2RLTmI1N1UtdFhXMWR3djFEZ29zaHZCOWJOZlZlSFN0TDI5UTNpSF9UendZa3hjaUotcThHU29XVG4yMFIwc25HU0JBb1JMVURvdWJnU3R2R2pELVBKajBmT2lHOU40ak1pbTZrcWt2TjdBZFJyMUhfNExpbEVQcGZIeWlDZnFuSzhLZ2VUUXp1VV9oWlZxdjVIcURubkF3?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 09:17:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMWVPYml3MVhpMnE4cE9JWFQ3VUxKZ2hDbzVSSlc5RnE0VE5wa0ZINFFOM0JDT041NFRZRG5PMm5Fc0tseGhjT1B1WTJtNHV2akk3MDd1NHl3d2g4eUNlWk8xZ2RLTmI1N1UtdFhXMWR3djFEZ29zaHZCOWJOZlZlSFN0TDI5UTNpSF9UendZa3hjaUotcThHU29XVG4yMFIwc25HU0JBb1JMVURvdWJnU3R2R2pELVBKajBmT2lHOU40ak1pbTZrcWt2TjdBZFJyMUhfNExpbEVQcGZIeWlDZnFuSzhLZ2VUUXp1VV9oWlZxdjVIcURubkF3?oc=5",
-          "summary": "Prime Capital Investment Advisors LLC Buys 6,395 Shares of International Business Machines Corporation $IBM MarketBeat"
         }
       ],
       "sourcesCount": 1
@@ -4609,6 +4681,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e26dcb665161",
+      "title": "Gold steadies near one-week low as oil-driven inflation fears grow - Reuters",
+      "summary": "Gold steadies near one-week low as oil-driven inflation fears grow Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 03:45:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+          "summary": "Gold steadies near one-week low as oil-driven inflation fears grow Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "c5d12254e15c",
       "title": "Bericht: Musk hat Starlink-Drosselung angeordnet",
       "summary": "Kiew klagt seit Tagen über gedrosselte Satellitenverbindungen. Laut einem Bericht des \"Wall Street Journals\" soll Tech-Unternehmer Elon Musk dafür verantwortlich sein.",
@@ -4789,24 +4879,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e536c9f51b08",
-      "title": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence - UNESCO",
-      "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
-          "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1e5aa1333184",
       "title": "F1'de Türkiye Grand Prix'si 2027 Ekim ayında yapılacak",
       "summary": "Türkiye'nin de yer aldığı ve 24 yarışın koşulacağı Formula 1'in 2027 sezonunun takvimi onaylandı. Buna göre Türkiye Grand Prix'si 1-3 Ekim 2027 tarihlerinde gerçekleştirilecek.",
@@ -4820,6 +4892,24 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/f1de-turkiye-grand-prixsi-2027-ekim-ayinda-yapilacak-957015.html",
           "summary": "Türkiye'nin de yer aldığı ve 24 yarışın koşulacağı Formula 1'in 2027 sezonunun takvimi onaylandı. Buna göre Türkiye Grand Prix'si 1-3 Ekim 2027 tarihlerinde gerçekleştirilecek."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "34692a51bfb9",
+      "title": "Sport for Mobility opens international competition pathways for Para athletes - Paralympic.org.",
+      "summary": "Sport for Mobility opens international competition pathways for Para athletes Paralympic.org.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDY3WjdDZ2ptdzNFYTctS0s1MWprZzdfMi1rc18ta0NPQ1dPaWFWN2JjUjZiVmRIRi14dUpHdHNIeGdtVDl0U2FtVHBnNV9TVFZrSWktUzJpREp3clBHNFpraDFkQk5oZ0ZsVHZCWjh6Qll4U1kzSW92QjFLc3RGTldndE9XMWs4?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDY3WjdDZ2ptdzNFYTctS0s1MWprZzdfMi1rc18ta0NPQ1dPaWFWN2JjUjZiVmRIRi14dUpHdHNIeGdtVDl0U2FtVHBnNV9TVFZrSWktUzJpREp3clBHNFpraDFkQk5oZ0ZsVHZCWjh6Qll4U1kzSW92QjFLc3RGTldndE9XMWs4?oc=5",
+          "summary": "Sport for Mobility opens international competition pathways for Para athletes Paralympic.org."
         }
       ],
       "sourcesCount": 1
@@ -4843,6 +4933,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "9e830aea74b0",
+      "title": "Press kit: Alaska Airlines unveils its international Business Class Suites experience - Alaska Airlines",
+      "summary": "Press kit: Alaska Airlines unveils its international Business Class Suites experience Alaska Airlines",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHMtR2dFU2ZmVmdNRHhwdmM1cnJqbzhJMllyVk1oVjVYOUVGTXgxMmdvNzhZcEhROEpWTHhNdG5SYWF1MDV0X2NHVjNDRnpXV3pWcEdWNU9QNGhhc05GTnlpb0lHd19DUFRBNkVtSXBCblhNdXpOMlNYYTBpV3FVQ0VTUHZHODBEd29JeEM1UEx0MWZRS0UzalRsLTlWZ25qMHYzdV95RnhVWmY0bnJrVHBidE1TR3piYjBRMHhUd2t3OFlR?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 16 Sep 2026 04:06:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHMtR2dFU2ZmVmdNRHhwdmM1cnJqbzhJMllyVk1oVjVYOUVGTXgxMmdvNzhZcEhROEpWTHhNdG5SYWF1MDV0X2NHVjNDRnpXV3pWcEdWNU9QNGhhc05GTnlpb0lHd19DUFRBNkVtSXBCblhNdXpOMlNYYTBpV3FVQ0VTUHZHODBEd29JeEM1UEx0MWZRS0UzalRsLTlWZ25qMHYzdV95RnhVWmY0bnJrVHBidE1TR3piYjBRMHhUd2t3OFlR?oc=5",
+          "summary": "Press kit: Alaska Airlines unveils its international Business Class Suites experience Alaska Airlines"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e9db7b2bc5de",
       "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
       "summary": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
@@ -4856,42 +4964,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
           "summary": "With the festive season on the horizon, we trace toys from factories in China to US shelves."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1726e1388bf9",
-      "title": "South Carolina International Business Career Guide showcases international opportunities in its own backyard - University of South Carolina",
-      "summary": "South Carolina International Business Career Guide showcases international opportunities in its own backyard University of South Carolina",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLS1jX1l5WUVObDdiODU2YjZoRFNhY0dZWkZoMHhkSGUtUDN1Q3loV0xQb2pXNTg0TEdlYkVYOTVoc3g3dVFPQUxHOXZ4UVpseWtLWmtsMWZGUHQybDNuSHhjMXA0WVBTRHc1YjV3TnlnOXh3LU01cXNNYm9ocUwtT1lCcUlzcHN5SE1WSzRmbm5tOWExaWhER1l5ZGVaaWFNTmtVMk5tLU9BU1lldlE?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 21:10:27 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLS1jX1l5WUVObDdiODU2YjZoRFNhY0dZWkZoMHhkSGUtUDN1Q3loV0xQb2pXNTg0TEdlYkVYOTVoc3g3dVFPQUxHOXZ4UVpseWtLWmtsMWZGUHQybDNuSHhjMXA0WVBTRHc1YjV3TnlnOXh3LU01cXNNYm9ocUwtT1lCcUlzcHN5SE1WSzRmbm5tOWExaWhER1l5ZGVaaWFNTmtVMk5tLU9BU1lldlE?oc=5",
-          "summary": "South Carolina International Business Career Guide showcases international opportunities in its own backyard University of South Carolina"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "acccc7719597",
-      "title": "International business is influenced by local political climate, study finds - Phys.org",
-      "summary": "International business is influenced by local political climate, study finds Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlg1azZvNkdqbW1LTTFvY25lMEJvR1NJSnJCMzNlWXgtLVM5MmxwQlJfMEM4SndENXF0V1ZVbTEwTUY3eEw2YjJiY3dVX0ZQVk1vVGU1ZThGUjlRQ29wMXNjZVMxWlEyV3BVaGlxbnFyVkJoWWpxWHZZVTFxOGtmWlY0TUZpVzdT?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 14 Oct 2026 20:40:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlg1azZvNkdqbW1LTTFvY25lMEJvR1NJSnJCMzNlWXgtLVM5MmxwQlJfMEM4SndENXF0V1ZVbTEwTUY3eEw2YjJiY3dVX0ZQVk1vVGU1ZThGUjlRQ29wMXNjZVMxWlEyV3BVaGlxbnFyVkJoWWpxWHZZVTFxOGtmWlY0TUZpVzdT?oc=5",
-          "summary": "International business is influenced by local political climate, study finds Phys.org"
         }
       ],
       "sourcesCount": 1
@@ -5360,78 +5432,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHNpQ1pDZ21kWFlIQVRYZUdldlAwSGpyM0pwekJkUG04dEhuc2dVSVY4QU1MMEkwQzhaaEl5MUNyMmdZOFBqemEtRlJySS1mLVlldE5yVmZEQVVSMmM4Z0VPX2hDQTdha0NmNl9GRnA5MTFZMGU1R2tZMGRUa0MwYU1DTmZoWmp2RGRoVnJJek1wb1dUa0U4Z1g0YjdFUngxd0dLTA?oc=5",
           "summary": "Tata's owners deserve to prevail in power struggle Breakingviews"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ecf19ebc81e1",
-      "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-      "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 21:56:31 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-          "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6ea84b8510ac",
-      "title": "WM-Gold im Küstenrudern für deutsches Mixed",
-      "summary": "Starker Auftritt des deutschen Küstenruderduos Sophie Leupold und Franz Werner: Im Mixed siegten sie in Qingdao und sicherten sich den Weltmeistertitel.",
-      "link": "https://www.zdfheute.de/sport/video/costal-rowing-102.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 21:35:16 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/video/costal-rowing-102.html",
-          "summary": "Starker Auftritt des deutschen Küstenruderduos Sophie Leupold und Franz Werner: Im Mixed siegten sie in Qingdao und sicherten sich den Weltmeistertitel."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "73c8bbe48f37",
-      "title": "Alaska Air Group reports third quarter 2026 results - Alaska Airlines",
-      "summary": "Alaska Air Group reports third quarter 2026 results Alaska Airlines",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVW0zTTBqenZadlRlbkJqbEgtbnJoNEw3Qk1GS3M4dDBVaVFJTWZqczYyN09ZNy1SWXBGWU5IZFpOdkFFYzVFR2MyNzFvdkNTQ1RlRTdsV0FzMXpCU0U0U0ZfR1ZXVkFmQ0RmQjRVSlpXdGNjbVQ0R1VOcUZFYWNvYmNwWFg4SVltSDlONVQtcFg?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 21:27:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVW0zTTBqenZadlRlbkJqbEgtbnJoNEw3Qk1GS3M4dDBVaVFJTWZqczYyN09ZNy1SWXBGWU5IZFpOdkFFYzVFR2MyNzFvdkNTQ1RlRTdsV0FzMXpCU0U0U0ZfR1ZXVkFmQ0RmQjRVSlpXdGNjbVQ0R1VOcUZFYWNvYmNwWFg4SVltSDlONVQtcFg?oc=5",
-          "summary": "Alaska Air Group reports third quarter 2026 results Alaska Airlines"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8ee5a168383d",
-      "title": "7 ilde bahis operasyonunda 22 tutuklama",
-      "summary": "Siirt merkezli 7 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 27 şüpheliden 22'si tutuklandı. Şüphelilerin banka ve kripto hesaplarında 2025-2026 yıllarında 1 milyar 498 milyon 377 bin 676 liralık işlem hacmi tespit edildi.",
-      "link": "https://www.trthaber.com/haber/turkiye/7-ilde-bahis-operasyonunda-22-tutuklama-960680.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 20 Oct 2026 21:23:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/7-ilde-bahis-operasyonunda-22-tutuklama-960680.html",
-          "summary": "Siirt merkezli 7 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 27 şüpheliden 22'si tutuklandı. Şüphelilerin banka ve kripto hesaplarında 2025-2026 yıllarında 1 milyar 498 milyon 377 bin 676 liralık işlem hacmi tespit edildi."
         }
       ],
       "sourcesCount": 1
