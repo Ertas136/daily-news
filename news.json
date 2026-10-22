@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T19:58:11.670054+00:00",
+  "updated": "2026-10-22T20:21:58.909852+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -123,6 +123,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
           "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "15f5a2324b90",
+      "title": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble - U.S. News & World Report",
+      "summary": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 23:07:42 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U?oc=5",
+          "summary": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble U.S. News & World Report"
         }
       ],
       "sourcesCount": 1
@@ -411,24 +429,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
           "summary": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "12e68cc68031",
-      "title": "Factbox-Governments, companies take websites offline over PHP flaws By Reuters - Investing.com",
-      "summary": "Factbox-Governments, companies take websites offline over PHP flaws By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3lCX05lSVB6LXFZeUV2ZzM3QkV2Z04zQ2kyUGowTm1MMUg4T0hkWWFwTVB1bG53QVNvUS1HLU15djJ2QWJib3RDZWlWRDRPU1BQdExScHBCQml3UG9xNWxGTmYzLWpjaUt4WG5IRU9QdjRyOS02Y3Y5aXVUQU1PcDJuSGYySUQyNmlhWVhKaW1fcFJtSjNkRi00Y1ZtU1cxMkZv?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 21:06:10 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3lCX05lSVB6LXFZeUV2ZzM3QkV2Z04zQ2kyUGowTm1MMUg4T0hkWWFwTVB1bG53QVNvUS1HLU15djJ2QWJib3RDZWlWRDRPU1BQdExScHBCQml3UG9xNWxGTmYzLWpjaUt4WG5IRU9QdjRyOS02Y3Y5aXVUQU1PcDJuSGYySUQyNmlhWVhKaW1fcFJtSjNkRi00Y1ZtU1cxMkZv?oc=5",
-          "summary": "Factbox-Governments, companies take websites offline over PHP flaws By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -1712,6 +1712,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "64ee823b788d",
+      "title": "OpenAI says its AI agents weakened internal monitoring system By Reuters - Investing.com",
+      "summary": "OpenAI says its AI agents weakened internal monitoring system By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEphYnl5Ung3V2dXdWJoak9jNjRhRzBOX0ZEdUlGb1V3eXdnTE1XYVZhRW5tUVhpdnVrbWFBNmJXeTB5T2tvZmc1U0RXZVVGdlhMMHRtNU15OUxFSFJoN0NrNHRZUUFDMk96ZEo5b3lRai1yaWkzdV9QbTlzTmxfYUdJVlJSRW9jamJkdy1sajVxbjBGS215SHJybHRrM2Q5aFFCWXdZanZMbDhuRFNPSFkzMFVpYU9FUnc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 02:58:56 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEphYnl5Ung3V2dXdWJoak9jNjRhRzBOX0ZEdUlGb1V3eXdnTE1XYVZhRW5tUVhpdnVrbWFBNmJXeTB5T2tvZmc1U0RXZVVGdlhMMHRtNU15OUxFSFJoN0NrNHRZUUFDMk96ZEo5b3lRai1yaWkzdV9QbTlzTmxfYUdJVlJSRW9jamJkdy1sajVxbjBGS215SHJybHRrM2Q5aFFCWXdZanZMbDhuRFNPSFkzMFVpYU9FUnc?oc=5",
+          "summary": "OpenAI says its AI agents weakened internal monitoring system By Reuters Investing.com"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "d9ae2d0bab21",
       "title": "Ferganinin altıncı uydusu FRG100D4 yörüngesine başarıyla yerleşti",
       "summary": "Baykar Yönetim Kurulu Başkanı ve Teknoloji Lideri Selçuk Bayraktar tarafından kurulan Fergani Uzay Teknolojileri, milli mühendislik kabiliyetiyle geliştirdiği altıncı deneme uydusu FRG-100D4'ü, ABD'nin Cape Canaveral Uzay Kuvvetleri Üssü'nden uzaya gönderdi.",
@@ -2843,24 +2861,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "f44965cecbd0",
-      "title": "Trump warns Kansans that US will 'burn' like France if Democrats win - Yahoo",
-      "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWdjUnBVRGxScl9VRjN3X21ZUWtvWVdLSmluZm04SEVGMUVpM2xrWGV1V25PcjNYdkVfTXFSYjl0MElYcXZXZVV3cE8yaXFEN3FtNE9GYjc2NkU0ZGFqRHd5RUE2dzN4d2hVUXFVUi1nUkJRODB1UGN3SWtHeS1Fa0QwZVJZRG9OS000d2dWanc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 04:01:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWdjUnBVRGxScl9VRjN3X21ZUWtvWVdLSmluZm04SEVGMUVpM2xrWGV1V25PcjNYdkVfTXFSYjl0MElYcXZXZVV3cE8yaXFEN3FtNE9GYjc2NkU0ZGFqRHd5RUE2dzN4d2hVUXFVUi1nUkJRODB1UGN3SWtHeS1Fa0QwZVJZRG9OS000d2dWanc?oc=5",
-          "summary": "Trump warns Kansans that US will 'burn' like France if Democrats win Yahoo"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1175a4f0717b",
       "title": "Rekabetçi Sektörler Programı'ndan yaklaşık 260 milyon euroluk finansman",
       "summary": "Sanayi ve Teknoloji Bakanlığı ile Avrupa Birliği ortak finansmanıyla yürütülen Rekabetçi Sektörler Programı'nın (RSP) IPA II döneminde 43 projeye yaklaşık 260 milyon euro finansman sağlandı.",
@@ -3095,6 +3095,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b6c7b9d35679",
+      "title": "Schlagzeilen",
+      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 22:10:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "326e2400d90e",
       "title": "Gouweleeuw, Müller und der \"treue Charly\"",
       "summary": "Jeffrey Gouweleeuw steht davor, alleiniger Rekordspieler des FC Augsburg in der Fußball-Bundesliga zu werden. Er wäre dann in prominenter Gesellschaft mit Thomas Müller und Karl-Heinz-Körbel, dem \"treuen Charly\".",
@@ -3126,24 +3144,6 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
           "summary": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung - und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines Umfelds gewachsen ist."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Thu, 22 Oct 2026 21:35:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -3478,6 +3478,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "533fa53371dd",
+      "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes - The New York Times",
+      "summary": "How a Legal Backlash Against Big Tech Is Forcing Big Changes The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVllZnZNekJYc05DRThHXzU4ZXMtZTJoOENHSVZfOXJoU01MUzVtR1duXzNsenRnWTl0ejZEY2FWV21XQ3VHcGdWMHJGOTVSOV9MclVFMDc4OEIyYjhmZF9BWEh3cGNONnBYcnVtaTl6Mkx0akwtNUtLWkxremxlWGpRXzh5Qm1xQkF5c1JRQ3k?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 19:29:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVllZnZNekJYc05DRThHXzU4ZXMtZTJoOENHSVZfOXJoU01MUzVtR1duXzNsenRnWTl0ejZEY2FWV21XQ3VHcGdWMHJGOTVSOV9MclVFMDc4OEIyYjhmZF9BWEh3cGNONnBYcnVtaTl6Mkx0akwtNUtLWkxremxlWGpRXzh5Qm1xQkF5c1JRQ3k?oc=5",
+          "summary": "How a Legal Backlash Against Big Tech Is Forcing Big Changes The New York Times"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e5f2961ef0d5",
       "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
       "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
@@ -3622,22 +3640,27 @@
       "sourcesCount": 1
     },
     {
-      "id": "6bbc2e03b483",
-      "title": "International Business University Launches the Journal of Business, Management, and Intelligent Systems - PR Newswire Canada",
-      "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems PR Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzFPa18wZmZqR3VPN2NpWlg5Vi1LaWI1ZTVCa0tEVWh5dmItLTJwMXJjRU5WTTFXVnViQjNZc092bDFNVmhpWDZBOUZnTWlRU09PWkwyNGlsVXNvOW1KamZObk1CTlRqWC1LcXk4bkNKSmc3aldhamhvSVVNMTBXeU4xZmNOZ3NnbFBZdktvNDM5dWRMd3V0amRhV1Z2ME85WU9ZaXRHVEcxd0dIc3kxc3JkNmFzNVJnbEExQTVaYjhoMnNyeU9HcERscDZhVW44OEdDek1WeFFheUg0dHFucVVXOUJOaGRVd3c?oc=5",
+      "id": "fff2910ada56",
+      "title": "International Business University Launches the Journal of Business, Management, and Intelligent Systems - The Globe and Mail",
+      "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZFJNUXVSSEtEaXZ3a3dkNndqWnZFdkk3UXJ5TUNuNEtZQ1lBSnNQWHNrYjJsTHZBOVFBNi1TaXhPOW4yMHFvZFdYMk1hNTRhMDFSWTdsaHNjWUZicTFwanNnQjlIc3pzWTZKXzZ3dHRENUhVcmdEeG16Z2dFMjh4MlFwMC1PT2JzbF9LTVRWNWp3WEc2QmZ2aERIOU5Ta2hJQjhqTkEzVHBZblQzLWhBYV9JLTBlWWpadU5sakZEQTY0bkN6YzkybG5aY2xzSUh5ZmdJU1pHT29QN1JySGZPWHE5UWJ0RVN6anJuQlZZeldBeFJoXzZKb3lHeGswaFlJZzJnNEd2N29PVTdQVkxXNzdwNA?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
       "topic": "wirtschaft",
-      "time": "Thu, 22 Oct 2026 19:08:00 GMT",
+      "time": "Thu, 22 Oct 2026 19:08:32 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzFPa18wZmZqR3VPN2NpWlg5Vi1LaWI1ZTVCa0tEVWh5dmItLTJwMXJjRU5WTTFXVnViQjNZc092bDFNVmhpWDZBOUZnTWlRU09PWkwyNGlsVXNvOW1KamZObk1CTlRqWC1LcXk4bkNKSmc3aldhamhvSVVNMTBXeU4xZmNOZ3NnbFBZdktvNDM5dWRMd3V0amRhV1Z2ME85WU9ZaXRHVEcxd0dIc3kxc3JkNmFzNVJnbEExQTVaYjhoMnNyeU9HcERscDZhVW44OEdDek1WeFFheUg0dHFucVVXOUJOaGRVd3c?oc=5",
-          "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems PR Newswire Canada"
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZFJNUXVSSEtEaXZ3a3dkNndqWnZFdkk3UXJ5TUNuNEtZQ1lBSnNQWHNrYjJsTHZBOVFBNi1TaXhPOW4yMHFvZFdYMk1hNTRhMDFSWTdsaHNjWUZicTFwanNnQjlIc3pzWTZKXzZ3dHRENUhVcmdEeG16Z2dFMjh4MlFwMC1PT2JzbF9LTVRWNWp3WEc2QmZ2aERIOU5Ta2hJQjhqTkEzVHBZblQzLWhBYV9JLTBlWWpadU5sakZEQTY0bkN6YzkybG5aY2xzSUh5ZmdJU1pHT29QN1JySGZPWHE5UWJ0RVN6anJuQlZZeldBeFJoXzZKb3lHeGswaFlJZzJnNEd2N29PVTdQVkxXNzdwNA?oc=5",
+          "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems The Globe and Mail"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qQjNzZ0RweDJXR2FaQU94anU0QTB2NGtURVhfM3poRHNYVTdWU1RNckRSZzY5d1Z5RG9maWZ5MTh6b0lqOFZVdDEtdUh5Wms5aU04UWxrSXVMcWh4NnRteEJsbE41M1o4QUZSZExqQklFZXp6UnVJ?oc=5",
+          "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems Tolerance.ca"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "83547e4f48c8",
@@ -4807,14 +4830,9 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR2UweTZWbFYyMldfNmhCa2g0alJTSTU3aHhJRjYwTS12Z191YUFFcnB4MTd0NjlNSXVYRGwxbmE0aDlIY1JMOHpzT0VFd29ueVY1Y0VtR2VSVmJBZWZkS3pEeTg2NTZlUjJrdmo3Q2QwcEtUM2hPZFhoZ3p4bllTcHVxVlpqQ3hHTzdRSUc1MGh5dUV6VjQ0WS1lMWxvTDN4U0xuZTVZWVBCNlp5eDMtOVVFcWV5aU1nalI2ZUdsUGk2S0ZCM09WVXA3N1JaZ3ZkbGFCbDJLLUk0dlI4?oc=5",
           "summary": "International Business Machines Corporation $IBM Shares Bought by Vest Financial LLC MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVDVlYTl0TDAwb0lieW5TUEQzOE4xZWJyNjNabVRsczl0cFBWaWFwUmpYczJrbUdoSVdyMnRLNmdJWVJIeGdFeXQ1NUtsdW43ZFFQaUdJd2UtZHVOdUFWOWxTWGVBUFpDeGZ2RDgtakljOWw1RmtrZ25ueUY2bDhTaFZKazQtbzU1dVVZUzlQaXVIZ1ZKQ2s2R29NX1dFdVhxNktlY2R2ZTdkUkYyQ1pBek5OcG50cHVYSEoyWmJwVkFXNGlKQjg5c21Fd3ZMUXdfZzNISmNmaldQR01sRmRBX1VILVY4SVIzdU40?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock Purchased by Cardinal Capital Management MarketBeat"
         }
       ],
-      "sourcesCount": 5
+      "sourcesCount": 4
     },
     {
       "id": "cb167aea80cc",
@@ -4830,6 +4848,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/articles/cqe8rglz8p90o?at_medium=RSS&at_campaign=rss",
           "summary": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "670a0ac687f7",
+      "title": "Update: US Equity Indexes Mixed Amid Sliding Technology Mega-Caps, Crude Oil - Yahoo Finance",
+      "summary": "Update: US Equity Indexes Mixed Amid Sliding Technology Mega-Caps, Crude Oil Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajgwRGhfakFUbHBaeU9oWjJVSFhJcUdKcm40ajFDN0xGLW54ekc5dV80d0hTNWpHWTJhTC1CQ2NTN3g1YzgzWG5Kemo0YzlDWXNPcVhTdHdqODRSRlJRV0VSZnp3cmdYdUZ0SS1GaG9kLWVWZXZPbUNFeW9uVFJidGlRZ0JNVUlDakFGeVdoaHotdGlORkxjbg?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 16:19:25 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajgwRGhfakFUbHBaeU9oWjJVSFhJcUdKcm40ajFDN0xGLW54ekc5dV80d0hTNWpHWTJhTC1CQ2NTN3g1YzgzWG5Kemo0YzlDWXNPcVhTdHdqODRSRlJRV0VSZnp3cmdYdUZ0SS1GaG9kLWVWZXZPbUNFeW9uVFJidGlRZ0JNVUlDakFGeVdoaHotdGlORkxjbg?oc=5",
+          "summary": "Update: US Equity Indexes Mixed Amid Sliding Technology Mega-Caps, Crude Oil Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -5416,42 +5452,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/nijeryada-en-az-80-milyon-cocuk-kursun-zehirlenmesi-riski-altinda-960903.html",
           "summary": "Nijerya Sağlık ve Sosyal Refahtan Sorumlu Devlet Bakanı Iziaq Adekunle Salako, ülkede en az 80 milyon çocuğun kurşun zehirlenmesi riski altında bulunduğunu belirtti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "884e49154e23",
-      "title": "PHP kriziyle ilgili merak edilenler",
-      "summary": "Dünya genelinde milyonlarca internet sitesi ve kurumsal uygulamanın temelini oluşturan PHP altyapısında şifresiz erişim riski barındıran güvenlik açığı tespit edildi. Birçok ülkeyi alarma geçiren ve Türkiye'de de kurumların güvenlik güncellemelerine odaklandığı küresel siber krize ilişkin merak edilenler haberimizde.",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/php-kriziyle-ilgili-merak-edilenler-960902.html",
-      "sourceName": "TRT Haber Technologie",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 14:36:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Technologie",
-          "link": "https://www.trthaber.com/haber/bilim-teknoloji/php-kriziyle-ilgili-merak-edilenler-960902.html",
-          "summary": "Dünya genelinde milyonlarca internet sitesi ve kurumsal uygulamanın temelini oluşturan PHP altyapısında şifresiz erişim riski barındıran güvenlik açığı tespit edildi. Birçok ülkeyi alarma geçiren ve Türkiye'de de kurumların güvenlik güncellemelerine odaklandığı küresel siber krize ilişkin merak edilenler haberimizde."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e3189419e514",
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 22 Oct 2026 14:28:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-          "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
         }
       ],
       "sourcesCount": 1
