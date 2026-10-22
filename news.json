@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:04:36.048029+00:00",
+  "updated": "2026-10-22T10:01:26.836340+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -339,9 +339,14 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
           "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMnVBUXAzUmNMeDZQMmhXOFdyZmNYM0gwQmdMZWFDZEM2UnpONTFfZGYyLTdscmVxTm1RM3MySEkwYi1TWmFIWlpZR29sNHFNdWZuYlVqS1VzTUE?oc=5",
+          "summary": "Trump's green card curbs test Indian tech workers' American dream BBC"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "030e0762a24f",
@@ -362,24 +367,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0df9c7672d13",
-      "title": "Starker VfB holt Teilerfolg gegen Atlético",
-      "summary": "Der VfB Stuttgart hat beim 1:1 gegen Atlético Madrid eine über weite Strecken sehr gute Leistung geboten. Für die Schwaben, die lange in Überzahl spielten, war sogar mehr drin.",
-      "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/vfb-stuttgart-atletico-madrid-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-      "sourceName": "ZDF",
-      "region": "regional",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 23:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/vfb-stuttgart-atletico-madrid-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-          "summary": "Der VfB Stuttgart hat beim 1:1 gegen Atlético Madrid eine über weite Strecken sehr gute Leistung geboten. Für die Schwaben, die lange in Überzahl spielten, war sogar mehr drin."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "decf5172162d",
       "title": "Bayern muss sich mit Remis gegen Arsenal begnügen",
       "summary": "Der FC Bayern ist in der Champions League zuhause gegen den FC Arsenal nicht über ein 2:2 hinausgekommen. Beide Teams verspielten dabei eine Führung.",
@@ -393,60 +380,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/fc-bayern-muenchen-fc-arsenal-3-spieltag-zusammenfassung-saison-2026-27-100.html",
           "summary": "Der FC Bayern ist in der Champions League zuhause gegen den FC Arsenal nicht über ein 2:2 hinausgekommen. Beide Teams verspielten dabei eine Führung."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3da00f1e21e1",
-      "title": "Real Madrid eine Nummer zu groß für Leipzig",
-      "summary": "RB Leipzig hat im Gastspiel bei Real Madrid wenig zu bestellen gehabt. Der Bundesligist konnte die Höhe der Niederlage in Grenzen halten, zu mehr reichte es aber nicht.",
-      "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/real-madrid-rb-leipzig-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 23:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/real-madrid-rb-leipzig-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-          "summary": "RB Leipzig hat im Gastspiel bei Real Madrid wenig zu bestellen gehabt. Der Bundesligist konnte die Höhe der Niederlage in Grenzen halten, zu mehr reichte es aber nicht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b862ab688ac8",
-      "title": "Guirassy lässt Dortmund gegen Sabah jubeln",
-      "summary": "Dank Serhou Guirassy hat Borussia Dortmund einen Auswärtssieg in der Champions League gefeiert. Der Doppelpacker schoss den BVB zu einem 2:1 bei Sabah FK in Aserbaidschan.",
-      "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/sabah-fk-borussia-dortmund-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 23:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/sabah-fk-borussia-dortmund-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-          "summary": "Dank Serhou Guirassy hat Borussia Dortmund einen Auswärtssieg in der Champions League gefeiert. Der Doppelpacker schoss den BVB zu einem 2:1 bei Sabah FK in Aserbaidschan."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e9a05b6d9b7b",
-      "title": "Como zu quirlig für Manchester United",
-      "summary": "Como 1907 sorgt weiter für Furore: Am dritten Spieltag der Champions League setzten sich die Italiener zuhause klar gegen Manchester United durch.",
-      "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/como-manchester-united-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 23:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/como-manchester-united-3-spieltag-zusammenfassung-saison-2026-27-100.html",
-          "summary": "Como 1907 sorgt weiter für Furore: Am dritten Spieltag der Champions League setzten sich die Italiener zuhause klar gegen Manchester United durch."
         }
       ],
       "sourcesCount": 1
@@ -573,24 +506,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/kullanicilari-gizlilik-konusunda-yanilttigi-icin-metaya-25-milyar-dolar-ceza-verildi-960822.html",
           "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle sosyal medya şirketi Meta'nın eyalete 25 milyar dolar ceza ödemesine hükmetti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5b60abde8a31",
-      "title": "North Florida Fair increasing safety measures with new code of conduct and security technology - WCTV",
-      "summary": "North Florida Fair increasing safety measures with new code of conduct and security technology WCTV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa29xWXJtSFk2MjBkRmhBRHl1bTd5M0tNTnZpdmFfWHRRaDdkN2d4X0lNY21jQU1NdVkyLS1MSlBLc3JVNGF4WVJqelF0ODVfM3ZBRmFaR29mTFhRWWFKUVpzNnBlYUJqQkVwODdNZTAwLWJsWFVKVzhLWlIyRG5iT282LWlJNHJqY2I0czZHWkFsb1pPblJvS1BEOUV4a1U4S3NxLUYxZjI3elRPQmlkdmMxTlE2Ymxra1lj?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 22:32:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa29xWXJtSFk2MjBkRmhBRHl1bTd5M0tNTnZpdmFfWHRRaDdkN2d4X0lNY21jQU1NdVkyLS1MSlBLc3JVNGF4WVJqelF0ODVfM3ZBRmFaR29mTFhRWWFKUVpzNnBlYUJqQkVwODdNZTAwLWJsWFVKVzhLWlIyRG5iT282LWlJNHJqY2I0czZHWkFsb1pPblJvS1BEOUV4a1U4S3NxLUYxZjI3elRPQmlkdmMxTlE2Ymxra1lj?oc=5",
-          "summary": "North Florida Fair increasing safety measures with new code of conduct and security technology WCTV"
         }
       ],
       "sourcesCount": 1
@@ -758,24 +673,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/swr/swr-ulmer-basketballer-verlieren-auch-eurocup-spiel-in-thessaloniki-100.html",
           "summary": "Die Ulmer Basketballer spielen sich allmählich in eine Krise. Nach zuletzt vier Niederlagen auf nationaler Ebene verlieren sie auch im EuroCup in Thessaloniki."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "65a0184081f9",
-      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 22:00:58 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games."
         }
       ],
       "sourcesCount": 1
@@ -1141,6 +1038,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "dd426c10e9ae",
+      "title": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+      "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRkE3MThSVU9TR2lXcXlkR2dNanFNbkZPbUs0aTY4MGFMM2llMnRhSi1TOVlOZ1ZRc2twejRhWVl0RHBoblQzMnpUTkVjM0c0SVZIQzVJcm5JS0lrenZOTDY1dzBQVU1ub2lEQzJoU1BBZFNfc1Z4QU9Hd04zcEhINFhTa3c2X1Y2QWgzcl9EZER4MXRGZWlsaFdVNFVmSV9QMmFzQUtJWXEtM3oyWXBNSEFxcDVXRHpzeWJab2FPeWVNMTlzeE1wZWhDaUZFdjNXdkl1OHRaX1BqMnl4VWpkcUw0V2p5Vkg3ZU12WUFXWFN2ZkNHRjJYT2tnSHlXa1BNNFphNU4xYkdJSG5EYWc?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 21:03:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRkE3MThSVU9TR2lXcXlkR2dNanFNbkZPbUs0aTY4MGFMM2llMnRhSi1TOVlOZ1ZRc2twejRhWVl0RHBoblQzMnpUTkVjM0c0SVZIQzVJcm5JS0lrenZOTDY1dzBQVU1ub2lEQzJoU1BBZFNfc1Z4QU9Hd04zcEhINFhTa3c2X1Y2QWgzcl9EZER4MXRGZWlsaFdVNFVmSV9QMmFzQUtJWXEtM3oyWXBNSEFxcDVXRHpzeWJab2FPeWVNMTlzeE1wZWhDaUZFdjNXdkl1OHRaX1BqMnl4VWpkcUw0V2p5Vkg3ZU12WUFXWFN2ZkNHRjJYT2tnSHlXa1BNNFphNU4xYkdJSG5EYWc?oc=5",
+          "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f433a9d0fd9e",
       "title": "Endonezya'da yangınlar nedeniyle 300 binden fazla akut solunum yolu enfeksiyonu vakası tespit edildi",
       "summary": "Endonezya’da 7 eyalette devam eden orman yangınları nedeniyle 314 bin 124 akut solunum yolu enfeksiyonu vakasının tespit edildiği bildirildi.",
@@ -1216,34 +1131,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "0144ea456adb",
-      "title": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary - TradingView",
-      "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOUNYMm95a1NkQS00dEZXWU4xdlJhTk0yN0tzQjhZeEJwUk5aT2h5WUZLYVhRQ1dCYmMyckc1VEVmQ1BRLTZxVnhvckxXZFF5LUFIMHBYSEcxSVJrLXJJNWJtbUs2WlVKQ0FsRnVxUlBnVnNpcUMtaVpGcHBRb2FXOExoY0p4RFpsdDBQck8yYlRCMlBfbks3QTlRdlJfUFFBWnBoZ1VXb2dyVUYzdEROWnRYeFZXUFJ1RmRlTGdUZXdwRldDWU11aWVZek1zbi1CME9EN1NmdU9JRTZCRjF2SVhtYzRzaWhYM0NxNkY5NUg4WDNrWlpZTHR0aUt6aEpNYV9UQlNvYkI0OTBEOHc?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 21:00:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOUNYMm95a1NkQS00dEZXWU4xdlJhTk0yN0tzQjhZeEJwUk5aT2h5WUZLYVhRQ1dCYmMyckc1VEVmQ1BRLTZxVnhvckxXZFF5LUFIMHBYSEcxSVJrLXJJNWJtbUs2WlVKQ0FsRnVxUlBnVnNpcUMtaVpGcHBRb2FXOExoY0p4RFpsdDBQck8yYlRCMlBfbks3QTlRdlJfUFFBWnBoZ1VXb2dyVUYzdEROWnRYeFZXUFJ1RmRlTGdUZXdwRldDWU11aWVZek1zbi1CME9EN1NmdU9JRTZCRjF2SVhtYzRzaWhYM0NxNkY5NUg4WDNrWlpZTHR0aUt6aEpNYV9UQlNvYkI0OTBEOHc?oc=5",
-          "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd1d1M2FJdE9wbEZRdmNvel9PVFJaU2dZZTl5TWhmUHhrQ3l0cVNNcXZ1XzNIcHd0UHlEUU9sLWR1OURnOG43WDJ5X1pFUTVvSkxYaDZTRC1UWlZ5Z0J5V1ZMY3JFaFV3OHdYRXl1c2hweE9rRnI2OXktSXRTWVJBSE1DSE55VHVKUUV1VkV1Q3h4aDQtaWJ3YlVDbjRsdk9qdmdsWENjRXQteEY1NW9yY1dCZUVKekZzWmRlamZzb1Bzc1lXMkF6eGVSUkFQMjVwRTlrMVVtbzNHX3l3UThoTXF6bklZMkE?oc=5",
-          "summary": "International Business Machines Corporation Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 www.marketscreener.com"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOLXJPSFNfejJwU2pJWjBfM1drVEZUNkRZTnFPaUhmOThaQnI2aVY4bkRIX0FQV28zSDZCdTF1WFVCRVZqTnZUaTcxMnFWTXFSUS1OanRiTzBhX0F3SlBOOU1neEw1ZUpRNkZzc25GX1lpYms1MTI1aUJJSHc0Y0tqNmtha2RMZ3U3cUtDd1NwTmlyd0ZvMElPbThGdXNCSndkN2J1U21zaDNUSTgwd2sxTkpqV3gzalZiTUNVVjRFc0oxZ3JqdE5zQnVPU3p0TXNkMDBaZE1vRGFGMk85aHlIWjA1cnYwS0Z4VmFYXzV4LXVhb2c4eXV2QTNtTGg0RHF5dVE?oc=5",
-          "summary": "International Business Machines Corporation expected to post earnings of $2.86 a share - Earnings Preview TradingView"
-        }
-      ],
-      "sourcesCount": 3
     },
     {
       "id": "9402646c0abe",
@@ -1593,24 +1480,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4a38058068dd",
-      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "local",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 19:58:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-          "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "e3dbce13ab37",
       "title": "Websites taken down worldwide as critical cyber-security update issued",
       "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
@@ -1786,24 +1655,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/inland/regional/schleswigholstein/reform-bei-trassenpreisen-vorschlag-aus-sh-angenommen,nahverkehr-196.html",
           "summary": "Bei der Verkehrsministerkonferenz haben sich die Minister auf den Vorschlag aus SH zu einer Reform der Trassenpreise verständigt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "aca3c23178d6",
-      "title": "Websites taken offline over PHP risks - Reuters",
-      "summary": "Websites taken offline over PHP risks Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2NPSkJQaVJBS0ZaZDYzTWR0Z1F6Y1VoUnBmWFpzMEtpSnFiWkdkQk1yT2RKaWJFbFpaRkZFUmJPUERFS0U0dUdHZjNseDFkTkt4Y3ZhT19aZjFGY0RlOUpjU1EwMVp1dy1ZMDNZellhdTZmQnRvZ21HQ2JhN1EwZ1dJZ1ZoUXJrMk5Qeg?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 19:05:08 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2NPSkJQaVJBS0ZaZDYzTWR0Z1F6Y1VoUnBmWFpzMEtpSnFiWkdkQk1yT2RKaWJFbFpaRkZFUmJPUERFS0U0dUdHZjNseDFkTkt4Y3ZhT19aZjFGY0RlOUpjU1EwMVp1dy1ZMDNZellhdTZmQnRvZ21HQ2JhN1EwZ1dJZ1ZoUXJrMk5Qeg?oc=5",
-          "summary": "Websites taken offline over PHP risks Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1989,6 +1840,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "da5b431e9124",
+      "title": "Hungarian university breaks into world’s Top 100 with international business master’s - Daily News Hungary",
+      "summary": "Hungarian university breaks into world’s Top 100 with international business master’s Daily News Hungary",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZUEN4c1hRUEdnV3pEWGZOWURJNzdGcDFJSUd0OHQ2aEYtSTE5eXBhT3BwSV9VNDhxQ1psdmpScUpPZXBJczNqX2R6M3lvOVVIYXFPdzNQMmNJN1lKTkY5ZGx5SFZ1NzhCVHRjOVBkRUZzcjdIZVZ6aw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 18:04:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZUEN4c1hRUEdnV3pEWGZOWURJNzdGcDFJSUd0OHQ2aEYtSTE5eXBhT3BwSV9VNDhxQ1psdmpScUpPZXBJczNqX2R6M3lvOVVIYXFPdzNQMmNJN1lKTkY5ZGx5SFZ1NzhCVHRjOVBkRUZzcjdIZVZ6aw?oc=5",
+          "summary": "Hungarian university breaks into world’s Top 100 with international business master’s Daily News Hungary"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "bba854432413",
       "title": "\"Eine Zunahme der Fähigkeiten und Macht bei KI\"",
       "summary": "Digitalexperte Sascha Lobo widerspricht bei \"Markus Lanz\" düsteren Warnungen vor künstlicher Intelligenz. Er sieht dahinter auch wirtschaftliche Interessen.",
@@ -2056,24 +1925,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-dedektorleri-edebiyat-dunyasini-karistirdi-yazarlar-haksiz-yere-suclaniyor-960796.html",
           "summary": "Yapay zeka araçlarının yaygınlaşması, edebi eserlerin yaratım sürecine yönelik şüpheleri artırırken, güvenilirliği tartışmalı olan yapay zeka dedektörleri birçok yazarın haksız yere suçlanmasına ve ödüllerinden mahrum kalmasına yol açıyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "72d1346fa060",
-      "title": "Paris ve Lyon'da kısmi sokağa çıkma yasağı 1 gün uzatıldı",
-      "summary": "Fransa’da şiddet olaylarının yaşandığı sarı yelekliler eylemlerinin ardından bazı şehirlerde kısmi sokağa çıkma yasağı uygulanırken başkent Paris ve Lyon'daki yasağın 1 gün daha uzatıldığı bildirildi.",
-      "link": "https://www.trthaber.com/haber/dunya/paris-ve-lyonda-kismi-sokaga-cikma-yasagi-1-gun-uzatildi-960795.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 17:35:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/paris-ve-lyonda-kismi-sokaga-cikma-yasagi-1-gun-uzatildi-960795.html",
-          "summary": "Fransa’da şiddet olaylarının yaşandığı sarı yelekliler eylemlerinin ardından bazı şehirlerde kısmi sokağa çıkma yasağı uygulanırken başkent Paris ve Lyon'daki yasağın 1 gün daha uzatıldığı bildirildi."
         }
       ],
       "sourcesCount": 1
@@ -3141,6 +2992,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "07711cabd447",
+      "title": "Aufgabe von Stadtbüchereien: Kaffeedurst und Leselust",
+      "summary": "Stadtbüchereien wollen Wohnzimmer sein: Die Nutzer sollen sich dort wohl fühlen. Das ist gut, solange es der Freude am Lesen dient.",
+      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/was-stadtbibliotheken-heute-leisten-muessen-201605217.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 09:47:14 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/was-stadtbibliotheken-heute-leisten-muessen-201605217.html",
+          "summary": "Stadtbüchereien wollen Wohnzimmer sein: Die Nutzer sollen sich dort wohl fühlen. Das ist gut, solange es der Freude am Lesen dient."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "88d421225658",
       "title": "Fon soruşturması kapsamında 26 kişi gözaltına alındı",
       "summary": "Fon soruşturması kapsamında hakkında gözaltı kararı verilen 31 şüpheliden 26'sı gözaltına alındı.",
@@ -3280,24 +3149,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
           "summary": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier Firmen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c07cab77b96d",
-      "title": "Liverpool gewinnt auch Dank Wirtz gegen Villarreal",
-      "summary": "Der FC Liverpool hat seine Champions-League-Partie gegen den FC Villarreal gewonnen. Florian Wirtz lenkte sein Team zum Sieg.",
-      "link": "https://www.sportschau.de/fussball/championsleague/wirtz-bringt-die-wende-an-der-anfield-road,wirtz-liverpool-villareal-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "germany",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 08:56:01 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/championsleague/wirtz-bringt-die-wende-an-der-anfield-road,wirtz-liverpool-villareal-100.html",
-          "summary": "Der FC Liverpool hat seine Champions-League-Partie gegen den FC Villarreal gewonnen. Florian Wirtz lenkte sein Team zum Sieg."
         }
       ],
       "sourcesCount": 1
@@ -3591,24 +3442,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "64ee823b788d",
-      "title": "OpenAI says its AI agents weakened internal monitoring system By Reuters - Investing.com",
-      "summary": "OpenAI says its AI agents weakened internal monitoring system By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEphYnl5Ung3V2dXdWJoak9jNjRhRzBOX0ZEdUlGb1V3eXdnTE1XYVZhRW5tUVhpdnVrbWFBNmJXeTB5T2tvZmc1U0RXZVVGdlhMMHRtNU15OUxFSFJoN0NrNHRZUUFDMk96ZEo5b3lRai1yaWkzdV9QbTlzTmxfYUdJVlJSRW9jamJkdy1sajVxbjBGS215SHJybHRrM2Q5aFFCWXdZanZMbDhuRFNPSFkzMFVpYU9FUnc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 02:58:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEphYnl5Ung3V2dXdWJoak9jNjRhRzBOX0ZEdUlGb1V3eXdnTE1XYVZhRW5tUVhpdnVrbWFBNmJXeTB5T2tvZmc1U0RXZVVGdlhMMHRtNU15OUxFSFJoN0NrNHRZUUFDMk96ZEo5b3lRai1yaWkzdV9QbTlzTmxfYUdJVlJSRW9jamJkdy1sajVxbjBGS215SHJybHRrM2Q5aFFCWXdZanZMbDhuRFNPSFkzMFVpYU9FUnc?oc=5",
-          "summary": "OpenAI says its AI agents weakened internal monitoring system By Reuters Investing.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0344f6e810a9",
       "title": "Lunar Surface Technology - NASA (.gov)",
       "summary": "Lunar Surface Technology NASA (.gov)",
@@ -3699,24 +3532,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e536c9f51b08",
-      "title": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence - UNESCO",
-      "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGxKeTh5a0tack93LUxsenVMblMzVFFPR3p0Y2lXWWpkUWo0dmt2S3AzX2NrZTBUa3NQR2NyTUNONmUwSldpenRFeEJPVV90RTBxWnp4RDFuejl0RVVzLVRzZkpYRGtLbkNIcTk2dWpZbm12RnB0VzlWSTRPVmxEdGVjYUo2WloxQ182ekJXZHJhUmFNWjhBWEJKTndMMVY0bHBqTmZQdmQxb2lwb3d3OFVXdUF5VG8?oc=5",
-          "summary": "Toward Safe Sport: UNESCO launches policy recommendations from people impacted by violence UNESCO"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "1e5aa1333184",
       "title": "F1'de Türkiye Grand Prix'si 2027 Ekim ayında yapılacak",
       "summary": "Türkiye'nin de yer aldığı ve 24 yarışın koşulacağı Formula 1'in 2027 sezonunun takvimi onaylandı. Buna göre Türkiye Grand Prix'si 1-3 Ekim 2027 tarihlerinde gerçekleştirilecek.",
@@ -3789,6 +3604,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "1726e1388bf9",
+      "title": "South Carolina International Business Career Guide showcases international opportunities in its own backyard - University of South Carolina",
+      "summary": "South Carolina International Business Career Guide showcases international opportunities in its own backyard University of South Carolina",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLS1jX1l5WUVObDdiODU2YjZoRFNhY0dZWkZoMHhkSGUtUDN1Q3loV0xQb2pXNTg0TEdlYkVYOTVoc3g3dVFPQUxHOXZ4UVpseWtLWmtsMWZGUHQybDNuSHhjMXA0WVBTRHc1YjV3TnlnOXh3LU01cXNNYm9ocUwtT1lCcUlzcHN5SE1WSzRmbm5tOWExaWhER1l5ZGVaaWFNTmtVMk5tLU9BU1lldlE?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 21:10:27 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLS1jX1l5WUVObDdiODU2YjZoRFNhY0dZWkZoMHhkSGUtUDN1Q3loV0xQb2pXNTg0TEdlYkVYOTVoc3g3dVFPQUxHOXZ4UVpseWtLWmtsMWZGUHQybDNuSHhjMXA0WVBTRHc1YjV3TnlnOXh3LU01cXNNYm9ocUwtT1lCcUlzcHN5SE1WSzRmbm5tOWExaWhER1l5ZGVaaWFNTmtVMk5tLU9BU1lldlE?oc=5",
+          "summary": "South Carolina International Business Career Guide showcases international opportunities in its own backyard University of South Carolina"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "acccc7719597",
+      "title": "International business is influenced by local political climate, study finds - Phys.org",
+      "summary": "International business is influenced by local political climate, study finds Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlg1azZvNkdqbW1LTTFvY25lMEJvR1NJSnJCMzNlWXgtLVM5MmxwQlJfMEM4SndENXF0V1ZVbTEwTUY3eEw2YjJiY3dVX0ZQVk1vVGU1ZThGUjlRQ29wMXNjZVMxWlEyV3BVaGlxbnFyVkJoWWpxWHZZVTFxOGtmWlY0TUZpVzdT?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 20:40:11 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlg1azZvNkdqbW1LTTFvY25lMEJvR1NJSnJCMzNlWXgtLVM5MmxwQlJfMEM4SndENXF0V1ZVbTEwTUY3eEw2YjJiY3dVX0ZQVk1vVGU1ZThGUjlRQ29wMXNjZVMxWlEyV3BVaGlxbnFyVkJoWWpxWHZZVTFxOGtmWlY0TUZpVzdT?oc=5",
+          "summary": "International business is influenced by local political climate, study finds Phys.org"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "8674afff0b3e",
       "title": "Sorge um Papst Leo XIV. nach Lungenkrebs-Diagnose",
       "summary": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden.",
@@ -3802,6 +3653,24 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1666086.html",
           "summary": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4c23339645b2",
+      "title": "Business School graduate programs earn top U.S. rankings, climb sharply in QS International Trade Rankings 2027 - University of Miami News",
+      "summary": "Business School graduate programs earn top U.S. rankings, climb sharply in QS International Trade Rankings 2027 University of Miami News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMnQwc2k3REY1QXFsZHRITmZyVG1EdFo4SzNtekNsN3RiQTkyeWFpTm8xSzlreE9BdkFaX0JmVkdpQzdLb00yYXhMSUNNR0FfN0dtV3dpLW9wd0xuVzQwYU12enJQbF9xUF9IdG9YWm5mV1JtM05MV0tsTVNnV1dTeEI1RVdFc25mR1NFNDdsblF4ZXI4Nnc4bU11ZmR3NUo5aU9yN3A4WC0xLTF3ZjFOcnJQR1p6R2p4WTV3QlFUbkZyQ3FzYnp1MUVkSTkyT3pFTDhibXk5Q0I4ZFRFS3BOREpicmhITnhDVENaUWVR?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 14 Oct 2026 14:36:05 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMnQwc2k3REY1QXFsZHRITmZyVG1EdFo4SzNtekNsN3RiQTkyeWFpTm8xSzlreE9BdkFaX0JmVkdpQzdLb00yYXhMSUNNR0FfN0dtV3dpLW9wd0xuVzQwYU12enJQbF9xUF9IdG9YWm5mV1JtM05MV0tsTVNnV1dTeEI1RVdFc25mR1NFNDdsblF4ZXI4Nnc4bU11ZmR3NUo5aU9yN3A4WC0xLTF3ZjFOcnJQR1p6R2p4WTV3QlFUbkZyQ3FzYnp1MUVkSTkyT3pFTDhibXk5Q0I4ZFRFS3BOREpicmhITnhDVENaUWVR?oc=5",
+          "summary": "Business School graduate programs earn top U.S. rankings, climb sharply in QS International Trade Rankings 2027 University of Miami News"
         }
       ],
       "sourcesCount": 1
@@ -4185,24 +4054,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "d880945ba009",
-      "title": "International Business Machines (NYSE:IBM) Stock Jumps 2.5% - Should You Buy? - MarketBeat",
-      "summary": "International Business Machines (NYSE:IBM) Stock Jumps 2.5% - Should You Buy? MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWU1cmhCQmo5U2RlalZDVkZhSS05aFBOY1dXbGU1ZEpvUVZhc1N0SkRZVjJBd2Q4SU16ZXhjclhwaHlDLU1kMVpOaUVKZTJLUFBENmJXdW00LVpHNGNldzhXYUY5eC1yYlp3d0w1NFZMT1p1elVUczBXakdpemhPNV8zMUxIX1FDQU5OcnBGNXRZTVhZS0M1ZGRLX2tFYkFZUDZGVUxqdmlPYlRvZ1c0T2N1ZzlNTUk0VDRlYzlWOUN2b2ZkN2JxSWp3?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 20 Oct 2026 21:42:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWU1cmhCQmo5U2RlalZDVkZhSS05aFBOY1dXbGU1ZEpvUVZhc1N0SkRZVjJBd2Q4SU16ZXhjclhwaHlDLU1kMVpOaUVKZTJLUFBENmJXdW00LVpHNGNldzhXYUY5eC1yYlp3d0w1NFZMT1p1elVUczBXakdpemhPNV8zMUxIX1FDQU5OcnBGNXRZTVhZS0M1ZGRLX2tFYkFZUDZGVUxqdmlPYlRvZ1c0T2N1ZzlNTUk0VDRlYzlWOUN2b2ZkN2JxSWp3?oc=5",
-          "summary": "International Business Machines (NYSE:IBM) Stock Jumps 2.5% - Should You Buy? MarketBeat"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "09e713fc747f",
       "title": "Audit regulator looking into Manchester City accounting",
       "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
@@ -4344,24 +4195,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0bb3f8f790f7",
-      "title": "BIST 100 endeksi günü yükselişle kapattı",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gunu-yukselisle-kapatti-960665.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "wirtschaft",
-      "time": "Tue, 20 Oct 2026 18:28:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gunu-yukselisle-kapatti-960665.html",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "0920d8f664f0",
       "title": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
       "summary": "Seit Wochen greift Russland gezielt Brücken in der ukrainischen Hauptstadt Kiew an. Die Einwohner versuchen, sich mit dem Verkehrschaos so gut wie möglich zu arrangieren.",
@@ -4470,6 +4303,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e43e71270f80",
+      "title": "U15-WM der FIFA startet - mit Russland, ohne Deutschland",
+      "summary": "In Aserbaidschan beginnt eine Fußball-WM von ungeahnter Größe: 189 Nachwuchsteams nehmen an der neuen U15-WM der FIFA teil - Deutschland ist nicht dabei, Russland schon.",
+      "link": "https://www.sportschau.de/fussball/u15-wm-der-fifa-startet-mit-russland-ohne-deutschland,fifa-u15-wm-aserbaidschan-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Tue, 20 Oct 2026 16:14:05 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/u15-wm-der-fifa-startet-mit-russland-ohne-deutschland,fifa-u15-wm-aserbaidschan-100.html",
+          "summary": "In Aserbaidschan beginnt eine Fußball-WM von ungeahnter Größe: 189 Nachwuchsteams nehmen an der neuen U15-WM der FIFA teil - Deutschland ist nicht dabei, Russland schon."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4f991b21c2cd",
       "title": "Top Strategic Technology Trends for 2027 - Gartner",
       "summary": "Top Strategic Technology Trends for 2027 Gartner",
@@ -4488,24 +4339,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7fe058073e7c",
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "local",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 15:58:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-          "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ece38309c00f",
       "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
       "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
@@ -4519,42 +4352,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
           "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "52cbbc7d1ec2",
-      "title": "Gabar'da ilk hedef günlük 100 bin varil petrol",
-      "summary": "Terörden arındırılan Gabar'da Türkiye'nin en kaliteli petrolünü ürettiklerini söyleyen Bakan Bayraktar, \"Günde yaklaşık 85 bin varil inşallah Gabar'da yeni yaptığımız keşiflerle bu rakam 100 binin üzerine 2027 yılında çıkmış olacak\" açıklamasını yaptı.",
-      "link": "https://www.trthaber.com/haber/ekonomi/gabarda-ilk-hedef-gunluk-100-bin-varil-petrol-960651.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 15:35:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/gabarda-ilk-hedef-gunluk-100-bin-varil-petrol-960651.html",
-          "summary": "Terörden arındırılan Gabar'da Türkiye'nin en kaliteli petrolünü ürettiklerini söyleyen Bakan Bayraktar, \"Günde yaklaşık 85 bin varil inşallah Gabar'da yeni yaptığımız keşiflerle bu rakam 100 binin üzerine 2027 yılında çıkmış olacak\" açıklamasını yaptı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d2e99da2a9a6",
-      "title": "Samp;P Global Ratings: Türkiye'de hanehalkının liraya güveni dirençli kalmaya devam ediyor",
-      "summary": "S&P Global Ratings, Türkiye'de hanehalkının liraya güveninin dirençli kalmaya devam ettiğini ve Orta Doğu'daki savaştan kaynaklanan enerji fiyat şokunun enflasyonda yukarı yönlü baskı oluşturmasına rağmen ülke ekonomisinin şokun etkilerini atlatabileceğini bildirdi.",
-      "link": "https://www.trthaber.com/haber/ekonomi/sp-global-ratings-turkiyede-hanehalkinin-liraya-guveni-direncli-kalmaya-devam-ediyor-960650.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "sport",
-      "time": "Tue, 20 Oct 2026 15:32:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/sp-global-ratings-turkiyede-hanehalkinin-liraya-guveni-direncli-kalmaya-devam-ediyor-960650.html",
-          "summary": "S&P Global Ratings, Türkiye'de hanehalkının liraya güveninin dirençli kalmaya devam ettiğini ve Orta Doğu'daki savaştan kaynaklanan enerji fiyat şokunun enflasyonda yukarı yönlü baskı oluşturmasına rağmen ülke ekonomisinin şokun etkilerini atlatabileceğini bildirdi."
         }
       ],
       "sourcesCount": 1
@@ -4789,24 +4586,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-8-turcornumuzun-5i-kadin-girisimciler-tarafindan-kuruldu-960633.html",
           "summary": "Bakan Kacır, Türk kadınlarının bilim ve teknolojideki geniş birikiminin, yeteneklerinin ve üretme azminin Milli Teknoloji Hamlesi'ne güç kattığını belirterek, \"Girişimcilik ekosistemimizden çıkan, milyar dolar değerlemeyi aşan 8 teknoloji girişimimizin, Turcornumuzun 5'i kadın girişimciler tarafından kuruldu\" dedi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ca1cdaf55fa7",
-      "title": "Türkiye'nin dünya turizm gelirlerinde sıra atlaması bekleniyor",
-      "summary": "Türkiye'nin gelecek yıl turizm gelirleri sıralamasında basamak atlayarak en çok gelire sahip 6'ncı ülke olması bekleniyor. En çok turist çeken ülke sıralamasında da Türkiye'nin bu yıl ulaştığı 4'üncülük konumunu 2027-2029 döneminde de koruması öngörülüyor.",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dunya-turizm-gelirlerinde-sira-atlamasi-bekleniyor-960632.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 12:33:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dunya-turizm-gelirlerinde-sira-atlamasi-bekleniyor-960632.html",
-          "summary": "Türkiye'nin gelecek yıl turizm gelirleri sıralamasında basamak atlayarak en çok gelire sahip 6'ncı ülke olması bekleniyor. En çok turist çeken ülke sıralamasında da Türkiye'nin bu yıl ulaştığı 4'üncülük konumunu 2027-2029 döneminde de koruması öngörülüyor."
         }
       ],
       "sourcesCount": 1
@@ -5280,6 +5059,96 @@
       "sourcesCount": 1
     },
     {
+      "id": "e7a7c0e56132",
+      "title": "Türk otobüs ve minibüslerine 60 ülkeden talep",
+      "summary": "Türkiye'nin otobüs, minibüs ve midibüs ihracatı, ocak-eylül döneminde geçen yılın aynı dönemine göre artarak 2 milyar 427 milyon 706 bin dolara yükseldi. Söz konusu dönemde 60 ülkeye ihracat yapılırken Fransa ilk sırada yer aldı.",
+      "link": "https://www.trthaber.com/haber/ekonomi/turk-otobus-ve-minibuslerine-60-ulkeden-talep-960881.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 12:42:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/turk-otobus-ve-minibuslerine-60-ulkeden-talep-960881.html",
+          "summary": "Türkiye'nin otobüs, minibüs ve midibüs ihracatı, ocak-eylül döneminde geçen yılın aynı dönemine göre artarak 2 milyar 427 milyon 706 bin dolara yükseldi. Söz konusu dönemde 60 ülkeye ihracat yapılırken Fransa ilk sırada yer aldı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9c49acff12a7",
+      "title": "İstanbul Havalimanı'ndaki 4. pist ile 284 ton yakıt tasarrufu sağlandı",
+      "summary": "İstanbul Havalimanı'nda 18 Eylül'de hizmete açılan 4. ana pistten 15 Ekim'e kadar 1738 kalkış gerçekleştirildi.",
+      "link": "https://www.trthaber.com/haber/ekonomi/istanbul-havalimanindaki-4-pist-ile-284-ton-yakit-tasarrufu-saglandi-960880.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 12:39:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/istanbul-havalimanindaki-4-pist-ile-284-ton-yakit-tasarrufu-saglandi-960880.html",
+          "summary": "İstanbul Havalimanı'nda 18 Eylül'de hizmete açılan 4. ana pistten 15 Ekim'e kadar 1738 kalkış gerçekleştirildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "2af93470c283",
+      "title": "Bakan Kacır: OSB'lerimizin sayısını 374'e yükselttik",
+      "summary": "Sanayi ve Teknoloji Bakanı Kacır, 118 hektarlık Burdur Batı ve 38 hektarlık Amasya Gümüşhacıköy organize sanayi bölgelerini (OSB) bugün itibarıyla ilan ettiklerini belirterek \"Ülkemize toplam 156 hektarlık yeni planlı sanayi alanı kazandırmış olduk. Böylelikle OSB'lerimizin sayısını 374'e yükselttik\" dedi.",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-osblerimizin-sayisini-374e-yukselttik-960879.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 22 Oct 2026 12:22:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-osblerimizin-sayisini-374e-yukselttik-960879.html",
+          "summary": "Sanayi ve Teknoloji Bakanı Kacır, 118 hektarlık Burdur Batı ve 38 hektarlık Amasya Gümüşhacıköy organize sanayi bölgelerini (OSB) bugün itibarıyla ilan ettiklerini belirterek \"Ülkemize toplam 156 hektarlık yeni planlı sanayi alanı kazandırmış olduk. Böylelikle OSB'lerimizin sayısını 374'e yükselttik\" dedi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a79c4eb8bd7a",
+      "title": "Şimşek: Türkiye'nin borçluluk düzeyinin düşük olması ekonomik şoklara karşı dayanıklılığını artırıyor",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Dünya genelinde toplam borcun küresel hasılaya oranı yüzde 300'ü, gelişmekte olan piyasalarda ise yüzde 230'u aştı. Türkiye bu açıdan avantajlı bir konumda.",
+      "link": "https://www.trthaber.com/haber/ekonomi/simsek-turkiyenin-borcluluk-duzeyinin-dusuk-olmasi-ekonomik-soklara-karsi-dayanikliligini-artiriyor-960876.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 12:03:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/simsek-turkiyenin-borcluluk-duzeyinin-dusuk-olmasi-ekonomik-soklara-karsi-dayanikliligini-artiriyor-960876.html",
+          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Dünya genelinde toplam borcun küresel hasılaya oranı yüzde 300'ü, gelişmekte olan piyasalarda ise yüzde 230'u aştı. Türkiye bu açıdan avantajlı bir konumda."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1c1b78131d78",
+      "title": "PHP, sunucuları tehdit eden iki kritik güvenlik açığını gidermek için güncelleme yayımladı",
+      "summary": "İnternet sitelerinin geliştirilmesinde yaygın olarak kullanılan PHP programlama dilinde, sunucuların kontrolünün ele geçirilmesine neden olabilecek iki kritik güvenlik açığını gidermek üzere güncelleme yayımlandığı duyuruldu.",
+      "link": "https://www.trthaber.com/haber/dunya/php-sunuculari-tehdit-eden-iki-kritik-guvenlik-acigini-gidermek-icin-guncelleme-yayimladi-960875.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 12:00:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/php-sunuculari-tehdit-eden-iki-kritik-guvenlik-acigini-gidermek-icin-guncelleme-yayimladi-960875.html",
+          "summary": "İnternet sitelerinin geliştirilmesinde yaygın olarak kullanılan PHP programlama dilinde, sunucuların kontrolünün ele geçirilmesine neden olabilecek iki kritik güvenlik açığını gidermek üzere güncelleme yayımlandığı duyuruldu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "55e32eec1e5e",
       "title": "Yaş meyve ve sebze ihracatının yüzde 21'i Batı Akdeniz'den",
       "summary": "Türkiye genelinde 9,5 ayda yapılan 3,3 milyar dolarlık yaş meyve ve sebze ihracatının yüzde 21'i, Batı Akdeniz İhracatçılar Birliğince (BAİB) gerçekleştirildi.",
@@ -5424,6 +5293,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "1ced4447cc09",
+      "title": "Die \"Bergdoktor\"-Stars über den Erfolg: \"Ein großes Glück\"",
+      "summary": "Seit fast 20 Jahren läuft \"Der Bergdoktor\". Die Schauspieler freuen sich über den Erfolg und sind auch während der Drehs für die 20.",
+      "link": "https://www.zdfheute.de/panorama/prominente/bergdoktor-20-staffel-darsteller-hans-sigl-o-hara-100.html",
+      "sourceName": "ZDF",
+      "region": "local",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 11:25:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/panorama/prominente/bergdoktor-20-staffel-darsteller-hans-sigl-o-hara-100.html",
+          "summary": "Seit fast 20 Jahren läuft \"Der Bergdoktor\". Die Schauspieler freuen sich über den Erfolg und sind auch während der Drehs für die 20."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4a432be4d02b",
+      "title": "Wer kann Cyberkriminelle noch ausbremsen?",
+      "summary": "Stadtverwaltungen, Unternehmen und Infrastruktur werden immer häufiger Ziel von Hackern. Sie legen Systeme lahm, erpressen mit Daten und richten großen Schaden an.",
+      "link": "https://www.zdfheute.de/wirtschaft/cyberkrimialitaet-ethische-hacker-cybersicherheit-ki-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 22 Oct 2026 11:25:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wirtschaft/cyberkrimialitaet-ethische-hacker-cybersicherheit-ki-100.html",
+          "summary": "Stadtverwaltungen, Unternehmen und Infrastruktur werden immer häufiger Ziel von Hackern. Sie legen Systeme lahm, erpressen mit Daten und richten großen Schaden an."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "6f5855cb1891",
       "title": "Beynin sırlarını çözen küçücük yosun Nobeli kazandırdı",
       "summary": "Tek hücreli küçük bir yosun, insan beyninde anıların, duyguların ve davranışların nasıl oluştuğunu anlamaya katkı sağlayarak Nobel Fizyoloji veya Tıp Ödülü'ne layık görülen üç bilim insanının araştırmalarına ışık tuttu.",
@@ -5437,6 +5342,96 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/beynin-sirlarini-cozen-kucucuk-yosun-nobeli-kazandirdi-960863.html",
           "summary": "Tek hücreli küçük bir yosun, insan beyninde anıların, duyguların ve davranışların nasıl oluştuğunu anlamaya katkı sağlayarak Nobel Fizyoloji veya Tıp Ödülü'ne layık görülen üç bilim insanının araştırmalarına ışık tuttu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "644e499feae9",
+      "title": "Wüst und Schnieder wollen Stromsteuer für alle senken",
+      "summary": "Es war ein zentrales Koalitionsversprechen: die Senkung der Stromsteuer. Aber nach wie vor zahlen private Haushalte den hohen Preis.",
+      "link": "https://www.zdfheute.de/politik/deutschland/wuest-stromsteuer-senkung-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 11:20:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/deutschland/wuest-stromsteuer-senkung-100.html",
+          "summary": "Es war ein zentrales Koalitionsversprechen: die Senkung der Stromsteuer. Aber nach wie vor zahlen private Haushalte den hohen Preis."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f90f53fc043a",
+      "title": "TOKİ 61 ilde 725 arsayı satışa çıkaracak",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ), Ankara, İstanbul ve İzmir'in de aralarında bulunduğu 61 ildeki 725 arsayı 5 ve 6 Kasım'da açık artırma yöntemiyle satışa sunacak.",
+      "link": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 11:16:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html",
+          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ), Ankara, İstanbul ve İzmir'in de aralarında bulunduğu 61 ildeki 725 arsayı 5 ve 6 Kasım'da açık artırma yöntemiyle satışa sunacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "afc280fb4517",
+      "title": "Konut satışları eylülde zirveye ulaştı",
+      "summary": "Türkiye genelinde konut satışları eylülde 142 bin 390 ile yılın en yüksek seviyesine ulaştı. Sıfır konutların toplam satışlar içindeki payı yüzde 36,2'ye yükseldi.",
+      "link": "https://www.trthaber.com/haber/ekonomi/konut-satislari-eylulde-zirveye-ulasti-960861.html",
+      "sourceName": "TRT Haber Wirtschaft",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 11:08:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Wirtschaft",
+          "link": "https://www.trthaber.com/haber/ekonomi/konut-satislari-eylulde-zirveye-ulasti-960861.html",
+          "summary": "Türkiye genelinde konut satışları eylülde 142 bin 390 ile yılın en yüksek seviyesine ulaştı. Sıfır konutların toplam satışlar içindeki payı yüzde 36,2'ye yükseldi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "c0083df7a3f5",
+      "title": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
+      "summary": "Seit 1980 kürt die Loki-Schmidt-Stiftung die Blume des Jahres. Für 2027 hat sie die Gelbe Wiesenraute auserkoren.",
+      "link": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 11:07:58 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
+          "summary": "Seit 1980 kürt die Loki-Schmidt-Stiftung die Blume des Jahres. Für 2027 hat sie die Gelbe Wiesenraute auserkoren."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "8d66835b76ba",
+      "title": "Sebastian Vettel - Vom Formel-1-Champion zum Klimaschützer",
+      "summary": "Sebastian Vettel blickt in der ARD-Dokuserie \"Being Sebastian Vettel\" auf seine Karriere zurück – vom frühen Talent über Titel mit Red Bull und Rückschläge bei Ferrari bis zu seinem Wandel zum engagierten Klima- und Umweltschützer mit Bauernhof.",
+      "link": "https://www.sportschau.de/regional/br/br-sebastian-vettel-vom-formel-1-champion-zum-klimaschuetzer-102.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Thu, 22 Oct 2026 11:06:59 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/regional/br/br-sebastian-vettel-vom-formel-1-champion-zum-klimaschuetzer-102.html",
+          "summary": "Sebastian Vettel blickt in der ARD-Dokuserie \"Being Sebastian Vettel\" auf seine Karriere zurück – vom frühen Talent über Titel mit Red Bull und Rückschläge bei Ferrari bis zu seinem Wandel zum engagierten Klima- und Umweltschützer mit Bauernhof."
         }
       ],
       "sourcesCount": 1
