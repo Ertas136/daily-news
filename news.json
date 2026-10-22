@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:07:55.437759+00:00",
+  "updated": "2026-10-22T01:58:46.630998+00:00",
   "articles": [
     {
       "id": "f0497d903225",
@@ -51,6 +51,24 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/uefa-uluslar-liginde-sezon-basliyor-957812.html",
           "summary": "UEFA Uluslar Ligi'nde 2026-2027 sezonu, yarın oynanacak maçlarla başlayacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "47af5be9b900",
+      "title": "UEFA ‘rubber-stamping apartheid’ in Gaza by allowing Israel to play, warns Amnesty - The New York Times",
+      "summary": "UEFA ‘rubber-stamping apartheid’ in Gaza by allowing Israel to play, warns Amnesty The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDAzQzlWVDRUdmF4SnFtWjhUbXY0NHlDQnR6Q2s0bVJhdHpVTlktSzltQWczbmFWVWJ1bXJtVnBZQ1pkZ0VWczhWc1dBT1JaQlM5RnkxanB5NjJlZy1wS1RCNVBLQzlPUjBzMENsSnlCUmtSejQybXZTc3BfNjN0ZkNYRjdmMElkNVE?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDAzQzlWVDRUdmF4SnFtWjhUbXY0NHlDQnR6Q2s0bVJhdHpVTlktSzltQWczbmFWVWJ1bXJtVnBZQ1pkZ0VWczhWc1dBT1JaQlM5RnkxanB5NjJlZy1wS1RCNVBLQzlPUjBzMENsSnlCUmtSejQybXZTc3BfNjN0ZkNYRjdmMElkNVE?oc=5",
+          "summary": "UEFA ‘rubber-stamping apartheid’ in Gaza by allowing Israel to play, warns Amnesty The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -201,7 +219,7 @@
     },
     {
       "id": "ff86e658f141",
-      "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
       "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Business",
@@ -249,24 +267,6 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-960824.html",
           "summary": "Siber Güvenlik Başkanlığı, dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "42a280f536bb",
-      "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters",
-      "summary": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 23:14:41 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-          "summary": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters"
         }
       ],
       "sourcesCount": 1
@@ -411,9 +411,14 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
           "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMnVBUXAzUmNMeDZQMmhXOFdyZmNYM0gwQmdMZWFDZEM2UnpONTFfZGYyLTdscmVxTm1RM3MySEkwYi1TWmFIWlpZR29sNHFNdWZuYlVqS1VzTUE?oc=5",
+          "summary": "Trump's green card curbs test Indian tech workers' American dream BBC"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "030e0762a24f",
@@ -560,6 +565,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "29513dd24179",
+      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
+      "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 22:45:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
+          "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0e2b6edefd73",
       "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
       "summary": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
@@ -614,6 +637,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5b60abde8a31",
+      "title": "North Florida Fair increasing safety measures with new code of conduct and security technology - WCTV",
+      "summary": "North Florida Fair increasing safety measures with new code of conduct and security technology WCTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa29xWXJtSFk2MjBkRmhBRHl1bTd5M0tNTnZpdmFfWHRRaDdkN2d4X0lNY21jQU1NdVkyLS1MSlBLc3JVNGF4WVJqelF0ODVfM3ZBRmFaR29mTFhRWWFKUVpzNnBlYUJqQkVwODdNZTAwLWJsWFVKVzhLWlIyRG5iT282LWlJNHJqY2I0czZHWkFsb1pPblJvS1BEOUV4a1U4S3NxLUYxZjI3elRPQmlkdmMxTlE2Ymxra1lj?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 22:32:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa29xWXJtSFk2MjBkRmhBRHl1bTd5M0tNTnZpdmFfWHRRaDdkN2d4X0lNY21jQU1NdVkyLS1MSlBLc3JVNGF4WVJqelF0ODVfM3ZBRmFaR29mTFhRWWFKUVpzNnBlYUJqQkVwODdNZTAwLWJsWFVKVzhLWlIyRG5iT282LWlJNHJqY2I0czZHWkFsb1pPblJvS1BEOUV4a1U4S3NxLUYxZjI3elRPQmlkdmMxTlE2Ymxra1lj?oc=5",
+          "summary": "North Florida Fair increasing safety measures with new code of conduct and security technology WCTV"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "e3f6792d66b3",
       "title": "Bonn verpasst Überraschung in letzter Sekunde",
       "summary": "Die Baskets Bonn haben in der Champions League eine Überraschung knapp verpasst. Dennoch hat das Spiel ihre starke Form untermauert.",
@@ -663,6 +704,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-seybe-petrol-sahasini-hedef-alan-saldirida-2-kisi-oldu-960821.html",
           "summary": "Suudi Arabistan Enerji Bakanlığı: Şarkiyye bölgesindeki Şeybe petrol sahasını hedef alan saldırıda 2 kişi öldü, 2 kişi yaralandı"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b69ca384b461",
+      "title": "Why Enterprise AI Agents Require More Than A Technology Strategy - Forbes",
+      "summary": "Why Enterprise AI Agents Require More Than A Technology Strategy Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY3ZMOUJjblJxLUp0WnhpVjZ1QU9yU2dkdnRuSmpkUVdNNVlfcmo5Rjl5ZC1wYkNOcFZrWG9yYUpjTWk5c0NmcFF5SEx4TVdBMllJcS1UMVhiRHNCN0N6SnNraFB3SFBYbUN0Ym0xcWdKR1V1M2xILXJmdTh1Tl9DZWVwT0ZzWWExdU9yblkxTnQzSXRDQ0FKTFBRQXpRYmk2ek94blU5T1pIU2V0NldaTUZYOW9vUQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 22:19:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY3ZMOUJjblJxLUp0WnhpVjZ1QU9yU2dkdnRuSmpkUVdNNVlfcmo5Rjl5ZC1wYkNOcFZrWG9yYUpjTWk5c0NmcFF5SEx4TVdBMllJcS1UMVhiRHNCN0N6SnNraFB3SFBYbUN0Ym0xcWdKR1V1M2xILXJmdTh1Tl9DZWVwT0ZzWWExdU9yblkxTnQzSXRDQ0FKTFBRQXpRYmk2ek94blU5T1pIU2V0NldaTUZYOW9vUQ?oc=5",
+          "summary": "Why Enterprise AI Agents Require More Than A Technology Strategy Forbes"
         }
       ],
       "sourcesCount": 1
@@ -1118,6 +1177,39 @@
       "sourcesCount": 1
     },
     {
+      "id": "a83d4debb06a",
+      "title": "International Business Machines (NYSE:IBM) Stock Jumps 3.6% Following Earnings Beat - MarketBeat",
+      "summary": "International Business Machines (NYSE:IBM) Stock Jumps 3.6% Following Earnings Beat MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV09wZjhtRVRhMzdBaHpKVnVRV1p1R3h4MlVQTGxlbWFmVFBIcVZSWlNOeEM5R0I1TGtwMVRSREt4TUNrWHlabTI1TGs5cVBUeWZBNTNGOVdQcE1xZ2Z4TGpvX3h6YjhBS3lBbGZCcUdxdWFTLW4zb09vQUN4QlUwX2VOYXZIMl9DekhuRjhES1ZqNFdRa19ZSXBySHRMbmNpNDJhUUN3bnhkdUUyOHo1djhaUERRV0FiS19USzdXbzNsZjVFNzB3dHZGb0xBQW4yZHlmZ2lR?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 21:11:41 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV09wZjhtRVRhMzdBaHpKVnVRV1p1R3h4MlVQTGxlbWFmVFBIcVZSWlNOeEM5R0I1TGtwMVRSREt4TUNrWHlabTI1TGs5cVBUeWZBNTNGOVdQcE1xZ2Z4TGpvX3h6YjhBS3lBbGZCcUdxdWFTLW4zb09vQUN4QlUwX2VOYXZIMl9DekhuRjhES1ZqNFdRa19ZSXBySHRMbmNpNDJhUUN3bnhkdUUyOHo1djhaUERRV0FiS19USzdXbzNsZjVFNzB3dHZGb0xBQW4yZHlmZ2lR?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Stock Jumps 3.6% Following Earnings Beat MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM19HWlljVWRJTkJoRDBSMkNTVFo5ZXdGaWNPajRjUzhvRi1GR1RGYjVLTjkzRjNyLVpkMVRleUsyT0ZwU1JRdENFMGpBZTFCekVVSXJJdzRiZGphdWY0OGw4WThuXzU0UVlMMU4xS0tEQllXdXhjTmZuZUJpbi1vRnNyUlhpMWFXOThhS3Yzd0NjZGpZbzZ1U0loYjY1OGJVRzZoeDc0eDJNdk1Zb19sdVBwd2ZyR3hERUdOdUU1MndnR2lQX1RBNEhCMEhuT2Y4bUgyVm1kVnl4dlMyekVJaXppX2Y?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock Acquired by Pinnacle Associates Ltd. MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWU1cmhCQmo5U2RlalZDVkZhSS05aFBOY1dXbGU1ZEpvUVZhc1N0SkRZVjJBd2Q4SU16ZXhjclhwaHlDLU1kMVpOaUVKZTJLUFBENmJXdW00LVpHNGNldzhXYUY5eC1yYlp3d0w1NFZMT1p1elVUczBXakdpemhPNV8zMUxIX1FDQU5OcnBGNXRZTVhZS0M1ZGRLX2tFYkFZUDZGVUxqdmlPYlRvZ1c0T2N1ZzlNTUk0VDRlYzlWOUN2b2ZkN2JxSWp3?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Stock Jumps 2.5% - Should You Buy? MarketBeat"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQzFEcmNvVU0zaUhNUldaRjNDV1pzYk1tRDY0dkNPLWFQYlY5dnk2OHUxVkJUMWMwOHE1LXZzUHR5eFVUbURtM3Q3UER3OVV5dHIzdTZJRXFrSmNiRjR2MFQ3Q2wtcmJobHNGQ0w4RkVrUXZ5NWxQU3pqalh2akI0QU56MUpUSXNlOWNHbUx6eU5DLTdiLURQUVNmVXlOODdsYUdaYThTUUFXMEppS21jaUI3OFM1OGdQVEFhWDBiSktYVm5HSjdEektLUE1TZw?oc=5",
+          "summary": "International Business Machines (NYSE:IBM) Shares Up 1.8% - Here's What Happened MarketBeat"
+        }
+      ],
+      "sourcesCount": 4
+    },
+    {
       "id": "1fdc6b21a451",
       "title": "İran basını: Meclis Başkanı, Hamaney ile bir araya gelerek ülke ve bölgedeki gelişmeleri görüştü",
       "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf'ın, İran lideri Mücteba Hamaney ile bir araya gelerek ülkedeki ve bölgedeki son gelişmeleri ele aldığı bildirildi.",
@@ -1152,29 +1244,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "5a6c25083a1d",
-      "title": "Why is International Business Machines stock surging today? - Investing.com",
-      "summary": "Why is International Business Machines stock surging today? Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2RaMy1PWjBkOTQySWdxSkRSSXE4U2Zlck10T2NtdXpGTnR1YmloZlNmajIwV1c0dDA0WGFWVFJLSV9pbWdibDdRVXJKck5zMUVPSXZ1a21KVVl3UUlqblZBYW9DQlk5TFJ0aXkxUlMySzZ4akh6S0p4NmFLdklJelNVdlM4MmhwNERMdjdDTnQwZHdtRjNBOWhjNGpnY055aEFGTEg4ZUMydkY3X2tKcGttdmVyV2doMHhVWQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 21:09:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2RaMy1PWjBkOTQySWdxSkRSSXE4U2Zlck10T2NtdXpGTnR1YmloZlNmajIwV1c0dDA0WGFWVFJLSV9pbWdibDdRVXJKck5zMUVPSXZ1a21KVVl3UUlqblZBYW9DQlk5TFJ0aXkxUlMySzZ4akh6S0p4NmFLdklJelNVdlM4MmhwNERMdjdDTnQwZHdtRjNBOWhjNGpnY055aEFGTEg4ZUMydkY3X2tKcGttdmVyV2doMHhVWQ?oc=5",
-          "summary": "Why is International Business Machines stock surging today? Investing.com"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV09wZjhtRVRhMzdBaHpKVnVRV1p1R3h4MlVQTGxlbWFmVFBIcVZSWlNOeEM5R0I1TGtwMVRSREt4TUNrWHlabTI1TGs5cVBUeWZBNTNGOVdQcE1xZ2Z4TGpvX3h6YjhBS3lBbGZCcUdxdWFTLW4zb09vQUN4QlUwX2VOYXZIMl9DekhuRjhES1ZqNFdRa19ZSXBySHRMbmNpNDJhUUN3bnhkdUUyOHo1djhaUERRV0FiS19USzdXbzNsZjVFNzB3dHZGb0xBQW4yZHlmZ2lR?oc=5",
-          "summary": "International Business Machines (NYSE:IBM) Stock Jumps 3.6% Following Earnings Beat MarketBeat"
-        }
-      ],
-      "sourcesCount": 2
     },
     {
       "id": "1644a85c40fa",
@@ -1229,6 +1298,34 @@
         }
       ],
       "sourcesCount": 1
+    },
+    {
+      "id": "dd426c10e9ae",
+      "title": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+      "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRkE3MThSVU9TR2lXcXlkR2dNanFNbkZPbUs0aTY4MGFMM2llMnRhSi1TOVlOZ1ZRc2twejRhWVl0RHBoblQzMnpUTkVjM0c0SVZIQzVJcm5JS0lrenZOTDY1dzBQVU1ub2lEQzJoU1BBZFNfc1Z4QU9Hd04zcEhINFhTa3c2X1Y2QWgzcl9EZER4MXRGZWlsaFdVNFVmSV9QMmFzQUtJWXEtM3oyWXBNSEFxcDVXRHpzeWJab2FPeWVNMTlzeE1wZWhDaUZFdjNXdkl1OHRaX1BqMnl4VWpkcUw0V2p5Vkg3ZU12WUFXWFN2ZkNHRjJYT2tnSHlXa1BNNFphNU4xYkdJSG5EYWc?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 21:03:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRkE3MThSVU9TR2lXcXlkR2dNanFNbkZPbUs0aTY4MGFMM2llMnRhSi1TOVlOZ1ZRc2twejRhWVl0RHBoblQzMnpUTkVjM0c0SVZIQzVJcm5JS0lrenZOTDY1dzBQVU1ub2lEQzJoU1BBZFNfc1Z4QU9Hd04zcEhINFhTa3c2X1Y2QWgzcl9EZER4MXRGZWlsaFdVNFVmSV9QMmFzQUtJWXEtM3oyWXBNSEFxcDVXRHpzeWJab2FPeWVNMTlzeE1wZWhDaUZFdjNXdkl1OHRaX1BqMnl4VWpkcUw0V2p5Vkg3ZU12WUFXWFN2ZkNHRjJYT2tnSHlXa1BNNFphNU4xYkdJSG5EYWc?oc=5",
+          "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd1d1M2FJdE9wbEZRdmNvel9PVFJaU2dZZTl5TWhmUHhrQ3l0cVNNcXZ1XzNIcHd0UHlEUU9sLWR1OURnOG43WDJ5X1pFUTVvSkxYaDZTRC1UWlZ5Z0J5V1ZMY3JFaFV3OHdYRXl1c2hweE9rRnI2OXktSXRTWVJBSE1DSE55VHVKUUV1VkV1Q3h4aDQtaWJ3YlVDbjRsdk9qdmdsWENjRXQteEY1NW9yY1dCZUVKekZzWmRlamZzb1Bzc1lXMkF6eGVSUkFQMjVwRTlrMVVtbzNHX3l3UThoTXF6bklZMkE?oc=5",
+          "summary": "International Business Machines Corporation Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 www.marketscreener.com"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOLXJPSFNfejJwU2pJWjBfM1drVEZUNkRZTnFPaUhmOThaQnI2aVY4bkRIX0FQV28zSDZCdTF1WFVCRVZqTnZUaTcxMnFWTXFSUS1OanRiTzBhX0F3SlBOOU1neEw1ZUpRNkZzc25GX1lpYms1MTI1aUJJSHc0Y0tqNmtha2RMZ3U3cUtDd1NwTmlyd0ZvMElPbThGdXNCSndkN2J1U21zaDNUSTgwd2sxTkpqV3gzalZiTUNVVjRFc0oxZ3JqdE5zQnVPU3p0TXNkMDBaZE1vRGFGMk85aHlIWjA1cnYwS0Z4VmFYXzV4LXVhb2c4eXV2QTNtTGg0RHF5dVE?oc=5",
+          "summary": "International Business Machines Corporation expected to post earnings of $2.86 a share - Earnings Preview TradingView"
+        }
+      ],
+      "sourcesCount": 3
     },
     {
       "id": "f433a9d0fd9e",
@@ -1324,34 +1421,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "0144ea456adb",
-      "title": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary - TradingView",
-      "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOUNYMm95a1NkQS00dEZXWU4xdlJhTk0yN0tzQjhZeEJwUk5aT2h5WUZLYVhRQ1dCYmMyckc1VEVmQ1BRLTZxVnhvckxXZFF5LUFIMHBYSEcxSVJrLXJJNWJtbUs2WlVKQ0FsRnVxUlBnVnNpcUMtaVpGcHBRb2FXOExoY0p4RFpsdDBQck8yYlRCMlBfbks3QTlRdlJfUFFBWnBoZ1VXb2dyVUYzdEROWnRYeFZXUFJ1RmRlTGdUZXdwRldDWU11aWVZek1zbi1CME9EN1NmdU9JRTZCRjF2SVhtYzRzaWhYM0NxNkY5NUg4WDNrWlpZTHR0aUt6aEpNYV9UQlNvYkI0OTBEOHc?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 21:00:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOUNYMm95a1NkQS00dEZXWU4xdlJhTk0yN0tzQjhZeEJwUk5aT2h5WUZLYVhRQ1dCYmMyckc1VEVmQ1BRLTZxVnhvckxXZFF5LUFIMHBYSEcxSVJrLXJJNWJtbUs2WlVKQ0FsRnVxUlBnVnNpcUMtaVpGcHBRb2FXOExoY0p4RFpsdDBQck8yYlRCMlBfbks3QTlRdlJfUFFBWnBoZ1VXb2dyVUYzdEROWnRYeFZXUFJ1RmRlTGdUZXdwRldDWU11aWVZek1zbi1CME9EN1NmdU9JRTZCRjF2SVhtYzRzaWhYM0NxNkY5NUg4WDNrWlpZTHR0aUt6aEpNYV9UQlNvYkI0OTBEOHc?oc=5",
-          "summary": "International Business Machines Corporation reports results for the quarter ended September 30 - Earnings Summary TradingView"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd1d1M2FJdE9wbEZRdmNvel9PVFJaU2dZZTl5TWhmUHhrQ3l0cVNNcXZ1XzNIcHd0UHlEUU9sLWR1OURnOG43WDJ5X1pFUTVvSkxYaDZTRC1UWlZ5Z0J5V1ZMY3JFaFV3OHdYRXl1c2hweE9rRnI2OXktSXRTWVJBSE1DSE55VHVKUUV1VkV1Q3h4aDQtaWJ3YlVDbjRsdk9qdmdsWENjRXQteEY1NW9yY1dCZUVKekZzWmRlamZzb1Bzc1lXMkF6eGVSUkFQMjVwRTlrMVVtbzNHX3l3UThoTXF6bklZMkE?oc=5",
-          "summary": "International Business Machines Corporation Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 www.marketscreener.com"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOLXJPSFNfejJwU2pJWjBfM1drVEZUNkRZTnFPaUhmOThaQnI2aVY4bkRIX0FQV28zSDZCdTF1WFVCRVZqTnZUaTcxMnFWTXFSUS1OanRiTzBhX0F3SlBOOU1neEw1ZUpRNkZzc25GX1lpYms1MTI1aUJJSHc0Y0tqNmtha2RMZ3U3cUtDd1NwTmlyd0ZvMElPbThGdXNCSndkN2J1U21zaDNUSTgwd2sxTkpqV3gzalZiTUNVVjRFc0oxZ3JqdE5zQnVPU3p0TXNkMDBaZE1vRGFGMk85aHlIWjA1cnYwS0Z4VmFYXzV4LXVhb2c4eXV2QTNtTGg0RHF5dVE?oc=5",
-          "summary": "International Business Machines Corporation expected to post earnings of $2.86 a share - Earnings Preview TradingView"
-        }
-      ],
-      "sourcesCount": 3
     },
     {
       "id": "9402646c0abe",
@@ -1516,24 +1585,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6bb1d0f1f823",
-      "title": "Football Scores & Fixtures - BBC",
-      "summary": "Football Scores & Fixtures BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 21 Oct 2026 20:47:32 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nSmwxQzh2a1BZdmR3bC1SbHNiMFFnWmdVYlA2QW5QMnlDd0wybmU0WFFiYUd2M3VNZ3prSWEyaVdZWFRNNUtpOGFPUmtKRFhGY25acTFlb2l4YWhUSmxTbDhn?oc=5",
-          "summary": "Football Scores & Fixtures BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "039ee7eed232",
       "title": "Paz, Fabregas and Como teach Man Utd a lesson",
       "summary": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
@@ -1619,6 +1670,24 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/sarkici-iamddb-israili-yapay-zeka-videosunda-kimligini-calmakla-sucladi-960811.html",
           "summary": "Angola asıllı İngiliz rapçi Diana De Brito (IAMDDB), İsrail hükümetinin resmi sosyal medya hesabından yapılan propaganda paylaşımında, kendi görüntülerinin rızası dışında kullanıldığını belirterek, \"Kimliğimi neden çaldın?\" ifadesini kullandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "eabcc68ce22a",
+      "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
+      "summary": "Anthropic unveils Claude Duet AI agent app Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 20:25:35 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+          "summary": "Anthropic unveils Claude Duet AI agent app Reuters"
         }
       ],
       "sourcesCount": 1
@@ -1791,6 +1860,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a0aa9f819733",
+      "title": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief - Reuters",
+      "summary": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORl9ZNjNjcFpVTWt6R2RicGZDYy01UzhzSFcwWFNXUGtZaGZCUUhOSXdyMjg2aXlDYVFnNGQ4VVJ1dXhyV3NxQmV4RmRWRE9uWnBhSUp4STlYSmtWMFotWlhiMHZFeWR4N29BbkZzZjMtTS04MGo0MXVWS2pyZURsOENFbnZaUXNkQjBlQUFRa2JySnEtWF9ERGxQNzdGZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 20:05:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORl9ZNjNjcFpVTWt6R2RicGZDYy01UzhzSFcwWFNXUGtZaGZCUUhOSXdyMjg2aXlDYVFnNGQ4VVJ1dXhyV3NxQmV4RmRWRE9uWnBhSUp4STlYSmtWMFotWlhiMHZFeWR4N29BbkZzZjMtTS04MGo0MXVWS2pyZURsOENFbnZaUXNkQjBlQUFRa2JySnEtWF9ERGxQNzdGZw?oc=5",
+          "summary": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f43b8f6d046c",
       "title": "Wie Dauerkrisen unseren Alltag bestimmen",
       "summary": "Globale Krisen wirken gerade bis ins Leben jedes Einzelnen hinein. Die chaotische Weltlage bestimmt wirtschaftliche Entscheidungen und private Lebensplanung.",
@@ -1876,14 +1963,9 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
           "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYkJ1a0hkTXBMWUxzUGRNam81RzlXVTd0THJ2cWlvbVd4VmlNQ0ZzeHV0b21aR21mazJNTXAwSjRqN3VoNzgydHplRmRUamltaFJSUmZvcXBUZDg?oc=5",
-          "summary": "Websites taken down worldwide as critical PHP cyber-security update issued BBC"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 1
     },
     {
       "id": "c4c24d85fc20",
@@ -1935,24 +2017,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
           "summary": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8b841df5849e",
-      "title": "Fog removal technology aims to prevent road crashes - Commercial Carrier Journal",
-      "summary": "Fog removal technology aims to prevent road crashes Commercial Carrier Journal",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUdNX0hNLTZySUJvWl9uZ0xWN3VmcmRuOVZEajlGb2xxdnYwSHFMcy04YkRQRl9SNklsX2doMGNhSE9ieTBfOURzZXlFQkNwY2RBRTVHRlpjTUU2WUFyT2dLYlVDZXVrQ1ZvWTg3S1Q0RHo2Tm9tN1l3dXRMXzVHMnA4bTN2aE95RzRYZm1SdU5ZbHFhOXhkZlo0QTV2djJYbTlNNml3RE5Bdw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 19:30:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUdNX0hNLTZySUJvWl9uZ0xWN3VmcmRuOVZEajlGb2xxdnYwSHFMcy04YkRQRl9SNklsX2doMGNhSE9ieTBfOURzZXlFQkNwY2RBRTVHRlpjTUU2WUFyT2dLYlVDZXVrQ1ZvWTg3S1Q0RHo2Tm9tN1l3dXRMXzVHMnA4bTN2aE95RzRYZm1SdU5ZbHFhOXhkZlo0QTV2djJYbTlNNml3RE5Bdw?oc=5",
-          "summary": "Fog removal technology aims to prevent road crashes Commercial Carrier Journal"
         }
       ],
       "sourcesCount": 1
@@ -2030,6 +2094,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "de568b5ec422",
+      "title": "Read This Website While You Still Can - The Atlantic",
+      "summary": "Read This Website While You Still Can The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdKZU5nOWV4bXBPUm1TUnE2NUgyUjF0amJLSE1UUXFYREhtSnRZQUdSNUJLQ0xnMmhzY05WWHpMYnFjRHNIbnRIRW5iMC1vTjlJc244bFZXaUdnNFNtcG5wd0JLVk9hT1BFeGRlRVprdVZua2EtU2dBUUlEWThXa202N0czUHlVeGdrOW1sMDdxM1FmMG5sQw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 19:21:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdKZU5nOWV4bXBPUm1TUnE2NUgyUjF0amJLSE1UUXFYREhtSnRZQUdSNUJLQ0xnMmhzY05WWHpMYnFjRHNIbnRIRW5iMC1vTjlJc244bFZXaUdnNFNtcG5wd0JLVk9hT1BFeGRlRVprdVZua2EtU2dBUUlEWThXa202N0czUHlVeGdrOW1sMDdxM1FmMG5sQw?oc=5",
+          "summary": "Read This Website While You Still Can The Atlantic"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "cd7031222b7e",
       "title": "Marktbericht: DAX startet dank KI durch",
       "summary": "Von neuer KI-Zuversicht nach guten Unternehmensdaten getragen, nahm der DAX heute wieder kräftig Fahrt auf. Ein Treiber war das Thema Künstliche Intelligenz.",
@@ -2043,24 +2125,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
           "summary": "Von neuer KI-Zuversicht nach guten Unternehmensdaten getragen, nahm der DAX heute wieder kräftig Fahrt auf. Ein Treiber war das Thema Künstliche Intelligenz."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0399d8f4ea7c",
-      "title": "Reuters Links Trump Family’s $2.3B Crypto Gains to Administration’s New Scam Crackdown - Yahoo",
-      "summary": "Reuters Links Trump Family’s $2.3B Crypto Gains to Administration’s New Scam Crackdown Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEFXVFVVbVlvN01fUUlWLXZES1Z5S1IzT0p0SmZybHJJOTVxQmhRYkNoc3ExX1NmaFZ2bWhVSXk3S2EwQVVSWFpxV0tHTEdTeDE5X1l3cTF0cjJJWFJPUS04NldQSFVuV2xWdFZNSUYxNGFzeUZvdl9zOUtwRjZBQjJxSlUwd2M4UEpoY1hCcVpGdw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 19:15:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEFXVFVVbVlvN01fUUlWLXZES1Z5S1IzT0p0SmZybHJJOTVxQmhRYkNoc3ExX1NmaFZ2bWhVSXk3S2EwQVVSWFpxV0tHTEdTeDE5X1l3cTF0cjJJWFJPUS04NldQSFVuV2xWdFZNSUYxNGFzeUZvdl9zOUtwRjZBQjJxSlUwd2M4UEpoY1hCcVpGdw?oc=5",
-          "summary": "Reuters Links Trump Family’s $2.3B Crypto Gains to Administration’s New Scam Crackdown Yahoo"
         }
       ],
       "sourcesCount": 1
@@ -2205,24 +2269,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abd-rusya-ve-ukrayna-uclu-gorusme-yapacak-960803.html",
           "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya'nın ABD ve Ukrayna ile üçlü müzakereleri kasım ayında yeniden başlatmaya hazır olduğunu bildirdi. ABD'li yetkili, Rusya'nın Ukrayna ile üçlü görüşme yapılması yönündeki ABD teklifini kabul ettiğini doğruladı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1b29af46d985",
-      "title": "Fact Sheet on the Office of Technology Assessment - The Foundation for American Innovation",
-      "summary": "Fact Sheet on the Office of Technology Assessment The Foundation for American Innovation",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Qk9XaG9tTGRYdlMzU0VvNi1wSGI4WmtHc0RVM05rUG1nalBQR05kUU9qSDhRRzZyNEJMV0hiNnM2anN2R3N3UzZHSzBlcjRCcTd0bQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 18:32:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Qk9XaG9tTGRYdlMzU0VvNi1wSGI4WmtHc0RVM05rUG1nalBQR05kUU9qSDhRRzZyNEJMV0hiNnM2anN2R3N3UzZHSzBlcjRCcTd0bQ?oc=5",
-          "summary": "Fact Sheet on the Office of Technology Assessment The Foundation for American Innovation"
         }
       ],
       "sourcesCount": 1
@@ -2467,6 +2513,24 @@
       "sourcesCount": 2
     },
     {
+      "id": "42a280f536bb",
+      "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters",
+      "summary": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 17:27:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+          "summary": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "1d6ce8de68f2",
       "title": "ABden SpaceXe Ukraynada hizmetleri yeniden başlatma çağrısı",
       "summary": "Avrupa Birliği (AB) Komisyonu, Ukrayna'nın kullandığı SpaceX'e ait Starlink uydu sisteminde yavaşlama meydana geldiği iddiaları üzerine şirkete bu hizmetleri acilen yeniden devreye alma çağrısı yaptı.",
@@ -2701,6 +2765,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "b40b6c715a90",
+      "title": "Kreml: Putin zu Gesprächen mit Ukraine und USA bereit",
+      "summary": "Nach einem Treffen mit dem US-Sondergesandten Witkoff zeigt sich der Kreml zu trilateralen Gesprächen über den Ukraine-Krieg bereit. Die Verhandlungen könnten im November beginnen.",
+      "link": "https://www.zdfheute.de/politik/ausland/russland-gespraeche-usa-ukraine-krieg-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 17:01:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/ausland/russland-gespraeche-usa-ukraine-krieg-100.html",
+          "summary": "Nach einem Treffen mit dem US-Sondergesandten Witkoff zeigt sich der Kreml zu trilateralen Gesprächen über den Ukraine-Krieg bereit. Die Verhandlungen könnten im November beginnen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "dd065b9d406f",
       "title": "Family of prison officer killed by IRA receives state apology",
       "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
@@ -2768,24 +2850,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxqQkdiOXBuOUE1R0tpenMtMFdRM2lDRzkweHB5cm93clBRM2h4dEI3M1pFZ0V4QlVyNXA1dzZPWGFiOThtbUVGQTBNVmJfZ2F0UXQyOTRXa3FiS0RMSGxpZ1duMVdGQW84cEd3NkxRQ25IajVnbTdmakFJUnFPb0ZwOWRLZTl6VmVFWVp6OXc0RlhYZFRxcEpvN1N5clJKTzAtNUtrNGJ5bVRPNm1nczgtbDJxQVlQWVFNOXRmbDVTckVDN0E?oc=5",
           "summary": "Former Hungarian central bank chief Matolcsy detained in probe into loss of bank funds Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "181c45f367dd",
-      "title": "Kalt und stürmisch: Der Herbst wird ungemütlich",
-      "summary": "Die spätsommerlichen Temperaturen haben sich bis in den Oktober gehalten. Doch nun hält der Herbst zunehmend Einzug - und der zeigt sich von seiner stürmischen Seite.",
-      "link": "https://www.zdfheute.de/panorama/wetter-herbst-sturm-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 16:38:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/wetter-herbst-sturm-100.html",
-          "summary": "Die spätsommerlichen Temperaturen haben sich bis in den Oktober gehalten. Doch nun hält der Herbst zunehmend Einzug - und der zeigt sich von seiner stürmischen Seite."
         }
       ],
       "sourcesCount": 1
@@ -2894,24 +2958,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
           "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0ced056ded86",
-      "title": "Police Raid Offices of RFK Jr.-Endorsed Researchers Planning Vaccine Trial for 7,000 African Newborns - inkl",
-      "summary": "Police Raid Offices of RFK Jr.-Endorsed Researchers Planning Vaccine Trial for 7,000 African Newborns inkl",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUGVacVFIUWppa1RBTjhUbXNUbl9iR05Ub2kyZ0NjUkVuRDN0UXl4TGZwZTY2WmhOdFRVUmxRT3pQd1UxeHE1dkhrcEJ4TUsxUDFJSlFISG9KcXFDWV9YZzM0alNmTE1LdC1ZSGp5ckRCYmg2eVViVDY5SDFQMHlKQnBwNDFYLUxBcWU3R3J0ZDlpU083bkttSk5PcURKZjZrUVlCY2s3c1k5VjFyWW1uQ3lnRXhMWThlYzFZS3I2MmpJUQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 15:54:08 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUGVacVFIUWppa1RBTjhUbXNUbl9iR05Ub2kyZ0NjUkVuRDN0UXl4TGZwZTY2WmhOdFRVUmxRT3pQd1UxeHE1dkhrcEJ4TUsxUDFJSlFISG9KcXFDWV9YZzM0alNmTE1LdC1ZSGp5ckRCYmg2eVViVDY5SDFQMHlKQnBwNDFYLUxBcWU3R3J0ZDlpU083bkttSk5PcURKZjZrUVlCY2s3c1k5VjFyWW1uQ3lnRXhMWThlYzFZS3I2MmpJUQ?oc=5",
-          "summary": "Police Raid Offices of RFK Jr.-Endorsed Researchers Planning Vaccine Trial for 7,000 African Newborns inkl"
         }
       ],
       "sourcesCount": 1
@@ -3259,24 +3305,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "869087cac8d9",
-      "title": "Pope Leo takes to popemobile for first time since cancer surgery - Reuters",
-      "summary": "Pope Leo takes to popemobile for first time since cancer surgery Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0otRjdPc25BWWNLd016ZWVvaUZJb2hUXzJ4T1FCbHY1YWxKbUF2TC0wTlBzMFZzVWhveTQ2S28zVnBYU1RsZVJxZmRKY1VaSHNjTFZwM1M4cEZpN1BONXROMWIxWlBYV216VFRiRlZ4RGllaFpaUnl5dmJUaU9rczdVMmxJcXlZcF85ZEFVZ0l3VF9EckpVQXlETmN5d0hr?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 15:07:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0otRjdPc25BWWNLd016ZWVvaUZJb2hUXzJ4T1FCbHY1YWxKbUF2TC0wTlBzMFZzVWhveTQ2S28zVnBYU1RsZVJxZmRKY1VaSHNjTFZwM1M4cEZpN1BONXROMWIxWlBYV216VFRiRlZ4RGllaFpaUnl5dmJUaU9rczdVMmxJcXlZcF85ZEFVZ0l3VF9EckpVQXlETmN5d0hr?oc=5",
-          "summary": "Pope Leo takes to popemobile for first time since cancer surgery Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "a2e26ae32846",
       "title": "Filistin'e destek veren yazara İngiltere'de yasak",
       "summary": "Nobel ödüllü yazarların da aralarında bulunduğu 150'den fazla isim, Filistin yanlısı tutumu nedeniyle kitapları İngiltere'de satıştan kaldırılan İrlandalı yazar Sally Rooney'ye destek verdi.",
@@ -3295,24 +3323,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "c9c935a1f93d",
-      "title": "The Data-Center Rebellion Is Just Beginning - The Atlantic",
-      "summary": "The Data-Center Rebellion Is Just Beginning The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkdPeWtueWU3TllBdHZCV1NHSmFHSlZ3TzVTUldneFh5YlFCSUtNRE83N1M3T2E1Nl9VeldocGVXcVhPVTdxbVYwYW44UlV6c3l6UzJ6eUMybG1zcXVKNEQ5VTQ0emNhc0hOaFV1d2hZSzdCZWJ2RDlwMVE2UUJiYTdveW5CV0NBWURzTDJn?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 15:00:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkdPeWtueWU3TllBdHZCV1NHSmFHSlZ3TzVTUldneFh5YlFCSUtNRE83N1M3T2E1Nl9VeldocGVXcVhPVTdxbVYwYW44UlV6c3l6UzJ6eUMybG1zcXVKNEQ5VTQ0emNhc0hOaFV1d2hZSzdCZWJ2RDlwMVE2UUJiYTdveW5CV0NBWURzTDJn?oc=5",
-          "summary": "The Data-Center Rebellion Is Just Beginning The Atlantic"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "16d5a3c36ccb",
       "title": "Cheap Chinese antibiotics threaten Europe’s last major penicillin plant - Reuters",
       "summary": "Cheap Chinese antibiotics threaten Europe’s last major penicillin plant Reuters",
@@ -3326,42 +3336,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOTJuRnpVYTRsdWlMSnRvd1FqTjE2QlBqYndCQzJWc2U1UlAyWTRPbFlwOFhqVmhUUGIzYWxsYXotUWxERGY0T3Q1RmRaQTdKeVAyU3p4Mk93VHFGQnMyb203WEFEQjY3TDNKWXpSZTk2Wl9uQ0VWVC00YzFLbXdfVGd0M1huMjAwZGQtT0x4UWdHWGJ2X256cjBLeExvRUxSR1k0cmFUUnJYSHRuUS1JN21hZFFNeU9kQ3M5X2FYUHFFM01KSFlTUkxESWwxa1JFclZYVzdEeG4xRGtrS3pz?oc=5",
           "summary": "Cheap Chinese antibiotics threaten Europe’s last major penicillin plant Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a310b7727ec4",
-      "title": "E20-Benzin: Was mehr Bioethanol im Tank bringen könnte",
-      "summary": "Mehr Bioethanol im Benzin soll Treibhausgase einsparen. Experte Toedter erklärt, welches Potenzial E20 für den Klimaschutz hat und welche Autos für den Kraftstoff ausgelegt sind.",
-      "link": "https://www.zdfheute.de/wirtschaft/e20-benzin-treibhausgas-verbrenner-toedter-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "wissenschaft",
-      "time": "Wed, 21 Oct 2026 14:49:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/wirtschaft/e20-benzin-treibhausgas-verbrenner-toedter-100.html",
-          "summary": "Mehr Bioethanol im Benzin soll Treibhausgase einsparen. Experte Toedter erklärt, welches Potenzial E20 für den Klimaschutz hat und welche Autos für den Kraftstoff ausgelegt sind."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1554ba35180d",
-      "title": "eBay to cut 9% of workforce in strategic operational push, Reuters reports - Yahoo Finance",
-      "summary": "eBay to cut 9% of workforce in strategic operational push, Reuters reports Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWxpMzZZLWQ1bGJvVVVJYl9HaTNta2tVd3pVNnNtbGp4UzVxb2NycEZjXzVwaFJ2Q19DakxXTWNFWWt2czVLV2tnZGhnSVdmQXROM3FuSVR2ZUlqZ2o0VlA2ajV0WExDYlhJVTJTQ1dicHllbEl1bDA4bkdUaUNqZ2t3aEx4Z3IxNFJ6eF9GdnZDa3g2TVJ6MnE3WQ?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 14:46:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWxpMzZZLWQ1bGJvVVVJYl9HaTNta2tVd3pVNnNtbGp4UzVxb2NycEZjXzVwaFJ2Q19DakxXTWNFWWt2czVLV2tnZGhnSVdmQXROM3FuSVR2ZUlqZ2o0VlA2ajV0WExDYlhJVTJTQ1dicHllbEl1bDA4bkdUaUNqZ2t3aEx4Z3IxNFJ6eF9GdnZDa3g2TVJ6MnE3WQ?oc=5",
-          "summary": "eBay to cut 9% of workforce in strategic operational push, Reuters reports Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -3673,24 +3647,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "712914ff5ef2",
-      "title": "F.A.Z. PODCAST FÜR DEUTSCHLAND: Braucht Deutschland mehr französische Revolution, Luigi Pantisano?",
-      "summary": "Wie reagiert die deutsche Linke auf die heranrollende Revolutionswelle in Europa? Im kontroversen Gespräch Linke-Parteichef Luigi Pantisano und der Extremismusexperte Ahmad Mansour.",
-      "link": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/braucht-deutschland-mehr-franzoesische-revolution-luigi-pantisano-201608599.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 13:23:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/braucht-deutschland-mehr-franzoesische-revolution-luigi-pantisano-201608599.html",
-          "summary": "Wie reagiert die deutsche Linke auf die heranrollende Revolutionswelle in Europa? Im kontroversen Gespräch Linke-Parteichef Luigi Pantisano und der Extremismusexperte Ahmad Mansour."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "6ebb013f8e9b",
       "title": "Gierige Internetkonzerne: Wie Meta & Co. Verlage in die Zange nehmen",
       "summary": "Medienverbände fordern die Europäische Kommission auf, Metas geplante neue Geschäftsbedingungen zu stoppen. Verlage sollen alle Inhalte unbezahlt abliefern.",
@@ -3758,24 +3714,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
           "summary": "Nach 50 Jahren ist Schluss: Alice Schwarzer stellt ihr feministisches Magazin \"Emma\" ein. Im Dezember erscheint die letzte Ausgabe."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3a2ed1356932",
-      "title": "Legal US Resident Dies in ICE Custody After Daughter Alleges Staff Refused To 'Give Him His Medications' - inkl",
-      "summary": "Legal US Resident Dies in ICE Custody After Daughter Alleges Staff Refused To 'Give Him His Medications' inkl",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVJWWHZTU2RoUURmLUJLd290NWQtcFBJYlVKWENFUTRqRGYwenNoWFJYWl9ITFMwNjVNanRBV2VNZUV1MzRWVFVocWxNYnd5bzIwLWxiZVFwdWZqWWtub2ZiX0FlWjBONzdOTlM2S2NZVjg4MjBWSzV2WjR6SVVSdnpsdEVsMzlROFNHTGlQYmdvZWNTZVd1YTNmWTM4S1dHMExmdEowc1o1aXpYS3ZiTmJ2YTZYN2F4ZVhSQ1ZBWkk5WUJPemV3?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 13:07:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVJWWHZTU2RoUURmLUJLd290NWQtcFBJYlVKWENFUTRqRGYwenNoWFJYWl9ITFMwNjVNanRBV2VNZUV1MzRWVFVocWxNYnd5bzIwLWxiZVFwdWZqWWtub2ZiX0FlWjBONzdOTlM2S2NZVjg4MjBWSzV2WjR6SVVSdnpsdEVsMzlROFNHTGlQYmdvZWNTZVd1YTNmWTM4S1dHMExmdEowc1o1aXpYS3ZiTmJ2YTZYN2F4ZVhSQ1ZBWkk5WUJPemV3?oc=5",
-          "summary": "Legal US Resident Dies in ICE Custody After Daughter Alleges Staff Refused To 'Give Him His Medications' inkl"
         }
       ],
       "sourcesCount": 1
@@ -3871,6 +3809,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "48ed8ae06b67",
+      "title": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says - Yahoo Finance",
+      "summary": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnlYY3NzZHlGYjUxelB6THp5RkM5aTBJc3dMZExhSlAwOG9JNGJ6cXpncC1VUDZZeXdFWFl0MUNfdFBFM1ZQZkwtNi1RaFhqRS1CaE5yUU1sUjVfY2hOWEZZcTBYSHI1dmlTandpN0ZQVjBsNElFeGdxSnpCWGFudUVENUVGT0Y0bmhCdGE4bEhOVHMtbWI4?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 21 Oct 2026 12:35:52 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnlYY3NzZHlGYjUxelB6THp5RkM5aTBJc3dMZExhSlAwOG9JNGJ6cXpncC1VUDZZeXdFWFl0MUNfdFBFM1ZQZkwtNi1RaFhqRS1CaE5yUU1sUjVfY2hOWEZZcTBYSHI1dmlTandpN0ZQVjBsNElFeGdxSnpCWGFudUVENUVGT0Y0bmhCdGE4bEhOVHMtbWI4?oc=5",
+          "summary": "EBay to Cut 9% of Staff to Streamline Operations, Reuters Says Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "d6932af96a9e",
       "title": "School assembly headlines for October 22: Top India, international, business and sports updates - The Economic Times",
       "summary": "School assembly headlines for October 22: Top India, international, business and sports updates The Economic Times",
@@ -3884,24 +3840,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb1d5OF9QN21tUWVfR29DVUJieWhPZWRPckJLclU0UFBKRmJFbkt0TDJPQ3ZfUnphVy1NVVhXZkRYQ0F2OWtjT1YyX19GLXJOMDNxMjR4OHF0TS1HX2lXTTktRk9BN20yT1B1UENmb0JYaUlIeEdwUURaWUVZb2EzS0lsaDBiZ0NpaW01LUxPc1lOWkIzMlRvYmYybXlHakwtTmpwNk9PWWRWR0JLem9aTm5yb0pPc0NjeUdzQVlxOUhmRmZBNmZYRDBPekVQZjBTSGI5VkRmYjVoZ2t6YVFDbFJ4Q3ZTQ3dwaXNjZGphbGNGeERKVXfSAfsBQVVfeXFMTWFLT1N5VkZnVEw4MXAwcXM5R0Vob3dtNHVXOTZDNjdQQkdCTHpmemhZbk5HNFNHSHVXVlNxc1NsSHVHcC15WDNGYjZEVTdEWFBPY2JRWGtNbFFEYXBxbmZHanlPTnRQaElsbVJqSkEtVjhCNHBjY3J5ekZHbU1fdHRDeE5rb2tFLUNQRWVTYTk4V0JZcmJpZFdFSUMyZjE4UWhPNkcwS0JOVFZkb1o2eGhjQkxuV0V1S1lOOVlOMC12dVRISkZrZXNxSi1ORy1kRkxuV0xyQ1ZTWDV3OXlPVko3bmN2UjZMOENOS3JkWGdVRnFrc2hoZWl0ZzA?oc=5",
           "summary": "School assembly headlines for October 22: Top India, international, business and sports updates The Economic Times"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "347e9606a92a",
-      "title": "Toledo Chemical Leak: Why Residents Face One-Mile Evacuations and a Three-Mile Shelter Order in Ohio - inkl",
-      "summary": "Toledo Chemical Leak: Why Residents Face One-Mile Evacuations and a Three-Mile Shelter Order in Ohio inkl",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkpCY1ZYTU1FalZwdTdJdnFLQmp2WWJMbVN4eHhuSVdmNm04YmFUaEhETUdqd252QkZyckhsWmZpNnhYXzRXTno0SzBPQ1hJdHNUQ2YzbjVZcEhnU1Z2dXBsZUZCQkY5UjN2UDV5X2pMMlBZelFSd3duZ0FiaE5oVXJweEJ0T21ZUGphaWpyaUJwZmpuNy1fR3g4UG95WmoySzdTU2RubXNmWkVnWUNaSW4tNS1XSmcwRVpSZXh1aGhFXzQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 21 Oct 2026 12:31:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkpCY1ZYTU1FalZwdTdJdnFLQmp2WWJMbVN4eHhuSVdmNm04YmFUaEhETUdqd252QkZyckhsWmZpNnhYXzRXTno0SzBPQ1hJdHNUQ2YzbjVZcEhnU1Z2dXBsZUZCQkY5UjN2UDV5X2pMMlBZelFSd3duZ0FiaE5oVXJweEJ0T21ZUGphaWpyaUJwZmpuNy1fR3g4UG95WmoySzdTU2RubXNmWkVnWUNaSW4tNS1XSmcwRVpSZXh1aGhFXzQ?oc=5",
-          "summary": "Toledo Chemical Leak: Why Residents Face One-Mile Evacuations and a Three-Mile Shelter Order in Ohio inkl"
         }
       ],
       "sourcesCount": 1
@@ -4033,24 +3971,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "9fedae303472",
-      "title": "Stadt und Land: So leben die Menschen in Deutschland",
-      "summary": "Wie setzt sich die deutsche Bevölkerung zusammen? Ein Blick auf Stadt und Land zeigt, wie sich Regionen bei Alter, Geschlecht, Erwerbstätigkeit und weiteren Aspekten unterscheiden.",
-      "link": "https://www.zdfheute.de/politik/deutschland/bevoelkerung-deutschland-demografie-stadt-land-demografischer-wandel-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "gesellschaft",
-      "time": "Wed, 21 Oct 2026 11:43:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/bevoelkerung-deutschland-demografie-stadt-land-demografischer-wandel-100.html",
-          "summary": "Wie setzt sich die deutsche Bevölkerung zusammen? Ein Blick auf Stadt und Land zeigt, wie sich Regionen bei Alter, Geschlecht, Erwerbstätigkeit und weiteren Aspekten unterscheiden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4b2dcff9e512",
       "title": "F1 races to return to standard distance in 2028",
       "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season.",
@@ -4172,24 +4092,6 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html",
           "summary": "Internationale Sanktionen gegen das iranische Regime erschweren den Zahlungsverkehr. Deshalb unterhalten die Mullahs ein Netzwerk aus Hunderten Tarnfirmen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "06f8287cea08",
-      "title": "\"Die Bergretter\"-Star Luise Bähr hört auf",
-      "summary": "Nach zwölf Jahren verlässt Luise Bähr \"Die Bergretter\". Bei ihrem letzten Flug über den Dachstein wird ihr richtig bewusst, dass ihre Zeit als Notärztin Katharina Strasser endet.",
-      "link": "https://www.zdfheute.de/panorama/prominente/bergretter-luise-baehr-abschied-100.html",
-      "sourceName": "ZDF",
-      "region": "local",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 11:00:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/prominente/bergretter-luise-baehr-abschied-100.html",
-          "summary": "Nach zwölf Jahren verlässt Luise Bähr \"Die Bergretter\". Bei ihrem letzten Flug über den Dachstein wird ihr richtig bewusst, dass ihre Zeit als Notärztin Katharina Strasser endet."
         }
       ],
       "sourcesCount": 1
@@ -4717,19 +4619,9 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaEZ3VmZ4NnJaeWlTclF4MEhOeUlTdVp4MGR1RFQwb1dQbjFweDlEdThQVVlpaXIzbUVpUnAxWnVGRktyaGtrMk5pbXBTYWxrLTYxcFRKYmVEV2ZHZ0lpZ1p4RG0tZnZkUVlzUmdqeG56aEhuN0dRUTRYTFRpR0NIdjRucU9iMGUxMFlvNWVzRWg2NVk4NWJnNkc2SFhHWEV5dGlBb1RrNHRHRDBpY2FKbjc1M2dCbWZmVGtMdFRkRll3aGkzdEpZaHpVOHR6YXdacWE3S0Z2OE5QeFVWc1ZSU08wYWdRNF96VnRLRUg4OUw?oc=5",
           "summary": "International Business Machines Corporation $IBM Holdings Lifted by Diversify Advisory Services LLC MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM19HWlljVWRJTkJoRDBSMkNTVFo5ZXdGaWNPajRjUzhvRi1GR1RGYjVLTjkzRjNyLVpkMVRleUsyT0ZwU1JRdENFMGpBZTFCekVVSXJJdzRiZGphdWY0OGw4WThuXzU0UVlMMU4xS0tEQllXdXhjTmZuZUJpbi1vRnNyUlhpMWFXOThhS3Yzd0NjZGpZbzZ1U0loYjY1OGJVRzZoeDc0eDJNdk1Zb19sdVBwd2ZyR3hERUdOdUU1MndnR2lQX1RBNEhCMEhuT2Y4bUgyVm1kVnl4dlMyekVJaXppX2Y?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock Acquired by Pinnacle Associates Ltd. MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWU1cmhCQmo5U2RlalZDVkZhSS05aFBOY1dXbGU1ZEpvUVZhc1N0SkRZVjJBd2Q4SU16ZXhjclhwaHlDLU1kMVpOaUVKZTJLUFBENmJXdW00LVpHNGNldzhXYUY5eC1yYlp3d0w1NFZMT1p1elVUczBXakdpemhPNV8zMUxIX1FDQU5OcnBGNXRZTVhZS0M1ZGRLX2tFYkFZUDZGVUxqdmlPYlRvZ1c0T2N1ZzlNTUk0VDRlYzlWOUN2b2ZkN2JxSWp3?oc=5",
-          "summary": "International Business Machines (NYSE:IBM) Stock Jumps 2.5% - Should You Buy? MarketBeat"
         }
       ],
-      "sourcesCount": 3
+      "sourcesCount": 1
     },
     {
       "id": "39d3961ffc36",
@@ -4984,10 +4876,10 @@
       "sourcesCount": 1
     },
     {
-      "id": "a0b834548a17",
-      "title": "Anthropic posts $80bn loss in first half of 2026: WSJ - Al Jazeera",
-      "summary": "Anthropic posts $80bn loss in first half of 2026: WSJ Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0ZfTHFlMmNYREl3N2Y2MXd0d1Y3cTlWQzl3YVJDQl9zV2Z6dWowQ2RYTndpVlNHYUJuR1hsbDNCLVBhbDM1WU5udU5ST1lOSHBqRzNHemYxWEtDUFduay1qeHMzWk1aLUhzTlRyaTg1ajNYbWlobEhHTlJHaU12eTVqbHk1NlpFS3ZWbk5aMDZwUjItZDNFdtIBngFBVV95cUxNbTgza084T1RZZ2UzOWlQM2pDd2NON3NSSjQ5enAzN1BzSWFiRVlTU3l0RWx1UXo2RjkydFk0RWhHa0FZcFJqUVNIaWg3MmJoMUpYVzJFSkhMYnBJbE1oRFVfcGhWcjNRdXJYSW1Bbkg4eG1MTmdOV203ODI5UUQ0TmdzNktudWNZSWVmSUVXYUxjWVNlc1VVMjRIWURwUQ?oc=5",
+      "id": "9259a4fb3b43",
+      "title": "OpenAI says its agents turned off own safeguards - Al Jazeera",
+      "summary": "OpenAI says its agents turned off own safeguards Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3RmVVZhOVFTdU5kNGFKUWVjN3M2UXBNeURwN2ZmRXlMcnZETk94b1VVdkd2dnBzc0tsdFZ3QWQ1cng1ZmNXRkZpS1BRVmxoUUdzWEN2T3U3SU0wR3JKSHpFcmZFbGlWWjM1TU1ZYmE1M2N4T2ZNQmY2Q2JDZ1JxZEJIUVpTUTRtdjJKMHBXX1JqN3B3Q1BnSdIBngFBVV95cUxNS095Tlp1ZE1nM0JJZ1RRVWtKNklETjRnb3hySHpERVlTVVVqeE9CWXdhOFpTZ093eGp1dlVhQ2p1eXM2cnJpTUcyTGp1NV9JRU5FdWdNRlhMSkZVMjZmQmZMLW9ZQVFfTEdpSzktNXR0VUMwS3I3T2UyemdKMjdQMkdZak9URHRVbW50Z3BHX2N1NnEtY1V1bGNHeHg3UQ?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
@@ -4995,8 +4887,8 @@
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0ZfTHFlMmNYREl3N2Y2MXd0d1Y3cTlWQzl3YVJDQl9zV2Z6dWowQ2RYTndpVlNHYUJuR1hsbDNCLVBhbDM1WU5udU5ST1lOSHBqRzNHemYxWEtDUFduay1qeHMzWk1aLUhzTlRyaTg1ajNYbWlobEhHTlJHaU12eTVqbHk1NlpFS3ZWbk5aMDZwUjItZDNFdtIBngFBVV95cUxNbTgza084T1RZZ2UzOWlQM2pDd2NON3NSSjQ5enAzN1BzSWFiRVlTU3l0RWx1UXo2RjkydFk0RWhHa0FZcFJqUVNIaWg3MmJoMUpYVzJFSkhMYnBJbE1oRFVfcGhWcjNRdXJYSW1Bbkg4eG1MTmdOV203ODI5UUQ0TmdzNktudWNZSWVmSUVXYUxjWVNlc1VVMjRIWURwUQ?oc=5",
-          "summary": "Anthropic posts $80bn loss in first half of 2026: WSJ Al Jazeera"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3RmVVZhOVFTdU5kNGFKUWVjN3M2UXBNeURwN2ZmRXlMcnZETk94b1VVdkd2dnBzc0tsdFZ3QWQ1cng1ZmNXRkZpS1BRVmxoUUdzWEN2T3U3SU0wR3JKSHpFcmZFbGlWWjM1TU1ZYmE1M2N4T2ZNQmY2Q2JDZ1JxZEJIUVpTUTRtdjJKMHBXX1JqN3B3Q1BnSdIBngFBVV95cUxNS095Tlp1ZE1nM0JJZ1RRVWtKNklETjRnb3hySHpERVlTVVVqeE9CWXdhOFpTZ093eGp1dlVhQ2p1eXM2cnJpTUcyTGp1NV9JRU5FdWdNRlhMSkZVMjZmQmZMLW9ZQVFfTEdpSzktNXR0VUMwS3I3T2UyemdKMjdQMkdZak9URHRVbW50Z3BHX2N1NnEtY1V1bGNHeHg3UQ?oc=5",
+          "summary": "OpenAI says its agents turned off own safeguards Al Jazeera"
         }
       ],
       "sourcesCount": 1
@@ -5447,6 +5339,114 @@
           "sourceName": "TRT Haber Technologie",
           "link": "https://www.trthaber.com/haber/bilim-teknoloji/nasa-artemis-ii-misyonunun-on-bulgularini-paylasti-959447.html",
           "summary": "77. Uluslararası Uzay Kongresi'nde, ABD Havacılık ve Uzay Ajansı (NASA) tarafından Artemis II misyonuyla Ay bilimine dair elde edilen ön bulgular yayımlandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "593340331d85",
+      "title": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
+      "summary": "Die Forscher Henri Kagan und Kenso Soai haben ein grundlegendes Konzept der organischen Chemie entdeckt. Ihre Ergebnisse sind auch für die Entwicklung von Medikamenten wichtig.",
+      "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 16:49:24 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html",
+          "summary": "Die Forscher Henri Kagan und Kenso Soai haben ein grundlegendes Konzept der organischen Chemie entdeckt. Ihre Ergebnisse sind auch für die Entwicklung von Medikamenten wichtig."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9f2e60ea350c",
+      "title": "So vergibt das IOC die Sommerspiele 2036",
+      "summary": "München bewirbt sich um die Olympischen Sommerspiele 2036, 2040 oder 2044. Über die Vergabe entscheidet das Internationale Olympische Komitee - und zwar so.",
+      "link": "https://www.sportschau.de/olympia/so-vergibt-ioc-die-sommerspiele-2036,ioc-prozedere-olympia-vergabe-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 07 Oct 2026 14:49:49 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/olympia/so-vergibt-ioc-die-sommerspiele-2036,ioc-prozedere-olympia-vergabe-100.html",
+          "summary": "München bewirbt sich um die Olympischen Sommerspiele 2036, 2040 oder 2044. Über die Vergabe entscheidet das Internationale Olympische Komitee - und zwar so."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "74385806cd71",
+      "title": "Chemie-Nobelpreis geht an Franzosen Kagan und Japaner Soai",
+      "summary": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai.",
+      "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 13:52:14 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
+          "summary": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "84e254c5404b",
+      "title": "Weltgesundheitsorganisation warnt vor Ausbreitung von Fettleibigkeit",
+      "summary": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen.",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 07 Oct 2026 10:21:57 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
+          "summary": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "dbd0bcd7b5bd",
+      "title": "Türkiye podcast endüstrisinin durumu değerlendirildi",
+      "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "turkey",
+      "topic": "politik",
+      "time": "Wed, 07 Oct 2026 09:17:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-podcast-endustrisinin-durumu-degerlendirildi-959362.html",
+          "summary": "İstanbul Üniversitesi İletişim Fakültesi tarafından yürütülen “Türkiye’de Podcast Endüstrisinin Eleştirel Ekonomi Politik Perspektiften İncelenmesi: Sorunlar ve Fırsatlar” başlıklı araştırma, Türkiye podcast ekosisteminin mevcut durumuna ilişkin kapsamlı bir tablo ortaya koydu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b24bc37d0b1e",
+      "title": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide - International Testing Agency",
+      "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWc4aEx4VmwwRHZObFBoRXVCMlRyX1o2OFRKQVRGRlZFQWd2cjg0Q2hlMlZPaDNjdDlEclZjdlRxUUg5U0YzczNMZ3h5Y3dCSXFMRkJYLW5WTGlJcU01cXZkVTFaSENZUHRxQVVWX2Iyc0ZJR0hudllqMGFiQUdhQjhMdWQtcDhqcm5tQXBHcTNxRFhSbkJZRzBjMkt3d1g1XzBpTE53MHdFd3dUQkFZR09BSnBXLW9UTXU4?oc=5",
+          "summary": "The ITA 2025 Annual Report: a year of independent anti-doping delivery for clean sport worldwide International Testing Agency"
         }
       ],
       "sourcesCount": 1
