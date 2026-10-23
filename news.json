@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T04:57:46.132374+00:00",
+  "updated": "2026-10-23T05:22:57.011750+00:00",
   "articles": [
     {
       "id": "c9b16241627f",
@@ -33,24 +33,6 @@
           "sourceName": "Google News – International Sport",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0I5ZEY0eHNhOG5iLW5WV195bjE4SWhxaW5CdHU1ZnNuM3BvQjA3cWRkdnFTVnVXbWQtbGlaNmJJRFkzRHc2bmgyaUJTeG8xWVVPc0ZzcllENW5CdS13cHMxMlM3X3Zab25VMWtxaUJ5ZGx0NWNTNG9mZWZWQnVJNXMtTFBPaGlER1U4NWFUQXhuWnpGZDFwN1FnN3BySDJwb05oLQ?oc=5",
           "summary": "Governing transgender athletes in global sport: fairness, evidence, media representation, and lived experience Frontiers"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dd4d752a85d8",
-      "title": "Fabregas, film stars and Disney: How Como are disrupting Italian football",
-      "summary": "BBC Sport visits Como to find out how the Italian city's football club, led by coach Cesc Fabregas, is looking to break up the Serie A establishment and gatecrash the Champions League.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cql7r97wg72o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Wed, 25 Mar 2026 12:02:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cql7r97wg72o?at_medium=RSS&at_campaign=rss",
-          "summary": "BBC Sport visits Como to find out how the Italian city's football club, led by coach Cesc Fabregas, is looking to break up the Serie A establishment and gatecrash the Champions League."
         }
       ],
       "sourcesCount": 1
@@ -105,6 +87,24 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/uefa-uluslar-liginde-sezon-basliyor-957812.html",
           "summary": "UEFA Uluslar Ligi'nde 2026-2027 sezonu, yarın oynanacak maçlarla başlayacak."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "35ac6cf2c6d1",
+      "title": "The real reasons there are so few young politicians in the US",
+      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 23:52:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+          "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
         }
       ],
       "sourcesCount": 1
@@ -344,24 +344,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "020c23c2780c",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-          "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "6f8edd44bc63",
       "title": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütüyor",
       "summary": "JP Morgan İstanbul Şubesi, Türkiye'deki bankacılık faaliyetlerini büyütme kararını KAP'a bildirdi.",
@@ -437,6 +419,24 @@
         }
       ],
       "sourcesCount": 2
+    },
+    {
+      "id": "4a38058068dd",
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "local",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 19:58:06 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+          "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "e3dbce13ab37",
@@ -794,24 +794,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3lCX05lSVB6LXFZeUV2ZzM3QkV2Z04zQ2kyUGowTm1MMUg4T0hkWWFwTVB1bG53QVNvUS1HLU15djJ2QWJib3RDZWlWRDRPU1BQdExScHBCQml3UG9xNWxGTmYzLWpjaUt4WG5IRU9QdjRyOS02Y3Y5aXVUQU1PcDJuSGYySUQyNmlhWVhKaW1fcFJtSjNkRi00Y1ZtU1cxMkZv?oc=5",
           "summary": "Factbox-Governments, companies take websites offline over PHP flaws By Reuters Investing.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "10ed5cab652a",
-      "title": "Polens Parlament für Lockerung des Abtreibungsrechts",
-      "summary": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto.",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 15:08:58 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
-          "summary": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto."
         }
       ],
       "sourcesCount": 1
@@ -2023,24 +2005,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0344f6e810a9",
-      "title": "Lunar Surface Technology - NASA (.gov)",
-      "summary": "Lunar Surface Technology NASA (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWWpVSW52Ty04cEdiVi1JTE0yM0U1RlNSUURFNjdxcXhxQWYtaF9iUm9OVHhLek9BODNGWE1tcUNkVEFEdjlPUG1zZnZxZlF5T3oxdnBuVzQyQQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 20:20:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWWpVSW52Ty04cEdiVi1JTE0yM0U1RlNSUURFNjdxcXhxQWYtaF9iUm9OVHhLek9BODNGWE1tcUNkVEFEdjlPUG1zZnZxZlF5T3oxdnBuVzQyQQ?oc=5",
-          "summary": "Lunar Surface Technology NASA (.gov)"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "5281351ee503",
       "title": "Tech Life",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
@@ -2236,24 +2200,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "fc7e306fcf5b",
-      "title": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
-      "summary": "In Zukunft müssen auch Drittanbieter die Kosten für die Buchung eines Fluges erstatten, wenn dieser ausfällt. Das hat das EU-Parlament beschlossen.",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reiserechte-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 20 Oct 2026 16:43:12 +0200",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-reiserechte-100.html",
-          "summary": "In Zukunft müssen auch Drittanbieter die Kosten für die Buchung eines Fluges erstatten, wenn dieser ausfällt. Das hat das EU-Parlament beschlossen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ece38309c00f",
       "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
       "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
@@ -2357,24 +2303,6 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/galatasaraydan-lille-maci-oncesi-uefaya-guvenlik-basvurusu-960643.html",
           "summary": "Fransa'da yaşanan sokak olayları ve şiddet, spor dünyasını da etkiledi. Şampiyonlar Ligi'nde Lille ile karşılaşacak Galatasaray, artan güvenlik endişeleri üzerine UEFA'dan ek güvenlik garantisi talep etti."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3231428cd572",
-      "title": "Why the United States Needs Europe in Order to Win the Technology Race - CSIS | Center for Strategic and International Studies",
-      "summary": "Why the United States Needs Europe in Order to Win the Technology Race CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcV9xUHZlaVQzZzhrNF85OWhjZm5hZWxhbkRpVkJYSFg4RXM4aG1qY0FUcU0xbkFZS2d4T2ZXMWh1VXQyLVNLMFNjUXliZnhlOWhIUFpzZW9XRF9oaHM4NC1uRF9pUGFreHhqSzZ0YVdVMWxHa1lKSEM2TnUxRE5STkJQUVJESVJ2MGhpVlExcw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 14:10:19 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcV9xUHZlaVQzZzhrNF85OWhjZm5hZWxhbkRpVkJYSFg4RXM4aG1qY0FUcU0xbkFZS2d4T2ZXMWh1VXQyLVNLMFNjUXliZnhlOWhIUFpzZW9XRF9oaHM4NC1uRF9pUGFreHhqSzZ0YVdVMWxHa1lKSEM2TnUxRE5STkJQUVJESVJ2MGhpVlExcw?oc=5",
-          "summary": "Why the United States Needs Europe in Order to Win the Technology Race CSIS | Center for Strategic and International Studies"
         }
       ],
       "sourcesCount": 1
@@ -3064,6 +2992,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "ef3835611c59",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 23:16:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+          "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "550a37e4dbfb",
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
       "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
@@ -3077,24 +3023,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
           "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0cbafc046875",
-      "title": "Grünen-Jugend-Chef Bobga: \"Menschen per se nicht illegal\"",
-      "summary": "Wie viel Zuwanderung verträgt Deutschland? Jan Fleischhauer und Luis Bobga, Bundessprecher der Grünen Jugend, diskutieren.",
-      "link": "https://www.zdfheute.de/politik/deutschland/keine-talkshow-fleischhauer-bobga-migration-integration-debatte-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "gesellschaft",
-      "time": "Thu, 22 Oct 2026 23:14:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/deutschland/keine-talkshow-fleischhauer-bobga-migration-integration-debatte-100.html",
-          "summary": "Wie viel Zuwanderung verträgt Deutschland? Jan Fleischhauer und Luis Bobga, Bundessprecher der Grünen Jugend, diskutieren."
         }
       ],
       "sourcesCount": 1
@@ -3419,9 +3347,14 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
           "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+        },
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVl2TFdMRGk3SHRydndCTVJDMm5QSV91MEtxODd1aE5QNmxXSk4tV0FmVUlYcUpwU3JieHB1MFNCbXlNMnY0eEtvMnh4UnpsZURBaWNacmFBRjVLZHdNNk1pY0NyU1lwREdkNnNmNlY4UU9MMHZ1c2Z3cnBNM01PcExkYVlaaVRpWkNCcGpfdHc3eFRQMGxRU3pPM2tEbmp5Z1ZJSFgyZ3IyNWxIYXFCa2lsQmt4Zjgwd1F2MnZR?oc=5",
+          "summary": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke Reuters"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "92f0431dcb12",
@@ -3455,24 +3388,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/sport/fussball/europa-league-nick-woltemade-ueberzeugt-aber-gewinnt-nicht-mit-juventus-201210453.html",
           "summary": "Nach der jüngsten Kritik in Italien überzeugt Nick Woltemade beim 2:2 gegen Stade Rennes nicht nur wegen seines Elfmetertors. Und auch ein anderer deutscher Nationalspieler trifft in der Europa League."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "86af4c00bbc2",
-      "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
-      "summary": "Trump invokes Cold War-era Defense Production Act for oil production, refining Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdm9ka0hnal9OOUFnN19HQmRZd0ljY2tJOVNoN2tIWURrMHExZ0p0NWN0UEpTMmFORG1TTU1CeXZkb3RhenhtelltYVY2SmRyZEctMnRIcUNEQlFXODdsZGxBMXhpem81NjJwRjRCbVl1N2tyWVkxeXU0T2k3ZEttNk5lbzZCVzRrUEtwT3JPTlJiUUVmSjU4b25EaXNIQ3dyS3c3NlJUSkFBdWZSMDFZVmZ1dmhncGFIYjNQU0tOd1I5dFk?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 22 Oct 2026 21:32:07 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdm9ka0hnal9OOUFnN19HQmRZd0ljY2tJOVNoN2tIWURrMHExZ0p0NWN0UEpTMmFORG1TTU1CeXZkb3RhenhtelltYVY2SmRyZEctMnRIcUNEQlFXODdsZGxBMXhpem81NjJwRjRCbVl1N2tyWVkxeXU0T2k3ZEttNk5lbzZCVzRrUEtwT3JPTlJiUUVmSjU4b25EaXNIQ3dyS3c3NlJUSkFBdWZSMDFZVmZ1dmhncGFIYjNQU0tOd1I5dFk?oc=5",
-          "summary": "Trump invokes Cold War-era Defense Production Act for oil production, refining Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3568,6 +3483,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a4156bac9b9f",
+      "title": "‘Wildwood’ Director Travis Knight on AI: ‘An Amazing Piece of Technology’ But ‘I’m Not Embracing It at All’ - Variety",
+      "summary": "‘Wildwood’ Director Travis Knight on AI: ‘An Amazing Piece of Technology’ But ‘I’m Not Embracing It at All’ Variety",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalB6MXhwbTROX1hjVkl3U2VqNlhoRkF0MC1DUjl3OFZhNDdkWTY4ZEh6Mm1WWGt4bklLWU8tblRLRFhhbkFFVnpiRFJhUXJPa3h1TVZnT1dRb1RZQWNGSUk3SEZPLWVndVRhdnp3WGZRY0puQzJzelR3cHoyOV9GN1YtRjZFeWE5Xy1lZw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 21:21:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalB6MXhwbTROX1hjVkl3U2VqNlhoRkF0MC1DUjl3OFZhNDdkWTY4ZEh6Mm1WWGt4bklLWU8tblRLRFhhbkFFVnpiRFJhUXJPa3h1TVZnT1dRb1RZQWNGSUk3SEZPLWVndVRhdnp3WGZRY0puQzJzelR3cHoyOV9GN1YtRjZFeWE5Xy1lZw?oc=5",
+          "summary": "‘Wildwood’ Director Travis Knight on AI: ‘An Amazing Piece of Technology’ But ‘I’m Not Embracing It at All’ Variety"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "090e6435ee3f",
       "title": "US banks are blocking third-party AI agents access to customer accounts, sources say - Reuters",
       "summary": "US banks are blocking third-party AI agents access to customer accounts, sources say Reuters",
@@ -3581,6 +3514,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5",
           "summary": "US banks are blocking third-party AI agents access to customer accounts, sources say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "33f84899c0c7",
+      "title": "Sullivan County Public Library Offers Free Technology Classes and Chromebooks - WCYB",
+      "summary": "Sullivan County Public Library Offers Free Technology Classes and Chromebooks WCYB",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHBCQmRMaXhxb1hiOER5LTlmYzlhU0YxaExIaVhaQWYtWmJQY3VZbEJiQTAzdExvcWwxb1pfQUxEOTQzNWwxWVNiZzBkS1VMY29MUXdyU2Q5VXVrdGNqOFp4RHlZeGZPOVNPMGtVOVFPVWNVQWx6ek1oYW9qS3Fma1Nray1TVEJmU1I0M2UySDBsdlNGWWc2ckR3bzFfRmFEWFpGa0VtYTg?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 21:14:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHBCQmRMaXhxb1hiOER5LTlmYzlhU0YxaExIaVhaQWYtWmJQY3VZbEJiQTAzdExvcWwxb1pfQUxEOTQzNWwxWVNiZzBkS1VMY29MUXdyU2Q5VXVrdGNqOFp4RHlZeGZPOVNPMGtVOVFPVWNVQWx6ek1oYW9qS3Fma1Nray1TVEJmU1I0M2UySDBsdlNGWWc2ckR3bzFfRmFEWFpGa0VtYTg?oc=5",
+          "summary": "Sullivan County Public Library Offers Free Technology Classes and Chromebooks WCYB"
         }
       ],
       "sourcesCount": 1
@@ -3694,24 +3645,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3db996be1161",
-      "title": "Sebastian Fitzeks neuer Roman: Eskapismus als Credo",
-      "summary": "Mit seinem Buch „Der Nachtzug“ feiert Sebastian Fitzek sein zwanzigjähriges Jubiläum als Thriller-Autor. Eine Lektüre und eine Begegnung.",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/begegnung-mit-sebastian-fitzek-zum-thriller-der-nachtzug-201310381.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 22 Oct 2026 20:58:50 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/begegnung-mit-sebastian-fitzek-zum-thriller-der-nachtzug-201310381.html",
-          "summary": "Mit seinem Buch „Der Nachtzug“ feiert Sebastian Fitzek sein zwanzigjähriges Jubiläum als Thriller-Autor. Eine Lektüre und eine Begegnung."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "64e310d06b0c",
       "title": "Sofia und Gianvito Rossi: „Meine Generation hat ein bisschen Angst vor High Heels“",
       "summary": "Der Schuhdesigner Gianvito Rossi arbeitet seit einigen Jahren mit seiner Tochter zusammen. Die versucht, High Heels „freundlicher“ wirken zu lassen.",
@@ -3779,6 +3712,24 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/wirtschaft/finnland-genehmigt-betrieb-von-onkalo-weltweit-erstes-atommuell-endlager-201613540.html",
           "summary": "Die Bauarbeiten für das Endlager begannen vor 22 Jahren. Nun können bald die ersten abgebrannten Brennelemente in „Onkalo“ ankommen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b3a22a2599ee",
+      "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+      "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 20:49:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+          "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition."
         }
       ],
       "sourcesCount": 1
@@ -4303,24 +4254,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "1414e3ad6b5a",
-      "title": "Nvidia-Chef Hautnah: KI, Kapital, Europa: Ein Frühstück mit Jensen Huang",
-      "summary": "Im Rennen um die Künstliche Intelligenz zählt Nvidia-Chef Jensen Huang Europas große Vorteile auf – und dessen schwerwiegenden Nachteile. Einen rückt er vor allem in den Mittelpunkt.",
-      "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/jensen-huang-was-europa-im-ki-rennen-fehlt-201611807.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 18:33:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/jensen-huang-was-europa-im-ki-rennen-fehlt-201611807.html",
-          "summary": "Im Rennen um die Künstliche Intelligenz zählt Nvidia-Chef Jensen Huang Europas große Vorteile auf – und dessen schwerwiegenden Nachteile. Einen rückt er vor allem in den Mittelpunkt."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "de4cc83d80ec",
       "title": "Zinsprognose: 3,6 Prozent für Bundesanleihen zum Jahresende",
       "summary": "Nach dem Renditesprung der Anleihen: Wie geht es mit den Zinsen am Kapitalmarkt jetzt weiter? Ökonomen der öffentlichen Banken geben einen ersten Ausblick.",
@@ -4686,42 +4619,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "4cc2d0b2606e",
-      "title": "Russlands \"Schattenkrieg\" gegen Deutschland: Was heißt das?",
-      "summary": "Der Präsident des Bundesnachrichtendienstes sieht Russland im \"Schattenkrieg\" mit Deutschland. Was bedeutet das?",
-      "link": "https://www.zdfheute.de/video/drotschmann-xplained-schattenkrieg-russland-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Thu, 22 Oct 2026 17:19:00 +0200",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/video/drotschmann-xplained-schattenkrieg-russland-100.html",
-          "summary": "Der Präsident des Bundesnachrichtendienstes sieht Russland im \"Schattenkrieg\" mit Deutschland. Was bedeutet das?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "02468dd81f75",
-      "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-      "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 17:18:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\"."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "2ad9cd9432d6",
       "title": "2026 Engineering, Science & Technology Emmys Honor More Than a Century of Innovation - Television Academy",
       "summary": "2026 Engineering, Science & Technology Emmys Honor More Than a Century of Innovation Television Academy",
@@ -4807,24 +4704,6 @@
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
           "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "7e44b8575fac",
-      "title": "PACK EXPO International 2026 Delivers Innovation, Connections, and Business Opportunities in Chicago - Packaging World",
-      "summary": "PACK EXPO International 2026 Delivers Innovation, Connections, and Business Opportunities in Chicago Packaging World",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOOS1nYUJFT0NxemEybkFCdnhOaFdzNHVBU0ZlUl9wVW1DTFhpOS1KT0FwUUZJMnBVOWtFdC0xY3VHeWlCcWNrajNYaFBVS1Y4YnBtLTlDOWxBZ2hoQ0RfOHlXQ0pMWlBXMXVjbk4wLTBzUjRYWHhLZGhWVG5veFJFX0FLYVJlQ0pfblJiaDduWjdIV2V5emc4VTFxaWIxS2JwdXk2WnhFd1V2XzFYc1p2bWVTNjREZml5M3lsd1FYV1I5TC0zY0o5MnBuQXRMUXFHbXkwUGttNjZLZU5ESmpTZmxNR0V1TUVCRWtTWDBnSlctTDRLR05YSTVwS3JUWHd3aGY2OGlFdG1XWWFVRGRFYTQ0SXJNd2FqRFZjMWREZnhxZDhJakdhNVhCd0JScEdiVW0tUA?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 22 Oct 2026 17:05:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOOS1nYUJFT0NxemEybkFCdnhOaFdzNHVBU0ZlUl9wVW1DTFhpOS1KT0FwUUZJMnBVOWtFdC0xY3VHeWlCcWNrajNYaFBVS1Y4YnBtLTlDOWxBZ2hoQ0RfOHlXQ0pMWlBXMXVjbk4wLTBzUjRYWHhLZGhWVG5veFJFX0FLYVJlQ0pfblJiaDduWjdIV2V5emc4VTFxaWIxS2JwdXk2WnhFd1V2XzFYc1p2bWVTNjREZml5M3lsd1FYV1I5TC0zY0o5MnBuQXRMUXFHbXkwUGttNjZLZU5ESmpTZmxNR0V1TUVCRWtTWDBnSlctTDRLR05YSTVwS3JUWHd3aGY2OGlFdG1XWWFVRGRFYTQ0SXJNd2FqRFZjMWREZnhxZDhJakdhNVhCd0JScEdiVW0tUA?oc=5",
-          "summary": "PACK EXPO International 2026 Delivers Innovation, Connections, and Business Opportunities in Chicago Packaging World"
         }
       ],
       "sourcesCount": 1
@@ -4969,6 +4848,24 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
           "summary": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d4ab0e7f5ea8",
+      "title": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
+      "summary": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Thu, 22 Oct 2026 16:30:41 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
         }
       ],
       "sourcesCount": 1
@@ -5136,19 +5033,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "4cd48522c8fa",
-      "title": "The biggest wealth giveaway in modern history aims to transform the world - The Washington Post",
-      "summary": "The biggest wealth giveaway in modern history aims to transform the world The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZmZ2SVY5QkxOUW03bjQ1VEhMdmVsdC02S0d1RjRBQ0Q4b3oxNlZ3VV9Pc01Vb1hrQ0VKUmRLMWF0MEZKeERFbnVXWXMzV1VrUGtwVTY2WW92Mmdn?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "f084f6903d31",
+      "title": "Treadmill World Champs - What are they and how to compete",
+      "summary": "A brand-new World Athletics event where runners around the globe compete on a treadmill",
+      "link": "https://www.bbc.co.uk/programmes/p0pj2cln?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
       "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 16:00:00 GMT",
+      "topic": "sport",
+      "time": "Thu, 22 Oct 2026 16:03:38 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZmZ2SVY5QkxOUW03bjQ1VEhMdmVsdC02S0d1RjRBQ0Q4b3oxNlZ3VV9Pc01Vb1hrQ0VKUmRLMWF0MEZKeERFbnVXWXMzV1VrUGtwVTY2WW92Mmdn?oc=5",
-          "summary": "The biggest wealth giveaway in modern history aims to transform the world The Washington Post"
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/programmes/p0pj2cln?at_medium=RSS&at_campaign=rss",
+          "summary": "A brand-new World Athletics event where runners around the globe compete on a treadmill"
         }
       ],
       "sourcesCount": 1
@@ -5442,6 +5339,119 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
           "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7cdaa1d069d3",
+      "title": "Macron: Sendika dışı eylemler her yerde yasaklanacak",
+      "summary": "Fransa Cumhurbaşkanı Emmanuel Macron 17 Ekim’de yağma ve şiddet olaylarının yaşandığı Sarı Yelekliler eylemlerinin ardından güvenlik tedbirlerinin sıkılaştırıldığı Fransa’da sendikaların talebiyle düzenlenmeyen tüm eylemlerin hemen her yerde yasaklanacağını belirtti.",
+      "link": "https://www.trthaber.com/haber/dunya/macron-sendika-disi-eylemler-her-yerde-yasaklanacak-960906.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 15:02:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/macron-sendika-disi-eylemler-her-yerde-yasaklanacak-960906.html",
+          "summary": "Fransa Cumhurbaşkanı Emmanuel Macron 17 Ekim’de yağma ve şiddet olaylarının yaşandığı Sarı Yelekliler eylemlerinin ardından güvenlik tedbirlerinin sıkılaştırıldığı Fransa’da sendikaların talebiyle düzenlenmeyen tüm eylemlerin hemen her yerde yasaklanacağını belirtti."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a5882510b137",
+      "title": "Mehr Steuereinnahmen für Bund, Länder und Kommunen",
+      "summary": "Der Staat nimmt bis 2030 jedes Jahr elf Milliarden Euro mehr an Steuern ein als bisher erwartet. Das ist das Ergebnis der Steuerschätzung, die Minister Klingbeil vorgestellt hat.",
+      "link": "https://www.zdfheute.de/politik/steuer-steuern-steuerschaetzung-bund-kommunnen-einnahmen-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 15:00:00 +0200",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/politik/steuer-steuern-steuerschaetzung-bund-kommunnen-einnahmen-100.html",
+          "summary": "Der Staat nimmt bis 2030 jedes Jahr elf Milliarden Euro mehr an Steuern ein als bisher erwartet. Das ist das Ergebnis der Steuerschätzung, die Minister Klingbeil vorgestellt hat."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d7c61f8db5d1",
+      "title": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters",
+      "summary": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 14:58:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
+          "summary": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "bef6d7086616",
+      "title": "A Milli Takım'da Sergen Yalçın dönemi resmen başladı",
+      "summary": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, 4 yıllık imzayı attı. Birlik ve beraberlik çağrısı yapan Yalçın, \"Çünkü hepimizin üzerinde olan bir değerden bahsediyoruz, o da Ay-Yıldız\" dedi.",
+      "link": "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-960905.html",
+      "sourceName": "TRT Haber Sport",
+      "region": "turkey",
+      "topic": "sport",
+      "time": "Thu, 22 Oct 2026 14:57:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Sport",
+          "link": "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-960905.html",
+          "summary": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, 4 yıllık imzayı attı. Birlik ve beraberlik çağrısı yapan Yalçın, \"Çünkü hepimizin üzerinde olan bir değerden bahsediyoruz, o da Ay-Yıldız\" dedi."
+        },
+        {
+          "sourceName": "TRT Haber Sport",
+          "link": "https://www.trthaber.com/haber/spor/a-milli-takimda-montella-donemi-sona-erdi-959680.html",
+          "summary": "TFF, A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella ile yolların ayrıldığını duyurdu."
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
+      "id": "2fbf42e2f9bb",
+      "title": "Southern Italy truckers ease protests as government approves aid - Reuters",
+      "summary": "Southern Italy truckers ease protests as government approves aid Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanYxbnhJYlBXUzBuVl8xRTRXbW9WRUs3V2U1cE5yckh2RHkya0MySFNZa1FvdU9Gd0VHTHplLVZLMHBXaFhpZEthTy1GTVFZemRpa2xpelVmZzFWeGU5MDRSbFkyWkRfZVUzMFV0c00xMk1LalNPZy1qRUNUMkxydDQ4dTRET0dNWG9zcm5JN0plMGcwTFlfV0hnelFRUTZLRC0zNHZR?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 14:45:26 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanYxbnhJYlBXUzBuVl8xRTRXbW9WRUs3V2U1cE5yckh2RHkya0MySFNZa1FvdU9Gd0VHTHplLVZLMHBXaFhpZEthTy1GTVFZemRpa2xpelVmZzFWeGU5MDRSbFkyWkRfZVUzMFV0c00xMk1LalNPZy1qRUNUMkxydDQ4dTRET0dNWG9zcm5JN0plMGcwTFlfV0hnelFRUTZLRC0zNHZR?oc=5",
+          "summary": "Southern Italy truckers ease protests as government approves aid Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b44803ca1499",
+      "title": "Nijerya'da en az 80 milyon çocuk kurşun zehirlenmesi riski altında",
+      "summary": "Nijerya Sağlık ve Sosyal Refahtan Sorumlu Devlet Bakanı Iziaq Adekunle Salako, ülkede en az 80 milyon çocuğun kurşun zehirlenmesi riski altında bulunduğunu belirtti.",
+      "link": "https://www.trthaber.com/haber/dunya/nijeryada-en-az-80-milyon-cocuk-kursun-zehirlenmesi-riski-altinda-960903.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 14:42:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/nijeryada-en-az-80-milyon-cocuk-kursun-zehirlenmesi-riski-altinda-960903.html",
+          "summary": "Nijerya Sağlık ve Sosyal Refahtan Sorumlu Devlet Bakanı Iziaq Adekunle Salako, ülkede en az 80 milyon çocuğun kurşun zehirlenmesi riski altında bulunduğunu belirtti."
         }
       ],
       "sourcesCount": 1
