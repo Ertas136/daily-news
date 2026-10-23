@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T02:59:39.801115+00:00",
+  "updated": "2026-10-23T03:26:51.379504+00:00",
   "articles": [
     {
       "id": "dd4d752a85d8",
@@ -141,24 +141,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
           "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "15f5a2324b90",
-      "title": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble - U.S. News & World Report",
-      "summary": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 23:07:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U?oc=5",
-          "summary": "Government Websites Go Dark After AI-Discovered Flaw Sparks Security Scramble U.S. News & World Report"
         }
       ],
       "sourcesCount": 1
@@ -776,6 +758,24 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/panorama/sektenanfuehrer-kenia-mord-urteil-100.html",
           "summary": "Er rief seine Anhänger dazu auf, sich zu Tode zu fasten. Sektenführer Paul McKenzie soll mehr als 400 Menschen auf dem Gewissen haben."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "12e68cc68031",
+      "title": "Factbox-Governments, companies take websites offline over PHP flaws By Reuters - Investing.com",
+      "summary": "Factbox-Governments, companies take websites offline over PHP flaws By Reuters Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3lCX05lSVB6LXFZeUV2ZzM3QkV2Z04zQ2kyUGowTm1MMUg4T0hkWWFwTVB1bG53QVNvUS1HLU15djJ2QWJib3RDZWlWRDRPU1BQdExScHBCQml3UG9xNWxGTmYzLWpjaUt4WG5IRU9QdjRyOS02Y3Y5aXVUQU1PcDJuSGYySUQyNmlhWVhKaW1fcFJtSjNkRi00Y1ZtU1cxMkZv?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Wed, 21 Oct 2026 15:16:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3lCX05lSVB6LXFZeUV2ZzM3QkV2Z04zQ2kyUGowTm1MMUg4T0hkWWFwTVB1bG53QVNvUS1HLU15djJ2QWJib3RDZWlWRDRPU1BQdExScHBCQml3UG9xNWxGTmYzLWpjaUt4WG5IRU9QdjRyOS02Y3Y5aXVUQU1PcDJuSGYySUQyNmlhWVhKaW1fcFJtSjNkRi00Y1ZtU1cxMkZv?oc=5",
+          "summary": "Factbox-Governments, companies take websites offline over PHP flaws By Reuters Investing.com"
         }
       ],
       "sourcesCount": 1
@@ -1429,24 +1429,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0a255343a973",
-      "title": "A possible SpaceX-Tesla merger? Here’s what people are saying By Reuters - Investing.com",
-      "summary": "A possible SpaceX-Tesla merger? Here’s what people are saying By Reuters Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjNKQ3hVcXppd2FZM3VxdnQ5eHctVUZOak9NYk9Ia0Q2ckxlcXVBVFJ4V0xMeTZVXzRqQzFKX1JyM2RIcU9BUTZMcHFneEpIUWlxNWNfUTVGSjFvOXQybmxwOXlJMjRXZDlwWGRzcTBNa1p5clB0QU9yY0pSMTIzdkdYVVVNRlIzbVdiZVNHMF82TVhWSVNjSkRzZU5KREdkVWwzNVd0c3RUNk5HaTNGeVBwVkp6dw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wissenschaft",
-      "time": "Wed, 21 Oct 2026 06:16:57 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjNKQ3hVcXppd2FZM3VxdnQ5eHctVUZOak9NYk9Ia0Q2ckxlcXVBVFJ4V0xMeTZVXzRqQzFKX1JyM2RIcU9BUTZMcHFneEpIUWlxNWNfUTVGSjFvOXQybmxwOXlJMjRXZDlwWGRzcTBNa1p5clB0QU9yY0pSMTIzdkdYVVVNRlIzbVdiZVNHMF82TVhWSVNjSkRzZU5KREdkVWwzNVd0c3RUNk5HaTNGeVBwVkp6dw?oc=5",
-          "summary": "A possible SpaceX-Tesla merger? Here’s what people are saying By Reuters Investing.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "d9ae2d0bab21",
       "title": "Ferganinin altıncı uydusu FRG100D4 yörüngesine başarıyla yerleşti",
       "summary": "Baykar Yönetim Kurulu Başkanı ve Teknoloji Lideri Selçuk Bayraktar tarafından kurulan Fergani Uzay Teknolojileri, milli mühendislik kabiliyetiyle geliştirdiği altıncı deneme uydusu FRG-100D4'ü, ABD'nin Cape Canaveral Uzay Kuvvetleri Üssü'nden uzaya gönderdi.",
@@ -1933,24 +1915,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e37ea0c48ac9",
-      "title": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower - Ohio State News",
-      "summary": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower Ohio State News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4Qm9OcWlrUEU4QXBZaVUwUHVQRGkwYTZNTGdvcm9KMFFMOHBCQkt2cUh3VG05VkVRTUJidnJPMVdrNHpqQ0FYZmxhcFh0T1d4Mmh3VmdZT3gxQ29HeHprRExVQktzNEFtSnJFZ3FjdjRlZk5LY1N6bl9mZUxJb1ZCdnFTSmxqSEw2eGRmUTZMbGRDSUtv?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 23:43:16 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4Qm9OcWlrUEU4QXBZaVUwUHVQRGkwYTZNTGdvcm9KMFFMOHBCQkt2cUh3VG05VkVRTUJidnJPMVdrNHpqQ0FYZmxhcFh0T1d4Mmh3VmdZT3gxQ29HeHprRExVQktzNEFtSnJFZ3FjdjRlZk5LY1N6bl9mZUxJb1ZCdnFTSmxqSEw2eGRmUTZMbGRDSUtv?oc=5",
-          "summary": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower Ohio State News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "688b51f07c5a",
       "title": "The tech helping crack decades-old cold cases",
       "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
@@ -2362,6 +2326,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "3231428cd572",
+      "title": "Why the United States Needs Europe in Order to Win the Technology Race - CSIS | Center for Strategic and International Studies",
+      "summary": "Why the United States Needs Europe in Order to Win the Technology Race CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcV9xUHZlaVQzZzhrNF85OWhjZm5hZWxhbkRpVkJYSFg4RXM4aG1qY0FUcU0xbkFZS2d4T2ZXMWh1VXQyLVNLMFNjUXliZnhlOWhIUFpzZW9XRF9oaHM4NC1uRF9pUGFreHhqSzZ0YVdVMWxHa1lKSEM2TnUxRE5STkJQUVJESVJ2MGhpVlExcw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 14:10:19 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcV9xUHZlaVQzZzhrNF85OWhjZm5hZWxhbkRpVkJYSFg4RXM4aG1qY0FUcU0xbkFZS2d4T2ZXMWh1VXQyLVNLMFNjUXliZnhlOWhIUFpzZW9XRF9oaHM4NC1uRF9pUGFreHhqSzZ0YVdVMWxHa1lKSEM2TnUxRE5STkJQUVJESVJ2MGhpVlExcw?oc=5",
+          "summary": "Why the United States Needs Europe in Order to Win the Technology Race CSIS | Center for Strategic and International Studies"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "01e90827161b",
       "title": "A Milli Takım'da Sergen Yalçın dönemi",
       "summary": "A Milli Futbol Takımı'nda Vincenzo Montella'nın yerine göreve getirilen Sergen Yalçın, ay-yıldızlıların tarihindeki 48. teknik direktörü oldu.",
@@ -2465,6 +2447,24 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVd5enh1YjYtaWQ3RGtDeG9qY01XdkxSbTRxMnJXYXcwNkp3SlhraWx2QlJJOV92eF9NQUVYRUI1RWlwejN3RG1aZW1Rbl9lQ0xId29RVGdhcEotQ21jbWpqZnVWRzQzX0FGdUJ4ZS15dTRvb1p6aEZ3cUxCdkJqNzh2Ql84eFFu0gGOAUFVX3lxTE5aTl9iNXkxZlBTcVNKZ2JURE1qUm4yNUNiYUYzMlZqb3dQNVFvZ01zTHlXTlVNS0l4RUFTS0RobmIxWWJPNjJtZ25mYU5VT00tRXRST0xEMFFKaVdxUThDcl9YQTE4RXUzc0Vzb0lzMHlsQXB4eTNJekNJUzZ4YUh0RGh5MFh5YXpfNGhqWkE?oc=5",
           "summary": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows CNBC"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "bcec1c086311",
+      "title": "Trump approval rating falls to career low in new poll - USA Today",
+      "summary": "Trump approval rating falls to career low in new poll USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcktXNnV6TXNuNXpndHIzOEVFcGFCRk1yZG5VampSLW9vR2l2T1VjM21CckJ5NE02Qy1WQ0daRDNwYTZFY1hDblg3d1ZadHlXOXRVdy1Lbnp1YVMyUEw0em5xNThNM2JTODV6bjY4dGJRVE0zN0EzdmFHXzhvTEk2UGl4eDI5OWhJWG1KbGduTVY3MzJyaldZRnRSdkdROGFVWlJKcHlNMndjeWVUZWc?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Tue, 20 Oct 2026 10:22:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcktXNnV6TXNuNXpndHIzOEVFcGFCRk1yZG5VampSLW9vR2l2T1VjM21CckJ5NE02Qy1WQ0daRDNwYTZFY1hDblg3d1ZadHlXOXRVdy1Lbnp1YVMyUEw0em5xNThNM2JTODV6bjY4dGJRVE0zN0EzdmFHXzhvTEk2UGl4eDI5OWhJWG1KbGduTVY3MzJyaldZRnRSdkdROGFVWlJKcHlNMndjeWVUZWc?oc=5",
+          "summary": "Trump approval rating falls to career low in new poll USA Today"
         }
       ],
       "sourcesCount": 1
@@ -3208,24 +3208,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "7ff24b8d3c58",
-      "title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility - Reuters",
-      "summary": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 22 Oct 2026 21:57:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
-          "summary": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f653d37f81d0",
       "title": "Man Utd chief keen on Howe - Friday's gossip",
       "summary": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
@@ -3614,24 +3596,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e8332d800637",
-      "title": "Google launches more personalized Gemini AI as competition over in-car technology intensifies - Car Dealership Guy News",
-      "summary": "Google launches more personalized Gemini AI as competition over in-car technology intensifies Car Dealership Guy News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkhjNks4cnNkVUxTMWlUdldWM2RJQm9ERERwS2pRc1hkWTJiT1IxZjdoSWRNamRTRkprTHl4Z0I0SWFTNFVwcnM4NHhIY212X1JDdmpSZVd6WjVBcWFhdm9DeElTUXdxMmNnSnBtOVc5TDdvOEp3TTRjd3NnYXBENXVnUW5jZ2REYTU2YzdoNTdKUGNUZ3VfVFpNQ3JVQ21aZ0JscXNJZU5zaFI3OUVBR0k2X3ZfQWJnYTVOY2xMRUdmdWVa?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 21:00:39 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkhjNks4cnNkVUxTMWlUdldWM2RJQm9ERERwS2pRc1hkWTJiT1IxZjdoSWRNamRTRkprTHl4Z0I0SWFTNFVwcnM4NHhIY212X1JDdmpSZVd6WjVBcWFhdm9DeElTUXdxMmNnSnBtOVc5TDdvOEp3TTRjd3NnYXBENXVnUW5jZ2REYTU2YzdoNTdKUGNUZ3VfVFpNQ3JVQ21aZ0JscXNJZU5zaFI3OUVBR0k2X3ZfQWJnYTVOY2xMRUdmdWVa?oc=5",
-          "summary": "Google launches more personalized Gemini AI as competition over in-car technology intensifies Car Dealership Guy News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3db996be1161",
       "title": "Sebastian Fitzeks neuer Roman: Eskapismus als Credo",
       "summary": "Mit seinem Buch „Der Nachtzug“ feiert Sebastian Fitzek sein zwanzigjähriges Jubiläum als Thriller-Autor. Eine Lektüre und eine Begegnung.",
@@ -3645,24 +3609,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/begegnung-mit-sebastian-fitzek-zum-thriller-der-nachtzug-201310381.html",
           "summary": "Mit seinem Buch „Der Nachtzug“ feiert Sebastian Fitzek sein zwanzigjähriges Jubiläum als Thriller-Autor. Eine Lektüre und eine Begegnung."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d7c61f8db5d1",
-      "title": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters",
-      "summary": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 20:55:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
-          "summary": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4146,22 +4092,27 @@
       "sourcesCount": 1
     },
     {
-      "id": "6bbc2e03b483",
-      "title": "International Business University Launches the Journal of Business, Management, and Intelligent Systems - PR Newswire Canada",
-      "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems PR Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzFPa18wZmZqR3VPN2NpWlg5Vi1LaWI1ZTVCa0tEVWh5dmItLTJwMXJjRU5WTTFXVnViQjNZc092bDFNVmhpWDZBOUZnTWlRU09PWkwyNGlsVXNvOW1KamZObk1CTlRqWC1LcXk4bkNKSmc3aldhamhvSVVNMTBXeU4xZmNOZ3NnbFBZdktvNDM5dWRMd3V0amRhV1Z2ME85WU9ZaXRHVEcxd0dIc3kxc3JkNmFzNVJnbEExQTVaYjhoMnNyeU9HcERscDZhVW44OEdDek1WeFFheUg0dHFucVVXOUJOaGRVd3c?oc=5",
+      "id": "fff2910ada56",
+      "title": "International Business University Launches the Journal of Business, Management, and Intelligent Systems - The Globe and Mail",
+      "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZFJNUXVSSEtEaXZ3a3dkNndqWnZFdkk3UXJ5TUNuNEtZQ1lBSnNQWHNrYjJsTHZBOVFBNi1TaXhPOW4yMHFvZFdYMk1hNTRhMDFSWTdsaHNjWUZicTFwanNnQjlIc3pzWTZKXzZ3dHRENUhVcmdEeG16Z2dFMjh4MlFwMC1PT2JzbF9LTVRWNWp3WEc2QmZ2aERIOU5Ta2hJQjhqTkEzVHBZblQzLWhBYV9JLTBlWWpadU5sakZEQTY0bkN6YzkybG5aY2xzSUh5ZmdJU1pHT29QN1JySGZPWHE5UWJ0RVN6anJuQlZZeldBeFJoXzZKb3lHeGswaFlJZzJnNEd2N29PVTdQVkxXNzdwNA?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
       "topic": "wirtschaft",
-      "time": "Thu, 22 Oct 2026 19:08:00 GMT",
+      "time": "Thu, 22 Oct 2026 19:08:32 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzFPa18wZmZqR3VPN2NpWlg5Vi1LaWI1ZTVCa0tEVWh5dmItLTJwMXJjRU5WTTFXVnViQjNZc092bDFNVmhpWDZBOUZnTWlRU09PWkwyNGlsVXNvOW1KamZObk1CTlRqWC1LcXk4bkNKSmc3aldhamhvSVVNMTBXeU4xZmNOZ3NnbFBZdktvNDM5dWRMd3V0amRhV1Z2ME85WU9ZaXRHVEcxd0dIc3kxc3JkNmFzNVJnbEExQTVaYjhoMnNyeU9HcERscDZhVW44OEdDek1WeFFheUg0dHFucVVXOUJOaGRVd3c?oc=5",
-          "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems PR Newswire Canada"
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZFJNUXVSSEtEaXZ3a3dkNndqWnZFdkk3UXJ5TUNuNEtZQ1lBSnNQWHNrYjJsTHZBOVFBNi1TaXhPOW4yMHFvZFdYMk1hNTRhMDFSWTdsaHNjWUZicTFwanNnQjlIc3pzWTZKXzZ3dHRENUhVcmdEeG16Z2dFMjh4MlFwMC1PT2JzbF9LTVRWNWp3WEc2QmZ2aERIOU5Ta2hJQjhqTkEzVHBZblQzLWhBYV9JLTBlWWpadU5sakZEQTY0bkN6YzkybG5aY2xzSUh5ZmdJU1pHT29QN1JySGZPWHE5UWJ0RVN6anJuQlZZeldBeFJoXzZKb3lHeGswaFlJZzJnNEd2N29PVTdQVkxXNzdwNA?oc=5",
+          "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems The Globe and Mail"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qQjNzZ0RweDJXR2FaQU94anU0QTB2NGtURVhfM3poRHNYVTdWU1RNckRSZzY5d1Z5RG9maWZ5MTh6b0lqOFZVdDEtdUh5Wms5aU04UWxrSXVMcWh4NnRteEJsbE41M1o4QUZSZExqQklFZXp6UnVJ?oc=5",
+          "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems Tolerance.ca"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "83547e4f48c8",
@@ -4673,6 +4624,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "2e7fdbdacf00",
+      "title": "Undervalued technology stocks to watch as Q3 earnings season unfolds (VGT:NYSEARCA) - Seeking Alpha",
+      "summary": "Undervalued technology stocks to watch as Q3 earnings season unfolds (VGT:NYSEARCA) Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmQ1ZUZra0VIX2dEWmQ5YzRvX1BIVFZubzhTdW1IUVNTeElsdlBsbU5NaGIweTZXd3hzN2JCSjFsTy1JUmdONEt6WHFKTzdmbjBKWnZURHQ4eVp2RDJMU2R0c3NJQlFIN1duRXd6V0stRmczNERiZ2otTlh1ZXVleDBxTlJlN2xtWVJNTmY4N2FsQ3VaM1ZfczdxY3hJaEFmSHZDSnUzV2NGUQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 17:23:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmQ1ZUZra0VIX2dEWmQ5YzRvX1BIVFZubzhTdW1IUVNTeElsdlBsbU5NaGIweTZXd3hzN2JCSjFsTy1JUmdONEt6WHFKTzdmbjBKWnZURHQ4eVp2RDJMU2R0c3NJQlFIN1duRXd6V0stRmczNERiZ2otTlh1ZXVleDBxTlJlN2xtWVJNTmY4N2FsQ3VaM1ZfczdxY3hJaEFmSHZDSnUzV2NGUQ?oc=5",
+          "summary": "Undervalued technology stocks to watch as Q3 earnings season unfolds (VGT:NYSEARCA) Seeking Alpha"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "4e22dc253b98",
       "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
       "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
@@ -5051,24 +5020,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "23eb9e1b8a82",
-      "title": "Tractor Supply taps former Home Depot exec as chief technology, digital officer - Retail Dive",
-      "summary": "Tractor Supply taps former Home Depot exec as chief technology, digital officer Retail Dive",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkllbl9INlBKYnBQb3lZMndrZ2V4dHRWcnhpbGNHSUtlUGItQjY0RVdMTGFTekVmRENVVTlSVEJUYzN1MTJwa1FiNjhTUU8zZkNndFVZdFA2ZXRKTGU4b01PWUFwNGxJV1RmZWI4UGYxendNQjNrUVkzT3liUTBWc09JUkk4ZExwWmhvSF91eFJvNFRrZ2tudlVKaG9qVHE1SlA1ak1VTVdYN0dz?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 16:25:18 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkllbl9INlBKYnBQb3lZMndrZ2V4dHRWcnhpbGNHSUtlUGItQjY0RVdMTGFTekVmRENVVTlSVEJUYzN1MTJwa1FiNjhTUU8zZkNndFVZdFA2ZXRKTGU4b01PWUFwNGxJV1RmZWI4UGYxendNQjNrUVkzT3liUTBWc09JUkk4ZExwWmhvSF91eFJvNFRrZ2tudlVKaG9qVHE1SlA1ak1VTVdYN0dz?oc=5",
-          "summary": "Tractor Supply taps former Home Depot exec as chief technology, digital officer Retail Dive"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fdf2fd790a9d",
       "title": "European Parliament votes to approve three-year delay on EU methane rules - Reuters",
       "summary": "European Parliament votes to approve three-year delay on EU methane rules Reuters",
@@ -5403,6 +5354,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "28a24251af7f",
+      "title": "Axel Springer open to role in any potential European TikTok deal, spokesperson says - Reuters",
+      "summary": "Axel Springer open to role in any potential European TikTok deal, spokesperson says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0VYU3Y5cF9GOGtVQWxrQjlPQ1pJemNBbWE4WC1hRVltSnRpNG0weV9aRzZKSS10Rmppdk1OZXBYRFNEWThzU0ZSSkRPdjBIc01iMHRYSG5lVmhIZzRuMXVqdE5BX3hFYUJlbzgtZmthMzFTMVVtaERZU0cwSHVNUjhNcFVJMG9ZTFdwMFZoem5TV09aaElYQ1NUcmRXalpCR09qLW4zcG5NZ1ludlRJRmdpSno5bURVanFhSWtKNENIeVF1U05VSFVidnY?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 15:27:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0VYU3Y5cF9GOGtVQWxrQjlPQ1pJemNBbWE4WC1hRVltSnRpNG0weV9aRzZKSS10Rmppdk1OZXBYRFNEWThzU0ZSSkRPdjBIc01iMHRYSG5lVmhIZzRuMXVqdE5BX3hFYUJlbzgtZmthMzFTMVVtaERZU0cwSHVNUjhNcFVJMG9ZTFdwMFZoem5TV09aaElYQ1NUcmRXalpCR09qLW4zcG5NZ1ludlRJRmdpSno5bURVanFhSWtKNENIeVF1U05VSFVidnY?oc=5",
+          "summary": "Axel Springer open to role in any potential European TikTok deal, spokesperson says Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a46e8fec6e3d",
       "title": "International Business Machines Corporation (NYSE:IBM) Shareholders to Get $1.69 Quarterly Dividend - MarketBeat",
       "summary": "International Business Machines Corporation (NYSE:IBM) Shareholders to Get $1.69 Quarterly Dividend MarketBeat",
@@ -5452,6 +5421,42 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/politik/inland/extremismusklausel-im-laenderfinanzausgleich-soeder-und-rhein-auf-abwegen-201611639.html",
           "summary": "Eine Extremismusklausel im Länderfinanzausgleich? Wo soll das hinführen?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5fa1ad24517c",
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
+      "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 15:11:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+          "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "993faa0a20e7",
+      "title": "Husilerin terör örgütleri listesine alınması AP'de onaylandı",
+      "summary": "Avrupa Parlamentosu'nda (AP), Yemen'deki Husilerin askeri ve siyasi kanatlarının, liderliği ile askeri ve güvenlik yapılanmasının Avrupa Birliği'nin (AB) terör örgütleri listesine alınmasını talep eden karar tasarısı kabul edildi.",
+      "link": "https://www.trthaber.com/haber/dunya/husilerin-teror-orgutleri-listesine-alinmasi-apde-onaylandi-960908.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 15:07:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/husilerin-teror-orgutleri-listesine-alinmasi-apde-onaylandi-960908.html",
+          "summary": "Avrupa Parlamentosu'nda (AP), Yemen'deki Husilerin askeri ve siyasi kanatlarının, liderliği ile askeri ve güvenlik yapılanmasının Avrupa Birliği'nin (AB) terör örgütleri listesine alınmasını talep eden karar tasarısı kabul edildi."
         }
       ],
       "sourcesCount": 1
