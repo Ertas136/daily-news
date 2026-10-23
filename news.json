@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T00:16:29.580282+00:00",
+  "updated": "2026-10-23T01:12:36.195087+00:00",
   "articles": [
     {
       "id": "dd4d752a85d8",
@@ -236,6 +236,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5baf79bcaf46",
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Wed, 21 Oct 2026 22:02:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+          "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "246675965235",
       "title": "Skistar Emma Aicher vor Saisonstart: Alles auf null - und alles ist drin",
       "summary": "Nach einer überragenden Saison mit Olympia-Silber und drei Weltcupsiegen startet Emma Aicher in Sölden in den Winter. Die 22-Jährige greift nach der großen Kristallkugel.",
@@ -393,9 +411,14 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0tLNTc4WHZpREQ4dFE5Y09XOTV6ZndZWl9CNEtsRHBvem1YUEItbENHR09HSXdGaEFweURpMmVzTzA5alY5SklFazZKWndJaWYtd1c1RV9SR1lqZmJlYWdUMmFPQXhXbDdZZHZWenF5Y3dHQ294aFJaMDNsaUtHNW13VVBZMUQzRk1UYTJIdGpxM3U3MXY1SXM1WnJfUzluNldGUjB5ZzFuQldTX0FMS05CWTktMWRkNW1KdE5VRkpkZTVKZ0Vibm5jU0NMZVZMVTFRVDdyR0I1ajk4V0hPQmZB?oc=5",
           "summary": "Earnings Flash (IBM) International Business Machines Corporation Reports Q3 Revenue $17.10B, vs. FactSet Est of $16.82B marketscreener.com"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaUUteDRIVG1Bcy1RU1lCQy1Kc20tbkVPRWFNUDBlV0VjUUh4V3pneHFzUEphb2dBTE5QN0FvdVAxRTFmbW9GajdFdFlaMXA5Mm93VVJSWDlLMWxkLUpjTllPNWJXYkVfakI0djlGdXJwMWoxeE1sdlNNNV8xVzluTERESWFFYlpyV3NIc0FmNXNlUS1lZWV3MzBYWHhqTE9lS0REalNmT1NtQURTMGdjTjk1YVFFaFhDWlgxLTFRcUJqVWtvdExFX1d5Y2RpZXViVFZMdFVkd1V6UXcxbzdpam5TdUw?oc=5",
+          "summary": "Earnings Flash (IBM) International Business Machines Corporation Posts Q3 Adjusted EPS $2.95 per Share marketscreener.com"
         }
       ],
-      "sourcesCount": 1
+      "sourcesCount": 2
     },
     {
       "id": "e3dbce13ab37",
@@ -884,24 +907,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "643456b192e6",
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Wed, 21 Oct 2026 14:04:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-          "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "53a37f430888",
       "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "summary": "In St. Petersburg berät Russlands Präsident Putin mit dem US-Vermittler Witkoff über den Ukraine-Krieg.",
@@ -1275,42 +1280,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html",
           "summary": "Die Folgen der Erderwärmung sind verheerend. Das eigentlich vereinbarte 1,5-Grad-Limit wird ziemlich sicher gerissen."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "88d421225658",
-      "title": "Fon soruşturması kapsamında 26 kişi gözaltına alındı",
-      "summary": "Fon soruşturması kapsamında hakkında gözaltı kararı verilen 31 şüpheliden 26'sı gözaltına alındı.",
-      "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-kapsaminda-26-kisi-gozaltina-alindi-960722.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 09:46:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-kapsaminda-26-kisi-gozaltina-alindi-960722.html",
-          "summary": "Fon soruşturması kapsamında hakkında gözaltı kararı verilen 31 şüpheliden 26'sı gözaltına alındı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "9d8daa987ce8",
-      "title": "2 bin yıllık Zeus heykel başı ele geçirildi",
-      "summary": "İzmir'in Konak ilçesinde, Roma dönemine ait ve yaklaşık 2 bin yıllık olduğu değerlendirilen mermer Zeus heykel başı ele geçirildi, 3 şüpheli gözaltına alındı.",
-      "link": "https://www.trthaber.com/haber/turkiye/2-bin-yillik-zeus-heykel-basi-ele-gecirildi-960720.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 21 Oct 2026 09:43:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/2-bin-yillik-zeus-heykel-basi-ele-gecirildi-960720.html",
-          "summary": "İzmir'in Konak ilçesinde, Roma dönemine ait ve yaklaşık 2 bin yıllık olduğu değerlendirilen mermer Zeus heykel başı ele geçirildi, 3 şüpheli gözaltına alındı."
         }
       ],
       "sourcesCount": 1
@@ -1982,6 +1951,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e37ea0c48ac9",
+      "title": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower - Ohio State News",
+      "summary": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower Ohio State News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4Qm9OcWlrUEU4QXBZaVUwUHVQRGkwYTZNTGdvcm9KMFFMOHBCQkt2cUh3VG05VkVRTUJidnJPMVdrNHpqQ0FYZmxhcFh0T1d4Mmh3VmdZT3gxQ29HeHprRExVQktzNEFtSnJFZ3FjdjRlZk5LY1N6bl9mZUxJb1ZCdnFTSmxqSEw2eGRmUTZMbGRDSUtv?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Tue, 20 Oct 2026 23:43:16 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4Qm9OcWlrUEU4QXBZaVUwUHVQRGkwYTZNTGdvcm9KMFFMOHBCQkt2cUh3VG05VkVRTUJidnJPMVdrNHpqQ0FYZmxhcFh0T1d4Mmh3VmdZT3gxQ29HeHprRExVQktzNEFtSnJFZ3FjdjRlZk5LY1N6bl9mZUxJb1ZCdnFTSmxqSEw2eGRmUTZMbGRDSUtv?oc=5",
+          "summary": "Ohio State holds groundbreaking ceremony for Timashev Technology Tower Ohio State News"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "688b51f07c5a",
       "title": "The tech helping crack decades-old cold cases",
       "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
@@ -2283,29 +2270,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "4f991b21c2cd",
-      "title": "Top Strategic Technology Trends for 2027 - Gartner",
-      "summary": "Top Strategic Technology Trends for 2027 Gartner",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMGNNN1p0UTdtOXV0U3RoU2JvSGlYUXpQYTZIeEFvcHZGZVpiazBjZ2UyZ0ZhVzZ6NUl3c3Y3LTdCWUVfYVd1YnZuMFdtVElGcHlsR3IwM1BnYXBQNGZueEdldUZJOWM0UnRTQ3Y0WQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 20 Oct 2026 15:59:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMGNNN1p0UTdtOXV0U3RoU2JvSGlYUXpQYTZIeEFvcHZGZVpiazBjZ2UyZ0ZhVzZ6NUl3c3Y3LTdCWUVfYVd1YnZuMFdtVElGcHlsR3IwM1BnYXBQNGZueEdldUZJOWM0UnRTQ3Y0WQ?oc=5",
-          "summary": "Top Strategic Technology Trends for 2027 Gartner"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTJpRl8tRGNMS1FMMXJpbC05SHhhVXVGNjlDQTQ1RXg0OFdUeDAtMngxWExCU21SNFcyTFNKY2JfNDlMS1pSaUY3Y3JIUFRlenR6QXUtTWRyR0tNa0xISXk4NVRIelRVQ18tRTZDeGZleUJpSFdabjRYUVhnQkpIYU55S0RwZ0lIek9pWVl1WHY3QWlLOVJnZy1yeVZ5Mi0xMk9PdWdR?oc=5",
-          "summary": "Gartner’s Top 10 Strategic Technology Trends For 2027 Forbes"
-        }
-      ],
-      "sourcesCount": 2
     },
     {
       "id": "ece38309c00f",
@@ -2866,6 +2830,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "665d1dd9ae28",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
+      "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 23:54:52 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+          "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "eb46eaa794e2",
       "title": "Region Tibet: Tote und Verletzte bei schwerem Erdbeben in China",
       "summary": "In der Autonomen Region Tibet hat die Erde gebebt. Hunderte Häuser sollen eingestürzt sein, es gibt Tote und Verletzte.",
@@ -2902,19 +2884,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "30241be9cedb",
-      "title": "City College’s computer science department adapts to AI technology - The Channels",
-      "summary": "City College’s computer science department adapts to AI technology The Channels",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnc3dUFTUXZuMzY5UkktdUVUYjRHckRLOTZoVFpnMF90MDgyMXAyb1gwOWlKRFNfMElxc0VnVVVNRmNBODVvVF9pMnhrdXN3dnhlUndUa3NNZlhNU290TVdYS0VtTjFlNXZxVUl3YzFXNGVYU2xSRjBGQXQwSF8xTjNVTjBlYUJQcnV1RjhidmVkV2tlQ3k0YVV3ZkhPY0x3ZkkxMXJ5ZVRIWlNUWktFREppVXk?oc=5",
+      "id": "2d0e0881582f",
+      "title": "Kauai police introduce automated license plate reader technology - Hawaii News Now",
+      "summary": "Kauai police introduce automated license plate reader technology Hawaii News Now",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmxTd2hCcVV5N2RscGtMcmhQYVhtYTktNXBESzFXT3NyTWRBS1plUWFLR3dJRTY1eHV6RDBnNlc2WnBwcnpTdHBmYk1TNm9lSFlEb0c3RGVOUUwwLXRFQ2RCTU9kcUtkTTNJWjdjNVJXaXIxUFRJZ2RMNTlRT05SelBvQ3l0ajRDdzJRUVRqZGpIS2ItbUM3X1BXWFZ0Zkwxb25aSkJBVTN0QdIBvgFBVV95cUxObmZObDNSOFZrQ1cyZ1FDcURxbDFVd0d6TE1keWJ4cWxON1NCSzRjalE0clhwUXY1Z2hlU3Q0R1ZvRGxKZlNCM0RjQThvTC1EalprUlVXUlFyalhjeHM4ZHBxa05vckZjeWlDNDVDVnRfM3loMWJPOWdzSGhab092enZjcTdtamtQZmQtLWpkSDlRbWZ5NmJPVkFtY1g1RnFNRF9UQV9naFByOXFjS3Nac3BKWDJmVWFmcXRvRGpR?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 23:21:30 GMT",
+      "time": "Thu, 22 Oct 2026 23:35:00 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnc3dUFTUXZuMzY5UkktdUVUYjRHckRLOTZoVFpnMF90MDgyMXAyb1gwOWlKRFNfMElxc0VnVVVNRmNBODVvVF9pMnhrdXN3dnhlUndUa3NNZlhNU290TVdYS0VtTjFlNXZxVUl3YzFXNGVYU2xSRjBGQXQwSF8xTjNVTjBlYUJQcnV1RjhidmVkV2tlQ3k0YVV3ZkhPY0x3ZkkxMXJ5ZVRIWlNUWktFREppVXk?oc=5",
-          "summary": "City College’s computer science department adapts to AI technology The Channels"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmxTd2hCcVV5N2RscGtMcmhQYVhtYTktNXBESzFXT3NyTWRBS1plUWFLR3dJRTY1eHV6RDBnNlc2WnBwcnpTdHBmYk1TNm9lSFlEb0c3RGVOUUwwLXRFQ2RCTU9kcUtkTTNJWjdjNVJXaXIxUFRJZ2RMNTlRT05SelBvQ3l0ajRDdzJRUVRqZGpIS2ItbUM3X1BXWFZ0Zkwxb25aSkJBVTN0QdIBvgFBVV95cUxObmZObDNSOFZrQ1cyZ1FDcURxbDFVd0d6TE1keWJ4cWxON1NCSzRjalE0clhwUXY1Z2hlU3Q0R1ZvRGxKZlNCM0RjQThvTC1EalprUlVXUlFyalhjeHM4ZHBxa05vckZjeWlDNDVDVnRfM3loMWJPOWdzSGhab092enZjcTdtamtQZmQtLWpkSDlRbWZ5NmJPVkFtY1g1RnFNRF9UQV9naFByOXFjS3Nac3BKWDJmVWFmcXRvRGpR?oc=5",
+          "summary": "Kauai police introduce automated license plate reader technology Hawaii News Now"
         }
       ],
       "sourcesCount": 1
@@ -2951,6 +2933,24 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
           "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b2c0b250a02f",
+      "title": "Honeywell highlights growth in low carbon, SAF technology licensing - Biomass Magazine",
+      "summary": "Honeywell highlights growth in low carbon, SAF technology licensing Biomass Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSjR1LUFlRjkzWWk1YUhyN19IRk9EdEFkMzEzNXRhTG5IR1dUeWpzR1BhMmVmQWRjeVMwcWFRMll5M1Iwblo0M3pxMGpMcGc0emRCYmR4bEhWcFU2Y1d3V1NqTlVCRlFsalpqWmdTYWl5S1QzZy1HNnJ3MmNTNUZFYjhKNUE0UnZLeVg2M2xkdm1Ec3hUalNZV0d1N1RsVXdpREg4bV93?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 23:18:01 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSjR1LUFlRjkzWWk1YUhyN19IRk9EdEFkMzEzNXRhTG5IR1dUeWpzR1BhMmVmQWRjeVMwcWFRMll5M1Iwblo0M3pxMGpMcGc0emRCYmR4bEhWcFU2Y1d3V1NqTlVCRlFsalpqWmdTYWl5S1QzZy1HNnJ3MmNTNUZFYjhKNUE0UnZLeVg2M2xkdm1Ec3hUalNZV0d1N1RsVXdpREg4bV93?oc=5",
+          "summary": "Honeywell highlights growth in low carbon, SAF technology licensing Biomass Magazine"
         }
       ],
       "sourcesCount": 1
@@ -3190,6 +3190,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "bfe77ff3483e",
+      "title": "Gartner’s Top 10 Strategic Technology Trends For 2027 - Forbes",
+      "summary": "Gartner’s Top 10 Strategic Technology Trends For 2027 Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTJpRl8tRGNMS1FMMXJpbC05SHhhVXVGNjlDQTQ1RXg0OFdUeDAtMngxWExCU21SNFcyTFNKY2JfNDlMS1pSaUY3Y3JIUFRlenR6QXUtTWRyR0tNa0xISXk4NVRIelRVQ18tRTZDeGZleUJpSFdabjRYUVhnQkpIYU55S0RwZ0lIek9pWVl1WHY3QWlLOVJnZy1yeVZ5Mi0xMk9PdWdR?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Thu, 22 Oct 2026 21:58:47 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTJpRl8tRGNMS1FMMXJpbC05SHhhVXVGNjlDQTQ1RXg0OFdUeDAtMngxWExCU21SNFcyTFNKY2JfNDlMS1pSaUY3Y3JIUFRlenR6QXUtTWRyR0tNa0xISXk4NVRIelRVQ18tRTZDeGZleUJpSFdabjRYUVhnQkpIYU55S0RwZ0lIek9pWVl1WHY3QWlLOVJnZy1yeVZ5Mi0xMk9PdWdR?oc=5",
+          "summary": "Gartner’s Top 10 Strategic Technology Trends For 2027 Forbes"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f653d37f81d0",
       "title": "Man Utd chief keen on Howe - Friday's gossip",
       "summary": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
@@ -3280,6 +3298,42 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
           "summary": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "86af4c00bbc2",
+      "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
+      "summary": "Trump invokes Cold War-era Defense Production Act for oil production, refining Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdm9ka0hnal9OOUFnN19HQmRZd0ljY2tJOVNoN2tIWURrMHExZ0p0NWN0UEpTMmFORG1TTU1CeXZkb3RhenhtelltYVY2SmRyZEctMnRIcUNEQlFXODdsZGxBMXhpem81NjJwRjRCbVl1N2tyWVkxeXU0T2k3ZEttNk5lbzZCVzRrUEtwT3JPTlJiUUVmSjU4b25EaXNIQ3dyS3c3NlJUSkFBdWZSMDFZVmZ1dmhncGFIYjNQU0tOd1I5dFk?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 21:32:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdm9ka0hnal9OOUFnN19HQmRZd0ljY2tJOVNoN2tIWURrMHExZ0p0NWN0UEpTMmFORG1TTU1CeXZkb3RhenhtelltYVY2SmRyZEctMnRIcUNEQlFXODdsZGxBMXhpem81NjJwRjRCbVl1N2tyWVkxeXU0T2k3ZEttNk5lbzZCVzRrUEtwT3JPTlJiUUVmSjU4b25EaXNIQ3dyS3c3NlJUSkFBdWZSMDFZVmZ1dmhncGFIYjNQU0tOd1I5dFk?oc=5",
+          "summary": "Trump invokes Cold War-era Defense Production Act for oil production, refining Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4e2cac72cb7c",
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline? - The New York Times",
+      "summary": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ19GR2RpNHFiUUkyanlQMFh3LVEyNVZjLTUyQjBWdkYzZFFPMGZ4UHJGTmU1WUFuTml3ZFdSY2hwcy1UUFJ6ejl2QzB3MEVsWnQ3LTQzemRTc0FXaTNiT0hEUGFtNS1KTnhhV0toMU01VjlSOTlZTGUtWXc4ZFk2bnhXbVNVazkxWkE?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 22 Oct 2026 21:31:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ19GR2RpNHFiUUkyanlQMFh3LVEyNVZjLTUyQjBWdkYzZFFPMGZ4UHJGTmU1WUFuTml3ZFdSY2hwcy1UUFJ6ejl2QzB3MEVsWnQ3LTQzemRTc0FXaTNiT0hEUGFtNS1KTnhhV0toMU01VjlSOTlZTGUtWXc4ZFk2bnhXbVNVazkxWkE?oc=5",
+          "summary": "What Is PHP? Why Are Government and Business Websites Going Offline?"
         }
       ],
       "sourcesCount": 1
@@ -3668,24 +3722,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "665d1dd9ae28",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
-      "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 20:48:22 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-          "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "fa887ec9dabe",
       "title": "MT Melsungen schlägt Wisla Plock und träumt von der Hauptrunde",
       "summary": "Einmal Durchatmen bei der MT Melsungen: Die Nordhessen haben das wichtige Champions-League-Heimspiel gegen Wisla Plock gewonnen. Das Spiel war dabei eine echte Zitterpartie.",
@@ -3943,24 +3979,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/zdfheute-live/wahlen-brasilien-manipulation-meta-100.html",
           "summary": "Brasiliens Präsident Lula beantragt kurz vor der Stichwahl den Ausschluss von Herausforderer Bolsonaro. Der Vorwurf: Wahlbeeinflussung durch Meta."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "533fa53371dd",
-      "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes - The New York Times",
-      "summary": "How a Legal Backlash Against Big Tech Is Forcing Big Changes The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVllZnZNekJYc05DRThHXzU4ZXMtZTJoOENHSVZfOXJoU01MUzVtR1duXzNsenRnWTl0ejZEY2FWV21XQ3VHcGdWMHJGOTVSOV9MclVFMDc4OEIyYjhmZF9BWEh3cGNONnBYcnVtaTl6Mkx0akwtNUtLWkxremxlWGpRXzh5Qm1xQkF5c1JRQ3k?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 19:29:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVllZnZNekJYc05DRThHXzU4ZXMtZTJoOENHSVZfOXJoU01MUzVtR1duXzNsenRnWTl0ejZEY2FWV21XQ3VHcGdWMHJGOTVSOV9MclVFMDc4OEIyYjhmZF9BWEh3cGNONnBYcnVtaTl6Mkx0akwtNUtLWkxremxlWGpRXzh5Qm1xQkF5c1JRQ3k?oc=5",
-          "summary": "How a Legal Backlash Against Big Tech Is Forcing Big Changes The New York Times"
         }
       ],
       "sourcesCount": 1
@@ -4236,24 +4254,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/deutschland/ki-krieg-bundeswehr-drohnen-soldaten-100.html",
           "summary": "Bundeswehr und Rüstungsindustrie zeigen in Erding, wie KI und autonome Systeme Deutschlands Verteidigungsfähigkeit stärken sollen. Übernehmen bald die Algorithmen?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "f1b0fd7da8d2",
-      "title": "Why Carpenter Technology Stock Crashed After Earnings - The Motley Fool",
-      "summary": "Why Carpenter Technology Stock Crashed After Earnings The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWU1lM2FDaHJoLVdoNXdFYjM1S3dfZWJVc0gxcktNNV8xUVlnLUsyU0wtUWdEcUg1SWdrOU9CYnVYb3luMklGTTF6bmF1V2JmSXZmdkFqdjg3bnJ2VUtlWXlPSllqZVhpVUJvUWs3cHVsS29SQXdxQUhSZkRJejU0ZWdHd25CZ1VVdEpSLXRTWUNzTEpOU2ZsMWd5cEc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 18:40:32 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWU1lM2FDaHJoLVdoNXdFYjM1S3dfZWJVc0gxcktNNV8xUVlnLUsyU0wtUWdEcUg1SWdrOU9CYnVYb3luMklGTTF6bmF1V2JmSXZmdkFqdjg3bnJ2VUtlWXlPSllqZVhpVUJvUWs3cHVsS29SQXdxQUhSZkRJejU0ZWdHd25CZ1VVdEpSLXRTWUNzTEpOU2ZsMWd5cEc?oc=5",
-          "summary": "Why Carpenter Technology Stock Crashed After Earnings The Motley Fool"
         }
       ],
       "sourcesCount": 1
@@ -4709,24 +4709,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
           "summary": "Problems mounting up for Australia after their humbling against South Africa in second Test."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2e7fdbdacf00",
-      "title": "Undervalued technology stocks to watch as Q3 earnings season unfolds (VGT:NYSEARCA) - Seeking Alpha",
-      "summary": "Undervalued technology stocks to watch as Q3 earnings season unfolds (VGT:NYSEARCA) Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmQ1ZUZra0VIX2dEWmQ5YzRvX1BIVFZubzhTdW1IUVNTeElsdlBsbU5NaGIweTZXd3hzN2JCSjFsTy1JUmdONEt6WHFKTzdmbjBKWnZURHQ4eVp2RDJMU2R0c3NJQlFIN1duRXd6V0stRmczNERiZ2otTlh1ZXVleDBxTlJlN2xtWVJNTmY4N2FsQ3VaM1ZfczdxY3hJaEFmSHZDSnUzV2NGUQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 22 Oct 2026 17:23:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmQ1ZUZra0VIX2dEWmQ5YzRvX1BIVFZubzhTdW1IUVNTeElsdlBsbU5NaGIweTZXd3hzN2JCSjFsTy1JUmdONEt6WHFKTzdmbjBKWnZURHQ4eVp2RDJMU2R0c3NJQlFIN1duRXd6V0stRmczNERiZ2otTlh1ZXVleDBxTlJlN2xtWVJNTmY4N2FsQ3VaM1ZfczdxY3hJaEFmSHZDSnUzV2NGUQ?oc=5",
-          "summary": "Undervalued technology stocks to watch as Q3 earnings season unfolds (VGT:NYSEARCA) Seeking Alpha"
         }
       ],
       "sourcesCount": 1
@@ -5457,6 +5439,24 @@
           "sourceName": "Tagesschau Wirtschaft",
           "link": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
           "summary": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f8787938be4d",
+      "title": "International business is critically important to St. Louis | Opinion - The Business Journals",
+      "summary": "International business is critically important to St. Louis | Opinion The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXdTT3YtaGNyTU9iVnBpTWU3Wk4wNW9fX1BhWnAwYXlkMGI1VVpDME5UV3diYU4tR005MXNnNUprd1hGUy1XdjBZWmNHRk05djA1MGIzZ29QdHZaa0RPTk5oMUFWN1phQXh2cV9ZcTdiUHNjVWdZS3BuWUFvOGZIUm1QdW5VLVEwNkRPR2NaaVpXZjNiNS01ZjdBY0VrUTg?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Thu, 22 Oct 2026 15:37:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXdTT3YtaGNyTU9iVnBpTWU3Wk4wNW9fX1BhWnAwYXlkMGI1VVpDME5UV3diYU4tR005MXNnNUprd1hGUy1XdjBZWmNHRk05djA1MGIzZ29QdHZaa0RPTk5oMUFWN1phQXh2cV9ZcTdiUHNjVWdZS3BuWUFvOGZIUm1QdW5VLVEwNkRPR2NaaVpXZjNiNS01ZjdBY0VrUTg?oc=5",
+          "summary": "International business is critically important to St. Louis | Opinion The Business Journals"
         }
       ],
       "sourcesCount": 1
