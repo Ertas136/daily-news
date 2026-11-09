@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:40:45.080602+00:00",
+  "updated": "2026-11-09T00:20:22.983937+00:00",
   "articles": [
     {
       "id": "2a691a7c51e0",
@@ -267,24 +267,6 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/galatasaray-barcelonaya-maglup-oldu-960043.html",
           "summary": "Şampiyonlar Ligi'nde Galatasaray, evinde öne geçtiği mücadelede Barcelona'ya 4-1 mağlup oldu. Sarı-kırmızılıların tek golü Batrakov'dan geldi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "106f5ffcc40c",
-      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-      "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-      "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Wed, 07 Oct 2026 23:10:13 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-          "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum."
         }
       ],
       "sourcesCount": 1
@@ -1079,24 +1061,6 @@
       "sourcesCount": 4
     },
     {
-      "id": "83d6b231bc78",
-      "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-      "summary": "Auch vor dem fünften Winter seit Russlands Überfall ist ein Ende des Krieges in der Ukraine nicht in Sicht. Kanzler Merz betont, dass er fest an der Seite des Landes steht.",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html",
-      "sourceName": "Tagesschau Ausland",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 03 Nov 2026 19:27:43 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Ausland",
-          "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html",
-          "summary": "Auch vor dem fünften Winter seit Russlands Überfall ist ein Ende des Krieges in der Ukraine nicht in Sicht. Kanzler Merz betont, dass er fest an der Seite des Landes steht."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "eaae5a672dbf",
       "title": "Angriffe auf Kühlsysteme: Warum Supermärkte von Cyberangriffen kalt erwischt werden",
       "summary": "Nun sind auch deutsche Supermärkte von Cyberangriffen auf Kühlsysteme betroffen. Die Vorfälle weisen auf Sicherheitslücken hin - Handelsketten und Hersteller haben es den Angreifern offenbar leicht gemacht.",
@@ -1164,6 +1128,24 @@
           "sourceName": "BBC Technology",
           "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
           "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7a3cafd4035c",
+      "title": "Dieser Baum zieht vor das Rockefeller-Center",
+      "summary": "Der Weihnachtsbaum für das Rockefeller-Center wurde gefällt. Die 23-Meter-Fichte wird nun nach New York City gebracht.",
+      "link": "https://www.zdfheute.de/video/rockefeller-center-weihnachtsbaum-video-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 5 Nov 2026 23:19:00 +0100",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/rockefeller-center-weihnachtsbaum-video-100.html",
+          "summary": "Der Weihnachtsbaum für das Rockefeller-Center wurde gefällt. Die 23-Meter-Fichte wird nun nach New York City gebracht."
         }
       ],
       "sourcesCount": 1
@@ -1421,24 +1403,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8c56f41da9da",
-      "title": "Why are more roofs not made of solar tiles?",
-      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 08 Oct 2026 23:09:56 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Business",
-          "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-          "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ee6159cd7135",
       "title": "Süper Lig'de milli aranın ardından perde açılıyor",
       "summary": "Trendyol Süper Lig'de 7. hafta heyecanı, yarın oynanacak tek maçla başlayacak.",
@@ -1452,42 +1416,6 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/super-ligde-milli-aranin-ardindan-perde-aciliyor-959505.html",
           "summary": "Trendyol Süper Lig'de 7. hafta heyecanı, yarın oynanacak tek maçla başlayacak."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "78735ed69e57",
-      "title": "IOC no longer recommends restrictions on Belarusian athletes’ participation - Olympics",
-      "summary": "IOC no longer recommends restrictions on Belarusian athletes’ participation Olympics",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW9VQlgyVEZLaDJxOE5rdExXR1RqbVZFZEMzdTRUcURva1Z0d0o5Tm5nVlZhZk04SkZOMG0tNzJ0VEVmam1kd1hQb1BPQkhnREo5ZVlUYUNRcS1oc3BWdEZlYVlfQjBMSU1vUWFXYjZBMGFwQ3llQm43NzJXZlVIeFg1cnB3ZTlFNUhSUmhaTDhfelFZSmJvcDNybE5xNS1mczRfQ0RWNmdEcDZ5?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 07 May 2026 13:19:52 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW9VQlgyVEZLaDJxOE5rdExXR1RqbVZFZEMzdTRUcURva1Z0d0o5Tm5nVlZhZk04SkZOMG0tNzJ0VEVmam1kd1hQb1BPQkhnREo5ZVlUYUNRcS1oc3BWdEZlYVlfQjBMSU1vUWFXYjZBMGFwQ3llQm43NzJXZlVIeFg1cnB3ZTlFNUhSUmhaTDhfelFZSmJvcDNybE5xNS1mczRfQ0RWNmdEcDZ5?oc=5",
-          "summary": "IOC no longer recommends restrictions on Belarusian athletes’ participation Olympics"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "aa2ca909abce",
-      "title": "Merge builds product and business tools with OpenAI technology - OpenAI",
-      "summary": "Merge builds product and business tools with OpenAI technology OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Thu, 05 Nov 2026 23:11:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5",
-          "summary": "Merge builds product and business tools with OpenAI technology OpenAI"
         }
       ],
       "sourcesCount": 1
@@ -1871,24 +1799,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "200960f67784",
-      "title": "Cristiano Ronaldo: Top iconic moments from his career - BBC",
-      "summary": "Cristiano Ronaldo: Top iconic moments from his career BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYkFwd1BBbmtYRlYzMkg2b2FEVFV1S2hMV0p5dll4VVBkbjNrRzRKQjFhSFUyYm5ZWTZfbERaa2I1V0Y0NzdRRExpUW9sckNockpwbmlEdTVaVHMzcVpNcEp2VXJJYW8?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 05 Nov 2026 11:22:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYkFwd1BBbmtYRlYzMkg2b2FEVFV1S2hMV0p5dll4VVBkbjNrRzRKQjFhSFUyYm5ZWTZfbERaa2I1V0Y0NzdRRExpUW9sckNockpwbmlEdTVaVHMzcVpNcEp2VXJJYW8?oc=5",
-          "summary": "Cristiano Ronaldo: Top iconic moments from his career BBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4b1ff3c36792",
       "title": "Welsh aviation firm AerFin bought in £475m deal",
       "summary": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
@@ -1928,24 +1838,6 @@
         }
       ],
       "sourcesCount": 2
-    },
-    {
-      "id": "a6e50e922c1c",
-      "title": "Cristiano Ronaldo retires from international soccer after a record-breaking career with Portugal - CNN",
-      "summary": "Cristiano Ronaldo retires from international soccer after a record-breaking career with Portugal CNN",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXRTd2VzMElBeGdvVGJvYTFkTEs2b2tIeGJiQW1MR1dmVjluNTg0b0RHdmpPV205T21zRmVrcGlOb1U5NjZ4T0ZoOUpPYnlFM3dGRXQ5WVY5M0FPYnR6cDJoRGFGT1BRcUw3dTd0Z2g3ZkxWdXlwYzUtVFpzZTFXLUw4WU1qREZfaWRxUURlTFE?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 05 Nov 2026 10:34:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXRTd2VzMElBeGdvVGJvYTFkTEs2b2tIeGJiQW1MR1dmVjluNTg0b0RHdmpPV205T21zRmVrcGlOb1U5NjZ4T0ZoOUpPYnlFM3dGRXQ5WVY5M0FPYnR6cDJoRGFGT1BRcUw3dTd0Z2g3ZkxWdXlwYzUtVFpzZTFXLUw4WU1qREZfaWRxUURlTFE?oc=5",
-          "summary": "Cristiano Ronaldo retires from international soccer after a record-breaking career with Portugal CNN"
-        }
-      ],
-      "sourcesCount": 1
     },
     {
       "id": "ee4cb96b5470",
@@ -2056,6 +1948,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f4926b8094db",
+      "title": "Nvidia-Chef Huang räumt Affäre mit mutmaßlicher Spionin ein",
+      "summary": "Nvidia-Chef Huang soll laut Berichten ins Visier einer mutmaßlichen Spionin geraten sein. Huang gestand, eine Affäre mit ihr gehabt zu haben: \"Ich war meiner Frau untreu.\"",
+      "link": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Sun, 8 Nov 2026 22:07:00 +0100",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html",
+          "summary": "Nvidia-Chef Huang soll laut Berichten ins Visier einer mutmaßlichen Spionin geraten sein. Huang gestand, eine Affäre mit ihr gehabt zu haben: \"Ich war meiner Frau untreu.\""
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9b8487506c09",
       "title": "Einladung aus Spanien? Noll: \"Ich würde mich sehr freuen\"",
       "summary": "Nahuel Noll durchlief zwar die U-Nationalmannschaften des DFB, könnte aber auch für Spanien auflaufen. Im aktuellen sportstudio verrät er seine Präferenz - auf spanisch.",
@@ -2087,24 +1997,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/politik/aigner-merz-bundespraesidentin-zeitplan-100.html",
           "summary": "Friedrich Merz hat angekündigt, Ilse Aigner als Bundespräsidentin vorzuschlagen. Das erklärte er dem CDU-Präsidium."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b6c7b9d35679",
-      "title": "Schlagzeilen",
-      "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-      "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sun, 8 Nov 2026 20:21:00 +0100",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-          "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
         }
       ],
       "sourcesCount": 1
@@ -2177,24 +2069,6 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/schimpansen-florida-futter-100.html",
           "summary": "Nach Überschwemmungen in Florida versorgt eine Auffangstation ihre Schimpansen per Drohne mit Bananen. Viele Tiere stammen aus Laboren und Shows."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0eaf6b63f93f",
-      "title": "Israel: Warum Ex-General Eisenkot eine heikle Aufgabe hat",
-      "summary": "Präsident Herzog hat Netanjahus wichtigsten Herausforderer Gadi Eisenkot mit der Regierungsbildung beauftragt. Doch sein Weg, Mehrheit zu finden, ist kompliziert.",
-      "link": "https://www.zdfheute.de/politik/ausland/eisenkot-regierungsbildung-suche-israel-nahost-100.html",
-      "sourceName": "ZDF",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 8 Nov 2026 14:04:00 +0100",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/politik/ausland/eisenkot-regierungsbildung-suche-israel-nahost-100.html",
-          "summary": "Präsident Herzog hat Netanjahus wichtigsten Herausforderer Gadi Eisenkot mit der Regierungsbildung beauftragt. Doch sein Weg, Mehrheit zu finden, ist kompliziert."
         }
       ],
       "sourcesCount": 1
@@ -2416,6 +2290,272 @@
       "sourcesCount": 1
     },
     {
+      "id": "857e2cf49102",
+      "title": "2 ilde eğitime kar engeli",
+      "summary": "Yurdun bazı illerinde kar yağışı, don ve buzlanma etkisini sürdürüyor. İşte olumsuz hava koşulları nedeniyle eğitime ara verilen iller...",
+      "link": "https://www.trthaber.com/haber/turkiye/2-ilde-egitime-kar-engeli-962620.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 23:59:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/2-ilde-egitime-kar-engeli-962620.html",
+          "summary": "Yurdun bazı illerinde kar yağışı, don ve buzlanma etkisini sürdürüyor. İşte olumsuz hava koşulları nedeniyle eğitime ara verilen iller..."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5bdcac3d06dc",
+      "title": "Fransa RusyaUkrayna müzakerelerinde masada olacak",
+      "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında ABD arabuluculuğunda yapılacak müzakerelerde Avrupa'nın da masada olacağını duyurdu.",
+      "link": "https://www.trthaber.com/haber/dunya/fransa-rusya-ukrayna-muzakerelerinde-masada-olacak-962619.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 23:56:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/fransa-rusya-ukrayna-muzakerelerinde-masada-olacak-962619.html",
+          "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında ABD arabuluculuğunda yapılacak müzakerelerde Avrupa'nın da masada olacağını duyurdu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "50f962aeef14",
+      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+      "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 23:53:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
+          "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a9a025b619f6",
+      "title": "'A horrible place to be' - What's gone wrong for Palace?",
+      "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 23:53:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9e0fb67a8cec",
+      "title": "Michael Carrick's Man Utd future uncertain as club ponder international break change - Paper Talk | Football News - Sky Sports",
+      "summary": "Michael Carrick's Man Utd future uncertain as club ponder international break change - Paper Talk | Football News Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWtROW5LUEVZc1NmZ2I2RFVtbGcyVENjajRINXJ3cXMxd1lXTmtDUWhpbUtKbmNjeGxGVjYzWEtrczJ2eFZDXzhKdktwdEVDVWZtcTdpVHZRSWJXVHZzd1BZQmJaMjlmcDI4cUdCdGFUNjNEODRMNjRTaWVHbGJZejhTcUJTMWNpR3QybmpnNlJXVXZRcjNoUDctRE4zUDdJaDdVb2FOMEVqT1JlYTVRZS1HRzN3LXduZFh4R0I5aU5UNUpuQ0EzbG1TU1VlU0dFN0ZWd3lqM0s1dkE?oc=5",
+      "sourceName": "Google News – International Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 23:47:20 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWtROW5LUEVZc1NmZ2I2RFVtbGcyVENjajRINXJ3cXMxd1lXTmtDUWhpbUtKbmNjeGxGVjYzWEtrczJ2eFZDXzhKdktwdEVDVWZtcTdpVHZRSWJXVHZzd1BZQmJaMjlmcDI4cUdCdGFUNjNEODRMNjRTaWVHbGJZejhTcUJTMWNpR3QybmpnNlJXVXZRcjNoUDctRE4zUDdJaDdVb2FOMEVqT1JlYTVRZS1HRzN3LXduZFh4R0I5aU5UNUpuQ0EzbG1TU1VlU0dFN0ZWd3lqM0s1dkE?oc=5",
+          "summary": "Michael Carrick's Man Utd future uncertain as club ponder international break change - Paper Talk | Football News Sky Sports"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ebd48e78174d",
+      "title": "Norris sparkles in Sao Paulo despite firework mishap",
+      "summary": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 23:44:53 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+          "summary": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "17bed9ef611f",
+      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+      "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 23:41:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+          "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "30f708a98db8",
+      "title": "Ben James sinks 20-foot eagle putt on No. 18 at World Wide Technology - PGA Tour",
+      "summary": "Ben James sinks 20-foot eagle putt on No. 18 at World Wide Technology PGA Tour",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQek1NbWxSWWRTR0JXYV85TG5xcVdBTXh4MklYXzNuaTU1c2FieHlpRWNlcVYwYlhhNlpyWHN5azYwS1hEdVR3aklZVC1CWDBkQ0MzMU9aUVJ0LUl5TGNBQURiSFVZcGZkejNCUFNja002R3FORG5wdW9zR3o2QXlkZUVfU2ZObFVWYWNiR1FUOHM3U2tBM0xnOGk2cDdtNGpBLUJuMzM2Yk9Ic0N2YW9JbGNJS1o4b1VkQUI0?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 23:37:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQek1NbWxSWWRTR0JXYV85TG5xcVdBTXh4MklYXzNuaTU1c2FieHlpRWNlcVYwYlhhNlpyWHN5azYwS1hEdVR3aklZVC1CWDBkQ0MzMU9aUVJ0LUl5TGNBQURiSFVZcGZkejNCUFNja002R3FORG5wdW9zR3o2QXlkZUVfU2ZObFVWYWNiR1FUOHM3U2tBM0xnOGk2cDdtNGpBLUJuMzM2Yk9Ic0N2YW9JbGNJS1o4b1VkQUI0?oc=5",
+          "summary": "Ben James sinks 20-foot eagle putt on No. 18 at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnlnSms1NjJ6dWtrVU02dk11NzlsRFRnT19RbE5VenQ0cUNTRmozSE05QllmRjdra25va3dodm5FeFRhaldaVWxFM0VyaG1qT28ycXFQXzNyYWt0TFFWbGEwYm5YWkF6Tlc2N2NjanBTT0MyU3dtdGRVdVFfREdsbkNaYmdvRTlZRTNFZzh1SXY3TWNONXlKSlBVVzlzelFrTkhUVXRDRlRqZ0dvd1RGWVJEZXdLLUhIdnFrTnFFYXFsdXFoaGVTZg?oc=5",
+          "summary": "Kensei Hirata drains 3-foot putt for birdie on No. 18 at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ2dPS1c1NlZrMU5jSFpiRUdjbXVZNnlWblhScUFWWWZLSmdDWlhJaXdQWHplZS1VdURFRG5ZSk5uMl91OVpTTGdPdDBRcmtaTDItRlg3T243RUZSS0hxbmxQM2VPenhMWGxQZWJlaE1KaVdNd01XZGcxdXFUVEFhZ0pld0FQU2VUeXl2M0IxTEtfb0wtZEF5UzctVTl0SXZHZG5SSVRMTnBRWDFzcEY5SGdlRlFtanRiMnlxOHdmX2o4eHRPdkNKQQ?oc=5",
+          "summary": "Blades Brown reaches par-5 No. 18 in two, makes birdie at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDQtVnV4WVREWFBrNkNLSFJiMHV4amdDekZXZ0VVYm14UEdEam1MYllha05NcmF6OE10S1J2QXA3NGIyQ1lfQ2M5ZVFLSGFEb0hTOGw0anhhY3NhTG1kUXJta0l0RVdCTXZIWUtTSF9RUzlTZXE3b3J5UmJuZ05pQi1rWkhncjBKQ1habHdqMm9JTU1qT3dqdzZrMGdubGk2ZlZxdWtjdThxcjl1WXJfRlpNeC1vOGFwMEF1dWpn?oc=5",
+          "summary": "Harry Hall sinks 11-foot birdie putt on No. 17 at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDhGVnBsNnZ4UHctTmlTNHNYWElocEE2SlZfSlNmbFMxTXVLSnZHb0ZBVVVxdWJCSm1KT2taTmtGZFkyNDlpdGJ5ejdPV0Npc01vUEdxRU1lTUd5eDZ3aWtfVUhaeDdyRGE3bXBqUlR2UzBCbC1nOG02bkRNZ1pyZHB1WXY5dEVDNzg2Ym9PbDl2M2tIT1ZnM3dHaXl3bUltRGdFZDQ3NDJzSVYtUEtSZEoyRFozMVBNR3N6ek13?oc=5",
+          "summary": "Ben Martin sinks 5-foot birdie putt on No. 17 at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY18yWmZ0SmFCdkcxVkN1emlUSHdiSG9MVmVZZFVJX1VGRFM3WWtUcWE1TVFzMXNRcXMyLVhZSm9Jbml2akh5OWg0bnl0N0Mwd0dYaU9JZ1hrZjh4czkza1NJRVcyay1RblJKREZBZWF1WFplM2xYVlV3RE16eFBzQ1A2S3loUlhaR0VvMk92bXNjUF9CRERsVHVOZHNQOXVUTnhYUWNVaF9Rci1jeU1peW55c2pQUnEwRy0yR3RXRjhDbVdKQnBXRXpB?oc=5",
+          "summary": "Paul Peterson reaches par-5 No. 14 in two, makes birdie at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNzlaRjlMUTY2Q1BUcGhGWkdmYXZkTDIxNW04UzJxblBMUGdtazVZNjNqS0V3ZjNURUlVZU5TakZPQTNhV1ozMUtYVVJjcm5vVnpCQUl5U3pBTnM1eEdBcmk0cTdVZFQwcVhuaWhiUHpDRDF6UU9fdXZkWEk5WW56WVhkWWJKQVI2VG9ESXRzZmU3YlpoZ1hSdGl4QnBpRWpuWG1mRFdjTmI1NWR4bHk2NTdXRzJsRVZucE5HTVFWZXlLVmg3U3RRRmkxejVxb2NrYUhB?oc=5",
+          "summary": "Michael Kim hits tee shot to 2 feet, sets up birdie on No. 16 at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjJqbURkLWVOY1ZrNFVWd2NEbVZYUnREOWJDT1VmWUR6Vm1qM1VZbXVaT3h1aEwyXzRtTU9iOFg0WWFJVnNIZHRoX1lCYmpBUjZhOGx1R0doQk9IalVaNFBSZEpXV1ZPMWNQV29SUkF2cTBRYzBSbGlPbEoxLVhNUExSa2lPNFVKbjZleHVZMlpHbjJENk5lanVuWVhXekNZSGRrcE8wR1J5aTVtd1FHd3hoWklZVUxiSHJpcWNGOHJldms?oc=5",
+          "summary": "Denny McCarthy sinks 29-foot birdie putt on No. 13 at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlJRTi16N2NGVENuM3daaGI2dXc4ZWFUZzcwUmlZYzlyWXJMZGpCWkl3ZHlzS2dVODJYRmdOSzB0V1Y5a0Y2dlUybnExTG01bWdpaWdtb19MeHhxNzNtTlduYTQybTdVc0s2R1k4a2hVdm16NURyZm8tMGZ2SFVLVHdHTjVvSkV3OFQ2eGN0QzlYMWJBRklsRmRzY1c5T3QtTmlycF9Da2hIbzhQeWRrWjZCLTcyOFdTN01BTm1pZDQ?oc=5",
+          "summary": "Blades Brown sinks 10-foot birdie putt on No. 14 at World Wide Technology PGA Tour"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUdkNmZ2NGdYalQ5UmlhNG5MRnpLX1o1YjFXcWVaWENVYVF2YnFrYVdxVFRzbzBrT2xudEpmYkRIVHA1bHZiUGljVENubkY3ZXgwOE9aMm1RY2xzVTUyd2ZOZmVwRUpvS0JremVGZURfdE9vQ0JtWERmNkh6TkJ4cjNOel9qaFRBS29VSGhCUFlHaDB0bHZQLWJmNUxTNlhsMXZsS2NDdTdRZUZId0g5Qmh4cjRXdWIw?oc=5",
+          "summary": "David Ford taps in for birdie on No. 14 at World Wide Technology PGA Tour"
+        }
+      ],
+      "sourcesCount": 10
+    },
+    {
+      "id": "97b1a1785af3",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 23:34:18 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+          "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9f2a6469eed8",
+      "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
+      "summary": "Trump says 'only kidding' about naming UFC CEO as White House press secretary Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 23:34:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
+          "summary": "Trump says 'only kidding' about naming UFC CEO as White House press secretary Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "e51f5eb7bbaf",
+      "title": "LaLiga: FC Barcelona verteidigt Tabellenspitze im Topduell gegen Atletico Madrid",
+      "summary": "Der FC Barcelona hat das Topduell in der spanischen La Liga gegen Atletico Madrid für sich entschieden und behauptet die Tabellenführung.",
+      "link": "https://www.sportschau.de/fussball/la-liga-primera-division/barcelona-verteidigt-tabellenspitze-dank-fermin-lopez,spielbericht-atletico-barcelona-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 23:21:28 +0100",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/la-liga-primera-division/barcelona-verteidigt-tabellenspitze-dank-fermin-lopez,spielbericht-atletico-barcelona-100.html",
+          "summary": "Der FC Barcelona hat das Topduell in der spanischen La Liga gegen Atletico Madrid für sich entschieden und behauptet die Tabellenführung."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "9bc011a94796",
+      "title": "Women's Fencing Upends Detroit Mercy at Drew Invitational - Stevens Institute of Technology Athletics",
+      "summary": "Women's Fencing Upends Detroit Mercy at Drew Invitational Stevens Institute of Technology Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVFvTmN3SmkzWkY5MzhZN2FyY25pQ2RmZ3JPODJJUWh1X3RxQVdjWGkzS0gtMTFneGJ4OHlUNE5oUkZJemdwMUE0QVBvSlZVU2lkZ2IweURRd3JieExlaDZCaElrWEVrVUtMUU1ld2NMLWVWOVdOMzBWNk5wNGtnR21ONDBqbVZhQVpwbkNRb1UySmtrMUVZbndPVVpsTDdwUHVn?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 23:07:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVFvTmN3SmkzWkY5MzhZN2FyY25pQ2RmZ3JPODJJUWh1X3RxQVdjWGkzS0gtMTFneGJ4OHlUNE5oUkZJemdwMUE0QVBvSlZVU2lkZ2IweURRd3JieExlaDZCaElrWEVrVUtMUU1ld2NMLWVWOVdOMzBWNk5wNGtnR21ONDBqbVZhQVpwbkNRb1UySmtrMUVZbndPVVpsTDdwUHVn?oc=5",
+          "summary": "Women's Fencing Upends Detroit Mercy at Drew Invitational Stevens Institute of Technology Athletics"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkY3Q1kteDdqeUF0c3Y5OTQ3ektDRTZsV1RFeFFiWlVKcWg2WUJiX2ZsNHBXQTZmcVVQTG0yQ19GTWVEc0RWTGZQQkNwOVFFa1NfYlY0SmN3d0J2RjBiZ2lKallEUGVUZ1lYeTM2dHdvcW5ZSllEY2V5VHhTUm5IRDM5N1o0Y3o5TTAyYWNrazVSbnNLemlZ?oc=5",
+          "summary": "Women's Basketball Drops Season Opener at Babson Stevens Institute of Technology Athletics"
+        }
+      ],
+      "sourcesCount": 2
+    },
+    {
       "id": "fdedf4db4717",
       "title": "ABD Başkanı Trump'tan ''38 köprüyü vururuz'' açıklaması",
       "summary": "ABD Başkanı Donald Trump, İran ile nükleer program ve Hürmüz Boğazı’nın açılması konusundaki müzakerelerde ilerleme kaydedildiği sürece ABD’nin İran’a tekrar saldırmasının “son derece düşük bir ihtimal” olduğunu söyledi. Trump ayrıca, “Listemizde bir saat içinde yıkabileceğimiz 38 köprü var.\" dedi.",
@@ -2429,6 +2569,78 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-38-kopruyu-vururuz-aciklamasi-962618.html",
           "summary": "ABD Başkanı Donald Trump, İran ile nükleer program ve Hürmüz Boğazı’nın açılması konusundaki müzakerelerde ilerleme kaydedildiği sürece ABD’nin İran’a tekrar saldırmasının “son derece düşük bir ihtimal” olduğunu söyledi. Trump ayrıca, “Listemizde bir saat içinde yıkabileceğimiz 38 köprü var.\" dedi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "42a28b44d343",
+      "title": "US SECTORS CALL: Information Technology, Industrials & Utilities - Yardeni QuickTakes",
+      "summary": "US SECTORS CALL: Information Technology, Industrials & Utilities Yardeni QuickTakes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1AxaXNhZDRCWmp1T01Na1htSG85YUlORmJEdDM5OTJrOXR2d0xFallKTHc1UmU2MzZTNWpOUk1iMjFBZWpoM0VRWDFjdWlfZ1dwYU1mRVJBUnFWX1d2bXpIUGdxdXlJLWRZVy1BdzN0cXNGdUhwTU51eUpiem85NjRkdkVIa3o2WlhqeXNnY3BtdF9KR0VWNlV3RQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 22:58:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1AxaXNhZDRCWmp1T01Na1htSG85YUlORmJEdDM5OTJrOXR2d0xFallKTHc1UmU2MzZTNWpOUk1iMjFBZWpoM0VRWDFjdWlfZ1dwYU1mRVJBUnFWX1d2bXpIUGdxdXlJLWRZVy1BdzN0cXNGdUhwTU51eUpiem85NjRkdkVIa3o2WlhqeXNnY3BtdF9KR0VWNlV3RQ?oc=5",
+          "summary": "US SECTORS CALL: Information Technology, Industrials & Utilities Yardeni QuickTakes"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "10f360046b16",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair - Reuters",
+      "summary": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 22:52:30 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+          "summary": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0472db36759e",
+      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
+      "summary": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 22:50:16 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+          "summary": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3c4cac3df89c",
+      "title": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico - Reuters",
+      "summary": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnphNUUwZlY1TG4xbzA3MUU2OXA4MTJDZDhBeW5MdjVsdDk3R2lVNjZNNzBfcEZXTTNhZWxsMmFRVmloSEV3QVg1aFV0QVBkX19OZFo3M2NreFV0VEVsZ0JxNjFmb0FPeURrNWJURDNUZWtqdHRrRXM2a1BsbW1IRDA2SjBLdlR1U1h4ZXlGdGV1UGw2YmhIQnJsNE9ZcXZIT0JCenNPMmxVbE0?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 22:46:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnphNUUwZlY1TG4xbzA3MUU2OXA4MTJDZDhBeW5MdjVsdDk3R2lVNjZNNzBfcEZXTTNhZWxsMmFRVmloSEV3QVg1aFV0QVBkX19OZFo3M2NreFV0VEVsZ0JxNjFmb0FPeURrNWJURDNUZWtqdHRrRXM2a1BsbW1IRDA2SjBLdlR1U1h4ZXlGdGV1UGw2YmhIQnJsNE9ZcXZIT0JCenNPMmxVbE0?oc=5",
+          "summary": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2452,19 +2664,199 @@
       "sourcesCount": 1
     },
     {
-      "id": "17fc5d0efc25",
-      "title": "Ein Tor, aber keine Punkte für den FC Schalke 04",
-      "summary": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
-      "link": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+      "id": "739b1dd043da",
+      "title": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power - Reuters",
+      "summary": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 22:20:49 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+          "summary": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f91730a98e99",
+      "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
+      "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 22:14:38 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
+          "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4d15ddca1b65",
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
+      "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 22:11:31 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+          "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f4c4a8d43236",
+      "title": "Klare Sache in Würzburg - FC Bayern weiter an der Spitze",
+      "summary": "Auch beim fränkischen Nachbarn hat der FC Bayern nichts anbrennen lassen und die Tabellenspitze in der Basketball Bundesliga gefestigt.",
+      "link": "https://www.sportschau.de/basketball/bundesliga/klare-sache-in-wuerzburg-fc-bayern-weiter-an-der-spitze,bbl-bayern-wuerzburg-104.html",
       "sourceName": "Tagesschau Sport",
       "region": "germany",
       "topic": "sport",
-      "time": "Sun, 08 Nov 2026 21:38:59 +0100",
+      "time": "Sun, 08 Nov 2026 22:07:07 +0100",
       "coverage": [
         {
           "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-          "summary": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte."
+          "link": "https://www.sportschau.de/basketball/bundesliga/klare-sache-in-wuerzburg-fc-bayern-weiter-an-der-spitze,bbl-bayern-wuerzburg-104.html",
+          "summary": "Auch beim fränkischen Nachbarn hat der FC Bayern nichts anbrennen lassen und die Tabellenspitze in der Basketball Bundesliga gefestigt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a06a85a61818",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 08 Nov 2026 22:05:12 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "559f59466261",
+      "title": "Adrien Dumont de Chassart hits tee shot to 2 feet, sets up birdie on No. 16 at World Wide Technology - PGA Tour",
+      "summary": "Adrien Dumont de Chassart hits tee shot to 2 feet, sets up birdie on No. 16 at World Wide Technology PGA Tour",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTDJNWWxOV2dNLXU1NFc4cHlLNVNBa1dFUU9hYzdXVUxtUmRERTk2VEFtLTFYYUllVk12SjgzT0Vva25qWFhXRVkzQ050RmRyMzBFUF9UdVh0dFk5UDA0V1M4TnFNOXFVdU5MTVBzeDV3MmdJeTVjX1FKY3VOR3ZEWUNtcm8xSy1HZVBIbWpTSkdmRGlhSUhpWm1NLXBLRzVTcUpBQ1RBNVM0TURDQTdpV3g1bUlTclI4ZmtQblFpVVFJOG9zb0NNd25pX1NES2FITkJaSlBOczBuVF9mTXlzY0xNNTdsUQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 21:58:27 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTDJNWWxOV2dNLXU1NFc4cHlLNVNBa1dFUU9hYzdXVUxtUmRERTk2VEFtLTFYYUllVk12SjgzT0Vva25qWFhXRVkzQ050RmRyMzBFUF9UdVh0dFk5UDA0V1M4TnFNOXFVdU5MTVBzeDV3MmdJeTVjX1FKY3VOR3ZEWUNtcm8xSy1HZVBIbWpTSkdmRGlhSUhpWm1NLXBLRzVTcUpBQ1RBNVM0TURDQTdpV3g1bUlTclI4ZmtQblFpVVFJOG9zb0NNd25pX1NES2FITkJaSlBOczBuVF9mTXlzY0xNNTdsUQ?oc=5",
+          "summary": "Adrien Dumont de Chassart hits tee shot to 2 feet, sets up birdie on No. 16 at World Wide Technology PGA Tour"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "533e09ee2364",
+      "title": "Norris brilliant in wet & Verstappen recovery extraordinary - driver ratings",
+      "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Sao Paulo Grand Prix.",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5y43jzvrnz0o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 21:56:33 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c5y43jzvrnz0o?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Sao Paulo Grand Prix."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5a5a4296387b",
+      "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+      "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 21:50:05 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+          "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a8d976796bae",
+      "title": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say - Reuters",
+      "summary": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3BoVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 21:49:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3BoVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr?oc=5",
+          "summary": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f17511fbf627",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 21:37:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a3f6190f00a2",
+      "title": "Poland mourns victims of Krakow shooting amid security fears - Reuters",
+      "summary": "Poland mourns victims of Krakow shooting amid security fears Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 21:29:48 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
+          "summary": "Poland mourns victims of Krakow shooting amid security fears Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2483,6 +2875,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/swr/swr-wieder-kein-punkt-mainz-05-unterliegt-auch-dem-vfb-stuttgart-100.html",
           "summary": "Im Duell der Bundesliga-Aufsteiger feiern die Schwäbinnen einen verdienten Erfolg am Bruchweg. Die 05erinnen kommen zwar nach einem Rückstand zurück, doch der VfB kontert postwendend."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a803d9872853",
+      "title": "The Week In Technology, Nov. 9-13, 2026 - Aviation Week",
+      "summary": "The Week In Technology, Nov. 9-13, 2026 Aviation Week",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1pwR2NLa19JX3lUTkJIaS0xOENjQ1diMVBtVmJSYTF1NWcxc3ZtS0ZwSmlFWC1NN3REYzg1ZVJQRDQwX2ZGVllTSTNkdkQybWlLQ1lteXp3eGtzaUlhOU1PdmFEWmJrTlA4amJVNmpWZmpYWFZLSnlQbkE4eGFoOVRoS0twZGFjTi03LXF5MA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 21:21:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1pwR2NLa19JX3lUTkJIaS0xOENjQ1diMVBtVmJSYTF1NWcxc3ZtS0ZwSmlFWC1NN3REYzg1ZVJQRDQwX2ZGVllTSTNkdkQybWlLQ1lteXp3eGtzaUlhOU1PdmFEWmJrTlA4amJVNmpWZmpYWFZLSnlQbkE4eGFoOVRoS0twZGFjTi03LXF5MA?oc=5",
+          "summary": "The Week In Technology, Nov. 9-13, 2026 Aviation Week"
         }
       ],
       "sourcesCount": 1
@@ -2542,6 +2952,60 @@
       "sourcesCount": 1
     },
     {
+      "id": "2a2623d95a77",
+      "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
+      "summary": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 21:08:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ec07f84e5b9d",
+      "title": "New tinnitus treatment technology available at Arizona hearing clinics - FOX 10 Phoenix",
+      "summary": "New tinnitus treatment technology available at Arizona hearing clinics FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tODNxVVRJZFpEMG8wXy1xTXNXYjdZellMMnVuc1FpUUwtYUg2a0hocDZEZWMxWV9hejYtcTY0NEwwWWpRZUJ2MXpMa09uMU85ZEpzNTVaQmJfaXFXRldxeDRscGJ5UdIBa0FVX3lxTE9YWHpPWFRqaGo0d05zdmFPbTZiZzlYRXFYRzItS3pUYmtFNEVIOXNXcVFLNEtyZ0l4X3pfQU1rR0RtWUxVWDl5WkNSYmxNVUxJMFhDNjg1eGR1dFMwWWlqNVV1Z3QybXl1WDVR?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 21:07:32 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tODNxVVRJZFpEMG8wXy1xTXNXYjdZellMMnVuc1FpUUwtYUg2a0hocDZEZWMxWV9hejYtcTY0NEwwWWpRZUJ2MXpMa09uMU85ZEpzNTVaQmJfaXFXRldxeDRscGJ5UdIBa0FVX3lxTE9YWHpPWFRqaGo0d05zdmFPbTZiZzlYRXFYRzItS3pUYmtFNEVIOXNXcVFLNEtyZ0l4X3pfQU1rR0RtWUxVWDl5WkNSYmxNVUxJMFhDNjg1eGR1dFMwWWlqNVV1Z3QybXl1WDVR?oc=5",
+          "summary": "New tinnitus treatment technology available at Arizona hearing clinics FOX 10 Phoenix"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1931b37f48c1",
+      "title": "International Business: Tech slump rattles markets as US inflation figures loom - Gulf Daily News (Bahrain)",
+      "summary": "International Business: Tech slump rattles markets as US inflation figures loom Gulf Daily News (Bahrain)",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUdPa3NQU29XeTZ5V1hhRGFYRHcwT3BEUWlRa2IyeXc0QVlYVjl5N1pUZGJ0QmRSTm1DZDh6ZHhNMFpqb1Z2X0pDMUEydGRBZl9GZ01IQW14d0VKX1RpYXV6LUlxSTl4Vkx6WTgyMlhmUWtMYzF3MDk3aFNhckNuSlhYVGpsWkRlRUxnSEVTalU2MjJ2NTA5b0E3cVFYZw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 08 Nov 2026 21:01:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUdPa3NQU29XeTZ5V1hhRGFYRHcwT3BEUWlRa2IyeXc0QVlYVjl5N1pUZGJ0QmRSTm1DZDh6ZHhNMFpqb1Z2X0pDMUEydGRBZl9GZ01IQW14d0VKX1RpYXV6LUlxSTl4Vkx6WTgyMlhmUWtMYzF3MDk3aFNhckNuSlhYVGpsWkRlRUxnSEVTalU2MjJ2NTA5b0E3cVFYZw?oc=5",
+          "summary": "International Business: Tech slump rattles markets as US inflation figures loom Gulf Daily News (Bahrain)"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "a150d818f942",
       "title": "Serie A: Inter Mailand lässt Como 1907 keine Chance",
       "summary": "Die \"Mannschaft der Stunde\" Como 1907 ist in Mailand unter die Räder gekommen und hat klar gegen Inter verloren.",
@@ -2555,6 +3019,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/serie-a/inter-laesst-como-keine-chance,spielbericht-inter-mailand-como-1907-100.html",
           "summary": "Die \"Mannschaft der Stunde\" Como 1907 ist in Mailand unter die Räder gekommen und hat klar gegen Inter verloren."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "113d005fce0e",
+      "title": "Palace consider replacing Sage, with Frank among contenders",
+      "summary": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 20:49:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him."
         }
       ],
       "sourcesCount": 1
@@ -2632,24 +3114,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "b444ccee682d",
-      "title": "Blades Brown sinks 5-foot putt for birdie on No. 10 at World Wide Technology - PGA Tour",
-      "summary": "Blades Brown sinks 5-foot putt for birdie on No. 10 at World Wide Technology PGA Tour",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0hNS2VMdEJjQzBwMkw5cFdrd1VtbjdsREZGVUtlZVBvcTVBNkpYNjhJVFE0X3EtSlJ4ekUzampaeUJ6RG1oakNkUVAwMXhXeXEyeV9HWjFCUlhiOW5pR3RWMVNONEQ2MHljSlQydG1jNFhEUEF1R1ZCTDNBMmxaQ2ZWQU9Tb3YtUW44LXc3TUlOVTJRdHRpY1A3UnlQdzdKLV82cG10aU1RNTFkOGVQWDAwWW8zakktdHEzbkhtdk94RUNGUXc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 20:16:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0hNS2VMdEJjQzBwMkw5cFdrd1VtbjdsREZGVUtlZVBvcTVBNkpYNjhJVFE0X3EtSlJ4ekUzampaeUJ6RG1oakNkUVAwMXhXeXEyeV9HWjFCUlhiOW5pR3RWMVNONEQ2MHljSlQydG1jNFhEUEF1R1ZCTDNBMmxaQ2ZWQU9Tb3YtUW44LXc3TUlOVTJRdHRpY1A3UnlQdzdKLV82cG10aU1RNTFkOGVQWDAwWW8zakktdHEzbkhtdk94RUNGUXc?oc=5",
-          "summary": "Blades Brown sinks 5-foot putt for birdie on No. 10 at World Wide Technology PGA Tour"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9b643c47bf7c",
       "title": "Katil İsrail'in Gazze'ye saldırısında 2 Filistinli hayatını kaybetti",
       "summary": "Katil İsrail ordusunun Gazze Şeridi'nin güneyindeki Han Yunus kentine düzenlediği İHA saldırısında biri kadın, 2 kişi yaşamını yitirdi, çok sayıda kişi yaralandı.",
@@ -2681,24 +3145,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/eishockey/deutsche-eishockey-frauen-verlieren-gegen-top-favorit,spielbericht-wm-frauen-usa-deutschland-100.html",
           "summary": "Deutschlands Eishockey-Frauen haben bei der WM gegen Titelverteidiger und Olympiasieger USA trotz eines beherzten Auftritts ihre erste Niederlage kassiert."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d31d6db6e1af",
-      "title": "Women's Basketball Drops Season Opener at Babson - Stevens Institute of Technology Athletics",
-      "summary": "Women's Basketball Drops Season Opener at Babson Stevens Institute of Technology Athletics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkY3Q1kteDdqeUF0c3Y5OTQ3ektDRTZsV1RFeFFiWlVKcWg2WUJiX2ZsNHBXQTZmcVVQTG0yQ19GTWVEc0RWTGZQQkNwOVFFa1NfYlY0SmN3d0J2RjBiZ2lKallEUGVUZ1lYeTM2dHdvcW5ZSllEY2V5VHhTUm5IRDM5N1o0Y3o5TTAyYWNrazVSbnNLemlZ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 20:06:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkY3Q1kteDdqeUF0c3Y5OTQ3ektDRTZsV1RFeFFiWlVKcWg2WUJiX2ZsNHBXQTZmcVVQTG0yQ19GTWVEc0RWTGZQQkNwOVFFa1NfYlY0SmN3d0J2RjBiZ2lKallEUGVUZ1lYeTM2dHdvcW5ZSllEY2V5VHhTUm5IRDM5N1o0Y3o5TTAyYWNrazVSbnNLemlZ?oc=5",
-          "summary": "Women's Basketball Drops Season Opener at Babson Stevens Institute of Technology Athletics"
         }
       ],
       "sourcesCount": 1
@@ -2759,7 +3205,7 @@
     },
     {
       "id": "8efce9ae33ff",
-      "title": "Bournemouth continue winning streak with Ipswich win",
+      "title": "Bournemouth beat Ipswich to extend winning streak",
       "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
       "link": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -2830,6 +3276,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "5a18b01d8ae5",
+      "title": "Power restored to Zaporizhzhia nuclear plant, IAEA says - Reuters",
+      "summary": "Power restored to Zaporizhzhia nuclear plant, IAEA says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 19:53:39 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+          "summary": "Power restored to Zaporizhzhia nuclear plant, IAEA says Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "9892b38de387",
       "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
       "summary": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
@@ -2848,6 +3312,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "1c1239e0f3d6",
+      "title": "What can you read into Premier League table after 10 games?",
+      "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 08 Nov 2026 19:40:34 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&at_campaign=rss",
+          "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "7eb90e83d1b9",
       "title": "Schiri-Frust beim SC Verl nach nächster Niederlage",
       "summary": "Der SC Verl hat in der 3. Liga seine vierte Niederlage in Folge kassiert - ein Elfmeter entschied das Spiel bei Stuttgart II.",
@@ -2855,7 +3337,7 @@
       "sourceName": "Tagesschau Sport",
       "region": "regional",
       "topic": "sport",
-      "time": "Sun, 08 Nov 2026 19:44:58 +0100",
+      "time": "Sun, 08 Nov 2026 19:40:00 +0100",
       "coverage": [
         {
           "sourceName": "Tagesschau Sport",
@@ -2866,55 +3348,37 @@
       "sourcesCount": 1
     },
     {
-      "id": "9e0fb67a8cec",
-      "title": "Michael Carrick's Man Utd future uncertain as club ponder international break change - Paper Talk | Football News - Sky Sports",
-      "summary": "Michael Carrick's Man Utd future uncertain as club ponder international break change - Paper Talk | Football News Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWtROW5LUEVZc1NmZ2I2RFVtbGcyVENjajRINXJ3cXMxd1lXTmtDUWhpbUtKbmNjeGxGVjYzWEtrczJ2eFZDXzhKdktwdEVDVWZtcTdpVHZRSWJXVHZzd1BZQmJaMjlmcDI4cUdCdGFUNjNEODRMNjRTaWVHbGJZejhTcUJTMWNpR3QybmpnNlJXVXZRcjNoUDctRE4zUDdJaDdVb2FOMEVqT1JlYTVRZS1HRzN3LXduZFh4R0I5aU5UNUpuQ0EzbG1TU1VlU0dFN0ZWd3lqM0s1dkE?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 19:41:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWtROW5LUEVZc1NmZ2I2RFVtbGcyVENjajRINXJ3cXMxd1lXTmtDUWhpbUtKbmNjeGxGVjYzWEtrczJ2eFZDXzhKdktwdEVDVWZtcTdpVHZRSWJXVHZzd1BZQmJaMjlmcDI4cUdCdGFUNjNEODRMNjRTaWVHbGJZejhTcUJTMWNpR3QybmpnNlJXVXZRcjNoUDctRE4zUDdJaDdVb2FOMEVqT1JlYTVRZS1HRzN3LXduZFh4R0I5aU5UNUpuQ0EzbG1TU1VlU0dFN0ZWd3lqM0s1dkE?oc=5",
-          "summary": "Michael Carrick's Man Utd future uncertain as club ponder international break change - Paper Talk | Football News Sky Sports"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1af055152a12",
-      "title": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
-      "summary": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
-      "link": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 19:36:46 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-          "summary": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "19b4630546b9",
       "title": "SpVgg Greuther Fürth kehrt zu altem Namen zurück",
-      "summary": "Die Mitglieder der SpVgg Greuther Fürth haben abgestimmt: Ab der Saison 2027/28 kehrt das \"Kleeblatt\" zu seinem alten Namen SpVgg Fürth zurück. Eine überwältigende Mehrheit sprach sich für diesen Vorgang aus.",
+      "summary": "Die Mitglieder der SpVgg Greuther Fürth haben abgestimmt: Ab der Saison 2027/28 kehrt das \"Kleeblatt\" zu seinem alten Namen SpVgg Fürth zurück.",
       "link": "https://www.sportschau.de/regional/br/br-offiziell-spvgg-greuther-fuerth-kehrt-zu-altem-namen-zurueck-102.html",
       "sourceName": "Tagesschau Sport",
-      "region": "international",
+      "region": "germany",
       "topic": "technologie",
       "time": "Sun, 08 Nov 2026 19:29:57 +0100",
       "coverage": [
         {
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/br/br-offiziell-spvgg-greuther-fuerth-kehrt-zu-altem-namen-zurueck-102.html",
-          "summary": "Die Mitglieder der SpVgg Greuther Fürth haben abgestimmt: Ab der Saison 2027/28 kehrt das \"Kleeblatt\" zu seinem alten Namen SpVgg Fürth zurück. Eine überwältigende Mehrheit sprach sich für diesen Vorgang aus."
+          "summary": "Die Mitglieder der SpVgg Greuther Fürth haben abgestimmt: Ab der Saison 2027/28 kehrt das \"Kleeblatt\" zu seinem alten Namen SpVgg Fürth zurück."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f64e763a59e4",
+      "title": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says - Reuters",
+      "summary": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 19:26:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
+          "summary": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2956,6 +3420,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "15eb81250f30",
+      "title": "Perhaps Connecting Fridges to the Internet Was a Bad Idea - The Atlantic",
+      "summary": "Perhaps Connecting Fridges to the Internet Was a Bad Idea The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSm5wZEtmYzUtTHNiODZLbE1nel9HRFZWYTNMVFNYaG03Vy1hYndtZmdEYVd5SHlOdlNadXVUQS1JOFd6OFE5QUFBQ3lSSlVMV3YzWHBjeEFZTHk1ejd5a2lrSnc5SFB5SUNnOUNIeXNnb3FveVNZek5TVDNUSmhUVlhTRlNKbzhYaVYxekd1VXA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 19:19:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSm5wZEtmYzUtTHNiODZLbE1nel9HRFZWYTNMVFNYaG03Vy1hYndtZmdEYVd5SHlOdlNadXVUQS1JOFd6OFE5QUFBQ3lSSlVMV3YzWHBjeEFZTHk1ejd5a2lrSnc5SFB5SUNnOUNIeXNnb3FveVNZek5TVDNUSmhUVlhTRlNKbzhYaVYxekd1VXA?oc=5",
+          "summary": "Perhaps Connecting Fridges to the Internet Was a Bad Idea The Atlantic"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "82769f92cb5c",
       "title": "Train collision in Egypt kills at least 7, injures dozens, health ministry says - Reuters",
       "summary": "Train collision in Egypt kills at least 7, injures dozens, health ministry says Reuters",
@@ -2974,42 +3456,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "8552f0f4bf42",
-      "title": "2026 World Wide Technology leaderboard, PGA Tour Round 4 scores - Central Oregon Daily",
-      "summary": "2026 World Wide Technology leaderboard, PGA Tour Round 4 scores Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWGI0OVBvMTFCeXpqRmVVd2xMcFJmUFRJQ3BsclNvRFQzY3pCV0hUbnZoaFFjcFlLbXg2ZDFwb2tXLVJBNWh3cHc4Wk9tNFg3dnM3bkNGX2RBOTR3dTJDVWdRNXNMR2U5ZldmQjB6a2ZldG50WDUySWY5Wm8zQnByX1pZekczYnRCQzFBeDhleFd5MTFENk1EU0FRb3Vmb3YwckRob1FxY0pkVFZ3dkRSTlRiSVkydThYU0QwR2M4eWpNemtDRkNCOGprY0lIVkNlSEppbzdVOUZncjBJY1ZjLUY3RDBUdmt2bUE?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 19:17:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWGI0OVBvMTFCeXpqRmVVd2xMcFJmUFRJQ3BsclNvRFQzY3pCV0hUbnZoaFFjcFlLbXg2ZDFwb2tXLVJBNWh3cHc4Wk9tNFg3dnM3bkNGX2RBOTR3dTJDVWdRNXNMR2U5ZldmQjB6a2ZldG50WDUySWY5Wm8zQnByX1pZekczYnRCQzFBeDhleFd5MTFENk1EU0FRb3Vmb3YwckRob1FxY0pkVFZ3dkRSTlRiSVkydThYU0QwR2M4eWpNemtDRkNCOGprY0lIVkNlSEppbzdVOUZncjBJY1ZjLUY3RDBUdmt2bUE?oc=5",
-          "summary": "2026 World Wide Technology leaderboard, PGA Tour Round 4 scores Central Oregon Daily"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4d15ddca1b65",
-      "title": "Norris wins gripping race after Antonelli and Russell errors",
-      "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 19:13:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
-          "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4bd04e0740b2",
       "title": "Man Utd making it 'hard on ourselves' - Carrick",
       "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
@@ -3023,24 +3469,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
           "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a0f0b69a190b",
-      "title": "Man Utd fight back to snatch chaotic 4-4 draw, Brighton move second - Reuters",
-      "summary": "Man Utd fight back to snatch chaotic 4-4 draw, Brighton move second Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnM2bXRuakctQVhMTUZaNzRNZmdJSG9jRjB6LVpQQzZLMEVUUkxYZkllM3pnOUo1dzZsdU0yX2dLcnh3WXFxaWZ5dHVPQjhocmRrcW4yRWhkdEJUcGEwcEtsTmdQaFhQa29rOHRuOUNHT1Q3eUpvQ3pvWHF5RkQxRUxVelc5MmE0LXBQY2NuU2o4S3NHZEltWHFGRnN3SXkzLW9jLXh2azA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 08 Nov 2026 19:13:27 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnM2bXRuakctQVhMTUZaNzRNZmdJSG9jRjB6LVpQQzZLMEVUUkxYZkllM3pnOUo1dzZsdU0yX2dLcnh3WXFxaWZ5dHVPQjhocmRrcW4yRWhkdEJUcGEwcEtsTmdQaFhQa29rOHRuOUNHT1Q3eUpvQ3pvWHF5RkQxRUxVelc5MmE0LXBQY2NuU2o4S3NHZEltWHFGRnN3SXkzLW9jLXh2azA?oc=5",
-          "summary": "Man Utd fight back to snatch chaotic 4-4 draw, Brighton move second Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3077,6 +3505,24 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHZEczc4Sk80aWZLc1NfQmhub01tUTRicHEwM2lUTWpHRW9xVzJ3OWZSNmFMWG01Vjl0YjUyaTk0bE4zdXVGWHhXb2NDWlJSelI1MVlnTGlkaGl6MmY5YVVGeFlqMU5haEFmZWRDaVpCY183QVVJSk5sZUZiYTBqQWlfcWZ0S0FxdjZNdTVwSEtKUk1sN0dEWA?oc=5",
           "summary": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans? Yahoo Finance"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a56c9b3ae6f3",
+      "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says - Reuters",
+      "summary": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVVxWlAwOFI0ZGd4TUdTNFozbzE5TXN5UGx3R0NnX0JRdExfcVhSb21iYklFOXJ2QUpncXdoSFB3eE1NS0FFeHljZXQxeWlEVTNKVWd1eFVLWTZmbVpsSUs5Q3NqNUk2b1JYQVNxSFIyTTMxZERFdDBWVUFfUFZ2MkFtOUlIYm5VbE9kQ2kzVmdUTV9pZHFxNWNvUVFhYkI1WHc5LTZSS0JMR1Nka3gwSjgzWWFZZXN6OFFTRHB5Rzk1THIz?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 08 Nov 2026 19:01:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVVxWlAwOFI0ZGd4TUdTNFozbzE5TXN5UGx3R0NnX0JRdExfcVhSb21iYklFOXJ2QUpncXdoSFB3eE1NS0FFeHljZXQxeWlEVTNKVWd1eFVLWTZmbVpsSUs5Q3NqNUk2b1JYQVNxSFIyTTMxZERFdDBWVUFfUFZ2MkFtOUlIYm5VbE9kQ2kzVmdUTV9pZHFxNWNvUVFhYkI1WHc5LTZSS0JMR1Nka3gwSjgzWWFZZXN6OFFTRHB5Rzk1THIz?oc=5",
+          "summary": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says Reuters"
         }
       ],
       "sourcesCount": 1
@@ -3141,24 +3587,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "48395d54f4c3",
-      "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-      "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 18:46:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
-          "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7785514126b2",
       "title": "Last-Minute-Niederlage für BVB-Handballerinnen",
       "summary": "Die Handballerinnen von Borussia Dortmund haben ihr Champions-League-Spiel gegen die montenegrinischen Vertreterinnen aus Buducnost in letzter Minute verloren.",
@@ -3208,83 +3636,6 @@
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYk9GRUFjbFFMa2NTZjM4MHpRWFQ1NWhxaFhvZzFhY0dEOWRMQkRjVlJ0VDFYSGp0Y3pNckNIN1RzejdORzVIYUtyMlI1eUJfdjdVWVdwdElxZXVVTzdRbkpHekRPVFdweFVDZnZQUWFBQkszUmhxVGM4cDJiRnRyRFJ0a21neEJYSzRnaWMzUzdIcU1tOFJVNEtvcmdnZUZmZG5DR0FnRFYyUVpQb084TDdwLVdyQVkzbmpYX3JJbVVfQ1BfU29rMndzVjZOSWowTW92WGNjU2ptLTJoVks1WFcxcmVRMHlGaEkxZ3JYMmZ2N0dSdjduekZHcUpfSkM4d3c?oc=5",
           "summary": "CacheMonai.AI Inc. Appoints Technology Executive, Inventor and Entrepreneur Michael David Harris to Board of Directors The Detroit News"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNekFqMGxPaFo0bW56TWZ5R2NWeWZ4eENBZWZWNjZUMlpOT1NFNDZlSmtjSmZlZTVBdUQySWw3M0ZoSElIZ3h5SHp1TEdFdjFvWnB3VGFUaGlYQnRnY2NsVDBJV3pleHhrNUZjQ1htTlRDQUdBdlNhaS1OWFd3NVNKdVBTV0NkZ0VIM1ZGUFBXSFA5b3ltNXJ4eXl2eF9laU9ndTlGaERrWTJUenZGMXQ0YkRRYzdhOFI1MklSc1ZfT1Yza3RNeGlxd251UFZYSzAwZnZZdmVXbUEtd19kdTZ4S0xNU0IxRGk0bmNjaEtRb2FXTmRybGc?oc=5",
-          "summary": "CacheMonai.AI Inc. Appoints Technology Executive, Inventor and Entrepreneur Michael David Harris to Board of Directors EIN Presswire"
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
-      "id": "a3f6190f00a2",
-      "title": "Poland mourns victims of Krakow shooting amid security fears - Reuters",
-      "summary": "Poland mourns victims of Krakow shooting amid security fears Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 08 Nov 2026 18:24:36 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
-          "summary": "Poland mourns victims of Krakow shooting amid security fears Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "10753821e322",
-      "title": "Faa Begins Replacing Floppy Disk Based Air Traffic Control Technology - News12 | Westchester",
-      "summary": "Faa Begins Replacing Floppy Disk Based Air Traffic Control Technology News12 | Westchester",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWJJelU1dXBwT2lBUy1DLXBvS3M4WmtGOHlUT2Zyb243VkRueGlSWkhEMnptcHRaMUNCNUVsMlAwNTQ5YjhmSGJwZHJhc2Y4S29BTG5tUnB5amYxdl9GeVdDVnA2WHlucVhGSVpDVUxMQ3YtdmVxSll3VEhkMFBacEx4SU1mOXlzcEEzYnFZaTJ4RU85alBRMDRKRzBzbFVUcGdIb0RwaGxqMUI2aDhkWFZBT2s5SlF3Vl9lQnU5dHQ5Mzl3WjI5dFFvOHRGZw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 18:23:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWJJelU1dXBwT2lBUy1DLXBvS3M4WmtGOHlUT2Zyb243VkRueGlSWkhEMnptcHRaMUNCNUVsMlAwNTQ5YjhmSGJwZHJhc2Y4S29BTG5tUnB5amYxdl9GeVdDVnA2WHlucVhGSVpDVUxMQ3YtdmVxSll3VEhkMFBacEx4SU1mOXlzcEEzYnFZaTJ4RU85alBRMDRKRzBzbFVUcGdIb0RwaGxqMUI2aDhkWFZBT2s5SlF3Vl9lQnU5dHQ5Mzl3WjI5dFFvOHRGZw?oc=5",
-          "summary": "Faa Begins Replacing Floppy Disk Based Air Traffic Control Technology News12 | Westchester"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "97b1a1785af3",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 18:22:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5c62396a62ad",
-      "title": "Why some cities embrace new technology faster than others - Earth.com",
-      "summary": "Why some cities embrace new technology faster than others Earth.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHJkSHlEZjFYMzBGUmYzVVpKd0JJMWdjZEF2Yk9lYTNISDZ5cy00REd6U0hJZzVCUWVOTzJnUUx4Tk5mVGtzWWc2Ny04Q09BbnFtS1lxTW9udFpZby1fRGo3ODFHNnA2MmhnWjBfSDQ3cWYtN2pBUHNnNzRFaXRyQWdmVXZRUHJMTmhUaWdxTmh2Zw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 18:21:16 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHJkSHlEZjFYMzBGUmYzVVpKd0JJMWdjZEF2Yk9lYTNISDZ5cy00REd6U0hJZzVCUWVOTzJnUUx4Tk5mVGtzWWc2Ny04Q09BbnFtS1lxTW9udFpZby1fRGo3ODFHNnA2MmhnWjBfSDQ3cWYtN2pBUHNnNzRFaXRyQWdmVXZRUHJMTmhUaWdxTmh2Zw?oc=5",
-          "summary": "Why some cities embrace new technology faster than others Earth.com"
         }
       ],
       "sourcesCount": 1
@@ -3309,7 +3660,7 @@
     },
     {
       "id": "fee2c5605a41",
-      "title": "Union und Hoffenheim mit vielen Chancen und wenig Toren",
+      "title": "Union und Hoffenheim mit vielen Chancen, aber wenigen Toren",
       "summary": "Die Fußballerinnen des 1. FC Union Berlin holen in der Bundesliga ein verdientes Remis gegen die TSG Hoffenheim.",
       "link": "https://www.sportschau.de/regional/rbb/rbb-frueher-rueckstand-tolle-moral-union-holt-remis-gegen-hoffenheim-100.html",
       "sourceName": "Tagesschau Sport",
@@ -3416,27 +3767,9 @@
       "sourcesCount": 1
     },
     {
-      "id": "d6b593760e0a",
-      "title": "AI nearly had US troops attack a Chinese ship. Nobody could check its work. - The Hill",
-      "summary": "AI nearly had US troops attack a Chinese ship. Nobody could check its work.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR281YUhncTBEU2lNMVptVzAyVzNBWkxTYTVFM3lFWE50UmlDR0NkM2xpRGhDOEJEQl9CMTNlbTRZSGItMzA4ZngteFpJQlYxZVREbklkX3FMRlNhSlBLODhFbzdnaXhWaThOZFhMUlJTbGhQZmFkTkp4a3BEZ0NoMTZWVzPSAYoBQVVfeXFMT21sZnFjb2VNSU5rajFFVDVmV1gwOGR3SUF5bVlpeHU3bHduTVYtd3k1dGRDeXRDNmYwX2s1MnR6S1pqRlhIWGZ4RzBfaGNVX1NjZl80Q3l6clNLeXVGYWJJbHFwM2gzZXB6NXhJOGQxQ2hjTzdudGVIYUZtazRDOGppS0lyXzZVamV3?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 18:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR281YUhncTBEU2lNMVptVzAyVzNBWkxTYTVFM3lFWE50UmlDR0NkM2xpRGhDOEJEQl9CMTNlbTRZSGItMzA4ZngteFpJQlYxZVREbklkX3FMRlNhSlBLODhFbzdnaXhWaThOZFhMUlJTbGhQZmFkTkp4a3BEZ0NoMTZWVzPSAYoBQVVfeXFMT21sZnFjb2VNSU5rajFFVDVmV1gwOGR3SUF5bVlpeHU3bHduTVYtd3k1dGRDeXRDNmYwX2s1MnR6S1pqRlhIWGZ4RzBfaGNVX1NjZl80Q3l6clNLeXVGYWJJbHFwM2gzZXB6NXhJOGQxQ2hjTzdudGVIYUZtazRDOGppS0lyXzZVamV3?oc=5",
-          "summary": "AI nearly had US troops attack a Chinese ship. Nobody could check its work."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "f3373a1adfe6",
       "title": "Alcaraz zeigt sich in Topform und gewinnt erstmals Paris-Masters",
-      "summary": "Carlos Alcaraz bleibt der formstärkste Spieler im Tennis-Herbst und sichert sich in Paris den dritten Titel bei den jünsten vier Turnier-Teilnahmen.",
+      "summary": "Carlos Alcaraz bleibt der formstärkste Spieler im Tennis-Herbst und sichert sich in Paris den dritten Titel bei den jüngsten vier Turnier-Teilnahmen.",
       "link": "https://www.sportschau.de/tennis/atp/bin-stolz-auf-mich-alcaraz-gewinnt-erstmals-paris-masters,paris-finale-100.html",
       "sourceName": "Tagesschau Sport",
       "region": "international",
@@ -3446,7 +3779,7 @@
         {
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/tennis/atp/bin-stolz-auf-mich-alcaraz-gewinnt-erstmals-paris-masters,paris-finale-100.html",
-          "summary": "Carlos Alcaraz bleibt der formstärkste Spieler im Tennis-Herbst und sichert sich in Paris den dritten Titel bei den jünsten vier Turnier-Teilnahmen."
+          "summary": "Carlos Alcaraz bleibt der formstärkste Spieler im Tennis-Herbst und sichert sich in Paris den dritten Titel bei den jüngsten vier Turnier-Teilnahmen."
         }
       ],
       "sourcesCount": 1
@@ -3488,42 +3821,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e41fe8510a98",
-      "title": "Qatar runner-up Marquez must wait for eighth title",
-      "summary": "Spaniard Marc Marquez misses the chance to clinch a record-equalling eighth MotoGP title after finishing second in Sunday's Qatar Grand Prix.",
-      "link": "https://www.bbc.co.uk/sport/motorsport/articles/cqy0re6xjg4wo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 17:51:47 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/motorsport/articles/cqy0re6xjg4wo?at_medium=RSS&at_campaign=rss",
-          "summary": "Spaniard Marc Marquez misses the chance to clinch a record-equalling eighth MotoGP title after finishing second in Sunday's Qatar Grand Prix."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5115ed87bda4",
-      "title": "Substitute Olme gives Man Utd deserved win over Aston Villa",
-      "summary": "Julia Zigiotti Olme comes off the bench to score the only goal of the game, as Manchester United defeat Aston Villa to move up to fourth in the WSL table.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c699ze5074n2o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 17:47:38 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c699ze5074n2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Julia Zigiotti Olme comes off the bench to score the only goal of the game, as Manchester United defeat Aston Villa to move up to fourth in the WSL table."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "84cd545594b4",
       "title": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027? - The Motley Fool",
       "summary": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027?",
@@ -3542,19 +3839,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "c72e3bb12a5c",
-      "title": "Russo double gives Arsenal win over Liverpool at Anfield",
-      "summary": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
+      "id": "621b1da456e3",
+      "title": "Rowing pair, ex-AFL star, lawn bowler welcomed to Hall of Fame - Times News Group",
+      "summary": "Rowing pair, ex-AFL star, lawn bowler welcomed to Hall of Fame Times News Group",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFJxNmdlTFluSXRNVzY5azM4YWxHbVFCZ0tyWHhoWlg5LVRUMlZkTTB1SzVCaGJUZ1Vtb1FTa2FJXzIzR2FVUUd0czh0b1U0b0s5aENGQ3cyM2tac04xVEI4ZXowTC1QSU9jMmQ3eGZxLVZwX2Z6ZW9hQnd1ZWw1UFlNYnc5dUZuM3hWUXJhdXUyWlZOWTZwWEo1UzBmTDUzSkZVUHEzSFhzdw?oc=5",
+      "sourceName": "Google News – International Sport",
       "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 17:45:27 GMT",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 17:46:23 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL."
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFJxNmdlTFluSXRNVzY5azM4YWxHbVFCZ0tyWHhoWlg5LVRUMlZkTTB1SzVCaGJUZ1Vtb1FTa2FJXzIzR2FVUUd0czh0b1U0b0s5aENGQ3cyM2tac04xVEI4ZXowTC1QSU9jMmQ3eGZxLVZwX2Z6ZW9hQnd1ZWw1UFlNYnc5dUZuM3hWUXJhdXUyWlZOWTZwWEo1UzBmTDUzSkZVUHEzSFhzdw?oc=5",
+          "summary": "Rowing pair, ex-AFL star, lawn bowler welcomed to Hall of Fame Times News Group"
         }
       ],
       "sourcesCount": 1
@@ -3578,27 +3875,9 @@
       "sourcesCount": 1
     },
     {
-      "id": "8a5a01f9884b",
-      "title": "Bundesliga: Leverkusen stoppt Negativlauf mit Derby-Sieg in Köln",
-      "summary": "Bayer Leverkusen hat in einem hitzigen Nachbarschaftsduell beim 1. FC Köln zurück in die Erfolgsspur gefunden.",
-      "link": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 17:44:00 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
-          "summary": "Bayer Leverkusen hat in einem hitzigen Nachbarschaftsduell beim 1. FC Köln zurück in die Erfolgsspur gefunden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3a2079859d2c",
       "title": "Premier League: Wirtz trifft bei Liverpools 3:1-Sieg gegen Crystal Palace",
-      "summary": "Mit seinem ersten Saisontor in der Premier League und einem Assist hat Florian Wirtz dem FC Liverpool zurück in die Spur geholfen. Die Reds gewannen bei Crystal Palace, ohne zu überzeugen.",
+      "summary": "Mit seinem ersten Saisontor in der Premier League und einem Assist hat Florian Wirtz dem FC Liverpool zum Erfolg verholfen. Die Reds gewannen bei Crystal Palace.",
       "link": "https://www.sportschau.de/fussball/premier-league/wirtz-hilft-liverpool-zurueck-in-die-spur,spielbericht-crystal-palace-liverpool-100.html",
       "sourceName": "Tagesschau Sport",
       "region": "germany",
@@ -3608,7 +3887,7 @@
         {
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/premier-league/wirtz-hilft-liverpool-zurueck-in-die-spur,spielbericht-crystal-palace-liverpool-100.html",
-          "summary": "Mit seinem ersten Saisontor in der Premier League und einem Assist hat Florian Wirtz dem FC Liverpool zurück in die Spur geholfen. Die Reds gewannen bei Crystal Palace, ohne zu überzeugen."
+          "summary": "Mit seinem ersten Saisontor in der Premier League und einem Assist hat Florian Wirtz dem FC Liverpool zum Erfolg verholfen. Die Reds gewannen bei Crystal Palace."
         }
       ],
       "sourcesCount": 1
@@ -3627,42 +3906,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejJnOTcwYVNEbnpEdVN4M0cwM3BsNEVBbXBpd21YUEcyM3RfX0FKUWsxaHk2dDVmc2NZZXR5cmNZY1NyY0o2MzlMSzU3SW1oVFpadFRLWjlTWHlWY3UxN2FXbUNQeFB4TlZrNlRyRW5jal9zQ2NaQWE2aGNfbHQxb1Zxb3VHcjRxcnNFaDZpdEw0Vm14eHNPLTVhM2l1ejJiYkMyQU51YzZRWEZSdm51ck5HOUh2NFNaQW5ONnhn?oc=5",
           "summary": "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "4d7f3cfb83cc",
-      "title": "10-man Stockport come from behind to survive huge scare at Cray",
-      "summary": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 17:39:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
-          "summary": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "621b1da456e3",
-      "title": "Rowing pair, ex-AFL star, lawn bowler welcomed to Hall of Fame - Times News Group",
-      "summary": "Rowing pair, ex-AFL star, lawn bowler welcomed to Hall of Fame Times News Group",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFJxNmdlTFluSXRNVzY5azM4YWxHbVFCZ0tyWHhoWlg5LVRUMlZkTTB1SzVCaGJUZ1Vtb1FTa2FJXzIzR2FVUUd0czh0b1U0b0s5aENGQ3cyM2tac04xVEI4ZXowTC1QSU9jMmQ3eGZxLVZwX2Z6ZW9hQnd1ZWw1UFlNYnc5dUZuM3hWUXJhdXUyWlZOWTZwWEo1UzBmTDUzSkZVUHEzSFhzdw?oc=5",
-      "sourceName": "Google News – International Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 17:37:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Sport",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFJxNmdlTFluSXRNVzY5azM4YWxHbVFCZ0tyWHhoWlg5LVRUMlZkTTB1SzVCaGJUZ1Vtb1FTa2FJXzIzR2FVUUd0czh0b1U0b0s5aENGQ3cyM2tac04xVEI4ZXowTC1QSU9jMmQ3eGZxLVZwX2Z6ZW9hQnd1ZWw1UFlNYnc5dUZuM3hWUXJhdXUyWlZOWTZwWEo1UzBmTDUzSkZVUHEzSFhzdw?oc=5",
-          "summary": "Rowing pair, ex-AFL star, lawn bowler welcomed to Hall of Fame Times News Group"
         }
       ],
       "sourcesCount": 1
@@ -3758,24 +4001,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "96ed79705106",
-      "title": "London City thump Birmingham to close gap on second",
-      "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 17:06:21 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
-          "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "7e0f366060d8",
       "title": "England swat aside Wallabies to back up Borthwick",
       "summary": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
@@ -3807,24 +4032,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/cop31in-ornek-koyu-solak-sifir-atikla-donusuyor-962605.html",
           "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Sıfır Atık Köyü'ne dönüştürülen Antalya'nın Solak Köyü'nü konferans için kente gelenlere ziyaret etmeleri çağrısında bulundu. Köyde kurulan kompost makinesiyle yemek atıkları değerlendirilirken uygulamanın COP31 sonrasında da sürdürülmesi hedefleniyor."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b7d4ffd7d773",
-      "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
-      "summary": "League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout to book their place in the second round.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 17:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
-          "summary": "League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout to book their place in the second round."
         }
       ],
       "sourcesCount": 1
@@ -3904,7 +4111,7 @@
     {
       "id": "36677a4ba9c5",
       "title": "Jürgen Klopp nominiert Ridle Baku nach",
-      "summary": "Bundestrainer Jürgen Klopp muss in den letzten Länderspielen des Jahres auf Waldemar Anton verzichten. Als Reaktion nominierte er den Leipziger Ridle Baku für seinen 24 Spieler umfassenden Kader nach.",
+      "summary": "Bundestrainer Jürgen Klopp muss in den letzten Länderspielen des Jahres auf Waldemar Anton verzichten. Als Reaktion nominierte er den Leipziger Ridle Baku für seinen Kader nach.",
       "link": "https://www.sportschau.de/fussball/nationalmannschaft/juergen-klopp-nominiert-ridle-baku-nach,anton-raus-baku-rein-100.html",
       "sourceName": "Tagesschau Sport",
       "region": "international",
@@ -3914,7 +4121,7 @@
         {
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/nationalmannschaft/juergen-klopp-nominiert-ridle-baku-nach,anton-raus-baku-rein-100.html",
-          "summary": "Bundestrainer Jürgen Klopp muss in den letzten Länderspielen des Jahres auf Waldemar Anton verzichten. Als Reaktion nominierte er den Leipziger Ridle Baku für seinen 24 Spieler umfassenden Kader nach."
+          "summary": "Bundestrainer Jürgen Klopp muss in den letzten Länderspielen des Jahres auf Waldemar Anton verzichten. Als Reaktion nominierte er den Leipziger Ridle Baku für seinen Kader nach."
         }
       ],
       "sourcesCount": 1
@@ -3974,6 +4181,62 @@
       "sourcesCount": 1
     },
     {
+      "id": "f20fd6cba7a5",
+      "title": "2026 World Wide Technology Championship purse: Payout info, winner’s share - GOLF.com",
+      "summary": "2026 World Wide Technology Championship purse: Payout info, winner’s share GOLF.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NOWloMExrNWNjaXF1UVhnMW5FSzBwaFpBSWVMaW9heUJod0xJVGtZSUVhSm9pc2hmY015YllHLVctNC1jQm9QT29BQWNQY0UweU52emNnY2ZCaS1GeExoMmZ5dC01NE85ZURjU2RwZEpsSGlzYnBj?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 08 Nov 2026 16:10:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NOWloMExrNWNjaXF1UVhnMW5FSzBwaFpBSWVMaW9heUJod0xJVGtZSUVhSm9pc2hmY015YllHLVctNC1jQm9QT29BQWNQY0UweU52emNnY2ZCaS1GeExoMmZ5dC01NE85ZURjU2RwZEpsSGlzYnBj?oc=5",
+          "summary": "2026 World Wide Technology Championship purse: Payout info, winner’s share GOLF.com"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcExma3E2eHBEdlNBcUZaaTNTQzZyaGV2WE9lSHpnRHBKcElKc25CejR6MTdlaExBd19mcGRvcnI2THpkT2ZWVzdsdGpEMWtqMlBGMmw4YkFKWVd1OF9HcUpZcy1GYjE5aUlsN3NQN3hHZ1FwTzFwaDlvRVRyYzBiS1ZBYjVrZ2c5aFVmNjcwbkxmZkphdnNmYlRVeVozNV9SYWRCakxNbGwybHZHVmJn?oc=5",
+          "summary": "PGA Tour highlights: 2026 World Wide Technology Championship, Round 3 Golf Channel"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa09ieFIzRXhRaG5tUzN1MnpxLTludGJtVnJENVVrVGxhbFBiVFVGS2RCWUVoQjdOY1pDSUYxVXFzTzFEYkxWU0lDaWxRbGYwenAwbEYyeEpNU2VZZndYT3VNZTRibTIzNmpKU3huaEdCUFJfWFFqZzA5QnQ4OUpxUHBYTm9UVTdSVm1BLUpIWFBWWWNIT2ZtcmZUcTVGLS1qNW5aeWF2SThZMTVwSG00YndIZU9ETHdLUTdVbTZ0YmlPd0dl?oc=5",
+          "summary": "World Wide Technology Championship 2026 prize money: Full payout from $6 million purse Golf Channel"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGdFaG42eEZjWTZXZVZjcEhSZ0VuSVRjMDcxNHBkYmxEZk0xa2NZZ0VwT0ZwNmlzQkZCUjd4al9FR25pNVZGdGRoZE1RbXltRHl5U0xsTHpCeTRZVzlKcTJLejRXeTE5czdkWVBnWlY4VURTVFFERmowU0hzeTh4eGJaWENEQlJId3BNYXJxS1BSZDEzdHRDQzcyS1U?oc=5",
+          "summary": "World Wide Technology Championship Full Prize Money Payout 2026 Golf Monthly"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVTVwRUtpVnVMMHNYYk03ekE2MV9tRWtNT1loT3FSZVpoV09lV3FFN3puYUNQMm5KMnhWd3VIV3l2dEp1YjFuXy1qTnFMZ19INEkxcjQ0M0haTlFBTlJieEdEdTlxMlBnazkzckhMd3lNaGI1VUJkSzdqT3BEVXNCM2hzLU9nekxvWW9xWXl4R2RQcDNHVFJmVFQyQ0dYem4yNG1OV3NYcXRIU0ZHNXcyLXBWRERXMHFqSmhSTzZGVy1JUEJM?oc=5",
+          "summary": "2026 World Wide Technology Championship: Final round tee times, groupings and how to watch Golf Channel"
+        }
+      ],
+      "sourcesCount": 5
+    },
+    {
+      "id": "a392e0b240a5",
+      "title": "DLA Piper Appoints Alexander Reich-Rohrwig As Vienna Corporate Partner To Expand Global M&A Practice - Pulse 2.0",
+      "summary": "DLA Piper Appoints Alexander Reich-Rohrwig As Vienna Corporate Partner To Expand Global M&A Practice Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2RlVzJyemFfZkZEYkVZSDBKWXRuRV9BN1dDcXVmZVdMWkdCLW56eGROUjQ0eDJUcnQtcF9BNHY0VjJRQ01YNERKUzdXTzV3U1Zqb3JwX0FNRnVJZ18zcFMyMHlxVkhzb1F0NEl4YWpDV3dLLVczY01uYm1vdWJPR0JZYW54V0pGcW80TW4xd0JsbHk3QXltbGhUOFZKRGMxTjl5Z0p5VlFsR3J3ZDlhY2V0SExjTDE1RThF?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sun, 08 Nov 2026 16:09:07 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2RlVzJyemFfZkZEYkVZSDBKWXRuRV9BN1dDcXVmZVdMWkdCLW56eGROUjQ0eDJUcnQtcF9BNHY0VjJRQ01YNERKUzdXTzV3U1Zqb3JwX0FNRnVJZ18zcFMyMHlxVkhzb1F0NEl4YWpDV3dLLVczY01uYm1vdWJPR0JZYW54V0pGcW80TW4xd0JsbHk3QXltbGhUOFZKRGMxTjl5Z0p5VlFsR3J3ZDlhY2V0SExjTDE1RThF?oc=5",
+          "summary": "DLA Piper Appoints Alexander Reich-Rohrwig As Vienna Corporate Partner To Expand Global M&A Practice Pulse 2.0"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "f53f0d0eb8ef",
       "title": "Ankara'da 247 kilometrelik akıllı ulaşım koridoru oluşturulacak",
       "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Ankara Çevre Otoyolu ile Gölbaşı-Oğulbey ve Polatlı kesimlerini kapsayan toplam 247 kilometrelik akıllı ulaşım sistemi koridoru için proje çalışmalarının sürdüğünü aktardı.",
@@ -3994,107 +4257,17 @@
     {
       "id": "1d829d59cfa2",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
       "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC World",
       "region": "international",
-      "topic": "politik",
+      "topic": "wirtschaft",
       "time": "Sun, 08 Nov 2026 16:05:57 GMT",
       "coverage": [
         {
           "sourceName": "BBC World",
           "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-          "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\"."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "739b1dd043da",
-      "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran - Reuters",
-      "summary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 08 Nov 2026 16:04:42 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-          "summary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "595b335e8a6d",
-      "title": "Traumtor von Zukowski: Magdeburg bezwingt St. Pauli",
-      "summary": "Der 1. FC Magdeburg hat in der 2.",
-      "link": "https://www.sportschau.de/fussball/bundesliga2/magdeburgs-neue-heimstaerke-erwischt-auch-st-pauli,spielbericht-magdeburg-st-pauli-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 15:49:33 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga2/magdeburgs-neue-heimstaerke-erwischt-auch-st-pauli,spielbericht-magdeburg-st-pauli-100.html",
-          "summary": "Der 1. FC Magdeburg hat in der 2."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "427f29336728",
-      "title": "Remis zwischen Heidenheim und Hannover: Chancenwucher und ein schiefer Finger",
-      "summary": "Hannover 96 und der 1. FC Heidenheim haben sich einen spannenden Schlagabtausch geliefert, der ohne Sieger blieb.",
-      "link": "https://www.sportschau.de/fussball/bundesliga2/chancenwucher-und-ein-schiefer-finger-in-heidenheim,spielbericht-heidenheim-hannover-96-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 15:48:56 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga2/chancenwucher-und-ein-schiefer-finger-in-heidenheim,spielbericht-heidenheim-hannover-96-100.html",
-          "summary": "Hannover 96 und der 1. FC Heidenheim haben sich einen spannenden Schlagabtausch geliefert, der ohne Sieger blieb."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1300ea9a69dd",
-      "title": "Pod-Ed: Why Airline AI Needs Better Data Before Smarter Technology - Airways Magazine",
-      "summary": "Pod-Ed: Why Airline AI Needs Better Data Before Smarter Technology Airways Magazine",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUUVPQkhuY3ZGUmFXcEx3am82TWlSQURQdUtjVWdfSUVyZ1l6MVQ1bnEzV0NKZVBCbW9aQUdXbEx5dnZ2dGx6S1hXT1BTV2VMNjJBZ1hCaF84cF9XdjdiQkJuV2pUdjBHZ0x2Xw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 15:47:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUUVPQkhuY3ZGUmFXcEx3am82TWlSQURQdUtjVWdfSUVyZ1l6MVQ1bnEzV0NKZVBCbW9aQUdXbEx5dnZ2dGx6S1hXT1BTV2VMNjJBZ1hCaF84cF9XdjdiQkJuV2pUdjBHZ0x2Xw?oc=5",
-          "summary": "Pod-Ed: Why Airline AI Needs Better Data Before Smarter Technology Airways Magazine"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "80ff5f4a38df",
-      "title": "Bochums Doppelpacker Hofmann trifft ins Karlsruher Herz",
-      "summary": "Der Karlsruher SC bleibt auswärts weiter sieglos. Gegen Bochum sah es lange immerhin nach einem Remis aus, bis Philipp Hofmann seinen Ex-Verein kurz vor Schluss mit leeren Händen dastehen ließ.",
-      "link": "https://www.sportschau.de/fussball/bundesliga2/doppelpacker-hofmann-trifft-ins-karlsruher-herz,spielbericht-vfl-bochum-karlsruher-sc-106.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 15:46:02 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/bundesliga2/doppelpacker-hofmann-trifft-ins-karlsruher-herz,spielbericht-vfl-bochum-karlsruher-sc-106.html",
-          "summary": "Der Karlsruher SC bleibt auswärts weiter sieglos. Gegen Bochum sah es lange immerhin nach einem Remis aus, bis Philipp Hofmann seinen Ex-Verein kurz vor Schluss mit leeren Händen dastehen ließ."
+          "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment."
         }
       ],
       "sourcesCount": 1
@@ -4113,24 +4286,6 @@
           "sourceName": "BBC Business",
           "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
           "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "65f7666838e0",
-      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
-      "summary": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 15:31:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick."
         }
       ],
       "sourcesCount": 1
@@ -4195,29 +4350,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "84fb2ba53585",
-      "title": "World Wide Technology Championship 2026 prize money: Full payout from $6 million purse - Golf Channel",
-      "summary": "World Wide Technology Championship 2026 prize money: Full payout from $6 million purse Golf Channel",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa09ieFIzRXhRaG5tUzN1MnpxLTludGJtVnJENVVrVGxhbFBiVFVGS2RCWUVoQjdOY1pDSUYxVXFzTzFEYkxWU0lDaWxRbGYwenAwbEYyeEpNU2VZZndYT3VNZTRibTIzNmpKU3huaEdCUFJfWFFqZzA5QnQ4OUpxUHBYTm9UVTdSVm1BLUpIWFBWWWNIT2ZtcmZUcTVGLS1qNW5aeWF2SThZMTVwSG00YndIZU9ETHdLUTdVbTZ0YmlPd0dl?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 14:57:59 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa09ieFIzRXhRaG5tUzN1MnpxLTludGJtVnJENVVrVGxhbFBiVFVGS2RCWUVoQjdOY1pDSUYxVXFzTzFEYkxWU0lDaWxRbGYwenAwbEYyeEpNU2VZZndYT3VNZTRibTIzNmpKU3huaEdCUFJfWFFqZzA5QnQ4OUpxUHBYTm9UVTdSVm1BLUpIWFBWWWNIT2ZtcmZUcTVGLS1qNW5aeWF2SThZMTVwSG00YndIZU9ETHdLUTdVbTZ0YmlPd0dl?oc=5",
-          "summary": "World Wide Technology Championship 2026 prize money: Full payout from $6 million purse Golf Channel"
-        },
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NOWloMExrNWNjaXF1UVhnMW5FSzBwaFpBSWVMaW9heUJod0xJVGtZSUVhSm9pc2hmY015YllHLVctNC1jQm9QT29BQWNQY0UweU52emNnY2ZCaS1GeExoMmZ5dC01NE85ZURjU2RwZEpsSGlzYnBj?oc=5",
-          "summary": "2026 World Wide Technology Championship purse: Payout info, winner’s share GOLF.com"
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
       "id": "f662c4627621",
       "title": "COP31 boyunca Antalya'da trafik denetimleri üst seviyeye çıkarılacak",
       "summary": "Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) katılan çok sayıda devlet ve hükümet başkanı ile üst düzey konuğun güvenli ve hızlı ulaşımını sağlamak amacıyla trafik denetimleri üst seviyede olacak.",
@@ -4254,24 +4386,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "e8c87f8504a7",
-      "title": "Chengdu lose final four games to blow 12-point lead and Chinese title",
-      "summary": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 14:41:04 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "c45972a2bebb",
       "title": "Rusya: Ukrayna'da trafo merkezi ile silah taşıyan gemiyi vurduk",
       "summary": "Rusya Savunma Bakanlığı, Ukrayna'da trafo merkezi ile bir gemiyi vurduklarını bildirdi.",
@@ -4290,24 +4404,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "566e84e7f0d3",
-      "title": "Technology from South Korea is helping Maine kelp farmers be more efficient - WMTW",
-      "summary": "Technology from South Korea is helping Maine kelp farmers be more efficient WMTW",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjBJN2dUSmVaNFZBRk9VR3ZuVlVIbkhFOTc0eEpsRUtGUWdFRFQxM1ptaGpWTTJlWElrOTU2NjMxN2VBdWJYZ3g2d2NBZVlmdzFqMXR2cGhrTDNQcFNRSkpzVGtfRXdGTzZ0TXNhMV8xamRkLWx2T0VwVDBDM2ZlMWxXMVpPdnFuSWdSdlNWb29GTE53MzU4SHhncnhsa01rcXcyZ2gtNzhhZnVsS3pENndTYw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 14:20:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjBJN2dUSmVaNFZBRk9VR3ZuVlVIbkhFOTc0eEpsRUtGUWdFRFQxM1ptaGpWTTJlWElrOTU2NjMxN2VBdWJYZ3g2d2NBZVlmdzFqMXR2cGhrTDNQcFNRSkpzVGtfRXdGTzZ0TXNhMV8xamRkLWx2T0VwVDBDM2ZlMWxXMVpPdnFuSWdSdlNWb29GTE53MzU4SHhncnhsa01rcXcyZ2gtNzhhZnVsS3pENndTYw?oc=5",
-          "summary": "Technology from South Korea is helping Maine kelp farmers be more efficient WMTW"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "356660f2c720",
       "title": "Federal Judge Destroys ICE Credibility After Officer Admits He Falsified a Warrantless Arrest Report - inkl",
       "summary": "Federal Judge Destroys ICE Credibility After Officer Admits He Falsified a Warrantless Arrest Report inkl",
@@ -4321,60 +4417,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHp1MWcwamJVQXRhTzhZMmJRMHJMcEg0cEVfMEF4dDdDYy1UR3ZIZHJVNlNTRGFLVUh4MTdiVnpQU0xRTEwzdmtuUGcxckRpekJlUXBCMUY2WXo4RUVzQTd4d3hVME4tOG5EN05aV3RBcjJqZGpYWk5Cc2k2cFdOOV9PZ3ZiVU4tNzlfMTVEN3BhQmFxZlJneDNHNXZpcnBhb0g1U0ZkT3M3b2dHeGJhUGY1WFU3VThubTBwQnhxNFE1MVF2?oc=5",
           "summary": "Federal Judge Destroys ICE Credibility After Officer Admits He Falsified a Warrantless Arrest Report inkl"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "356da9ddc303",
-      "title": "China orders statistics bureau to fight fake data with modern technology - South China Morning Post",
-      "summary": "China orders statistics bureau to fight fake data with modern technology South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEpHRlVNd0dsazZQdTBSVGFhbmF2bVg4ZGQ3c1AxM0dnemFOcXFQWGowZ1JUeGU3UkpYTmFWcU1ORzdyYkpMeURBdERCWk0zWGZJX2FnSjhYSGppeHBVWC1feUIzMU4yakJxTFgxTktDaEY2aGFIblJzTnljU1F3dzgtM1h3blktaGoxdWlYdDlVZWpNTkh3VFVJMC1wMkFKUzVYV0U5cEZySUdxNUdJZm1lTUFFeDdrUEZiUkVB0gG-AUFVX3lxTE0ySTRVU0pkbHIzZWx3OW5IdWFUejdRaW5pZU1IMXpYWjVaZUk0MldmSGNqRXJnZGM5dENMSXdCN0RwaUVCYk0zQms2Y2ZmcjlpajBvQWR4U3F2QTdjZGREZl9yVUdnWk5nd0lkMzFvN1NkbVZLelZIWU11a1h6MEFTeVA3UHh5ZEc1TER3MXFpTkRYb3czdDhSdkl0TVFHS3oydE5EbkVPazNUd1R0VEdlVE85S1hpVXpMY20yVnc?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 14:00:30 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEpHRlVNd0dsazZQdTBSVGFhbmF2bVg4ZGQ3c1AxM0dnemFOcXFQWGowZ1JUeGU3UkpYTmFWcU1ORzdyYkpMeURBdERCWk0zWGZJX2FnSjhYSGppeHBVWC1feUIzMU4yakJxTFgxTktDaEY2aGFIblJzTnljU1F3dzgtM1h3blktaGoxdWlYdDlVZWpNTkh3VFVJMC1wMkFKUzVYV0U5cEZySUdxNUdJZm1lTUFFeDdrUEZiUkVB0gG-AUFVX3lxTE0ySTRVU0pkbHIzZWx3OW5IdWFUejdRaW5pZU1IMXpYWjVaZUk0MldmSGNqRXJnZGM5dENMSXdCN0RwaUVCYk0zQms2Y2ZmcjlpajBvQWR4U3F2QTdjZGREZl9yVUdnWk5nd0lkMzFvN1NkbVZLelZIWU11a1h6MEFTeVA3UHh5ZEc1TER3MXFpTkRYb3czdDhSdkl0TVFHS3oydE5EbkVPazNUd1R0VEdlVE85S1hpVXpMY20yVnc?oc=5",
-          "summary": "China orders statistics bureau to fight fake data with modern technology South China Morning Post"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "ba2e08258ec7",
-      "title": "Sudan detains ex-ruling party head Haroun wanted by ICC - Reuters",
-      "summary": "Sudan detains ex-ruling party head Haroun wanted by ICC Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0JrSE5QQU9rZllKNERWdEtyTG9XdWxUSDAxeHFvMDlXTXp5dlVLdl82NjVPXzBTamo1SFBFTnZXbC1ON3VrYkx4TzYtWHp3RWhTbnAwSGRTNEFtOUJiTXdBN0J0UkhlLXpEbGhlWkhINHFWUHF1aGVTenBVN0hRRnJTdHRWSHpYLXpRV3dsMGdadS00c1V3X3BURjM2Y08tTVJ6ZmpLU19jY1hSWWFrellZNWF3ZU84UncyTnh3WktrOGluajBj?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 14:00:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0JrSE5QQU9rZllKNERWdEtyTG9XdWxUSDAxeHFvMDlXTXp5dlVLdl82NjVPXzBTamo1SFBFTnZXbC1ON3VrYkx4TzYtWHp3RWhTbnAwSGRTNEFtOUJiTXdBN0J0UkhlLXpEbGhlWkhINHFWUHF1aGVTenBVN0hRRnJTdHRWSHpYLXpRV3dsMGdadS00c1V3X3BURjM2Y08tTVJ6ZmpLU19jY1hSWWFrellZNWF3ZU84UncyTnh3WktrOGluajBj?oc=5",
-          "summary": "Sudan detains ex-ruling party head Haroun wanted by ICC Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2a5eea32e1ea",
-      "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-      "summary": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sun, 08 Nov 2026 13:57:54 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
-          "summary": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse."
         }
       ],
       "sourcesCount": 1
@@ -4470,24 +4512,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "dd9ae1a3b1f8",
-      "title": "Hoeneß kündigt Kompany-Comeback \"in zwei, drei Wochen\" an",
-      "summary": "Nach seiner Hirnhautreizung könnte Vincent Kompany schon bald wieder beim FC Bayern an der Seitenlinie stehen. Uli Hoeneß rechnet mit einer Rückkehr des Cheftrainers nach der Länderspielpause.",
-      "link": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 13:07:41 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/br/br-hoeness-kompany-comeback-in-zwei-drei-wochen-102.html",
-          "summary": "Nach seiner Hirnhautreizung könnte Vincent Kompany schon bald wieder beim FC Bayern an der Seitenlinie stehen. Uli Hoeneß rechnet mit einer Rückkehr des Cheftrainers nach der Länderspielpause."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "3c80bc6052ed",
       "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
       "summary": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom.",
@@ -4542,24 +4566,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "0472db36759e",
-      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
-      "summary": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sun, 08 Nov 2026 12:07:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
-          "summary": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "31cf61219ecf",
       "title": "International Business Machines Corporation $IBM Position Cut by Kornitzer Capital Management Inc. KS - MarketBeat",
       "summary": "International Business Machines Corporation $IBM Position Cut by Kornitzer Capital Management Inc. KS MarketBeat",
@@ -4591,11 +4597,6 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOelFoWjNDd1FVS3BvU0RlWTlWbjZwNWphUlVjeVVEcDZMa0R4a3hYZWduQzNEcFJKTklQLUg5MEFsa0pxX1VHdU5qUTh1Q3RUUHJYOFJkamNVVWZUTk5mZmcwdmhoS3pBNy04R0hwaVFMRGlNd0VDOUZnTHF1RUliVDhJM2NzTGs3YV81M1pyc3JSY3pFMjdOZ0pkNFJ6T0ZjaWNhOEtaUHlKck1DZmFDTVRYUDRfaWRjajZGRzFQLXdmbVFBWndJdU1pZUJxUDBXVWdtMkZEdlNWSkNLODN4VEk1aXlhOWdWT25hS0dERQ?oc=5",
-          "summary": "2,569 International Business Machines Corporation $IBM Shares Sold by Calamos Wealth Management LLC MarketBeat"
-        },
-        {
-          "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUlFPTDNVVkhDM3VfQ1lyZGZndENpZ28wR1N1S0R3NklwWTkwTDQyLWlOMVhuMjRfY0F0VWg5T0ZaemRvWnA0V1lSSnUtanctd1hnTFd1UlFiZ0oyUlNwTjNWcG4tTTIwTXY4bi1RRDIzc1dnN2N0RVY3WnRhNEpHRnZ0UWM0ZGY4UGxoZVhZUzh1Y2JkeXA0RWcwTU1vQThwN1A5ckpaRUFfRDhRdHBPU29XTms4dTJrZTBubUU5M2VpY1B2eFVrOWd5LWllUmc2UGNYUHRjQ1Z2QVhNSXBLVnVBM0VxNmhsWjItLUNuZC1TZw?oc=5",
           "summary": "International Business Machines Corporation $IBM Stock: Avantax Planning Partners Inc. Raises Position MarketBeat"
         },
@@ -4605,7 +4606,7 @@
           "summary": "International Business Machines Corporation $IBM Stock Purchased by May Hill Capital LLC MarketBeat"
         }
       ],
-      "sourcesCount": 7
+      "sourcesCount": 6
     },
     {
       "id": "aae97d09b722",
@@ -4675,42 +4676,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMnlqRVBUWFAyUXMwT0c4VFl2ZEFpLXoxd3Vjekg1Z2ozZG1iWnBsbGR0emFmWlliTlY1dVFHSUlGcUNSdS11ZWZDQlBvR04wQ3g4YnNUMmZiaFlyX0FIMWpwaFFBdzVmVVlnejI4cXdnMXIxS20waW9mNUxTQ2JkMm01RDZVWFAyYUVPRnBJNGlMV19lZTlrdzFWU1cwVnVJOEtiRkZSSnpjbDMzTGM3dzRKZDc1WVNGQ2FtU1JB?oc=5",
           "summary": "Woman Reportedly Chained To Bed for Two Years by Ex-Husband Who Used Her for Immigration Status inkl"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "71596306ae6d",
-      "title": "Deer hunting, Wisconsin traditions and the technology shaping the outdoors - WTMJ",
-      "summary": "Deer hunting, Wisconsin traditions and the technology shaping the outdoors WTMJ",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFFqdzZSbTEyRXBGcC10VWkzajRjN2Z3Z3ZyeDQ4NVhXUlIzUGZWd0wzSHZPMmh4T2k2VjdfZHA4dzd5eEZYMUlxcFJMZERYaHBIcUhDX0JjZ3JZdFpwZ05pcWlCYlBzSmw5WjZVUldSb24zcEdHYUoxWFpDcHRUb091b1puRTdHbUE?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 11:10:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFFqdzZSbTEyRXBGcC10VWkzajRjN2Z3Z3ZyeDQ4NVhXUlIzUGZWd0wzSHZPMmh4T2k2VjdfZHA4dzd5eEZYMUlxcFJMZERYaHBIcUhDX0JjZ3JZdFpwZ05pcWlCYlBzSmw5WjZVUldSb24zcEdHYUoxWFpDcHRUb091b1puRTdHbUE?oc=5",
-          "summary": "Deer hunting, Wisconsin traditions and the technology shaping the outdoors WTMJ"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5a18b01d8ae5",
-      "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply - Reuters",
-      "summary": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 11:08:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
-          "summary": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply Reuters"
         }
       ],
       "sourcesCount": 1
@@ -4974,8 +4939,8 @@
     },
     {
       "id": "daf1323f252b",
-      "title": "Warfare Technology Is Finding a New Home on Britain’s Farms - Bloomberg.com",
-      "summary": "Warfare Technology Is Finding a New Home on Britain’s Farms Bloomberg.com",
+      "title": "Warfare Technology Is Finding a New Home on Britain’s Farms - Bloomberg",
+      "summary": "Warfare Technology Is Finding a New Home on Britain’s Farms Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnM1ZVFmNVE5WS1lMm5jLWdRWGtYXzZVYjN3WHptZXJUb2tsbzlPNjQ0R1E3ZmdIVFcyVk01TGlmRUNoU1c3X3FIQzF5bTd0b1FsX3VkVjZjbmM5UXJUWlVDbkxmQU9FeEVneHRnUXg5ODFmUXh0NVlCMjBOaXl3aVlsUlZRYjNPQ01CZGo2YmVaVF9LVExFRGNzNF9IVXpmMFlWczdJa2J0M01Fejdv?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "local",
@@ -4985,7 +4950,7 @@
         {
           "sourceName": "Google News – International Technology",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnM1ZVFmNVE5WS1lMm5jLWdRWGtYXzZVYjN3WHptZXJUb2tsbzlPNjQ0R1E3ZmdIVFcyVk01TGlmRUNoU1c3X3FIQzF5bTd0b1FsX3VkVjZjbmM5UXJUWlVDbkxmQU9FeEVneHRnUXg5ODFmUXh0NVlCMjBOaXl3aVlsUlZRYjNPQ01CZGo2YmVaVF9LVExFRGNzNF9IVXpmMFlWczdJa2J0M01Fejdv?oc=5",
-          "summary": "Warfare Technology Is Finding a New Home on Britain’s Farms Bloomberg.com"
+          "summary": "Warfare Technology Is Finding a New Home on Britain’s Farms Bloomberg"
         }
       ],
       "sourcesCount": 1
@@ -5058,29 +5023,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
           "summary": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı."
-        },
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-kodlu-uyari-saganak-ve-firtina-bekleniyor-962489.html",
-          "summary": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. Meteoroloji 19 il için 'sarı' kodlu uyarıda bulundu."
-        }
-      ],
-      "sourcesCount": 2
-    },
-    {
-      "id": "bc7d2f0d2880",
-      "title": "Meet the founder who helped build Nvidia’s early cloud computing infrastructure before leaving the $5 trillion tech giant to bring AI computing power to Africa - Business Insider Africa",
-      "summary": "Meet the founder who helped build Nvidia’s early cloud computing infrastructure before leaving the $5 trillion tech giant to bring AI computing power to Africa Business Insider Africa",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcnNTd2lfRWtCbTRLR0s5Umpja0RKU1R5VUMtSHNSd1ZVaGl5TjR4emtyLWYwRmtpek82WlpKZVdjZWlJcHFoREJaUXkxcGdobkxZOHpyeVNqdzlSN1dMbjVxMGFrbXFTV1FaYXJUQWZPVXR2QlZDSnptNHZTUURGMVRMRTdOQ2U1Vk9ZRk0xc0tHRExpak5VWEtQWFVXVUpzTUxkSkhJTDFOMjg1a2tmZXlNc3BlVHg0a291M2MzNlFNS0tpVWpHQ1B6LVNialJGZEtyUjRsMVJ2Zw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 07:22:45 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcnNTd2lfRWtCbTRLR0s5Umpja0RKU1R5VUMtSHNSd1ZVaGl5TjR4emtyLWYwRmtpek82WlpKZVdjZWlJcHFoREJaUXkxcGdobkxZOHpyeVNqdzlSN1dMbjVxMGFrbXFTV1FaYXJUQWZPVXR2QlZDSnptNHZTUURGMVRMRTdOQ2U1Vk9ZRk0xc0tHRExpak5VWEtQWFVXVUpzTUxkSkhJTDFOMjg1a2tmZXlNc3BlVHg0a291M2MzNlFNS0tpVWpHQ1B6LVNialJGZEtyUjRsMVJ2Zw?oc=5",
-          "summary": "Meet the founder who helped build Nvidia’s early cloud computing infrastructure before leaving the $5 trillion tech giant to bring AI computing power to Africa Business Insider Africa"
         }
       ],
       "sourcesCount": 1
@@ -5099,24 +5041,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/bursada-apartman-dairesinde-yangin-962570.html",
           "summary": "Bursa'nın Osmangazi ilçesinde apartman dairesinde çıkan yangın söndürüldü, dumandan etkilenen 1 kişi hastaneye kaldırıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5a0b924ab2b6",
-      "title": "GigaCloud Technology (GCT) Gains Fresh Momentum As Growth Fuels An Undervalued Narrative - Yahoo Finance",
-      "summary": "GigaCloud Technology (GCT) Gains Fresh Momentum As Growth Fuels An Undervalued Narrative Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3MyQ0lQVjlkeVRUOXI0Vlh2OUxveWxTbGU5bE1oY0xGRzlDRWRMV2NTR2p2LXlkU0wxeklSNVZIRHljRkc5ZFVJYVFCSHh2ZnREaVE0YTdMNk5oSEY0VjN0TUlFQThHQkJPRTlXQU9ZLWJtU2dtWnR4b182MFZfdElpZnUtQ0wwQVA4MmJJelVvbjkwM3Vvdm52VlVIV0lQWjdB?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 06:11:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3MyQ0lQVjlkeVRUOXI0Vlh2OUxveWxTbGU5bE1oY0xGRzlDRWRMV2NTR2p2LXlkU0wxeklSNVZIRHljRkc5ZFVJYVFCSHh2ZnREaVE0YTdMNk5oSEY0VjN0TUlFQThHQkJPRTlXQU9ZLWJtU2dtWnR4b182MFZfdElpZnUtQ0wwQVA4MmJJelVvbjkwM3Vvdm52VlVIV0lQWjdB?oc=5",
-          "summary": "GigaCloud Technology (GCT) Gains Fresh Momentum As Growth Fuels An Undervalued Narrative Yahoo Finance"
         }
       ],
       "sourcesCount": 1
@@ -5171,24 +5095,6 @@
           "sourceName": "Google News – Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
           "summary": "Houthi attack damages Aramco building in Riyadh's financial district Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b3534df0c874",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sun, 08 Nov 2026 04:03:12 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-          "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
         }
       ],
       "sourcesCount": 1
@@ -5482,6 +5388,165 @@
           "sourceName": "ZDF",
           "link": "https://www.zdfheute.de/video/mutmachwerwalter-video-100.html",
           "summary": "Nach dem Tod seiner Frau macht Walter Sedlmeier anderen Menschen Mut. Mit seinen Reels erreicht der 77-Jährige Hunderttausende."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1c75a4a2aeb7",
+      "title": "Reality-Stars: Welche Rolle spielt das Geld?",
+      "summary": "Reality-TV macht aus Unbekannten Prominente. Doch mit dem Ruhm wächst auch die Frage nach dem Geld: Welche Rolle spielt der finanzielle Erfolg?",
+      "link": "https://www.zdfheute.de/video/panorama-reality-tv-schattenseiten-100.html",
+      "sourceName": "ZDF",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 7 Nov 2026 07:34:00 +0100",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/panorama-reality-tv-schattenseiten-100.html",
+          "summary": "Reality-TV macht aus Unbekannten Prominente. Doch mit dem Ruhm wächst auch die Frage nach dem Geld: Welche Rolle spielt der finanzielle Erfolg?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4f28af4ad7c7",
+      "title": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
+      "summary": "Was lange wie Science-Fiction klang, ist inzwischen Realität: Chips im Gehirn helfen gelähmten Menschen, Computer mit ihren Gedanken zu steuern. Forscher hoffen auf neue Therapien, Ethiker warnen vor Risiken.",
+      "link": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "germany",
+      "topic": "technologie",
+      "time": "Sat, 31 Oct 2026 10:17:08 +0100",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html",
+          "summary": "Was lange wie Science-Fiction klang, ist inzwischen Realität: Chips im Gehirn helfen gelähmten Menschen, Computer mit ihren Gedanken zu steuern. Forscher hoffen auf neue Therapien, Ethiker warnen vor Risiken."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d234a9dff2b7",
+      "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
+      "summary": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen.",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
+      "sourceName": "Tagesschau Wissen",
+      "region": "international",
+      "topic": "wissenschaft",
+      "time": "Sat, 24 Oct 2026 10:55:12 +0200",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Wissen",
+          "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
+          "summary": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "45ab1caa3a3f",
+      "title": "Bakan Kacır: IAC 2026, bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi oldu",
+      "summary": "Bakan Kacır, 77. Uluslararası Uzay Kongresi'nin (IAC 2026) kapanış etkinliğini Aspendos Antik Tiyatrosu'nda gerçekleştirdiklerini belirterek, kongrenin bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi olduğunu söyledi.",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-iac-2026-bugune-kadarki-en-buyuk-ve-en-gorkemli-uluslararasi-uzay-kongresi-oldu-959767.html",
+      "sourceName": "TRT Haber Technologie",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 20:02:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Technologie",
+          "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-iac-2026-bugune-kadarki-en-buyuk-ve-en-gorkemli-uluslararasi-uzay-kongresi-oldu-959767.html",
+          "summary": "Bakan Kacır, 77. Uluslararası Uzay Kongresi'nin (IAC 2026) kapanış etkinliğini Aspendos Antik Tiyatrosu'nda gerçekleştirdiklerini belirterek, kongrenin bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi olduğunu söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "435f4c1b0bc9",
+      "title": "TFF'den Montella'ya teşekkür mesajı",
+      "summary": "Türkiye Futbol Federasyonu (TFF), dün gerçekleştirilen toplantıda yolları ayırma kararı aldığı A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella için teşekkür mesajı yayımladı.",
+      "link": "https://www.trthaber.com/haber/spor/tffden-montellaya-tesekkur-mesaji-959751.html",
+      "sourceName": "TRT Haber Sport",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 15:03:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Sport",
+          "link": "https://www.trthaber.com/haber/spor/tffden-montellaya-tesekkur-mesaji-959751.html",
+          "summary": "Türkiye Futbol Federasyonu (TFF), dün gerçekleştirilen toplantıda yolları ayırma kararı aldığı A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella için teşekkür mesajı yayımladı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4a38bdf79976",
+      "title": "Türk dünyasından gelen futbolcular Türk statüsünde sayılacak",
+      "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk dünyasından Türkiye'ye gelen futbolcuların yabancı değil \"Türk statüsünde\" oynaması ve iki yılda bir \"Türk Kupası\" futbol turnuvası düzenlenmesi için çalışma başlatıldığını söyledi.",
+      "link": "https://www.trthaber.com/haber/spor/turk-dunyasindan-gelen-futbolcular-turk-statusunde-sayilacak-959739.html",
+      "sourceName": "TRT Haber Sport",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 12:23:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Sport",
+          "link": "https://www.trthaber.com/haber/spor/turk-dunyasindan-gelen-futbolcular-turk-statusunde-sayilacak-959739.html",
+          "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk dünyasından Türkiye'ye gelen futbolcuların yabancı değil \"Türk statüsünde\" oynaması ve iki yılda bir \"Türk Kupası\" futbol turnuvası düzenlenmesi için çalışma başlatıldığını söyledi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "7b6a76689a53",
+      "title": "Tech Now",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 10 Oct 2026 01:00:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+          "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
+        },
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+          "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco."
+        },
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+          "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online."
+        },
+        {
+          "sourceName": "BBC Technology",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+          "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse."
+        }
+      ],
+      "sourcesCount": 4
+    },
+    {
+      "id": "90ed3416df0c",
+      "title": "Wie soll das Russland-Dilemma gelöst werden?",
+      "summary": "Sechs Monate vor der Eishockey-WM in Deutschland dominiert die Frage nach Russlands Rückkehr auf die sportliche Bühne die Schlagzeilen. Szenarien, wie es weitergehen könnte.",
+      "link": "https://www.sportschau.de/eishockey/wie-soll-russland-dilemma-geloest-werden,heim-wm-2027-weitere-schritte-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 07 Nov 2026 23:58:22 +0100",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/eishockey/wie-soll-russland-dilemma-geloest-werden,heim-wm-2027-weitere-schritte-100.html",
+          "summary": "Sechs Monate vor der Eishockey-WM in Deutschland dominiert die Frage nach Russlands Rückkehr auf die sportliche Bühne die Schlagzeilen. Szenarien, wie es weitergehen könnte."
         }
       ],
       "sourcesCount": 1
