@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:21:36.858602+00:00",
+  "updated": "2026-11-22T01:28:34.758118+00:00",
   "articles": [
     {
       "id": "2a691a7c51e0",
@@ -380,6 +380,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "f9f6901e66e4",
+      "title": "Bernstein Remains a Hold on International Business Machines (IBM) - The Globe and Mail",
+      "summary": "Bernstein Remains a Hold on International Business Machines (IBM) The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZG15QWkwaFNPY0VMMEpmWUMxcjhCNENrV0duNnJnSktmdEs0ZkdNcGh0Uy1oZW5FcTJ1d20tY2tLLVJERDg3ZlYwZUtZa1YzVVpwNlNaMkU0SWhlbFZ1blk4SHNPUk8wc1JVMkhGMmdmQnZfdGZBNTJCcTMwbk00OXBXVzB0MkpWWHRGSjdsQzVGTmxZQVF3dmhQNlRrLTJTXzBDZGxtWXI2WHdEWGp6YU5majhLT3lzMTFuYjNxNGIwaTJtc1lxZ251ZWZKUlFaRjRuX0pUa0lwSW1odHBQeQ?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Wed, 18 Nov 2026 11:59:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZG15QWkwaFNPY0VMMEpmWUMxcjhCNENrV0duNnJnSktmdEs0ZkdNcGh0Uy1oZW5FcTJ1d20tY2tLLVJERDg3ZlYwZUtZa1YzVVpwNlNaMkU0SWhlbFZ1blk4SHNPUk8wc1JVMkhGMmdmQnZfdGZBNTJCcTMwbk00OXBXVzB0MkpWWHRGSjdsQzVGTmxZQVF3dmhQNlRrLTJTXzBDZGxtWXI2WHdEWGp6YU5majhLT3lzMTFuYjNxNGIwaTJtc1lxZ251ZWZKUlFaRjRuX0pUa0lwSW1odHBQeQ?oc=5",
+          "summary": "Bernstein Remains a Hold on International Business Machines (IBM) The Globe and Mail"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "53e907c2be98",
       "title": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
       "summary": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer.",
@@ -632,24 +650,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "2dcb1e2160ef",
-      "title": "Companies rushed in on AI. Now some are pulling back | AI (artificial intelligence) - The Guardian",
-      "summary": "Companies rushed in on AI. Now some are pulling back | AI (artificial intelligence) The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGFmdHNDRHJlamN3bk9SOGdHbG82ck5xaGtaT1hqaWQ0OVdfeFRCeDZRMFZZdmUzLUFJUHBMSkN1QzVYODhMVV9nakMyTFE1VXhxOThOc1JrcFJZTTZkNnJjLWdLSEEyZEVMLXB3Skc2dmFSM2tNOFVvMEpob0hHdnk0aHlYdkNWakROY0Zvdw?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGFmdHNDRHJlamN3bk9SOGdHbG82ck5xaGtaT1hqaWQ0OVdfeFRCeDZRMFZZdmUzLUFJUHBMSkN1QzVYODhMVV9nakMyTFE1VXhxOThOc1JrcFJZTTZkNnJjLWdLSEEyZEVMLXB3Skc2dmFSM2tNOFVvMEpob0hHdnk0aHlYdkNWakROY0Zvdw?oc=5",
-          "summary": "Companies rushed in on AI. Now some are pulling back | AI (artificial intelligence) The Guardian"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "942c98cb91a7",
       "title": "Galatasaray, Barcelona'ya mağlup oldu",
       "summary": "Şampiyonlar Ligi'nde Galatasaray, evinde öne geçtiği mücadelede Barcelona'ya 4-1 mağlup oldu. Sarı-kırmızılıların tek golü Batrakov'dan geldi.",
@@ -717,24 +717,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
           "summary": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "3bae25aac3fb",
-      "title": "Introducing Playground: Create and play custom games - blog.google",
-      "summary": "Introducing Playground: Create and play custom games blog.google",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3h6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3h6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5",
-          "summary": "Introducing Playground: Create and play custom games blog.google"
         }
       ],
       "sourcesCount": 1
@@ -861,42 +843,6 @@
           "sourceName": "Tagesschau Wissen",
           "link": "https://www.tagesschau.de/video/video-1552252.html",
           "summary": "Weltkrebstag: Geschlechterspezifische Therapie"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "146e87a43a3f",
-      "title": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout - Bain & Company",
-      "summary": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout Bain & Company",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmNJSUUwWlduc2VTOEpYdnhJcDVtN3BjbXpKN3gtMzdYOVVGbkpmVUlPelR6aERSNkhmbHBSdVdEaWxqV3Npd3VyVktsWkI5UERQbEFOc1NZQjZEVmoyVEdBdjNjaDkydW9DSWtyU0lFLUIzUHFXZVhrQVRZRTNIOFQ1YU1CVE42SW5Sb3huaHNUUk0zZ0FBanpYV0pWME9OWTJKNHNldEJPaDZ1SmZEN0RB?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmNJSUUwWlduc2VTOEpYdnhJcDVtN3BjbXpKN3gtMzdYOVVGbkpmVUlPelR6aERSNkhmbHBSdVdEaWxqV3Npd3VyVktsWkI5UERQbEFOc1NZQjZEVmoyVEdBdjNjaDkydW9DSWtyU0lFLUIzUHFXZVhrQVRZRTNIOFQ1YU1CVE42SW5Sb3huaHNUUk0zZ0FBanpYV0pWME9OWTJKNHNldEJPaDZ1SmZEN0RB?oc=5",
-          "summary": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout Bain & Company"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "cdff1be53985",
-      "title": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor - Office of Governor Ron DeSantis",
-      "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor Office of Governor Ron DeSantis",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelRWTmoteVBtLTBiVElnM2hfdlhjMmxxdFpnbXpGNzBZczVhTVQwMUU3ajBvYlJzR3FMVHhjczJOdTZGeGhaZExsQy1TTUxSMjRsQUgxU1NOeUducGdiamhhYVRWblloWXJfU2pINE5uUkl3Q01CNk5MNTZyVERrc2Y0b1A3U1B2Q2t0TGtNVm1vS19sdGhaenBNOXQ2STFxSGN2dVpMUU1tN3dHZ1p2UHJNd0dmY1Y5Q0IwOHN0UQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 28 Jul 2026 19:47:49 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelRWTmoteVBtLTBiVElnM2hfdlhjMmxxdFpnbXpGNzBZczVhTVQwMUU3ajBvYlJzR3FMVHhjczJOdTZGeGhaZExsQy1TTUxSMjRsQUgxU1NOeUducGdiamhhYVRWblloWXJfU2pINE5uUkl3Q01CNk5MNTZyVERrc2Y0b1A3U1B2Q2t0TGtNVm1vS19sdGhaenBNOXQ2STFxSGN2dVpMUU1tN3dHZ1p2UHJNd0dmY1Y5Q0IwOHN0UQ?oc=5",
-          "summary": "Governor DeSantis Leads Successful International Business Development Leadership Mission to the United Kingdom—Further Strengthening Florida-United Kingdom Partnership | Executive Office of the Governor Office of Governor Ron DeSantis"
         }
       ],
       "sourcesCount": 1
@@ -1138,24 +1084,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "5669914b8da7",
-      "title": "I Flew Business on Alaska Airlines’ First-Ever Transatlantic Route to Europe—Here's What It Was Like - AFAR",
-      "summary": "I Flew Business on Alaska Airlines’ First-Ever Transatlantic Route to Europe—Here's What It Was Like AFAR",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3llbk5ORXJqcGhRR21HTTNHTFBmUVNMdkxvdEdnRkpiNjVSamo0bHRHdUFlQl9tckl4ZkxQYS1KcW9hajRXcWQyOUU1dHpiNzdZWWhXc3ZRUFlxODZrUTd4ZGxjeVFCdjJPNGpsUVRxb0FjUm1id0lndWctWjZ3eklLSzY0T3lpdDY5MDZIWXQ?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Tue, 17 Nov 2026 18:59:03 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3llbk5ORXJqcGhRR21HTTNHTFBmUVNMdkxvdEdnRkpiNjVSamo0bHRHdUFlQl9tckl4ZkxQYS1KcW9hajRXcWQyOUU1dHpiNzdZWWhXc3ZRUFlxODZrUTd4ZGxjeVFCdjJPNGpsUVRxb0FjUm1id0lndWctWjZ3eklLSzY0T3lpdDY5MDZIWXQ?oc=5",
-          "summary": "I Flew Business on Alaska Airlines’ First-Ever Transatlantic Route to Europe—Here's What It Was Like AFAR"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4b93fb66ed56",
       "title": "Türk Telekom'un dijital altyapısında COP31'de eş zamanlı bağlı cihaz rekoru kırıldı",
       "summary": "Türk Telekom'un \"Küresel Dijital Dönüşüm ve Teknoloji Destekçisi\" olarak yer aldığı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), Mavi Bölge'de eş zamanlı bağlı cihaz sayısı 27 bin 794'e ulaşarak, COP tarihindeki en yüksek seviyeye ulaştı.",
@@ -1228,24 +1156,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "de70e797404f",
-      "title": "AI as Normal Technology - Knight First Amendment Institute",
-      "summary": "AI as Normal Technology Knight First Amendment Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5leTZxd18tM3BvN1ZQSzFCclB6NkVyVk1ibDFEMkY2S2NRaTE2YVhTTG1haGVOQVRON19laFR5bEkwRXJkVHpjTWlnWGNnVVFkX09UZFN1eTVISHU0eTd0R29KNlhuakVXWWJr?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 15 Apr 2025 07:00:00 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5leTZxd18tM3BvN1ZQSzFCclB6NkVyVk1ibDFEMkY2S2NRaTE2YVhTTG1haGVOQVRON19laFR5bEkwRXJkVHpjTWlnWGNnVVFkX09UZFN1eTVISHU0eTd0R29KNlhuakVXWWJr?oc=5",
-          "summary": "AI as Normal Technology Knight First Amendment Institute"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "59d83208909b",
       "title": "Arda Turan'dan A Milli Takım açıklaması",
       "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, adının A Milli Takım teknik direktörlüğü için anılmasıyla ilgili olarak, \"Milli takımın daha önce her seviyesinde oynamış biri olarak yaşadığım onuru, hissiyatları anlatmam mümkün değil. Bir başka şey de uzun zaman sonra ismimin üzerinde insanların birleştiğini görmek gerçekten heyecan verici\" dedi.",
@@ -1264,37 +1174,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "0701316e5401",
-      "title": "Anthropic warns AI models could soon copy themselves across home devices - CNBC",
-      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "b9eb065d1f10",
+      "title": "IOC lifts suspension and paves way for Russia to compete at LA 2028 Olympics - The Guardian",
+      "summary": "IOC lifts suspension and paves way for Russia to compete at LA 2028 Olympics The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGlPdFZDUXBOczRraU5PYW5uQU9weDl6VlVkOUZyM3NwM1ZoeFZ5OVZIU21pM3piTlVZZUZHRW5ER21iQ3NXSWNpX2hmeEE4aHFWdWpBMXpvR195bVlDVWczNzlKNFlGVGJjeGFUcEhXZHZ0QU02dF9YNzF0OEdEblIxczQ1OG9XZ04yVndZVVBLZGxCdjEwSmR2dkJ6enc?oc=5",
+      "sourceName": "Google News – International Sport",
       "region": "international",
-      "topic": "technologie",
-      "time": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "topic": "sport",
+      "time": "Tue, 07 Jul 2026 07:00:00 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5",
-          "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "33043ed4cb06",
-      "title": "FIFA-Machtkampf: Fordert Wenger Präsident Infantino heraus?",
-      "summary": "Arsène Wenger wird als möglicher Gegenkandidat für Gianni Infantino gehandelt - Chancen auf einen Sieg hat er kaum, könnte aber trotzdem sehr wichtig werden.",
-      "link": "https://www.sportschau.de/fussball/fordert-wenger-praesident-infantino-heraus,fifa-infantino-wenger-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "politik",
-      "time": "Tue, 10 Nov 2026 11:42:04 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/fussball/fordert-wenger-praesident-infantino-heraus,fifa-infantino-wenger-100.html",
-          "summary": "Arsène Wenger wird als möglicher Gegenkandidat für Gianni Infantino gehandelt - Chancen auf einen Sieg hat er kaum, könnte aber trotzdem sehr wichtig werden."
+          "sourceName": "Google News – International Sport",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGlPdFZDUXBOczRraU5PYW5uQU9weDl6VlVkOUZyM3NwM1ZoeFZ5OVZIU21pM3piTlVZZUZHRW5ER21iQ3NXSWNpX2hmeEE4aHFWdWpBMXpvR195bVlDVWczNzlKNFlGVGJjeGFUcEhXZHZ0QU02dF9YNzF0OEdEblIxczQ1OG9XZ04yVndZVVBLZGxCdjEwSmR2dkJ6enc?oc=5",
+          "summary": "IOC lifts suspension and paves way for Russia to compete at LA 2028 Olympics The Guardian"
         }
       ],
       "sourcesCount": 1
@@ -1496,29 +1388,6 @@
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "21619a735502",
-      "title": "International Business Machines down 2.03% on Thursday - Global Banking & Finance Review",
-      "summary": "International Business Machines down 2.03% on Thursday Global Banking & Finance Review",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzQ2NWdjdjByMnVqOGxiUEtkZnhaTUszUHpEZXh6NlFKdTBNNHkxN0FwMF9QM05ZUjFPaUZ5Y2hYRXF0ZlY3WTRfb3VWWlhxekZ1TnJiYTRBcnlyYlBwX1U3RmdkWW1KSkU2akRJN1Z3am9yNmN1RXp4SkpQeDR5cHNjMUZXQWNSeEhJR1hNby1nVGRCVWVSYw?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Thu, 19 Nov 2026 22:57:23 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzQ2NWdjdjByMnVqOGxiUEtkZnhaTUszUHpEZXh6NlFKdTBNNHkxN0FwMF9QM05ZUjFPaUZ5Y2hYRXF0ZlY3WTRfb3VWWlhxekZ1TnJiYTRBcnlyYlBwX1U3RmdkWW1KSkU2akRJN1Z3am9yNmN1RXp4SkpQeDR5cHNjMUZXQWNSeEhJR1hNby1nVGRCVWVSYw?oc=5",
-          "summary": "International Business Machines down 2.03% on Thursday Global Banking & Finance Review"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVnpwbEx2Sk1oMXM2YmRPeTFxV2pQVkhWMDZ0Wk0zU0pEVl9MbUU2UVpoRk5MS1Z5b0pnTUJRVkJjTVNLTEJvelNPUUNDU3F1eUZ5RmxJVTdTeGlOV2w3U1NjRUp4OFk3TFZxSGJvUHo2ZWRkYXdYeld5c0NMQlNSUkFMMnQxRkJtbGd0bmIzUzF2Y2tRRUM5djVuYUpTeEZ2eU9jS0d0N1I4bHZIUmo3X0xpdzdaWFB3WGFNcHJqdlRSLWwwRVNZV3dFRlpFdGJuN1BuSWVtc2s3aVQzYkc4QXBR?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock Purchased by Westpac Banking Corp MarketBeat"
-        }
-      ],
-      "sourcesCount": 2
     },
     {
       "id": "68a303013a2f",
@@ -1863,9 +1732,14 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDlIYlRnVGU4MmpQejkwMU5maFg4QXNpaVdpNnlvZDVza1hzT3VZNGFmcHdWZk1ZZEl6dEJLT0JmVXN2RUFYSnZSX2hIQWJMV1dBeGhfQU5sQjRHMW5HeGxiQUFJd0M5VldUVDFOQmZYSXRWZzI1S29qaFh6bWRuYzNyem1SR0p1Y2pjM25idFhHWERlNDZ4RHNDVFRYNmlqYU1JdWRCM0k2WXJ4NUQ2dzJCbDROeUk3dG4tVU9DaVVuRnp4TlRrUF84bUoycEpMa09TUVZWRks?oc=5",
           "summary": "International Business Leaders Say Xi’s Speech Boosts Confidence in Asia-Pacific Cooperation Lohud"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeTJkNy1MeXBtR0hYSTJhQVcyZnhMWll1ZDNjZEVDNFJabXA2d2lFcm9EWDFndjZZTmlUYnMxenUzV1p4bG9TNXZiUUJrR19jMW1PbXRfbmNRMUhZNzk0QVFjaU0xTFBabEZTbC1QeGpKdkItRDZKMWdKejFWMnZES045M2NCRDdMNFhNY2J5aXhtNHI0WEFjaUxBSlRINnptRVQ5Tk5ReG1pYk1rQ0c5clZ2bENCNXB3VnVZbEpSM1EtYlZXZjlYclFZcERVQXpFaTh0bzZCS21pX2kzSENSSFU4S2U5STMwamwxeEhEMFh2cFRzREV4UEIwMjZjSlJKazFv?oc=5",
+          "summary": "International Business Leaders Say Xi's Speech Boosts Confidence in Asia-Pacific Cooperation The Globe and Mail"
         }
       ],
-      "sourcesCount": 2
+      "sourcesCount": 3
     },
     {
       "id": "6c8c76cac541",
@@ -1989,6 +1863,24 @@
           "sourceName": "Tagesschau Ausland",
           "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
           "summary": "Nach einem erneuten Angriff auf die für Russland strategisch wichtige Krim-Brücke ist laut Behörden nun der Zugverkehr \"vorübergehend\" eingestellt worden. Zuvor hatte eine Attacke bereits den Autoverkehr lahmgelegt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "47bdbe3d0b24",
+      "title": "Zwei Herausforderer für FIFA-Präsident Infantino",
+      "summary": "Drei Kandidaten haben die nötige Unterstützung bekommen, um für das Amt des FIFA-Präsidenten zu kandidieren. Philippe Diallo und Kozo Tashima treten gegen Gianni Infantino an - vorbehaltlich eines Integritätschecks.",
+      "link": "https://www.sportschau.de/fussball/zwei-herausforderer-fuer-fifa-praesident-infantino,fifa-praesident-kandidaten-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "international",
+      "topic": "politik",
+      "time": "Thu, 19 Nov 2026 11:28:47 +0100",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/zwei-herausforderer-fuer-fifa-praesident-infantino,fifa-praesident-kandidaten-100.html",
+          "summary": "Drei Kandidaten haben die nötige Unterstützung bekommen, um für das Amt des FIFA-Präsidenten zu kandidieren. Philippe Diallo und Kozo Tashima treten gegen Gianni Infantino an - vorbehaltlich eines Integritätschecks."
         }
       ],
       "sourcesCount": 1
@@ -2138,6 +2030,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "e13d1f2be4eb",
+      "title": "Quiz: War das vor oder nach GTA 6?",
+      "summary": "Zur Veröffentlichung des Spiels haben wir uns bei euch in München umgehört: Was ist alles passiert, bevor GTA 6 erschienen ist?",
+      "link": "https://www.zdfheute.de/video/panorama-gta-6-voxen-102.html",
+      "sourceName": "ZDF",
+      "region": "germany",
+      "topic": "politik",
+      "time": "Thu, 19 Nov 2026 06:21:00 +0100",
+      "coverage": [
+        {
+          "sourceName": "ZDF",
+          "link": "https://www.zdfheute.de/video/panorama-gta-6-voxen-102.html",
+          "summary": "Zur Veröffentlichung des Spiels haben wir uns bei euch in München umgehört: Was ist alles passiert, bevor GTA 6 erschienen ist?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "16f2411dc939",
       "title": "Gilts v kilts: What is happening with Scottish government bonds?",
       "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
@@ -2282,42 +2192,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "59c3ef955dd1",
-      "title": "Das vernachlässigte Phänomen: Todesursache Kinderdoping",
-      "summary": "Vertuscht, übersehen, nicht mehr nachweisbar: ARD-Recherchen belegen, dass offenbar viele Todesfälle gedopter Kinder offiziell nicht auf Doping zurückgeführt werden.",
-      "link": "https://www.sportschau.de/investigativ/geheimsachedoping/das-vernachlaessigte-phaenomen-todesursache-kinderdoping,geheimsache-doping-tote-kinder-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 12 Nov 2026 19:00:18 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/investigativ/geheimsachedoping/das-vernachlaessigte-phaenomen-todesursache-kinderdoping,geheimsache-doping-tote-kinder-100.html",
-          "summary": "Vertuscht, übersehen, nicht mehr nachweisbar: ARD-Recherchen belegen, dass offenbar viele Todesfälle gedopter Kinder offiziell nicht auf Doping zurückgeführt werden."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0a5595374eb7",
-      "title": "Kinderdoping: Wie der Weltsport beim Schutz der Schwächsten versagt",
-      "summary": "Eine Langzeitrecherche der ARD-Dopingredaktion zeigt: Das Problem Kinderdoping ist in Deutschland und auf der ganzen Welt aktueller denn je, das Ausmaß alarmierend.",
-      "link": "https://www.sportschau.de/investigativ/geheimsachedoping/wie-der-weltsport-beim-schutz-der-schwaechsten-versagt,geheimsache-doping-kinder-weltsport-100.html",
-      "sourceName": "Tagesschau Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Thu, 12 Nov 2026 19:00:00 +0100",
-      "coverage": [
-        {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/investigativ/geheimsachedoping/wie-der-weltsport-beim-schutz-der-schwaechsten-versagt,geheimsache-doping-kinder-weltsport-100.html",
-          "summary": "Eine Langzeitrecherche der ARD-Dopingredaktion zeigt: Das Problem Kinderdoping ist in Deutschland und auf der ganzen Welt aktueller denn je, das Ausmaß alarmierend."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "8dd7b1140098",
       "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
       "summary": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde.",
@@ -2457,6 +2331,168 @@
           "sourceName": "TRT Haber Sport",
           "link": "https://www.trthaber.com/haber/spor/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu-961162.html",
           "summary": "Kazakistan'da düzenlenen 2026 Dünya Güreş Şampiyonası'nda mücadele eden milli sporcu Yüksel Sarıçiçek, grekoromen stil 82 kiloda gümüş madalyanın sahibi oldu."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "87376c89192b",
+      "title": "Muş'ta fırtına yangın merdivenini devirdi",
+      "summary": "Muş'ta etkili olan şiddetli rüzgar nedeniyle 11 katlı binanın dış cephesindeki yangın merdiveni seyir halindeki aracın üzerine devrildi.",
+      "link": "https://www.trthaber.com/haber/turkiye/musta-firtina-yangin-merdivenini-devirdi-964106.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sun, 22 Nov 2026 03:12:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/musta-firtina-yangin-merdivenini-devirdi-964106.html",
+          "summary": "Muş'ta etkili olan şiddetli rüzgar nedeniyle 11 katlı binanın dış cephesindeki yangın merdiveni seyir halindeki aracın üzerine devrildi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ec4fa80e0881",
+      "title": "Hatay'da zincirleme trafik kazası: 1 ölü, 10 yaralı",
+      "summary": "Hatay'ın merkez Antakya ilçesinde 5 aracın karıştığı zincirleme trafik kazasında 1 kişi hayatını kaybetti, 10 kişi yaralandı.",
+      "link": "https://www.trthaber.com/haber/turkiye/hatayda-zincirleme-trafik-kazasi-1-olu-10-yarali-964105.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sun, 22 Nov 2026 02:07:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/hatayda-zincirleme-trafik-kazasi-1-olu-10-yarali-964105.html",
+          "summary": "Hatay'ın merkez Antakya ilçesinde 5 aracın karıştığı zincirleme trafik kazasında 1 kişi hayatını kaybetti, 10 kişi yaralandı."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "48f549e40ad0",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 22 Nov 2026 01:25:03 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "12412e7194e2",
+      "title": "Bitcoin, sert satış dalgasının ardından yeniden 60 bin doların üzerine çıktı",
+      "summary": "Kripto türev piyasalarındaki sert satış ve tasfiye dalgasının ardından tepki alımlarıyla karşılaşan bitcoinin fiyatı yeniden 60 bin dolar kritik seviyesinin üzerine yükseldi.",
+      "link": "https://www.trthaber.com/haber/dunya/bitcoin-sert-satis-dalgasinin-ardindan-yeniden-60-bin-dolarin-uzerine-cikti-964103.html",
+      "sourceName": "TRT Haber Welt",
+      "region": "turkey",
+      "topic": "technologie",
+      "time": "Sun, 22 Nov 2026 00:35:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Welt",
+          "link": "https://www.trthaber.com/haber/dunya/bitcoin-sert-satis-dalgasinin-ardindan-yeniden-60-bin-dolarin-uzerine-cikti-964103.html",
+          "summary": "Kripto türev piyasalarındaki sert satış ve tasfiye dalgasının ardından tepki alımlarıyla karşılaşan bitcoinin fiyatı yeniden 60 bin dolar kritik seviyesinin üzerine yükseldi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "0159c677d698",
+      "title": "Fren yerine gaza basan vale ciple rerstorana daldı",
+      "summary": "İstanbul Başakşehir'de müşterinin aracını park etmek isterken fren yerine gaza basan vale, ciple restoranın içine girdi.",
+      "link": "https://www.trthaber.com/haber/turkiye/fren-yerine-gaza-basan-vale-ciple-rerstorana-daldi-964101.html",
+      "sourceName": "TRT Haber Türkei",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 22 Nov 2026 00:13:00 +0300",
+      "coverage": [
+        {
+          "sourceName": "TRT Haber Türkei",
+          "link": "https://www.trthaber.com/haber/turkiye/fren-yerine-gaza-basan-vale-ciple-rerstorana-daldi-964101.html",
+          "summary": "İstanbul Başakşehir'de müşterinin aracını park etmek isterken fren yerine gaza basan vale, ciple restoranın içine girdi."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "45201d2fd35b",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 22 Nov 2026 00:10:44 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "67c31da8ce5f",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sun, 22 Nov 2026 00:10:37 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "cca80141b2d3",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sun, 22 Nov 2026 00:09:58 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+          "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "914949e75985",
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sun, 22 Nov 2026 00:08:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+          "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League."
         }
       ],
       "sourcesCount": 1
@@ -2647,6 +2683,206 @@
       "sourcesCount": 1
     },
     {
+      "id": "38a3c767be24",
+      "title": "Attendees explore the world of radio and technology at ‘Hamfest and Computer Expo’ - WPTA | 21Alive | Fort Wayne, IN",
+      "summary": "Attendees explore the world of radio and technology at ‘Hamfest and Computer Expo’ WPTA | 21Alive | Fort Wayne, IN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWlnbE5hOHhwcWh4MGRBbFdjYml6SDc0MXQydkkyckdDY1l0ZlVVWE1fZXBzR3pOLXZrNG96N1FVNGJCeXFqaWlwaDB6NHlwb2xBUURQenJhdkFGRm5lNi1FeXBGbzFPbFAyT2VIc2NxZThiSFRIdThTQmNlVTJ0UUxCVkNEQS1wTTdaVjA2d0U3b1pvRmlzdWxTRmFtS0s0eEdaaA?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 23:36:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWlnbE5hOHhwcWh4MGRBbFdjYml6SDc0MXQydkkyckdDY1l0ZlVVWE1fZXBzR3pOLXZrNG96N1FVNGJCeXFqaWlwaDB6NHlwb2xBUURQenJhdkFGRm5lNi1FeXBGbzFPbFAyT2VIc2NxZThiSFRIdThTQmNlVTJ0UUxCVkNEQS1wTTdaVjA2d0U3b1pvRmlzdWxTRmFtS0s0eEdaaA?oc=5",
+          "summary": "Attendees explore the world of radio and technology at ‘Hamfest and Computer Expo’ WPTA | 21Alive | Fort Wayne, IN"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "dd9db5b657e4",
+      "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy. - The New York Times",
+      "summary": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbmlJX0hZMk9YOGp5MjI5Y1hRR0lYVG5TWVcwWk5lLU1fUlNzc1BVdzEyQ2RXc0Z4a1FpMzItQVNsWXhVTEFqbC1JazdvOV9yTEk5cGZvMnI1aVpCdHZLck5FaVhGM1FKWThfMHI5SC15d3F5Y1p6NC1IQ0dUZw?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 23:27:21 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbmlJX0hZMk9YOGp5MjI5Y1hRR0lYVG5TWVcwWk5lLU1fUlNzc1BVdzEyQ2RXc0Z4a1FpMzItQVNsWXhVTEFqbC1JazdvOV9yTEk5cGZvMnI1aVpCdHZLck5FaVhGM1FKWThfMHI5SC15d3F5Y1p6NC1IQ0dUZw?oc=5",
+          "summary": "Technology Promised Ease. Outages Are Making Many Americans Uneasy."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ab509f62da04",
+      "title": "France thrash Argentina to reach Nations Championship final",
+      "summary": "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cm879py9n9xwo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 23:22:40 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cm879py9n9xwo?at_medium=RSS&at_campaign=rss",
+          "summary": "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "5a5e872ec832",
+      "title": "Technology Injunctions: Trump Goes MAGA on Data Centres - International Policy Digest",
+      "summary": "Technology Injunctions: Trump Goes MAGA on Data Centres International Policy Digest",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXRKRVM1M2Y2aVpSZmh2d0RNUmpJay1Jc2piYlF6eXBsc3BKYVVqdV9mUlJzTVo4T05Ka0drbzVYLXhWNU41dmdvQktkeVRTOHFNdnV2MEtHVW1rd0FYQVBNRGpuMS1SYzVzYU9FY014TVdjMlhTQTNScG5yOW9XZ0JzRUVTWHJmd0N3?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 23:20:59 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXRKRVM1M2Y2aVpSZmh2d0RNUmpJay1Jc2piYlF6eXBsc3BKYVVqdV9mUlJzTVo4T05Ka0drbzVYLXhWNU41dmdvQktkeVRTOHFNdnV2MEtHVW1rd0FYQVBNRGpuMS1SYzVzYU9FY014TVdjMlhTQTNScG5yOW9XZ0JzRUVTWHJmd0N3?oc=5",
+          "summary": "Technology Injunctions: Trump Goes MAGA on Data Centres International Policy Digest"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d4c685353946",
+      "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
+      "summary": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3M5Z3Ffc2c0bW1jeS1vWkFqM0FldFRHRl9xRndDT0RRWGxmQWxHdUtmbTZ4NTFnRUZLYm1XZVYwQzZKNWpYSS10WGZFNnV4MlJxSmlIbFhQLWRUdDl0YXVERHcyaXhvbXJIeW1EY0pwOWVMaTE4OTlJQXB0aDg3NGZLVU5sdWFCVU5XUmpCRjFjSlJ3a0dsYWFzWUg1VjNEYmVxaXZUaVlLd1FtYUZ2UUdZSVNSZnNUVE1v?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 23:19:26 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3M5Z3Ffc2c0bW1jeS1vWkFqM0FldFRHRl9xRndDT0RRWGxmQWxHdUtmbTZ4NTFnRUZLYm1XZVYwQzZKNWpYSS10WGZFNnV4MlJxSmlIbFhQLWRUdDl0YXVERHcyaXhvbXJIeW1EY0pwOWVMaTE4OTlJQXB0aDg3NGZLVU5sdWFCVU5XUmpCRjFjSlJ3a0dsYWFzWUg1VjNEYmVxaXZUaVlLd1FtYUZ2UUdZSVNSZnNUVE1v?oc=5",
+          "summary": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEoyZ281TS1MQW1RcHl0OFNJUl9RWUNRMmE0SlZQdVh0MVhBNU1LczhtcEdwNlA1SGZiN0U5bmwyaENtVzJieGtDYWE2V29rT1N2ZXRpQXI1ZmNxQkJ5ZDZENWFBdm1MMDV6QjRqQ2t4WHlHN1lSSVpsX3ZjSmFUTC1YYUtBckdQMkdmNWhfRmtvU2tTWnhXSFZPeWI2a0RXMHA5RldTeUJfckF0S21sNmFycG1SVjZz?oc=5",
+          "summary": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy for 2027?"
+        },
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaU1FR0ZORG5henphXzItNF94STRwOGR3Q3I3ZklYRTVlUnoxR0dCNE55R0NnMnFmR1paZ0djVDhoYUlza29NNkYzZnJjSHk0Rm1zMXdlNmFpSHlnaTJ0U0FZX3UyTXlLSm00SU45cjdRNWwzVU9JWDNPeWl4VDQ3YTVZdEI4N3ZIaUk5Rmx1UHl6QXQ0c2VETDhFckxlUUVETU40a2tlRVdjUmt6ZzVKZXNFRkh1QUlrZnQ0VUZCZ3ZadURPem9YTHJKblo5ZWZv?oc=5",
+          "summary": "Arista Networks vs. Axon Enterprise: Which Technology Stock Is a Better Buy for 2027?"
+        }
+      ],
+      "sourcesCount": 3
+    },
+    {
+      "id": "4011a2ee985a",
+      "title": "Yuri Vanetik Interview: U.S. Lobbying, Sanctions & Business - Muzique Magazine",
+      "summary": "Yuri Vanetik Interview: U.S. Lobbying, Sanctions & Business Muzique Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDBFN1lBOU50ZUtsMG1EUTktTnFIMjV6V2JnSmowYXk5WVVfTElwTFpkQjNvWThuRjY3ZUktYksxRlA2UXdHcndMdW5xLTZuWE5VbFR3Tk1tX3FreFpCSV9WNkdfNmV3Z1duNnNoM01lWE5leGI0d2o2OWZUa29kZkFnVFU3RWpzNHFHNUZkdmstTkdXYlVtUXJ3?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sat, 21 Nov 2026 23:12:13 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDBFN1lBOU50ZUtsMG1EUTktTnFIMjV6V2JnSmowYXk5WVVfTElwTFpkQjNvWThuRjY3ZUktYksxRlA2UXdHcndMdW5xLTZuWE5VbFR3Tk1tX3FreFpCSV9WNkdfNmV3Z1duNnNoM01lWE5leGI0d2o2OWZUa29kZkFnVFU3RWpzNHFHNUZkdmstTkdXYlVtUXJ3?oc=5",
+          "summary": "Yuri Vanetik Interview: U.S. Lobbying, Sanctions & Business Muzique Magazine"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "f2f58b75792f",
+      "title": "Wrestling Completes Action-Packed Day Throughout Mid-Atlantic - Stevens Institute of Technology Athletics",
+      "summary": "Wrestling Completes Action-Packed Day Throughout Mid-Atlantic Stevens Institute of Technology Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2IxTk1Ic0RqUTJMcVEtb2F4TzRrQ1hOQ29lYWk2NFAxb1hYM2pVVXk5X2ZPYllqMTRYekZzMHRfdFJPV1NZOHhVWXE2N2JKZkFQcExFUDcyY0poa01jS0R3b0xFc0g1QTJnV3ZqOWRRWGZCaUJFX2Q0RGZ2VmVYcGVDVExrdjlWOXVQS0lkWUoyVGlzN291MzR0dzRqTE1WUGNndUhHRDBDN2s?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 23:11:29 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2IxTk1Ic0RqUTJMcVEtb2F4TzRrQ1hOQ29lYWk2NFAxb1hYM2pVVXk5X2ZPYllqMTRYekZzMHRfdFJPV1NZOHhVWXE2N2JKZkFQcExFUDcyY0poa01jS0R3b0xFc0g1QTJnV3ZqOWRRWGZCaUJFX2Q0RGZ2VmVYcGVDVExrdjlWOXVQS0lkWUoyVGlzN291MzR0dzRqTE1WUGNndUhHRDBDN2s?oc=5",
+          "summary": "Wrestling Completes Action-Packed Day Throughout Mid-Atlantic Stevens Institute of Technology Athletics"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "58ffd78cec0d",
+      "title": "Food Technology Market to Accelerate Through 2035, Driven by Clean-Label Reformulation and Shelf-Life Innovation - IndexBox",
+      "summary": "Food Technology Market to Accelerate Through 2035, Driven by Clean-Label Reformulation and Shelf-Life Innovation IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1prbi10WGtyY01zcXNJR2I5dlVOVmVobUU3T09kbkJCLXZSbTJJLVhpNkxDREt3S1VUSFE0M1JmVmRJMzA5ZkdROXVzcWdGTlF0Q1I3a2hlQ2xkNm1oeE9xSHRCSVRXUDQ0d0paRVd6SEYwaEl1eWl0dnRsSmxaNEhldXpiZ09lN2RVSS1uaEczSXliUGZWRUJmaDQtYmQ2SXJWTF9GZXlNUTNwM3VuMUtITjBsTGU2cFk0MU84WmhTUHRBUUhXNmR3TjlfZzJwNGlBUHpCMVQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 23:01:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1prbi10WGtyY01zcXNJR2I5dlVOVmVobUU3T09kbkJCLXZSbTJJLVhpNkxDREt3S1VUSFE0M1JmVmRJMzA5ZkdROXVzcWdGTlF0Q1I3a2hlQ2xkNm1oeE9xSHRCSVRXUDQ0d0paRVd6SEYwaEl1eWl0dnRsSmxaNEhldXpiZ09lN2RVSS1uaEczSXliUGZWRUJmaDQtYmQ2SXJWTF9GZXlNUTNwM3VuMUtITjBsTGU2cFk0MU84WmhTUHRBUUhXNmR3TjlfZzJwNGlBUHpCMVQ?oc=5",
+          "summary": "Food Technology Market to Accelerate Through 2035, Driven by Clean-Label Reformulation and Shelf-Life Innovation IndexBox"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ca07c04005fd",
+      "title": "International Business: Indonesia trade deal signed - Gulf Daily News (Bahrain)",
+      "summary": "International Business: Indonesia trade deal signed Gulf Daily News (Bahrain)",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZXM0S0paUHB5UHFaRklRUWY5NkRCS0c5dHpGRi1ya3M5Zy1QNXh2QmVmWkNvbDdHaXVUTkN5SVhLemgxa3VKN0RHbTduU3VJUjRIMU9yWm1ZMS02VFBVRG5EM0dYazEtV1MyNjZ2WGJVd0Q2ckFqVw?oc=5",
+      "sourceName": "Google News – International Business",
+      "region": "international",
+      "topic": "wirtschaft",
+      "time": "Sat, 21 Nov 2026 22:56:25 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZXM0S0paUHB5UHFaRklRUWY5NkRCS0c5dHpGRi1ya3M5Zy1QNXh2QmVmWkNvbDdHaXVUTkN5SVhLemgxa3VKN0RHbTduU3VJUjRIMU9yWm1ZMS02VFBVRG5EM0dYazEtV1MyNjZ2WGJVd0Q2ckFqVw?oc=5",
+          "summary": "International Business: Indonesia trade deal signed Gulf Daily News (Bahrain)"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkVxN2JSR1g3ZDVWVHpob3hNdE1pSnRvWGphWmstS0g5VnNXNzFrZTB2YjBaSlEyVUU0SjdYWGpTdG1oMkc1THpldmVsT0prM1RXejhKaS1reTZTNkJubFFvdDJqM0p6SnlHR2wxQno1ZWt3dXE5R1VLeG02Z2cteWpGbHBmeEJLZ2xv?oc=5",
+          "summary": "International Business: AI jitters put consumer spending in focus Gulf Daily News (Bahrain)"
+        },
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdG44ZXM1aFRpU0ZKVmpMVXc0Tzd5c01BaWxxMU1UY2dpR1M0cUNtZjZFV1M5MzQweTNkVl9RLXpGMjFabjRlMEJiY2UzZnJPNDlhVTNhcmM3LUZoQVNsblZWSm1vLWZXV2Q0YXNuZEE2ek13WHM3NUhzcnhENGp5WVd2Rk9FU3ByWUItWm9YVFp6UQ?oc=5",
+          "summary": "International Business: Boeing leaves open possibility of more layoffs Gulf Daily News (Bahrain)"
+        }
+      ],
+      "sourcesCount": 3
+    },
+    {
+      "id": "a83a97e04983",
+      "title": "Alcaraz to face Zverev in ATP Finals title decider",
+      "summary": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 22:50:19 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "0cacb3a10972",
       "title": "ABD'de seçim galibi Demokratların önceliği İran savaşını bitirmek",
       "summary": "ABD'de ara seçimlerde Temsilciler Meclisi'nde çoğunluğu kazanan Demokratların Meclis Başkanlığı adayı Jeffries, Meclisin kontrolünü devralmalarının ardından İran'la savaşı sona erdirmek için kararlılıkla hareket edeceklerini söyledi.",
@@ -2701,6 +2937,186 @@
       "sourcesCount": 1
     },
     {
+      "id": "3eb6e17864d4",
+      "title": "Highlights: Wallabies edge Wales in Cardiff",
+      "summary": "Watch the best of the action as Australia edge Wales in Cardiff",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cjwy57n2rqwyo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 22:37:09 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cjwy57n2rqwyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Watch the best of the action as Australia edge Wales in Cardiff"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "463ba1c758a8",
+      "title": "ATP Finals: Zverev folgt Alcaraz ins Traumfinale",
+      "summary": "Die Nummer eins trifft im Finale auf die Nummer zwei: Nach Carlos Alcaraz hat auch Alexander Zverev die Halbfinal-Hürde genommen. Der Hamburger besiegte dazu seinen Angstgegner.",
+      "link": "https://www.sportschau.de/tennis/atp/zverev-folgt-alcaraz-ins-traumfinale,spielbericht-atp-finals-zverev-medvedev-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 22:31:58 +0100",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/tennis/atp/zverev-folgt-alcaraz-ins-traumfinale,spielbericht-atp-finals-zverev-medvedev-100.html",
+          "summary": "Die Nummer eins trifft im Finale auf die Nummer zwei: Nach Carlos Alcaraz hat auch Alexander Zverev die Halbfinal-Hürde genommen. Der Hamburger besiegte dazu seinen Angstgegner."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "93f1fcd93551",
+      "title": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
+      "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 22:28:55 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ecbb7ca297ae",
+      "title": "Kim holds one-shot lead at LPGA finale as Korda closes in",
+      "summary": "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers.",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 22:28:26 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss",
+          "summary": "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "ed234eb3809b",
+      "title": "St. Pauli siegt durch zwei Blitztore gegen Bochum",
+      "summary": "Der FC St. Pauli überrumpelt den VfL Bochum gleich zweimal und fährt einen wichtigen Sieg in der 2.",
+      "link": "https://www.sportschau.de/fussball/bundesliga2/st-pauli-siegt-durch-zwei-blitztore-gegen-bochum,spielbericht-st-pauli-vfl-bochum-100.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 22:28:08 +0100",
+      "coverage": [
+        {
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/bundesliga2/st-pauli-siegt-durch-zwei-blitztore-gegen-bochum,spielbericht-st-pauli-vfl-bochum-100.html",
+          "summary": "Der FC St. Pauli überrumpelt den VfL Bochum gleich zweimal und fährt einen wichtigen Sieg in der 2."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d5a04f52c922",
+      "title": "Women's Hockey loses to Syracuse, 3-1 - Rochester Institute of Technology Athletics",
+      "summary": "Women's Hockey loses to Syracuse, 3-1 Rochester Institute of Technology Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWJsTy1KaElldnlZejZVMlFMWjYtbGkyZ3Y0MFVTdVdscUFfTWR5UzVxX21pV00zd0ZyYkswYUVNNFczbzhZbGx2aHVlTzhfVnNkX0UwcXQybWgxWjVrUGJtMGFNaVp3YlpfdjF2U1lBRHdKMTNCenNscnIyeVNpeS1ZT0YxLUxp?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 22:28:04 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWJsTy1KaElldnlZejZVMlFMWjYtbGkyZ3Y0MFVTdVdscUFfTWR5UzVxX21pV00zd0ZyYkswYUVNNFczbzhZbGx2aHVlTzhfVnNkX0UwcXQybWgxWjVrUGJtMGFNaVp3YlpfdjF2U1lBRHdKMTNCenNscnIyeVNpeS1ZT0YxLUxp?oc=5",
+          "summary": "Women's Hockey loses to Syracuse, 3-1 Rochester Institute of Technology Athletics"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "1599e4ef85b6",
+      "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+      "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 22:27:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
+          "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "3bfbd753dc0f",
+      "title": "Australia hold on for narrow win against Wales",
+      "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 22:25:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "b71dea522aba",
+      "title": "France secure Nations Championship final with Springboks",
+      "summary": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 22:22:36 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
+          "summary": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "040c95d5f039",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 21 Nov 2026 22:19:43 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "01d15dd621e0",
       "title": "Hertha-Trainer Leitl: \"Als Glück würde ich das nicht bezeichnen\"",
       "summary": "Hertha BSC steht nach 11 Spielen ungeschlagen an der Tabellenspitze der 2. Bundesliga.",
@@ -2737,6 +3153,42 @@
       "sourcesCount": 1
     },
     {
+      "id": "caa368e1c115",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC World",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 21 Nov 2026 22:01:19 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "6b74be10da80",
+      "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests - Reuters",
+      "summary": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 21 Nov 2026 21:58:48 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+          "summary": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "03755645bd41",
       "title": "Zelenski: Ukrayna'nın güvencesi NATO",
       "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesi için en net güvenlik garantisinin NATO üyeliği olacağını ve bunu müttefik ülkelerinin de anladığını ifade etti.",
@@ -2755,19 +3207,55 @@
       "sourcesCount": 1
     },
     {
-      "id": "f435bb921229",
-      "title": "Bei Borussia Mönchengladbach geht aktuell alles schief",
-      "summary": "Borussia Mönchengladbach verliert auch gegen den BVB und bleibt Tabellenletzter. Die Umstände dieser Niederlage sprechen Bände.",
-      "link": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
-      "sourceName": "Tagesschau Sport",
+      "id": "df83ff4c516f",
+      "title": "Rising star Stirling knocks out Prochazka",
+      "summary": "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar.",
+      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
       "region": "international",
       "topic": "sport",
-      "time": "Sat, 21 Nov 2026 21:32:40 +0100",
+      "time": "Sat, 21 Nov 2026 21:51:51 GMT",
       "coverage": [
         {
-          "sourceName": "Tagesschau Sport",
-          "link": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
-          "summary": "Borussia Mönchengladbach verliert auch gegen den BVB und bleibt Tabellenletzter. Die Umstände dieser Niederlage sprechen Bände."
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "a0386c2c4e33",
+      "title": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million - 24/7 Wall St.",
+      "summary": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHZHdHIyRHZlcGdsT19TaXkyYzVfTm1ZaE1lUDNqSHE5RDVfSnd3S1I5NU92WUtXazZLWU95ZEhhbmtKQzRLTVZ5UEJydjVKVVNTVW12MnY4NTZyVVFTc3haYzNpM0lFTzNiRFA1amdKbVk4YzVNQWNyM2dqR2FOVUcwQmx3SEl6UWVnamtYNW05SHY2X1hLWm1PNjFVby14aGVlR1pFVmJBbDhScy1JcXUxTk9PdGMtWW5YTlpFbHhSUQ?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 21:43:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHZHdHIyRHZlcGdsT19TaXkyYzVfTm1ZaE1lUDNqSHE5RDVfSnd3S1I5NU92WUtXazZLWU95ZEhhbmtKQzRLTVZ5UEJydjVKVVNTVW12MnY4NTZyVVFTc3haYzNpM0lFTzNiRFA1amdKbVk4YzVNQWNyM2dqR2FOVUcwQmx3SEl6UWVnamtYNW05SHY2X1hLWm1PNjFVby14aGVlR1pFVmJBbDhScy1JcXUxTk9PdGMtWW5YTlpFbHhSUQ?oc=5",
+          "summary": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million 24/7 Wall St."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "59a4cf9fbf22",
+      "title": "Lower turnout at largely peaceful marches across France - Reuters",
+      "summary": "Lower turnout at largely peaceful marches across France Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 21 Nov 2026 21:32:51 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
+          "summary": "Lower turnout at largely peaceful marches across France Reuters"
         }
       ],
       "sourcesCount": 1
@@ -2794,6 +3282,42 @@
         }
       ],
       "sourcesCount": 2
+    },
+    {
+      "id": "c7f2c0279d3c",
+      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks - Reuters",
+      "summary": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 21:24:10 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+          "summary": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "880b26a7ade1",
+      "title": "ATP Finals in turin: Zverev erreicht Traumfinale gegen Alcaraz",
+      "summary": "Carlos Alcaraz legt vor, Alexander Zverev nach: Die Topfavoriten machen den Titel bei den ATP Finals unter sich aus. Im Halbfinale gegen den Russen Medwedew kann sich der Deutsche auf seine große Stärke verlassen.",
+      "link": "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-in-turin-alexander-zverev-erreicht-traumfinale-gegen-carlos-alcaraz-201705427.html",
+      "sourceName": "FAZ",
+      "region": "international",
+      "topic": "politik",
+      "time": "Sat, 21 Nov 2026 21:22:22 GMT",
+      "coverage": [
+        {
+          "sourceName": "FAZ",
+          "link": "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-in-turin-alexander-zverev-erreicht-traumfinale-gegen-carlos-alcaraz-201705427.html",
+          "summary": "Carlos Alcaraz legt vor, Alexander Zverev nach: Die Topfavoriten machen den Titel bei den ATP Finals unter sich aus. Im Halbfinale gegen den Russen Medwedew kann sich der Deutsche auf seine große Stärke verlassen."
+        }
+      ],
+      "sourcesCount": 1
     },
     {
       "id": "27deab4da5d0",
@@ -2845,6 +3369,24 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
           "summary": "Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "d8ec63741be4",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 21:14:08 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+          "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle."
         }
       ],
       "sourcesCount": 1
@@ -2904,50 +3446,22 @@
       "sourcesCount": 1
     },
     {
-      "id": "48f549e40ad0",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
+      "id": "104a6a2ef8dd",
+      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - Reuters",
+      "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+      "sourceName": "Google News – Reuters",
       "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 21:05:29 GMT",
+      "topic": "politik",
+      "time": "Sat, 21 Nov 2026 21:01:49 GMT",
       "coverage": [
         {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+          "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters"
         }
       ],
       "sourcesCount": 1
-    },
-    {
-      "id": "a897884ac9af",
-      "title": "International Business: AI jitters put consumer spending in focus - Gulf Daily News (Bahrain)",
-      "summary": "International Business: AI jitters put consumer spending in focus Gulf Daily News (Bahrain)",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkVxN2JSR1g3ZDVWVHpob3hNdE1pSnRvWGphWmstS0g5VnNXNzFrZTB2YjBaSlEyVUU0SjdYWGpTdG1oMkc1THpldmVsT0prM1RXejhKaS1reTZTNkJubFFvdDJqM0p6SnlHR2wxQno1ZWt3dXE5R1VLeG02Z2cteWpGbHBmeEJLZ2xv?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "wirtschaft",
-      "time": "Sat, 21 Nov 2026 21:04:25 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkVxN2JSR1g3ZDVWVHpob3hNdE1pSnRvWGphWmstS0g5VnNXNzFrZTB2YjBaSlEyVUU0SjdYWGpTdG1oMkc1THpldmVsT0prM1RXejhKaS1reTZTNkJubFFvdDJqM0p6SnlHR2wxQno1ZWt3dXE5R1VLeG02Z2cteWpGbHBmeEJLZ2xv?oc=5",
-          "summary": "International Business: AI jitters put consumer spending in focus Gulf Daily News (Bahrain)"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mVjUyRDdjSnlqY3RkajEzRzlTbnpTY3o4c2lPdWZzUXo0ajZoSTg0SndGS0ZjYkVPa1VXX1I0aUFLWVFVbGowVHZoWXdIMVpQXzBN?oc=5",
-          "summary": "International Business: Indonesia trade deal signed Gulf Daily News (Bahrain)"
-        },
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdG44ZXM1aFRpU0ZKVmpMVXc0Tzd5c01BaWxxMU1UY2dpR1M0cUNtZjZFV1M5MzQweTNkVl9RLXpGMjFabjRlMEJiY2UzZnJPNDlhVTNhcmM3LUZoQVNsblZWSm1vLWZXV2Q0YXNuZEE2ek13WHM3NUhzcnhENGp5WVd2Rk9FU3ByWUItWm9YVFp6UQ?oc=5",
-          "summary": "International Business: Boeing leaves open possibility of more layoffs Gulf Daily News (Bahrain)"
-        }
-      ],
-      "sourcesCount": 3
     },
     {
       "id": "7d6aa45d764f",
@@ -3040,19 +3554,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "d7d99d36c14f",
-      "title": "How Jensen Huang Made Humiliation Routine at Nvidia - The New York Times",
-      "summary": "How Jensen Huang Made Humiliation Routine at Nvidia The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
-      "sourceName": "Google News – International Technology",
+      "id": "cee499b6116e",
+      "title": "Ireland remind themselves that the best are beatable",
+      "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
       "region": "international",
       "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 20:40:48 GMT",
+      "time": "Sat, 21 Nov 2026 20:39:51 GMT",
       "coverage": [
         {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
-          "summary": "How Jensen Huang Made Humiliation Routine at Nvidia The New York Times"
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin."
         }
       ],
       "sourcesCount": 1
@@ -3094,19 +3608,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "54834ba23ecb",
-      "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
-      "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 20:30:50 GMT",
+      "id": "348cf1f43fc7",
+      "title": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg",
+      "summary": "Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu.",
+      "link": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+      "sourceName": "Tagesschau Sport",
+      "region": "germany",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 20:27:27 +0100",
       "coverage": [
         {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
-          "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table."
+          "sourceName": "Tagesschau Sport",
+          "link": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+          "summary": "Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu."
         }
       ],
       "sourcesCount": 1
@@ -3274,24 +3788,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "104a6a2ef8dd",
-      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - Reuters",
-      "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 19:58:53 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-          "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9931f17576c7",
       "title": "Coventry beat Palace in Frank's first game after late own goal",
       "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
@@ -3305,24 +3801,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
           "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "6f703d020a8e",
-      "title": "Big wins for Saracens, Exeter and Newcastle in Prem Cup",
-      "summary": "Prem Rugby Cup round-up: Saracens go top with win over Harlequins, while Carwyn Tuipulotu scores a hat-trick for Exeter and Newcastle beat Northampton.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn83x22m49mo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 21 Nov 2026 19:57:31 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn83x22m49mo?at_medium=RSS&at_campaign=rss",
-          "summary": "Prem Rugby Cup round-up: Saracens go top with win over Harlequins, while Carwyn Tuipulotu scores a hat-trick for Exeter and Newcastle beat Northampton."
         }
       ],
       "sourcesCount": 1
@@ -3346,24 +3824,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6b74be10da80",
-      "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests - Reuters",
-      "summary": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 19:53:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
-          "summary": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "77cd6a12becb",
       "title": "Felix Nmecha schließt Kronen-Jubel nicht aus",
       "summary": "Auch wenn er beim 1:0-Sieg in Gladbach anders jubelte: BVB-Profi Felix Nmecha schließt die umstrittene Kronen-Geste nicht aus.",
@@ -3382,73 +3842,37 @@
       "sourcesCount": 1
     },
     {
-      "id": "1599e4ef85b6",
-      "title": "Can win over All Blacks finally break England's boom-bust cycle?",
-      "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
+      "id": "965556711dd0",
+      "title": "South Africa suffer Ireland defeat but book Nations Championship final spot - Reuters",
+      "summary": "South Africa suffer Ireland defeat but book Nations Championship final spot Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmlYZlVVbUhZZndpWmFjY3pZSXh4NWRqRnBMdWtaNUtjUXhvbkFlV1ZIektlQWlwTWlod2JBMWQwZ2ZQY1ZTSHBlZzg4OFJkdnJZMXNzZzUyWmtkeU9zWjNDRVV5VVdfdjQ0WUV5ckl3amJtZzc2OU1vWmxzVGRUaXljVUliQXFwYXVBcDQyak9JMnRHZ2NHVmpaWmxPRkZHX0VjVkxlV0ZmRXlwSmlJaTRDdEY?oc=5",
+      "sourceName": "Google News – Reuters",
       "region": "international",
-      "topic": "sport",
-      "time": "Sat, 21 Nov 2026 19:49:02 GMT",
+      "topic": "politik",
+      "time": "Sat, 21 Nov 2026 19:44:01 GMT",
       "coverage": [
         {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
-          "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?"
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmlYZlVVbUhZZndpWmFjY3pZSXh4NWRqRnBMdWtaNUtjUXhvbkFlV1ZIektlQWlwTWlod2JBMWQwZ2ZQY1ZTSHBlZzg4OFJkdnJZMXNzZzUyWmtkeU9zWjNDRVV5VVdfdjQ0WUV5ckl3amJtZzc2OU1vWmxzVGRUaXljVUliQXFwYXVBcDQyak9JMnRHZ2NHVmpaWmxPRkZHX0VjVkxlV0ZmRXlwSmlJaTRDdEY?oc=5",
+          "summary": "South Africa suffer Ireland defeat but book Nations Championship final spot Reuters"
         }
       ],
       "sourcesCount": 1
     },
     {
-      "id": "c7f2c0279d3c",
-      "title": "Bahrain says Iranian attack hits industrial facility, causes fire - Reuters",
-      "summary": "Bahrain says Iranian attack hits industrial facility, causes fire Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
-      "sourceName": "Google News – Reuters",
+      "id": "a3a73c883847",
+      "title": "UK should only rejoin EU if it innovates on technology, Blair warns - BBC",
+      "summary": "UK should only rejoin EU if it innovates on technology, Blair warns BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82emM0VDNQVkNJOVRFbm5hMUF4amV4N1VoY09RdTVJUGZXN0V3emk1TmpLSFlzeHdJWVVYdWR4eklmNjBMOW1CbVJSTG1YRWJiVkh6ckdnVTZIUEE?oc=5",
+      "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 19:41:01 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
-          "summary": "Bahrain says Iranian attack hits industrial facility, causes fire Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "abc7059506fe",
-      "title": "Arsenal held to 2-2 draw by Newcastle - Reuters",
-      "summary": "Arsenal held to 2-2 draw by Newcastle Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNWZvNlRVb05KUmFxVEVYSlNPZEpJem8tNERTdkZneHJSM09UTjlqLVQ1NG8taWo2dFpTc0RPSFVSS2VnWFNDMWtRc2s1VUY0ZmdMR3hDTlhBQ0k5dHpGSFFvem5FXzNUeEY3UzR4U01McWI5Q1hVSGVWRS1qblFOSDBPcEtlOXBBc0NPNA?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 19:38:09 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNWZvNlRVb05KUmFxVEVYSlNPZEpJem8tNERTdkZneHJSM09UTjlqLVQ1NG8taWo2dFpTc0RPSFVSS2VnWFNDMWtRc2s1VUY0ZmdMR3hDTlhBQ0k5dHpGSFFvem5FXzNUeEY3UzR4U01McWI5Q1hVSGVWRS1qblFOSDBPcEtlOXBBc0NPNA?oc=5",
-          "summary": "Arsenal held to 2-2 draw by Newcastle Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "040c95d5f039",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
       "time": "Sat, 21 Nov 2026 19:33:49 GMT",
       "coverage": [
         {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82emM0VDNQVkNJOVRFbm5hMUF4amV4N1VoY09RdTVJUGZXN0V3emk1TmpLSFlzeHdJWVVYdWR4eklmNjBMOW1CbVJSTG1YRWJiVkh6ckdnVTZIUEE?oc=5",
+          "summary": "UK should only rejoin EU if it innovates on technology, Blair warns BBC"
         }
       ],
       "sourcesCount": 1
@@ -3473,7 +3897,7 @@
     },
     {
       "id": "e506dd39baaa",
-      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
       "summary": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -3544,6 +3968,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "a29fb1a534a3",
+      "title": "Highlights: Ireland hang on to beat South Africa",
+      "summary": "Watch highlights as Ireland hang on to beat world champions South Africa 20-17 in a thrilling Nations Championship game in Dublin.",
+      "link": "https://www.bbc.co.uk/sport/videos/crx276g7267do?at_medium=RSS&at_campaign=rss",
+      "sourceName": "BBC Sport",
+      "region": "international",
+      "topic": "sport",
+      "time": "Sat, 21 Nov 2026 19:25:02 GMT",
+      "coverage": [
+        {
+          "sourceName": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/videos/crx276g7267do?at_medium=RSS&at_campaign=rss",
+          "summary": "Watch highlights as Ireland hang on to beat world champions South Africa 20-17 in a thrilling Nations Championship game in Dublin."
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "043a742e7f87",
       "title": "Skispringen: DSV-Adler enttäuschen zum Saisonauftakt in Lillehammer",
       "summary": "Stephan Embacher hat den Weltcup-Auftakt der Skispringer gewonnen. Ein Wettkampf, der den deutschen Adlern die Grenzen aufzeigte und bei dem der Wind viele Topfavoriten straucheln ließ.",
@@ -3599,7 +4041,7 @@
     },
     {
       "id": "16e1f2c479a2",
-      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
       "summary": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
       "sourceName": "BBC Sport",
@@ -3724,24 +4166,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "3f2b21926816",
-      "title": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation - Bloomberg.com",
-      "summary": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0VYZF9KRG42dkJPc2xHRUVQYWdOTjd3dWdCOEhWbzZ0dGdGWXV5c29QaXZFOURSSDJmZU9LUUgyTjc2SC1HNFNMTU53V0NCZlMya1BLQWdCWk9HZGU4RGJ4WDI3bTZHWGRobjBTYnpGSUlST2xHLWtOYjlnZy0yTUgtbWkwdjBoSHhIX01teDB0Y2JVV1BvdnNQMkFybWV2V2Z4NmE5OGF1UkRqMEpycU1LdmdVQQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "local",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 19:02:24 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0VYZF9KRG42dkJPc2xHRUVQYWdOTjd3dWdCOEhWbzZ0dGdGWXV5c29QaXZFOURSSDJmZU9LUUgyTjc2SC1HNFNMTU53V0NCZlMya1BLQWdCWk9HZGU4RGJ4WDI3bTZHWGRobjBTYnpGSUlST2xHLWtOYjlnZy0yTUgtbWkwdjBoSHhIX01teDB0Y2JVV1BvdnNQMkFybWV2V2Z4NmE5OGF1UkRqMEpycU1LdmdVQQ?oc=5",
-          "summary": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation Bloomberg.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "667a5893fb21",
       "title": "BVB springt gegen Gladbach an die Spitze der Bundesliga-Tabelle",
       "summary": "Der BVB gewinnt 1:0 in Gladbach und übernimmt Platz eins. Dem starken Torhüter Daniel Batz unterläuft der entscheidende Fehler und Felix Nmecha trifft erneut.",
@@ -3796,24 +4220,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a54f72a309ae",
-      "title": "Ireland beat world champions South Africa in thriller",
-      "summary": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next weekend's Nations Championship final.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 21 Nov 2026 18:46:29 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss",
-          "summary": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next weekend's Nations Championship final."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "292e7f9d3e14",
       "title": "BlueDot Meetings Announces Business Continuity Initiative - The Des Moines Register",
       "summary": "BlueDot Meetings Announces Business Continuity Initiative The Des Moines Register",
@@ -3827,24 +4233,6 @@
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWZwT1FSRGFjOTJPa0pNUUZlSHI0aXlVNmQ3SDdJemE2Nzh3eVpteWFpSERYS0w3QkdvNUZHa05hdFM2ZVNtelhnN2xVTy1WNU44YlFKWWwzdk5uT1pLR2FoSTNSZTJDVktxRkNtRUlCRHZrMHlHaVExQ2ZNLU5SNmR2YjBHa2pEdlhEZ3ZreWVkM3ZadDBWSk5JTXFHUEUwcXVwc3BiS1doNXh0SndZTndPVERuN3FoZ1Q4?oc=5",
           "summary": "BlueDot Meetings Announces Business Continuity Initiative The Des Moines Register"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "76ead4935cef",
-      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
-      "summary": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 18:34:55 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium."
         }
       ],
       "sourcesCount": 1
@@ -3994,45 +4382,9 @@
       "sourcesCount": 1
     },
     {
-      "id": "93f1fcd93551",
-      "title": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
-      "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 17:44:20 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "02aba33d2ed2",
-      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
-      "summary": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 17:42:14 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
-          "summary": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "9aabc968c87e",
-      "title": "„Heilung ist eine Reise“: Prinzessin Kate gibt in Doku Einblick in Umgang mit Krebs",
-      "summary": "In einer BBC-Dokumentation spricht Prinzessin Kate offen über die Folgen ihrer Krebsdiagnose und zeigt sich bei einer besonderen Herausforderung. Dabei wird es auch emotional.",
+      "title": "„Heilung ist eine Reise“: Prinzessin Catherine gibt in Doku Einblick in Umgang mit Krebs",
+      "summary": "In einer BBC-Dokumentation spricht Prinzessin Catherine offen über die Folgen ihrer Krebsdiagnose und zeigt sich bei einer besonderen Herausforderung. Dabei wird es auch emotional.",
       "link": "https://www.faz.net/aktuell/gesellschaft/menschen/bbc-doku-prinzessin-kate-gibt-einblick-in-umgang-mit-krebs-201705230.html",
       "sourceName": "FAZ",
       "region": "international",
@@ -4042,7 +4394,7 @@
         {
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/gesellschaft/menschen/bbc-doku-prinzessin-kate-gibt-einblick-in-umgang-mit-krebs-201705230.html",
-          "summary": "In einer BBC-Dokumentation spricht Prinzessin Kate offen über die Folgen ihrer Krebsdiagnose und zeigt sich bei einer besonderen Herausforderung. Dabei wird es auch emotional."
+          "summary": "In einer BBC-Dokumentation spricht Prinzessin Catherine offen über die Folgen ihrer Krebsdiagnose und zeigt sich bei einer besonderen Herausforderung. Dabei wird es auch emotional."
         }
       ],
       "sourcesCount": 1
@@ -4061,24 +4413,6 @@
           "sourceName": "TRT Haber Türkei",
           "link": "https://www.trthaber.com/haber/turkiye/geri-manevra-yapan-surucunun-carptigi-cocuk-oldu-964077.html",
           "summary": "Burdur'un Çavdır ilçesinde sürücüsünün geri manevra yaptığı aracın çarptığı 2 yaşındaki çocuk hayatını kaybetti. Olayın ardından kaçan sürücünün yakalanması için çalışma başlatıldı."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "a83a97e04983",
-      "title": "Alcaraz battles back against Shelton to reach final",
-      "summary": "Carlos Alcaraz will have the chance to end his wait for a first ATP Finals title after completing a superb comeback victory over Ben Shelton.",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 17:36:28 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Carlos Alcaraz will have the chance to end his wait for a first ATP Finals title after completing a superb comeback victory over Ben Shelton."
         }
       ],
       "sourcesCount": 1
@@ -4169,42 +4503,6 @@
           "sourceName": "Tagesschau Sport",
           "link": "https://www.sportschau.de/regional/wdr/wdr-duesseldorf-beendet-sieglos-serie-in-der-3-liga-100.html",
           "summary": "Fortuna Düsseldorf hat den ersten Drittliga-Sieg unter dem neuen Trainer Jens Langeneke gefeiert."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "1efb66b56a69",
-      "title": "California Nvidia Probe Covers Potential Criminal Law Violations - Bloomberg.com",
-      "summary": "California Nvidia Probe Covers Potential Criminal Law Violations Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZKSUpVM0xWNVRuM3B0RjhyOTM0NUNoRmNYVnVKYm50andhaTFJVHZLenZrckE1aFZuMGhiSW42Mlh5c2lZcGc5eTg1NDQwWVRFQWxSOGtzWHk2S2pGLVpvM3N2enh4Mms5OTF0MHFXc0JnN3ZoYlB3ODJqX3FoSjJCTWlPOHQ2SjNOQ1Q3cjVNR0NWRVYxWVFEanpwZC1mSW5SeGpXSDRqX1d0TUVwdE1vYVJWUQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "local",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 17:11:23 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZKSUpVM0xWNVRuM3B0RjhyOTM0NUNoRmNYVnVKYm50andhaTFJVHZLenZrckE1aFZuMGhiSW42Mlh5c2lZcGc5eTg1NDQwWVRFQWxSOGtzWHk2S2pGLVpvM3N2enh4Mms5OTF0MHFXc0JnN3ZoYlB3ODJqX3FoSjJCTWlPOHQ2SjNOQ1Q3cjVNR0NWRVYxWVFEanpwZC1mSW5SeGpXSDRqX1d0TUVwdE1vYVJWUQ?oc=5",
-          "summary": "California Nvidia Probe Covers Potential Criminal Law Violations Bloomberg.com"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "015437312c6c",
-      "title": "Bum-Bum-Sascha: Tennis spielt Zverev nur zehn Minuten",
-      "summary": "Haudraufs wie Alexander Zverev dominieren auch bei den ATP Finals mit ihren Aufschlägen. Das frustriert Gegner und Zuschauer.",
-      "link": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-und-das-problem-mit-den-aufschlaegen-im-tennis-201701389.html",
-      "sourceName": "FAZ",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 21 Nov 2026 17:11:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-und-das-problem-mit-den-aufschlaegen-im-tennis-201701389.html",
-          "summary": "Haudraufs wie Alexander Zverev dominieren auch bei den ATP Finals mit ihren Aufschlägen. Das frustriert Gegner und Zuschauer."
         }
       ],
       "sourcesCount": 1
@@ -4408,24 +4706,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "45201d2fd35b",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC World",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 16:35:15 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-          "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "4e8bac1728d8",
       "title": "TSG Hoffenheim II schießt Preußen Münster ab",
       "summary": "Am 14. Spieltag der 3.",
@@ -4475,24 +4755,6 @@
           "sourceName": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo?at_medium=RSS&at_campaign=rss",
           "summary": "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bf2bb52767bf",
-      "title": "McConnell shines as 11-try Scotland dismantle Japan",
-      "summary": "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield.",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 21 Nov 2026 16:23:11 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
-          "summary": "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield."
         }
       ],
       "sourcesCount": 1
@@ -4624,6 +4886,24 @@
       "sourcesCount": 1
     },
     {
+      "id": "d7d99d36c14f",
+      "title": "How Jensen Huang Made Humiliation Routine at Nvidia - The New York Times",
+      "summary": "How Jensen Huang Made Humiliation Routine at Nvidia The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
+      "sourceName": "Google News – International Technology",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 15:55:00 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – International Technology",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
+          "summary": "How Jensen Huang Made Humiliation Routine at Nvidia The New York Times"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
       "id": "fce3c1983109",
       "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
       "summary": "Hoeneß und Rummenigge tragen den Fall Jamal Musiala in die Öffentlichkeit. Präsident Hainer verteidigt ihr Vorgehen bei der Jahreshauptversammlung gegen Kritik.",
@@ -4678,24 +4958,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "a8ef1c5b0257",
-      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
-      "summary": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 15:34:35 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
-          "summary": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "044bf063193b",
       "title": "Antalya'da trafik kısıtlamaları sona erdi",
       "summary": "Antalya'da Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Expo Bulvarı'nda uygulanan trafik kısıtlamaları sona erdi.",
@@ -4732,24 +4994,6 @@
       "sourcesCount": 1
     },
     {
-      "id": "6472f17a84c4",
-      "title": "Trump Fires White House Cybersecurity Chief Following Widespread Technology Outages Across U.S. - The Maine Wire",
-      "summary": "Trump Fires White House Cybersecurity Chief Following Widespread Technology Outages Across U.S. The Maine Wire",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTlljVmtKRFRRYW50enUtMTRQRmJYc2wwdnh5c205ZXc3ZThwWGRyMndidmVFcDBzNzhqd0s5WWUySHhielpENTVoY3JYV2pLU19MZVRFUFJ0ZkpZcHlkR2g3bDhYbHB6OWlwdlhqeklrcXdWRXoxb3BBa1FEMkwwOU9faVo2eU85c2hQdlhST0dXX0NjUThKWFBmSGJweTU0MWNuaFZldjVmUV9odXJCemVHclNmSFdpcEF1YXIyMjZyQlhSdUx5RFFPZ0o?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 15:06:40 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTlljVmtKRFRRYW50enUtMTRQRmJYc2wwdnh5c205ZXc3ZThwWGRyMndidmVFcDBzNzhqd0s5WWUySHhielpENTVoY3JYV2pLU19MZVRFUFJ0ZkpZcHlkR2g3bDhYbHB6OWlwdlhqeklrcXdWRXoxb3BBa1FEMkwwOU9faVo2eU85c2hQdlhST0dXX0NjUThKWFBmSGJweTU0MWNuaFZldjVmUV9odXJCemVHclNmSFdpcEF1YXIyMjZyQlhSdUx5RFFPZ0o?oc=5",
-          "summary": "Trump Fires White House Cybersecurity Chief Following Widespread Technology Outages Across U.S. The Maine Wire"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
       "id": "ceef5500c377",
       "title": "Anadolu Otoyolu'nda zincirleme kaza: Çok sayıda yaralı var",
       "summary": "Anadolu Otoyolu Sakarya geçişinde zincirleme trafik kazası meydana geldi. Çok sayıda aracın karıştığı ve 14 yaralının olduğu kaza nedeniyle otoyolun Ankara istikametinde ulaşım kontrollü sağlanıyor.",
@@ -4781,24 +5025,6 @@
           "sourceName": "FAZ",
           "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/philosoph-dieter-mersch-warum-ki-niemals-bewusstsein-entwickeln-wird-accg-201634477.html",
           "summary": "Können Computer Bewusstsein erlangen? Der Philosoph Dieter Mersch geht der Mathematik von Künstlicher Intelligenz auf den Grund."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "b89d72f3bfd7",
-      "title": "Arista Networks vs. Axon Enterprise: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
-      "summary": "Arista Networks vs. Axon Enterprise: Which Technology Stock Is a Better Buy for 2027?",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaU1FR0ZORG5henphXzItNF94STRwOGR3Q3I3ZklYRTVlUnoxR0dCNE55R0NnMnFmR1paZ0djVDhoYUlza29NNkYzZnJjSHk0Rm1zMXdlNmFpSHlnaTJ0U0FZX3UyTXlLSm00SU45cjdRNWwzVU9JWDNPeWl4VDQ3YTVZdEI4N3ZIaUk5Rmx1UHl6QXQ0c2VETDhFckxlUUVETU40a2tlRVdjUmt6ZzVKZXNFRkh1QUlrZnQ0VUZCZ3ZadURPem9YTHJKblo5ZWZv?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 15:01:39 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaU1FR0ZORG5henphXzItNF94STRwOGR3Q3I3ZklYRTVlUnoxR0dCNE55R0NnMnFmR1paZ0djVDhoYUlza29NNkYzZnJjSHk0Rm1zMXdlNmFpSHlnaTJ0U0FZX3UyTXlLSm00SU45cjdRNWwzVU9JWDNPeWl4VDQ3YTVZdEI4N3ZIaUk5Rmx1UHl6QXQ0c2VETDhFckxlUUVETU40a2tlRVdjUmt6ZzVKZXNFRkh1QUlrZnQ0VUZCZ3ZadURPem9YTHJKblo5ZWZv?oc=5",
-          "summary": "Arista Networks vs. Axon Enterprise: Which Technology Stock Is a Better Buy for 2027?"
         }
       ],
       "sourcesCount": 1
@@ -4871,24 +5097,6 @@
           "sourceName": "TRT Haber Welt",
           "link": "https://www.trthaber.com/haber/dunya/dunyanin-gecici-yeni-bir-mini-uydusu-oldu-964066.html",
           "summary": "Bilim insanları, Dünya'nın yer çekimine kapılan yaklaşık iki metre çapındaki küçük bir asteroidin nisan ayından bu yana gezegenimizin etrafında döndüğünü doğruladı. \"2026 QQ8\" adı verilen geçici uydunun, aralık ayı başında Dünya'nın etki alanından çıkarak Güneş etrafındaki yörüngesine döneceği belirtildi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "5f9eee6067c0",
-      "title": "Democrats won big in the midterms. So now what? - Reuters",
-      "summary": "Democrats won big in the midterms. So now what?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnE0d0FZemxNMWZJX21aTjIxTVZwc3ZQaHlac3pnUFBKS010UEc2bXluckswdTJwa2hlY3N1Qzc4aGVGejB1NVJMOFFKQnVYYWppY2NiLUpkdG9reWJEdU50V2t5eWxKVmpjMzI4SWFxbi1rSDhPRG9UUmNqM3JGczBlTlZnSW1ORnZDYXI1dTdVOXg0c3c?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 14:23:43 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnE0d0FZemxNMWZJX21aTjIxTVZwc3ZQaHlac3pnUFBKS010UEc2bXluckswdTJwa2hlY3N1Qzc4aGVGejB1NVJMOFFKQnVYYWppY2NiLUpkdG9reWJEdU50V2t5eWxKVmpjMzI4SWFxbi1rSDhPRG9UUmNqM3JGczBlTlZnSW1ORnZDYXI1dTdVOXg0c3c?oc=5",
-          "summary": "Democrats won big in the midterms. So now what?"
         }
       ],
       "sourcesCount": 1
@@ -5164,15 +5372,38 @@
       "sourcesCount": 1
     },
     {
-      "id": "61479f64a710",
-      "title": "185,981 International Business Machines Corporation $IBM Shares Sold by State Street Corp - MarketBeat",
-      "summary": "185,981 International Business Machines Corporation $IBM Shares Sold by State Street Corp MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWTZFZGU0ZXlCeGx1dlVHV1Y2aDdPSlVTazdjVnRpV2RqNE1ibXBCUkxOY0JJem9kN1lVVDR4VlcwOEViUE4yUW1vVDFmOW9BU1Nmdzd4aTU4WUJmaG9VSDRPS29UMUhaT1dVVFJ6ZXc3UzI0R2ZXSWI1a21WZDhhSDZVbk03RUdKVEt6Tk14a0tTU1RyMmxvNUgxbzdfQkhxVnV5ZHUtVXRLdk43bjJJR2ptTXZkNjBlc1BteXJGcDN2OUQ5TWMzYXFRdnpaNm1UakNxTTE4dFkwSmxMSVFtODB3?oc=5",
+      "id": "f97dc8f9e332",
+      "title": "Kate, Britain's Princess of Wales, to feature in documentary about cancer recovery - Reuters",
+      "summary": "Kate, Britain's Princess of Wales, to feature in documentary about cancer recovery Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdE5pNnVYdm1rZWdzUUQ5SmZGRUhVU2lQaWZoLXgyU3c2YV92bVdLcHU0elhJamUtdl9MMVJkd1FVNUY3UEp4WjcxRlJPWVMtY0hydG84UTBXNXB2LXIyTmlXa0N3QV9PS1ZIZWIzQlZmbEZLeExKcXBpUEtpUUVkbW1wRGJlS2NaS29xNTc0bUhhMEFnTTdfb2JRaW81ZENHSno5bm1NTlVrZm5HSDlHdFBLOUlhSDBUU0VwUHZqbFd4NG5CX0FaM0ZoMXg5cXpUTXl1RFFGWXBDZw?oc=5",
+      "sourceName": "Google News – Reuters",
+      "region": "international",
+      "topic": "technologie",
+      "time": "Sat, 21 Nov 2026 13:26:54 GMT",
+      "coverage": [
+        {
+          "sourceName": "Google News – Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdE5pNnVYdm1rZWdzUUQ5SmZGRUhVU2lQaWZoLXgyU3c2YV92bVdLcHU0elhJamUtdl9MMVJkd1FVNUY3UEp4WjcxRlJPWVMtY0hydG84UTBXNXB2LXIyTmlXa0N3QV9PS1ZIZWIzQlZmbEZLeExKcXBpUEtpUUVkbW1wRGJlS2NaS29xNTc0bUhhMEFnTTdfb2JRaW81ZENHSno5bm1NTlVrZm5HSDlHdFBLOUlhSDBUU0VwUHZqbFd4NG5CX0FaM0ZoMXg5cXpUTXl1RFFGWXBDZw?oc=5",
+          "summary": "Kate, Britain's Princess of Wales, to feature in documentary about cancer recovery Reuters"
+        }
+      ],
+      "sourcesCount": 1
+    },
+    {
+      "id": "4d1c1b03c587",
+      "title": "International Business Machines Corporation $IBM Stock: Ilmarinen Mutual Pension Insurance Co Lowers Holdings - MarketBeat",
+      "summary": "International Business Machines Corporation $IBM Stock: Ilmarinen Mutual Pension Insurance Co Lowers Holdings MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0Rmb2FBT1NEUkZjY3V0amFwWUdkWl85amx2ZXQ3T0dZRmdkQ0dabl96TmlLWHhQdkVnakdVZkQzZXNuNnVibm50Q2h1RGlxaUNXa0tUc3BOUTV2SWE3bE9BXzhpa1gxaTJLSC1McE5zaVZOSFBnTkYyNWJndEVCVmFtbFUyLU82aVU0NUVXY3JXRG92c2RIYkV4VTNZYnU2TUtxcERCa0EwX3NUNFl0dmpyWmt0WFg0UjlCM3pwRnZtb2NBUS0wTnUyeWJMVWpOZHVzRVVhUTc3VDV0S1VqWTAxU2Z5WnR5XzJiSDZTUE8tQ18tWTk0QWtEcUc?oc=5",
       "sourceName": "Google News – International Business",
       "region": "international",
       "topic": "wirtschaft",
-      "time": "Sat, 21 Nov 2026 13:36:30 GMT",
+      "time": "Sat, 21 Nov 2026 13:22:27 GMT",
       "coverage": [
+        {
+          "sourceName": "Google News – International Business",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0Rmb2FBT1NEUkZjY3V0amFwWUdkWl85amx2ZXQ3T0dZRmdkQ0dabl96TmlLWHhQdkVnakdVZkQzZXNuNnVibm50Q2h1RGlxaUNXa0tUc3BOUTV2SWE3bE9BXzhpa1gxaTJLSC1McE5zaVZOSFBnTkYyNWJndEVCVmFtbFUyLU82aVU0NUVXY3JXRG92c2RIYkV4VTNZYnU2TUtxcERCa0EwX3NUNFl0dmpyWmt0WFg0UjlCM3pwRnZtb2NBUS0wTnUyeWJMVWpOZHVzRVVhUTc3VDV0S1VqWTAxU2Z5WnR5XzJiSDZTUE8tQ18tWTk0QWtEcUc?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock: Ilmarinen Mutual Pension Insurance Co Lowers Holdings MarketBeat"
+        },
         {
           "sourceName": "Google News – International Business",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWTZFZGU0ZXlCeGx1dlVHV1Y2aDdPSlVTazdjVnRpV2RqNE1ibXBCUkxOY0JJem9kN1lVVDR4VlcwOEViUE4yUW1vVDFmOW9BU1Nmdzd4aTU4WUJmaG9VSDRPS29UMUhaT1dVVFJ6ZXc3UzI0R2ZXSWI1a21WZDhhSDZVbk03RUdKVEt6Tk14a0tTU1RyMmxvNUgxbzdfQkhxVnV5ZHUtVXRLdk43bjJJR2ptTXZkNjBlc1BteXJGcDN2OUQ5TWMzYXFRdnpaNm1UakNxTTE4dFkwSmxMSVFtODB3?oc=5",
@@ -5190,29 +5421,11 @@
         },
         {
           "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0Rmb2FBT1NEUkZjY3V0amFwWUdkWl85amx2ZXQ3T0dZRmdkQ0dabl96TmlLWHhQdkVnakdVZkQzZXNuNnVibm50Q2h1RGlxaUNXa0tUc3BOUTV2SWE3bE9BXzhpa1gxaTJLSC1McE5zaVZOSFBnTkYyNWJndEVCVmFtbFUyLU82aVU0NUVXY3JXRG92c2RIYkV4VTNZYnU2TUtxcERCa0EwX3NUNFl0dmpyWmt0WFg0UjlCM3pwRnZtb2NBUS0wTnUyeWJMVWpOZHVzRVVhUTc3VDV0S1VqWTAxU2Z5WnR5XzJiSDZTUE8tQ18tWTk0QWtEcUc?oc=5",
-          "summary": "International Business Machines Corporation $IBM Stock: Ilmarinen Mutual Pension Insurance Co Lowers Holdings MarketBeat"
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVnpwbEx2Sk1oMXM2YmRPeTFxV2pQVkhWMDZ0Wk0zU0pEVl9MbUU2UVpoRk5MS1Z5b0pnTUJRVkJjTVNLTEJvelNPUUNDU3F1eUZ5RmxJVTdTeGlOV2w3U1NjRUp4OFk3TFZxSGJvUHo2ZWRkYXdYeld5c0NMQlNSUkFMMnQxRkJtbGd0bmIzUzF2Y2tRRUM5djVuYUpTeEZ2eU9jS0d0N1I4bHZIUmo3X0xpdzdaWFB3WGFNcHJqdlRSLWwwRVNZV3dFRlpFdGJuN1BuSWVtc2s3aVQzYkc4QXBR?oc=5",
+          "summary": "International Business Machines Corporation $IBM Stock Purchased by Westpac Banking Corp MarketBeat"
         }
       ],
-      "sourcesCount": 4
-    },
-    {
-      "id": "f97dc8f9e332",
-      "title": "Kate, Britain's Princess of Wales, to feature in documentary about cancer recovery - Reuters",
-      "summary": "Kate, Britain's Princess of Wales, to feature in documentary about cancer recovery Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdE5pNnVYdm1rZWdzUUQ5SmZGRUhVU2lQaWZoLXgyU3c2YV92bVdLcHU0elhJamUtdl9MMVJkd1FVNUY3UEp4WjcxRlJPWVMtY0hydG84UTBXNXB2LXIyTmlXa0N3QV9PS1ZIZWIzQlZmbEZLeExKcXBpUEtpUUVkbW1wRGJlS2NaS29xNTc0bUhhMEFnTTdfb2JRaW81ZENHSno5bm1NTlVrZm5HSDlHdFBLOUlhSDBUU0VwUHZqbFd4NG5CX0FaM0ZoMXg5cXpUTXl1RFFGWXBDZw?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 13:26:54 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdE5pNnVYdm1rZWdzUUQ5SmZGRUhVU2lQaWZoLXgyU3c2YV92bVdLcHU0elhJamUtdl9MMVJkd1FVNUY3UEp4WjcxRlJPWVMtY0hydG84UTBXNXB2LXIyTmlXa0N3QV9PS1ZIZWIzQlZmbEZLeExKcXBpUEtpUUVkbW1wRGJlS2NaS29xNTc0bUhhMEFnTTdfb2JRaW81ZENHSno5bm1NTlVrZm5HSDlHdFBLOUlhSDBUU0VwUHZqbFd4NG5CX0FaM0ZoMXg5cXpUTXl1RFFGWXBDZw?oc=5",
-          "summary": "Kate, Britain's Princess of Wales, to feature in documentary about cancer recovery Reuters"
-        }
-      ],
-      "sourcesCount": 1
+      "sourcesCount": 5
     },
     {
       "id": "54805e4f9ab2",
@@ -5251,217 +5464,19 @@
       "sourcesCount": 1
     },
     {
-      "id": "26b2fd123c8e",
-      "title": "Samsun'u sağanak vurdu: Yol çöktü, araçlar çukura düştü",
-      "summary": "Samsun'un İlkadım ilçesinde sağanak nedeniyle çöken yoldaki araçlar zarar gördü.",
-      "link": "https://www.trthaber.com/haber/turkiye/samsunu-saganak-vurdu-yol-coktu-araclar-cukura-dustu-964053.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 13:04:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/samsunu-saganak-vurdu-yol-coktu-araclar-cukura-dustu-964053.html",
-          "summary": "Samsun'un İlkadım ilçesinde sağanak nedeniyle çöken yoldaki araçlar zarar gördü."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "461b888b4956",
-      "title": "England call up McKinney for South Africa Tests",
-      "summary": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 13:00:06 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
-          "summary": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "d7b90ef8a9c2",
-      "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report - Reuters",
-      "summary": "Russia's Wildberries CEO steps down days after EU sanctions, media report Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
-      "sourceName": "Google News – Reuters",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 12:59:16 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
-          "summary": "Russia's Wildberries CEO steps down days after EU sanctions, media report Reuters"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "c55cbd99af6d",
-      "title": "Davis Moves to Leverage 760 Acres of City-Owned Farmland as Agricultural Technology Research Hub - Davis Vanguard",
-      "summary": "Davis Moves to Leverage 760 Acres of City-Owned Farmland as Agricultural Technology Research Hub Davis Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBteU5aSGJydjI5bWM3WmljV2NIOThMSE15Tk9jM1pzVC1XQmJOQTk4VFUwNGJLZGxzQ3o3cm5TSDZXRUdqalA0aDhNZjJYMjBRWHgtVW16M3ZnZVVDXzF1UmVzWDY5ajBsVlNyeEpfRU5mcXRHS1JQbWRQV0M?oc=5",
+      "id": "3767fdc39f65",
+      "title": "International UN talks on controlling use of autonomous weapons collapse | Weapons technology - The Guardian",
+      "summary": "International UN talks on controlling use of autonomous weapons collapse | Weapons technology The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
       "sourceName": "Google News – International Technology",
       "region": "international",
       "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 12:58:09 GMT",
+      "time": "Sat, 21 Nov 2026 13:15:00 GMT",
       "coverage": [
         {
           "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBteU5aSGJydjI5bWM3WmljV2NIOThMSE15Tk9jM1pzVC1XQmJOQTk4VFUwNGJLZGxzQ3o3cm5TSDZXRUdqalA0aDhNZjJYMjBRWHgtVW16M3ZnZVVDXzF1UmVzWDY5ajBsVlNyeEpfRU5mcXRHS1JQbWRQV0M?oc=5",
-          "summary": "Davis Moves to Leverage 760 Acres of City-Owned Farmland as Agricultural Technology Research Hub Davis Vanguard"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "bfd4e6416338",
-      "title": "Pope Leo XIV: 'If technology is not applied ethically, risks for humanity are enormous' - Vatican News",
-      "summary": "Pope Leo XIV: 'If technology is not applied ethically, risks for humanity are enormous' Vatican News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjRsRWNIeHptTVFPdTU1ODlVdGdtZEo5SmRjU1ZCeHhqLVZUSGtMN2dmcEJGTng2QzI1WlYzdjh5QXk3T05iTlQ3RjJEM3ZySGZtU0dkR2IyNWhhME9CUVJ5eEt4a2FvcjdNLWx3ektIYjBfQnpQUjc0Ullsc1NMSmhONlBlSDVla0NicDVtNFNyRDJIU2VvbVZudG82eVhPSk5YU1oyZ3Z3a1hLRlpjM0ZlVQ?oc=5",
-      "sourceName": "Google News – International Technology",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 12:36:17 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Technology",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjRsRWNIeHptTVFPdTU1ODlVdGdtZEo5SmRjU1ZCeHhqLVZUSGtMN2dmcEJGTng2QzI1WlYzdjh5QXk3T05iTlQ3RjJEM3ZySGZtU0dkR2IyNWhhME9CUVJ5eEt4a2FvcjdNLWx3ektIYjBfQnpQUjc0Ullsc1NMSmhONlBlSDVla0NicDVtNFNyRDJIU2VvbVZudG82eVhPSk5YU1oyZ3Z3a1hLRlpjM0ZlVQ?oc=5",
-          "summary": "Pope Leo XIV: 'If technology is not applied ethically, risks for humanity are enormous' Vatican News"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2ac90c1478ef",
-      "title": "Analysts Offer Insights on Technology Companies: Elastic (ESTC), International Business Machines (IBM) and Webull Corporation (BULL) - The Globe and Mail",
-      "summary": "Analysts Offer Insights on Technology Companies: Elastic (ESTC), International Business Machines (IBM) and Webull Corporation (BULL) The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOVVZQRGpvaUtwQ3ZvaDZNY0s0WHYwYzgzSlJyUm9HZXFsYXZxMUFOa3ZTSXFBVjZDM19GaGFONlJIbGstTG05QjEtYmI0TkJNRTJSOTM5cGxHZkw4OEZVMDRsMmpTMGJrNE1DNF9NX1E0bXI4RE5xTEp5V3dZZjhzMkpLcU5pc1Q5bUNJNmVOclI0dC0yUTJrZGloR3Q5YVVLY1VaNG1pRTk2YUVlWVVPdjJnaERMejNtSUJpNENDTHBxOWVjLTh0R1dfSmJ6aHJXenNVbUNMNnVOanN3NEl3Y09YelNpS3hoMWR3ajhyYTRNWGVCN3czSHVzNzdNNGZYb0YxYXN5M3F5bVhSNmtwSWV3aFZNMVRlRTczUm5SQmxjUFYxSEd3T0J5UGZ4T3RNQ3c?oc=5",
-      "sourceName": "Google News – International Business",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 12:36:05 GMT",
-      "coverage": [
-        {
-          "sourceName": "Google News – International Business",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOVVZQRGpvaUtwQ3ZvaDZNY0s0WHYwYzgzSlJyUm9HZXFsYXZxMUFOa3ZTSXFBVjZDM19GaGFONlJIbGstTG05QjEtYmI0TkJNRTJSOTM5cGxHZkw4OEZVMDRsMmpTMGJrNE1DNF9NX1E0bXI4RE5xTEp5V3dZZjhzMkpLcU5pc1Q5bUNJNmVOclI0dC0yUTJrZGloR3Q5YVVLY1VaNG1pRTk2YUVlWVVPdjJnaERMejNtSUJpNENDTHBxOWVjLTh0R1dfSmJ6aHJXenNVbUNMNnVOanN3NEl3Y09YelNpS3hoMWR3ajhyYTRNWGVCN3czSHVzNzdNNGZYb0YxYXN5M3F5bVhSNmtwSWV3aFZNMVRlRTczUm5SQmxjUFYxSEd3T0J5UGZ4T3RNQ3c?oc=5",
-          "summary": "Analysts Offer Insights on Technology Companies: Elastic (ESTC), International Business Machines (IBM) and Webull Corporation (BULL) The Globe and Mail"
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "0efbc996b61b",
-      "title": "Kahvaltı ve akşam yemeği saatleri yaşam süresini etkiliyor",
-      "summary": "Yeni bir bilimsel araştırma, günün ilk ve son öğününü yeme saatlerinin ölüm riski ve yaşam süresiyle doğrudan ilişkili olduğunu ortaya koydu. Kahvaltıyı öğleden sonraya bırakanlar ile gece yarısından sonra yemek yiyenlerde erken ölüm riskinin belirgin şekilde arttığı belirlendi.",
-      "link": "https://www.trthaber.com/haber/dunya/kahvalti-ve-aksam-yemegi-saatleri-yasam-suresini-etkiliyor-964051.html",
-      "sourceName": "TRT Haber Welt",
-      "region": "turkey",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 12:33:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Welt",
-          "link": "https://www.trthaber.com/haber/dunya/kahvalti-ve-aksam-yemegi-saatleri-yasam-suresini-etkiliyor-964051.html",
-          "summary": "Yeni bir bilimsel araştırma, günün ilk ve son öğününü yeme saatlerinin ölüm riski ve yaşam süresiyle doğrudan ilişkili olduğunu ortaya koydu. Kahvaltıyı öğleden sonraya bırakanlar ile gece yarısından sonra yemek yiyenlerde erken ölüm riskinin belirgin şekilde arttığı belirlendi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "dbe43bf215ee",
-      "title": "Australia's Chaudhary downs England in tetchy first T20",
-      "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
-      "sourceName": "BBC Sport",
-      "region": "international",
-      "topic": "sport",
-      "time": "Sat, 21 Nov 2026 12:24:33 GMT",
-      "coverage": [
-        {
-          "sourceName": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
-          "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "e851af80fa0f",
-      "title": "Kayıtlı istihdama 301,3 milyar liralık dev destek",
-      "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, 15 farklı sigorta primi teşviki, destek ve indirimleriyle kayıtlı istihdamı güçlendirdiklerini belirterek, bu yılın ocak-ağustos ayları arasında 301,3 milyar liradan fazla teşvik sağladıklarını bildirdi.",
-      "link": "https://www.trthaber.com/haber/ekonomi/kayitli-istihdama-3013-milyar-liralik-dev-destek-964050.html",
-      "sourceName": "TRT Haber Wirtschaft",
-      "region": "international",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 12:24:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Wirtschaft",
-          "link": "https://www.trthaber.com/haber/ekonomi/kayitli-istihdama-3013-milyar-liralik-dev-destek-964050.html",
-          "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, 15 farklı sigorta primi teşviki, destek ve indirimleriyle kayıtlı istihdamı güçlendirdiklerini belirterek, bu yılın ocak-ağustos ayları arasında 301,3 milyar liradan fazla teşvik sağladıklarını bildirdi."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "19b19ffe8f02",
-      "title": "BVB und Rheinmetall: Watzke und das Rheinmetall-Gaslighting",
-      "summary": "Der BVB verlängert den Sponsorenvertrag mit Rheinmetall nicht. Dessen Vorstandsvorsitzender sagt, nur so würden Diskursräume geöffnet.",
-      "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-dortmund-hans-joachim-watzke-und-das-rheinmetall-gaslighting-201701633.html",
-      "sourceName": "FAZ",
-      "region": "germany",
-      "topic": "technologie",
-      "time": "Sat, 21 Nov 2026 12:04:33 GMT",
-      "coverage": [
-        {
-          "sourceName": "FAZ",
-          "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-dortmund-hans-joachim-watzke-und-das-rheinmetall-gaslighting-201701633.html",
-          "summary": "Der BVB verlängert den Sponsorenvertrag mit Rheinmetall nicht. Dessen Vorstandsvorsitzender sagt, nur so würden Diskursräume geöffnet."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "8ea7a878df38",
-      "title": "So klingt die Geburt von Sternen",
-      "summary": "Sterne nicht nur sehen, sondern auch hören: Die Nasa verwandelt Teleskop-Aufnahmen junger Sterne mithilfe dem Prozess der \"Sonifikation\" in faszinierende Klänge.",
-      "link": "https://www.zdfheute.de/panorama/panorama-nasa-sterne-100.html",
-      "sourceName": "ZDF",
-      "region": "germany",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 12:00:00 +0100",
-      "coverage": [
-        {
-          "sourceName": "ZDF",
-          "link": "https://www.zdfheute.de/panorama/panorama-nasa-sterne-100.html",
-          "summary": "Sterne nicht nur sehen, sondern auch hören: Die Nasa verwandelt Teleskop-Aufnahmen junger Sterne mithilfe dem Prozess der \"Sonifikation\" in faszinierende Klänge."
-        }
-      ],
-      "sourcesCount": 1
-    },
-    {
-      "id": "2c142d36b746",
-      "title": "Bakan Uraloğlu: Bursa'yı yüksek hızlı tren ağıyla buluşturacağız",
-      "summary": "Bandırma–Bursa–Yenişehir–Osmaneli Hızlı Tren Projesi'nde Bursa'yı hızlı tren ağına bağlayacak Osmaneli–Bursa kesiminde altyapı ve üstyapı çalışmaları tamamlandı. Söz konusu kesimde test süreci başladı.",
-      "link": "https://www.trthaber.com/haber/turkiye/bakan-uraloglu-bursayi-yuksek-hizli-tren-agiyla-bulusturacagiz-964046.html",
-      "sourceName": "TRT Haber Türkei",
-      "region": "international",
-      "topic": "politik",
-      "time": "Sat, 21 Nov 2026 11:50:00 +0300",
-      "coverage": [
-        {
-          "sourceName": "TRT Haber Türkei",
-          "link": "https://www.trthaber.com/haber/turkiye/bakan-uraloglu-bursayi-yuksek-hizli-tren-agiyla-bulusturacagiz-964046.html",
-          "summary": "Bandırma–Bursa–Yenişehir–Osmaneli Hızlı Tren Projesi'nde Bursa'yı hızlı tren ağına bağlayacak Osmaneli–Bursa kesiminde altyapı ve üstyapı çalışmaları tamamlandı. Söz konusu kesimde test süreci başladı."
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
+          "summary": "International UN talks on controlling use of autonomous weapons collapse | Weapons technology The Guardian"
         }
       ],
       "sourcesCount": 1
